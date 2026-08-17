@@ -207,6 +207,75 @@ class TimetableStore(daoProvider: () -> TimetableDao) {
         return id
     }
 
+    // --- editing a stored week ---
+
+    /**
+     * Adds a slot, or rewrites one that already exists.
+     *
+     * The calendar row is **not** written here. It is the caller's job, because whether the
+     * user's calendar should change is a question about permissions and consent that this
+     * class has no business answering — and a store that silently reaches into the calendar
+     * is exactly the kind of hidden write this codebase avoids everywhere else.
+     */
+    suspend fun putSlot(slot: TimetableSlotEntity) {
+        dao.upsertSlots(listOf(slot))
+        touch(slot.timetableId)
+    }
+
+    suspend fun deleteSlot(slot: TimetableSlotEntity) {
+        dao.deleteSlot(slot.id)
+        touch(slot.timetableId)
+    }
+
+    /**
+     * Copies a slot onto other weekdays.
+     *
+     * The common case by a distance: a lab that runs Tuesday and Thursday is one slot the
+     * user should enter once. Each copy gets its own id and its own provenance, so they can
+     * be edited and removed independently afterwards.
+     */
+    suspend fun duplicateSlot(
+        slot: TimetableSlotEntity,
+        toWeekdays: Set<Int>,
+    ): List<TimetableSlotEntity> {
+        val copies = toWeekdays
+            .filter { it != slot.weekday }
+            .map { weekday ->
+                val entryId = "${slot.entryId}-w$weekday"
+                slot.copy(
+                    id = "${slot.timetableId}-$entryId",
+                    entryId = entryId,
+                    weekday = weekday,
+                    // A copy has not been written to the calendar yet. Inheriting the
+                    // original's provenance would make one row the target of two slots, and
+                    // editing either would silently move the other.
+                    customAppUri = null,
+                )
+            }
+        if (copies.isNotEmpty()) {
+            dao.upsertSlots(copies)
+            touch(slot.timetableId)
+        }
+        return copies
+    }
+
+    /** Renames a timetable. Purely a label — see [TimetableEntity.label]. */
+    suspend fun rename(timetableId: String, label: String) {
+        val existing = dao.byId(timetableId) ?: return
+        val clean = label.trim().ifBlank { return }
+        dao.upsert(existing.copy(label = clean, updatedAt = System.currentTimeMillis()))
+    }
+
+    suspend fun slotsNow(timetableId: String): List<TimetableSlotEntity> = dao.slotsNow(timetableId)
+
+    suspend fun byId(timetableId: String): TimetableEntity? = dao.byId(timetableId)
+
+    private suspend fun touch(timetableId: String) {
+        dao.byId(timetableId)?.let {
+            dao.upsert(it.copy(updatedAt = System.currentTimeMillis()))
+        }
+    }
+
     /**
      * Puts a timetable back as it was before the last destructive change.
      *

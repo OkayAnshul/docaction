@@ -190,6 +190,9 @@ interface TimetableDao {
     @Query("DELETE FROM timetable_slots WHERE timetableId = :timetableId")
     suspend fun deleteSlots(timetableId: String): Int
 
+    @Query("DELETE FROM timetable_slots WHERE id = :slotId")
+    suspend fun deleteSlot(slotId: String): Int
+
     @Query("DELETE FROM timetables WHERE id = :timetableId")
     suspend fun delete(timetableId: String): Int
 

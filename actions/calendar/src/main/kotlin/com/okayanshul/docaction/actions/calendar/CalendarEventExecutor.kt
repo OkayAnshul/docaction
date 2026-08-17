@@ -239,6 +239,73 @@ class CalendarEventExecutor(
         )
     }
 
+    /**
+     * Rewrites the single calendar row a timetable slot created.
+     *
+     * Editing a slot in the weekly view has to reach the calendar, or the app shows one thing
+     * and the user's phone tells them another all term. The row is found by its exact
+     * provenance URI — not a prefix, not a time range — so an edit can only ever touch the
+     * one event this app wrote for this slot.
+     *
+     * @return how many rows changed. Zero means the user deleted the event in their calendar
+     *   app, which is their prerogative and is reported rather than repaired.
+     */
+    suspend fun updateByProvenance(
+        provenanceUri: String,
+        candidate: CalendarEventCandidate,
+        calendarId: Long,
+    ): Outcome<Int> {
+        if (!targets.canWrite()) return Outcome.Failure(FailureReason.ProcessingUnavailable)
+
+        // contentFor, not valuesFor: the provenance columns are left exactly as they are, so
+        // an edited event is still the one this import created and undo can still find it.
+        val values = contentFor(candidate, calendarId).apply {
+            // A timed event that used to recur, or vice versa, would otherwise keep the
+            // column it no longer wants and the provider would reject the row.
+            if (candidate.recurrence == null) {
+                putNull(CalendarContract.Events.RRULE)
+                putNull(CalendarContract.Events.DURATION)
+            } else {
+                putNull(CalendarContract.Events.DTEND)
+            }
+        }
+
+        return runCatching {
+            context.contentResolver.update(
+                CalendarContract.Events.CONTENT_URI,
+                values,
+                "${CalendarContract.Events.CUSTOM_APP_PACKAGE} = ? AND " +
+                    "${CalendarContract.Events.CUSTOM_APP_URI} = ?",
+                arrayOf(PACKAGE, provenanceUri),
+            )
+        }.fold(
+            onSuccess = { Outcome.Success(it) },
+            onFailure = { Outcome.Failure(FailureReason.ProcessingUnavailable) },
+        )
+    }
+
+    /**
+     * Removes the single calendar row a timetable slot created.
+     *
+     * Same rule as [revert]: identified by provenance, so deleting a slot can never take an
+     * event the user made themselves with it.
+     */
+    suspend fun deleteByProvenance(provenanceUri: String): Outcome<Int> {
+        if (!targets.canWrite()) return Outcome.Failure(FailureReason.ProcessingUnavailable)
+
+        return runCatching {
+            context.contentResolver.delete(
+                CalendarContract.Events.CONTENT_URI,
+                "${CalendarContract.Events.CUSTOM_APP_PACKAGE} = ? AND " +
+                    "${CalendarContract.Events.CUSTOM_APP_URI} = ?",
+                arrayOf(PACKAGE, provenanceUri),
+            )
+        }.fold(
+            onSuccess = { Outcome.Success(it) },
+            onFailure = { Outcome.Failure(FailureReason.ProcessingUnavailable) },
+        )
+    }
+
     private fun countWritten(importId: ImportId): Int =
         context.contentResolver.query(
             CalendarContract.Events.CONTENT_URI,
@@ -254,6 +321,23 @@ class CalendarEventExecutor(
         candidate: CalendarEventCandidate,
         calendarId: Long,
         importId: ImportId,
+    ) = contentFor(candidate, calendarId).apply {
+        // Provenance — app-writable columns, verified in CalendarContract (ADR-006).
+        put(CalendarContract.Events.CUSTOM_APP_PACKAGE, PACKAGE)
+        put(CalendarContract.Events.CUSTOM_APP_URI, provenanceUri(importId, candidate))
+        put(CalendarContract.Events.UID_2445, UUID.randomUUID().toString())
+    }
+
+    /**
+     * Everything about an event except who created it.
+     *
+     * Separate from its provenance because an update must rewrite the first and must never
+     * touch the second: an edited event is still the one this import created, and undo has to
+     * keep being able to find it.
+     */
+    private fun contentFor(
+        candidate: CalendarEventCandidate,
+        calendarId: Long,
     ) = ContentValues().apply {
         put(CalendarContract.Events.CALENDAR_ID, calendarId)
         put(CalendarContract.Events.TITLE, candidate.title)
@@ -295,11 +379,6 @@ class CalendarEventExecutor(
                 }
             }
         }
-
-        // Provenance — app-writable columns, verified in CalendarContract (ADR-006).
-        put(CalendarContract.Events.CUSTOM_APP_PACKAGE, PACKAGE)
-        put(CalendarContract.Events.CUSTOM_APP_URI, provenanceUri(importId, candidate))
-        put(CalendarContract.Events.UID_2445, UUID.randomUUID().toString())
 
         // When DocAction owns notifications, the calendar row must carry none of its own.
         put(

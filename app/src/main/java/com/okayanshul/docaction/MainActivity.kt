@@ -21,7 +21,7 @@ import com.okayanshul.docaction.core.designsystem.DocActionTheme
 import com.okayanshul.docaction.imports.ImportViewModel
 import com.okayanshul.docaction.imports.ui.ImportFlow
 import com.okayanshul.docaction.timetable.TimetableViewModel
-import com.okayanshul.docaction.timetable.ui.TimetableScreen
+import com.okayanshul.docaction.timetable.ui.TimetableWeek
 
 /**
  * The single activity, and the app's two front doors.
@@ -58,11 +58,11 @@ class MainActivity : ComponentActivity() {
 
                     if (showingTimetable) {
                         BackHandler { showingTimetable = false }
-                        TimetableScreen(
+                        TimetableWeek(
+                            viewModel = timetableViewModel,
                             label = label ?: "My Timetable",
                             slots = slots,
-                            onImport = { showingTimetable = false },
-                            onBack = { showingTimetable = false },
+                            onLeave = { showingTimetable = false },
                             modifier = Modifier.padding(insets),
                         )
                     } else {

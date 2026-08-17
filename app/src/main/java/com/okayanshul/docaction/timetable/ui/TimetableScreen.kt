@@ -1,6 +1,7 @@
 package com.okayanshul.docaction.timetable.ui
 
 import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -13,12 +14,18 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.pager.HorizontalPager
 import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.FilterChip
+import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.semantics.heading
@@ -42,8 +49,9 @@ import kotlinx.coroutines.launch
  * this shows one day filling the screen and a strip to move between them. It opens on today,
  * because the question someone actually has when they open this is "what do I have now".
  *
- * Read-only for the moment. Editing a slot has to write through to the calendar rows it
- * created, and that is a change to the write path rather than to this screen.
+ * Editable, as of the slot write-through in the calendar executor. A weekly view you cannot
+ * correct is a picture of a timetable rather than a timetable: a room change meant
+ * re-importing the whole document, and a class the engine missed could never be added at all.
  */
 @Composable
 fun TimetableScreen(
@@ -51,19 +59,29 @@ fun TimetableScreen(
     slots: List<TimetableSlotEntity>,
     onImport: () -> Unit,
     onBack: () -> Unit,
+    onEditSlot: (TimetableSlotEntity) -> Unit = {},
+    onAddSlot: () -> Unit = {},
+    onRename: ((String) -> Unit)? = null,
     today: DayOfWeek = LocalDate.now().dayOfWeek,
     modifier: Modifier = Modifier,
 ) {
     if (slots.isEmpty()) {
         Column(modifier = modifier.fillMaxSize()) {
-            Header(label, onBack)
+            Header(label, onBack, onRename)
             EmptyState(
-                headline = "No timetable yet",
-                body = "Import a weekly timetable and choose \"Keep this as my timetable\" " +
-                    "to see your week here.",
+                headline = "Nothing in your week yet",
+                body = "Import a weekly timetable, or build one a class at a time.",
                 actionLabel = "Import a document",
                 onAction = onImport,
             )
+            TextButton(
+                onClick = onAddSlot,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .sizeIn(minHeight = MinTouchTarget),
+            ) {
+                Text("Add a class yourself", style = DocAction.type.label)
+            }
         }
         return
     }
@@ -76,7 +94,7 @@ fun TimetableScreen(
     val scope = rememberCoroutineScope()
 
     Column(modifier = modifier.fillMaxSize()) {
-        Header(label, onBack)
+        Header(label, onBack, onRename)
 
         Row(
             modifier = Modifier
@@ -108,14 +126,28 @@ fun TimetableScreen(
                             .semantics { heading() },
                     )
                 }
-                items(onThisDay, key = { it.id }) { slot -> SlotRow(slot) }
+                items(onThisDay, key = { it.id }) { slot ->
+                    SlotRow(slot) { onEditSlot(slot) }
+                }
+
+                item(key = "add") {
+                    TextButton(
+                        onClick = onAddSlot,
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(bottom = DocAction.space.section)
+                            .sizeIn(minHeight = MinTouchTarget),
+                    ) {
+                        Text("Add a class", style = DocAction.type.label)
+                    }
+                }
             }
         }
     }
 }
 
 @Composable
-private fun SlotRow(slot: TimetableSlotEntity) {
+private fun SlotRow(slot: TimetableSlotEntity, onClick: () -> Unit) {
     val time = DateTimeFormatter.ofLocalizedTime(FormatStyle.SHORT)
 
     Row(
@@ -126,7 +158,9 @@ private fun SlotRow(slot: TimetableSlotEntity) {
                 MaterialTheme.colorScheme.surfaceVariant,
                 RoundedCornerShape(DocAction.radius.md),
             )
-            .padding(DocAction.space.default),
+            .clickable(onClick = onClick)
+            .padding(DocAction.space.default)
+            .sizeIn(minHeight = MinTouchTarget),
     ) {
         Column(modifier = Modifier.weight(1f)) {
             Text(
@@ -161,7 +195,9 @@ private fun SlotRow(slot: TimetableSlotEntity) {
 }
 
 @Composable
-private fun Header(label: String, onBack: () -> Unit) {
+private fun Header(label: String, onBack: () -> Unit, onRename: ((String) -> Unit)?) {
+    var renaming by remember { mutableStateOf(false) }
+
     Column(
         modifier = Modifier.padding(
             start = DocAction.space.default,
@@ -176,7 +212,52 @@ private fun Header(label: String, onBack: () -> Unit) {
             text = label,
             style = DocAction.type.title,
             color = MaterialTheme.colorScheme.onSurface,
-            modifier = Modifier.semantics { heading() },
+            modifier = Modifier
+                .semantics { heading() }
+                .then(
+                    if (onRename != null) Modifier.clickable { renaming = true } else Modifier,
+                ),
         )
+        // The name is only ever a label — renaming one never forks or merges anything, which
+        // is why it can be this casual. See TimetableEntity.label.
+        if (onRename != null) {
+            Text(
+                text = "Tap the name to rename",
+                style = DocAction.type.meta,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+        }
     }
+
+    if (renaming && onRename != null) {
+        RenameDialog(label, onDismiss = { renaming = false }) {
+            onRename(it)
+            renaming = false
+        }
+    }
+}
+
+@Composable
+private fun RenameDialog(current: String, onDismiss: () -> Unit, onRename: (String) -> Unit) {
+    var text by remember { mutableStateOf(current) }
+
+    AlertDialog(
+        onDismissRequest = onDismiss,
+        title = { Text("Rename this timetable") },
+        text = {
+            OutlinedTextField(
+                value = text,
+                onValueChange = { text = it },
+                singleLine = true,
+                label = { Text("Name") },
+            )
+        },
+        confirmButton = {
+            TextButton(
+                onClick = { onRename(text) },
+                enabled = text.isNotBlank(),
+            ) { Text("Rename") }
+        },
+        dismissButton = { TextButton(onClick = onDismiss) { Text("Cancel") } },
+    )
 }

@@ -347,6 +347,110 @@ class TimetableStoreTest {
         assertThat(storedTimetables()).isEmpty()
     }
 
+    // --- editing a stored week ---
+
+    @Test
+    fun `a slot can be added to an existing week`(): Unit = runBlocking {
+        val id = seed()
+
+        store.putSlot(
+            com.okayanshul.docaction.core.database.TimetableSlotEntity(
+                id = "$id-new", timetableId = id, entryId = "new",
+                weekday = DayOfWeek.WEDNESDAY.value,
+                startMinute = 14 * 60, endMinute = 15 * 60,
+                title = "Networks", location = "K12",
+                customAppUri = null, endAssumed = false,
+            ),
+        )
+
+        assertThat(titlesOfOnlyTimetable()).containsExactly("Data Structures", "Networks")
+    }
+
+    @Test
+    fun `a slot can be corrected without disturbing the rest`(): Unit = runBlocking {
+        val id = seed()
+        val slot = handle.timetables.slotsNow(id).single()
+
+        store.putSlot(slot.copy(location = "K305", endAssumed = false))
+
+        val after = handle.timetables.slotsNow(id).single()
+        assertThat(after.location).isEqualTo("K305")
+        assertThat(after.id).isEqualTo(slot.id)
+        // Its link to the calendar row survives the edit, or undo could never find it again.
+        assertThat(after.customAppUri).isEqualTo(slot.customAppUri)
+    }
+
+    @Test
+    fun `a slot can be removed`(): Unit = runBlocking {
+        val id = seed()
+        store.deleteSlot(handle.timetables.slotsNow(id).single())
+        assertThat(handle.timetables.slotsNow(id)).isEmpty()
+    }
+
+    @Test
+    fun `duplicating puts a class on other days without touching the original`(): Unit = runBlocking {
+        val id = seed()
+        val slot = handle.timetables.slotsNow(id).single()
+
+        val copies = store.duplicateSlot(
+            slot,
+            setOf(DayOfWeek.WEDNESDAY.value, DayOfWeek.FRIDAY.value),
+        )
+
+        assertThat(copies).hasSize(2)
+        assertThat(handle.timetables.slotsNow(id).map { it.weekday })
+            .containsExactly(
+                DayOfWeek.MONDAY.value, DayOfWeek.WEDNESDAY.value, DayOfWeek.FRIDAY.value,
+            )
+        // Each copy is its own row with its own identity, so editing one cannot move another.
+        assertThat(copies.map { it.id }.distinct()).hasSize(2)
+        assertThat(copies.map { it.id }).doesNotContain(slot.id)
+        // And none of them claims the original's calendar row.
+        assertThat(copies.map { it.customAppUri }).containsExactly(null, null)
+    }
+
+    @Test
+    fun `duplicating onto its own day changes nothing`(): Unit = runBlocking {
+        val id = seed()
+        val slot = handle.timetables.slotsNow(id).single()
+
+        val copies = store.duplicateSlot(slot, setOf(DayOfWeek.MONDAY.value))
+
+        assertThat(copies).isEmpty()
+        assertThat(handle.timetables.slotsNow(id)).hasSize(1)
+    }
+
+    @Test
+    fun `renaming changes the name and nothing else`(): Unit = runBlocking {
+        val id = seed()
+        val before = handle.timetables.byId(id)!!
+
+        store.rename(id, "  Semester 5  ")
+
+        val after = handle.timetables.byId(id)!!
+        assertThat(after.label).isEqualTo("Semester 5")
+        // Identity is the document, never the name — so a rename must not fork anything.
+        assertThat(after.id).isEqualTo(before.id)
+        assertThat(after.sourceIdentity).isEqualTo(before.sourceIdentity)
+        assertThat(storedTimetables()).hasSize(1)
+    }
+
+    @Test
+    fun `a blank rename is refused rather than clearing the name`(): Unit = runBlocking {
+        val id = seed()
+        store.rename(id, "   ")
+        assertThat(handle.timetables.byId(id)!!.label).isEqualTo("Section CS-1")
+    }
+
+    /** One stored timetable with a single Monday class. */
+    private suspend fun seed(): String = store.save(
+        label = "Section CS-1",
+        candidates = listOf(candidate("Data Structures", DayOfWeek.MONDAY, 9)),
+        term = term, importId = ImportId("first"),
+        sourceName = "tt.pdf", sourceHash = "aaaa",
+        sourceIdentity = TimetableStore.identityOf("aaaa", null),
+    )!!
+
     // --- helpers ---
 
     private suspend fun titlesOfOnlyTimetable(): List<String> {
