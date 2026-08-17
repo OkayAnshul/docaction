@@ -1,0 +1,165 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Electricity Bill — Consumer 4471-90233",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 298.53003,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "U",
+          "l": 208.4,
+          "t": 64.52077,
+          "r": 215.62,
+          "b": 70.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "n",
+          "l": 208.4,
+          "t": 76.02077,
+          "r": 214.5,
+          "b": 81.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Due",
+          "l": 336.75,
+          "t": 76.02077,
+          "r": 358.37,
+          "b": 81.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Billing period",
+          "l": 76.2,
+          "t": 81.77077,
+          "r": 139.99998,
+          "b": 87.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Amount",
+          "l": 256.05,
+          "t": 81.77077,
+          "r": 293.77002,
+          "b": 87.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "it",
+          "l": 208.4,
+          "t": 87.52077,
+          "r": 214.48,
+          "b": 93.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "date",
+          "l": 336.75,
+          "t": 87.52077,
+          "r": 357.3,
+          "b": 93.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "s",
+          "l": 208.4,
+          "t": 99.02077,
+          "r": 213.95999,
+          "b": 104.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 208.4,
+          "t": 127.47078,
+          "r": 213.95999,
+          "b": 133.05078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/08/2026 –",
+          "l": 76.2,
+          "t": 133.22078,
+          "r": 137.28996,
+          "b": 138.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INR",
+          "l": 256.05,
+          "t": 133.22078,
+          "r": 276.00998,
+          "b": 138.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18/09/2",
+          "l": 336.75,
+          "t": 133.22078,
+          "r": 370.0899,
+          "b": 138.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 208.4,
+          "t": 138.97078,
+          "r": 213.95999,
+          "b": 144.55078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31/08/2026",
+          "l": 76.2,
+          "t": 144.72078,
+          "r": 126.18995,
+          "b": 150.30078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3,845.00",
+          "l": 256.05,
+          "t": 144.72078,
+          "r": 294.9399,
+          "b": 150.30078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "026",
+          "l": 336.75,
+          "t": 144.72078,
+          "r": 353.40997,
+          "b": 150.30078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 208.4,
+          "t": 150.47078,
+          "r": 213.95999,
+          "b": 156.05078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last date for payment without surcharge: 18/09/2026. A late payment surcharge of 2% applies thereafter.",
+          "l": 74.8,
+          "t": 177.52077,
+          "r": 539.1097,
+          "b": 183.10077,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

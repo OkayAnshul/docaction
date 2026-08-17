@@ -1,0 +1,77 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 791.999,
+      "heightPt": 611.999,
+      "runs": [
+        {
+          "text": "2026 Bi-Weekly Collection Schedule",
+          "l": 422.8203,
+          "t": 26.541716,
+          "r": 691.1012,
+          "b": 40.032715,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If your collection day is during the \"A Week,\" then follow the schedule for the shaded",
+          "l": 338.2856,
+          "t": 518.3585,
+          "r": 653.9326,
+          "b": 523.85754,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "yellow week. For example, Friday A service days in January are the 9th  & 26th.",
+          "l": 338.2856,
+          "t": 528.3575,
+          "r": 631.7667,
+          "b": 533.8565,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If your collection day is during the \"B Week,\" you will follow the unshaded week's",
+          "l": 338.2856,
+          "t": 544.5035,
+          "r": 639.8477,
+          "b": 550.0025,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "schedule. For example, Friday B service days in January are the 2nd and 16th.",
+          "l": 338.2856,
+          "t": 554.5025,
+          "r": 627.82465,
+          "b": 560.0015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*For the  Holiday Schedule and  additional information, visit our website at",
+          "l": 338.2856,
+          "t": 570.23456,
+          "r": 599.0157,
+          "b": 575.64355,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.houstonsolidwaste.org or call the Houston Service Helpline 3-1-1.",
+          "l": 342.49762,
+          "t": 580.2335,
+          "r": 592.6687,
+          "b": 585.6425,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "REV01162026",
+          "l": 116.9346,
+          "t": 774.3457,
+          "r": 151.14062,
+          "b": 777.9517,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

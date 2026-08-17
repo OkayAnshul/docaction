@@ -1,0 +1,12 @@
+{
+    "documents": 151,
+    "produced": 66,
+    "readyButEmpty": 47,
+    "asked": 35,
+    "refused": 3,
+    "candidates": 369,
+    "assumptionsByRule": {
+        "all-day-from-date-only": 175,
+        "assumed-duration": 77
+    }
+}

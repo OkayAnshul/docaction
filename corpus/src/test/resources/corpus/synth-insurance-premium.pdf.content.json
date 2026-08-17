@@ -1,0 +1,149 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Premium Renewal Notice",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 216.16202,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Policy Number: LIFE/2019/883210   Sum Assured: INR 10,00,000",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 365.86978,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Premium due",
+          "l": 76.2,
+          "t": 90.17079,
+          "r": 142.23,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Amount",
+          "l": 184.65,
+          "t": 90.17079,
+          "r": 225.15001,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grace period",
+          "l": 283.75,
+          "t": 90.17079,
+          "r": 348.12997,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mo",
+          "l": 392.55,
+          "t": 90.17079,
+          "r": 406.94998,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "date",
+          "l": 76.2,
+          "t": 101.67079,
+          "r": 96.74999,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payable",
+          "l": 184.65,
+          "t": 101.67079,
+          "r": 221.85,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ends",
+          "l": 283.75,
+          "t": 101.67079,
+          "r": 307.06,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "de",
+          "l": 392.55,
+          "t": 101.67079,
+          "r": 404.21,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "An",
+          "l": 392.55,
+          "t": 130.12074,
+          "r": 404.75998,
+          "b": 135.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28/09/2026",
+          "l": 76.2,
+          "t": 141.62074,
+          "r": 126.18995,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INR 24,780",
+          "l": 184.65,
+          "t": 141.62074,
+          "r": 235.18002,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28/10/2026",
+          "l": 283.75,
+          "t": 141.62074,
+          "r": 333.73987,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "nua",
+          "l": 392.55,
+          "t": 141.62074,
+          "r": 409.20996,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "l",
+          "l": 392.55,
+          "t": 153.12074,
+          "r": 394.77,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please ensure the premium is paid on or before 28/09/2026 to keep the policy in force.",
+          "l": 74.8,
+          "t": 180.17079,
+          "r": 456.92957,
+          "b": 185.7508,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

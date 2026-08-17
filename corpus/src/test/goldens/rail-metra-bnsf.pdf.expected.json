@@ -1,0 +1,11 @@
+{
+  "document": "rail-metra-bnsf.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 8
+    }
+  ],
+  "groups": 8
+}

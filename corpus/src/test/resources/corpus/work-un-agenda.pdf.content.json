@@ -1,0 +1,549 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "WORKSHOP AGENDA",
+          "l": 234.95992,
+          "t": 83.139206,
+          "r": 352.9831,
+          "b": 89.520325,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day One",
+          "l": 288.23987,
+          "t": 127.53911,
+          "r": 337.7431,
+          "b": 133.92023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Time",
+          "l": 80.15997,
+          "t": 144.03247,
+          "r": 102.9588,
+          "b": 148.32025,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session",
+          "l": 126.357445,
+          "t": 144.03247,
+          "r": 159.47638,
+          "b": 148.32025,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Theme",
+          "l": 347.87985,
+          "t": 144.03247,
+          "r": 378.71997,
+          "b": 148.32025,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:00-9:30",
+          "l": 62.999973,
+          "t": 158.79248,
+          "r": 104.05577,
+          "b": 163.08026,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 139.21448,
+          "t": 158.79248,
+          "r": 146.53255,
+          "b": 163.08026,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Opening Remarks",
+          "l": 165.49123,
+          "t": 158.79248,
+          "r": 239.3849,
+          "b": 163.08026,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:30-10:15",
+          "l": 62.999973,
+          "t": 173.43243,
+          "r": 109.0974,
+          "b": 177.72021,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 139.216,
+          "t": 173.43243,
+          "r": 146.53407,
+          "b": 177.72021,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Introduction to the Workshop Objectives and Participants",
+          "l": 165.47997,
+          "t": 173.43243,
+          "r": 407.66043,
+          "b": 177.72021,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:15-10:30",
+          "l": 62.999973,
+          "t": 188.19244,
+          "r": 114.13904,
+          "b": 192.48022,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Coffee Break",
+          "l": 165.47992,
+          "t": 188.19244,
+          "r": 219.82283,
+          "b": 192.48022,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:30-11:00",
+          "l": 62.999973,
+          "t": 202.83246,
+          "r": 114.13904,
+          "b": 207.12024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 139.21767,
+          "t": 202.83246,
+          "r": 146.53574,
+          "b": 207.12024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Integrating Sustainable Development Principles into Development Strategies in Countries",
+          "l": 165.47997,
+          "t": 202.83246,
+          "r": 538.4011,
+          "b": 207.12024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Emerging from Conflict",
+          "l": 165.47997,
+          "t": 216.87244,
+          "r": 263.0241,
+          "b": 221.16022,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:00-12:00",
+          "l": 62.999973,
+          "t": 231.51245,
+          "r": 114.13904,
+          "b": 235.80023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 139.21767,
+          "t": 231.51245,
+          "r": 146.53574,
+          "b": 235.80023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sustainable Development Challenges in The Country",
+          "l": 165.47997,
+          "t": 231.51245,
+          "r": 383.75677,
+          "b": 235.80023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:00-1:00",
+          "l": 62.999973,
+          "t": 246.27246,
+          "r": 109.0974,
+          "b": 250.56024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5",
+          "l": 139.216,
+          "t": 246.27246,
+          "r": 146.53407,
+          "b": 250.56024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Introduction to the Guidance Notes",
+          "l": 165.47997,
+          "t": 246.27246,
+          "r": 315.06784,
+          "b": 250.56024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1:00-2:15",
+          "l": 62.999973,
+          "t": 260.91248,
+          "r": 104.05577,
+          "b": 265.20026,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Lunch",
+          "l": 165.47992,
+          "t": 260.91248,
+          "r": 191.98169,
+          "b": 265.20026,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2:15-3:45",
+          "l": 62.999973,
+          "t": 275.6725,
+          "r": 104.05577,
+          "b": 279.96027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 139.21448,
+          "t": 275.6725,
+          "r": 146.53255,
+          "b": 279.96027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sustainable Development in The Country",
+          "l": 165.47997,
+          "t": 275.6725,
+          "r": 336.8364,
+          "b": 279.96027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3:45-4:00",
+          "l": 62.999973,
+          "t": 290.31244,
+          "r": 104.05577,
+          "b": 294.60022,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Coffee Break",
+          "l": 165.47992,
+          "t": 290.31244,
+          "r": 219.82283,
+          "b": 294.60022,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4:00-4:45",
+          "l": 62.999973,
+          "t": 305.07242,
+          "r": 104.05577,
+          "b": 309.3602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7",
+          "l": 139.21448,
+          "t": 305.07242,
+          "r": 146.53255,
+          "b": 309.3602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Linking Sustainable Development Challenges and Priority Areas",
+          "l": 165.47997,
+          "t": 305.07242,
+          "r": 429.95374,
+          "b": 309.3602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4:45-5:00",
+          "l": 62.999973,
+          "t": 319.7124,
+          "r": 104.05577,
+          "b": 324.00018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 139.21448,
+          "t": 319.7124,
+          "r": 146.53255,
+          "b": 324.00018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day One Wrap-up",
+          "l": 165.47997,
+          "t": 319.7124,
+          "r": 242.02022,
+          "b": 324.00018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day Two",
+          "l": 287.39987,
+          "t": 356.97906,
+          "r": 336.78308,
+          "b": 363.36017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Time",
+          "l": 79.79997,
+          "t": 373.2324,
+          "r": 102.5988,
+          "b": 377.52017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session",
+          "l": 126.3575,
+          "t": 373.2324,
+          "r": 159.47638,
+          "b": 377.52017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Theme",
+          "l": 347.87985,
+          "t": 373.2324,
+          "r": 378.71997,
+          "b": 377.52017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:00-9:15",
+          "l": 62.039974,
+          "t": 387.75238,
+          "r": 103.09577,
+          "b": 392.04016,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9",
+          "l": 139.21445,
+          "t": 387.75238,
+          "r": 146.53252,
+          "b": 392.04016,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Welcome and Review of the Day’s Agenda and Objectives",
+          "l": 165.48012,
+          "t": 387.75238,
+          "r": 406.85672,
+          "b": 392.04016,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:15-9:45",
+          "l": 62.039974,
+          "t": 402.27237,
+          "r": 103.09577,
+          "b": 406.56015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 136.69446,
+          "t": 402.27237,
+          "r": 149.05415,
+          "b": 406.56015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion of Previous Day’s Results",
+          "l": 165.48012,
+          "t": 402.27237,
+          "r": 316.96335,
+          "b": 406.56015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:45-10:15",
+          "l": 62.039974,
+          "t": 416.79236,
+          "r": 108.1374,
+          "b": 421.08014,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 136.696,
+          "t": 416.79236,
+          "r": 149.0557,
+          "b": 421.08014,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Formulating an Action Plan",
+          "l": 165.48012,
+          "t": 416.79236,
+          "r": 280.15646,
+          "b": 421.08014,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:15-10:30",
+          "l": 62.039974,
+          "t": 431.31238,
+          "r": 113.17904,
+          "b": 435.60016,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Coffee Break",
+          "l": 165.47992,
+          "t": 431.31238,
+          "r": 219.82283,
+          "b": 435.60016,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:30-12:30",
+          "l": 62.039974,
+          "t": 445.71237,
+          "r": 113.17904,
+          "b": 450.00015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 136.69766,
+          "t": 445.71237,
+          "r": 149.05736,
+          "b": 450.00015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Action Plan Working Groups: Brainstorming and Planning",
+          "l": 165.48012,
+          "t": 445.71237,
+          "r": 405.11896,
+          "b": 450.00015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:30-1:45",
+          "l": 62.039974,
+          "t": 464.67233,
+          "r": 108.1374,
+          "b": 468.9601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Lunch",
+          "l": 165.47992,
+          "t": 464.67233,
+          "r": 191.98169,
+          "b": 468.9601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1:45-3:15",
+          "l": 62.039974,
+          "t": 479.19235,
+          "r": 103.09577,
+          "b": 483.48013,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 136.69446,
+          "t": 479.19235,
+          "r": 149.05415,
+          "b": 483.48013,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Action Plan Working Groups: Presentation and Discussion",
+          "l": 165.48012,
+          "t": 479.19235,
+          "r": 409.1969,
+          "b": 483.48013,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3:15-3:30",
+          "l": 62.039974,
+          "t": 493.71234,
+          "r": 103.09577,
+          "b": 498.00012,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Coffee Break",
+          "l": 165.47992,
+          "t": 493.71234,
+          "r": 219.82283,
+          "b": 498.00012,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3:30-4:45",
+          "l": 62.039974,
+          "t": 508.11237,
+          "r": 103.09577,
+          "b": 512.40015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 136.69446,
+          "t": 508.11237,
+          "r": 149.05415,
+          "b": 512.40015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Action Plan Follow-up",
+          "l": 165.48012,
+          "t": 508.11237,
+          "r": 258.68796,
+          "b": 512.40015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4:45-5:00",
+          "l": 62.039974,
+          "t": 522.6324,
+          "r": 103.09577,
+          "b": 526.92017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 136.69446,
+          "t": 522.6324,
+          "r": 149.05415,
+          "b": 526.92017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Closing Remarks",
+          "l": 165.48012,
+          "t": 522.6324,
+          "r": 235.65788,
+          "b": 526.92017,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

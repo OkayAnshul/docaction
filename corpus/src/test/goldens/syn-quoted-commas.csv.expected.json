@@ -1,0 +1,11 @@
+{
+  "document": "syn-quoted-commas.csv",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "DateOrder",
+      "example": "04/03/2026"
+    }
+  ],
+  "groups": 0
+}

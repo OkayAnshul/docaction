@@ -1,0 +1,285 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Electronic Ticket — Booking Reference PQ7T2K",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 347.86502,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Passenger: A. SHARMA    Issued: 02/09/2026",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 279.20996,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fli",
+          "l": 76.2,
+          "t": 90.17079,
+          "r": 87.81999,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Termi",
+          "l": 518.0,
+          "t": 95.92079,
+          "r": 545.2,
+          "b": 101.50079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "gh",
+          "l": 76.2,
+          "t": 101.67079,
+          "r": 88.399994,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "From",
+          "l": 128.4,
+          "t": 101.67079,
+          "r": 153.38,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "To",
+          "l": 224.25,
+          "t": 101.67079,
+          "r": 236.45001,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Departure",
+          "l": 320.1,
+          "t": 101.67079,
+          "r": 367.28003,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Arrival",
+          "l": 419.05,
+          "t": 101.67079,
+          "r": 450.69,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "nal",
+          "l": 518.0,
+          "t": 107.42079,
+          "r": 532.42,
+          "b": 113.00079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "t",
+          "l": 76.2,
+          "t": 113.17079,
+          "r": 79.53,
+          "b": 118.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AI",
+          "l": 76.2,
+          "t": 141.62074,
+          "r": 88.369995,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bengaluru",
+          "l": 224.25,
+          "t": 147.37074,
+          "r": 272.55,
+          "b": 152.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18/09/2026",
+          "l": 320.1,
+          "t": 147.37074,
+          "r": 372.84985,
+          "b": 152.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18/09/2026",
+          "l": 419.05,
+          "t": 147.37074,
+          "r": 471.79984,
+          "b": 152.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 76.2,
+          "t": 153.12074,
+          "r": 87.30999,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delhi (DEL)",
+          "l": 128.4,
+          "t": 153.12074,
+          "r": 180.00003,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "T3",
+          "l": 518.0,
+          "t": 153.12074,
+          "r": 529.66,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(BLR)",
+          "l": 224.25,
+          "t": 158.87074,
+          "r": 250.32,
+          "b": 164.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14:35",
+          "l": 320.1,
+          "t": 158.87074,
+          "r": 345.09995,
+          "b": 164.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17:20",
+          "l": 419.05,
+          "t": 158.87074,
+          "r": 444.04993,
+          "b": 164.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 76.2,
+          "t": 164.62074,
+          "r": 81.759995,
+          "b": 170.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AI",
+          "l": 76.2,
+          "t": 193.07076,
+          "r": 88.369995,
+          "b": 198.65076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bengaluru",
+          "l": 128.4,
+          "t": 198.82076,
+          "r": 176.70001,
+          "b": 204.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24/09/2026",
+          "l": 320.1,
+          "t": 198.82076,
+          "r": 372.84985,
+          "b": 204.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24/09/2026",
+          "l": 419.05,
+          "t": 198.82076,
+          "r": 471.79984,
+          "b": 204.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "51",
+          "l": 76.2,
+          "t": 204.57076,
+          "r": 87.30999,
+          "b": 210.15076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delhi (DEL)",
+          "l": 224.25,
+          "t": 204.57076,
+          "r": 275.84998,
+          "b": 210.15076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "T1",
+          "l": 518.0,
+          "t": 204.57076,
+          "r": 529.66,
+          "b": 210.15076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(BLR)",
+          "l": 128.4,
+          "t": 210.32076,
+          "r": 154.47,
+          "b": 215.90076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08:10",
+          "l": 320.1,
+          "t": 210.32076,
+          "r": 345.09995,
+          "b": 215.90076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:05",
+          "l": 419.05,
+          "t": 210.32076,
+          "r": 444.04993,
+          "b": 215.90076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 76.2,
+          "t": 216.07076,
+          "r": 81.759995,
+          "b": 221.65076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Check-in closes 45 minutes before departure. Boarding gate closes at 14:05 on 18/09/2026.",
+          "l": 74.8,
+          "t": 243.12074,
+          "r": 480.83963,
+          "b": 248.70074,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

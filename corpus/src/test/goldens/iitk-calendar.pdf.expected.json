@@ -1,0 +1,11 @@
+{
+  "document": "iitk-calendar.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 2
+    }
+  ],
+  "groups": 2
+}

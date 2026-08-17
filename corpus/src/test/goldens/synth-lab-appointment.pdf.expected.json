@@ -1,0 +1,25 @@
+{
+  "document": "synth-lab-appointment.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 1,
+  "candidates": [
+    {
+      "title": "MRI Brain (Contrast)",
+      "start": "2026-09-22T08:30",
+      "end": "2026-09-22T09:30",
+      "zone": "Asia/Kolkata",
+      "location": "Block B, Level 2",
+      "status": "NeedsAttention",
+      "allDay": false,
+      "assumed": [
+        "assumed-duration"
+      ],
+      "sources": [
+        "Assumed(assumed-duration)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

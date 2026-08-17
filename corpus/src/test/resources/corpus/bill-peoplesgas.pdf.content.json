@@ -1,0 +1,1621 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "1",
+          "l": 363.0893,
+          "t": 18.245129,
+          "r": 374.82,
+          "b": 42.4812,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Customer Service",
+          "l": 396.0,
+          "t": 12.720195,
+          "r": 472.527,
+          "b": 19.200195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "866-556-6001",
+          "l": 537.363,
+          "t": 12.2702055,
+          "r": 593.3973,
+          "b": 18.723206,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24-Hour Gas Emergencies",
+          "l": 396.0,
+          "t": 23.763226,
+          "r": 508.04102,
+          "b": 30.243225,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "866-556-6002",
+          "l": 537.363,
+          "t": 23.313236,
+          "r": 593.3973,
+          "b": 29.766235,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "En Espanol",
+          "l": 396.0,
+          "t": 34.806255,
+          "r": 445.01398,
+          "b": 41.286255,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "866-556-6003",
+          "l": 537.363,
+          "t": 34.356266,
+          "r": 593.3973,
+          "b": 40.809265,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TDD Line",
+          "l": 396.0,
+          "t": 45.849285,
+          "r": 435.50098,
+          "b": 52.329285,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "866-556-6007",
+          "l": 537.363,
+          "t": 45.399296,
+          "r": 593.3973,
+          "b": 51.852295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 98.7311,
+          "t": 62.58772,
+          "r": 117.728935,
+          "b": 86.82379,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "peoplesgasdelivery.com",
+          "l": 219.0244,
+          "t": 56.22309,
+          "r": 324.35718,
+          "b": 62.58789,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bill Date",
+          "l": 48.7202,
+          "t": 73.9199,
+          "r": 84.729195,
+          "b": 80.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Account Number",
+          "l": 133.2032,
+          "t": 73.9199,
+          "r": 205.70717,
+          "b": 80.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Next Meter Read Date",
+          "l": 225.60617,
+          "t": 73.9199,
+          "r": 318.12616,
+          "b": 80.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Amount Due",
+          "l": 364.32318,
+          "t": 73.9199,
+          "r": 417.81915,
+          "b": 80.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Transfer Date",
+          "l": 476.88617,
+          "t": 73.9199,
+          "r": 574.9143,
+          "b": 80.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/03/2026",
+          "l": 44.40915,
+          "t": 86.87992,
+          "r": 89.44513,
+          "b": 93.359924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0123456789-0001",
+          "l": 131.52,
+          "t": 87.199684,
+          "r": 204.57297,
+          "b": 93.67969,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03/03/2026",
+          "l": 249.85214,
+          "t": 86.87992,
+          "r": 294.88815,
+          "b": 93.359924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$117.70",
+          "l": 375.13214,
+          "t": 86.87992,
+          "r": 407.65814,
+          "b": 93.359924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/25/2026",
+          "l": 503.76917,
+          "t": 86.87992,
+          "r": 548.80536,
+          "b": 93.359924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Customer Name",
+          "l": 18.0,
+          "t": 102.723,
+          "r": 87.01199,
+          "b": 109.203,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JOHN Q. CUSTOMER",
+          "l": 131.0405,
+          "t": 103.30398,
+          "r": 211.4885,
+          "b": 109.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Service Address",
+          "l": 18.0,
+          "t": 113.99998,
+          "r": 88.53299,
+          "b": 120.47998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "123 MAIN ST",
+          "l": 131.0405,
+          "t": 113.623985,
+          "r": 179.05649,
+          "b": 119.359985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CHICAGO IL 60601-6207",
+          "l": 131.0405,
+          "t": 124.343956,
+          "r": 222.19247,
+          "b": 130.07996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 239.875,
+          "t": 107.48573,
+          "r": 259.72128,
+          "b": 131.7218,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9",
+          "l": 412.475,
+          "t": 104.028946,
+          "r": 432.6533,
+          "b": 128.26501,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Account Summary",
+          "l": 474.0,
+          "t": 111.59992,
+          "r": 544.68,
+          "b": 117.359924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bill Period: 01/05/2026 to 02/02/2026",
+          "l": 445.2,
+          "t": 120.98391,
+          "r": 576.83997,
+          "b": 126.71991,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb",
+          "l": 518.6396,
+          "t": 131.27983,
+          "r": 531.0856,
+          "b": 136.31982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan",
+          "l": 549.36255,
+          "t": 131.27983,
+          "r": 561.4236,
+          "b": 136.31982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb",
+          "l": 579.8406,
+          "t": 131.27983,
+          "r": 592.28656,
+          "b": 136.31982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Activity Since Last Bill",
+          "l": 18.0,
+          "t": 142.80028,
+          "r": 114.53398,
+          "b": 149.28027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026",
+          "l": 515.7626,
+          "t": 139.67986,
+          "r": 531.3307,
+          "b": 144.71985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026",
+          "l": 546.00256,
+          "t": 139.67986,
+          "r": 561.5707,
+          "b": 144.71985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025",
+          "l": 576.96356,
+          "t": 139.67986,
+          "r": 592.5317,
+          "b": 144.71985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/05/2026",
+          "l": 18.0,
+          "t": 152.66391,
+          "r": 58.03199,
+          "b": 158.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Previous Balance",
+          "l": 64.31999,
+          "t": 152.66391,
+          "r": 126.56798,
+          "b": 158.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 158.4753,
+          "t": 143.47676,
+          "r": 178.13713,
+          "b": 167.71283,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$127.59",
+          "l": 377.04,
+          "t": 152.66391,
+          "r": 405.952,
+          "b": 158.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Billing Days",
+          "l": 425.2803,
+          "t": 149.06108,
+          "r": 461.84125,
+          "b": 154.08008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 523.4413,
+          "t": 149.06108,
+          "r": 531.22534,
+          "b": 154.08008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "33",
+          "l": 553.68134,
+          "t": 149.06108,
+          "r": 561.4654,
+          "b": 154.08008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 584.6424,
+          "t": 149.06108,
+          "r": 592.42645,
+          "b": 154.08008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/27/2026",
+          "l": 18.0,
+          "t": 161.30392,
+          "r": 58.03199,
+          "b": 167.03992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment",
+          "l": 64.31999,
+          "t": 161.30392,
+          "r": 95.887985,
+          "b": 167.03992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-$127.59",
+          "l": 374.4,
+          "t": 161.30392,
+          "r": 405.97598,
+          "b": 167.03992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Avg Temp",
+          "l": 425.2803,
+          "t": 159.3809,
+          "r": 457.17932,
+          "b": 164.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22°F",
+          "l": 516.2383,
+          "t": 159.3809,
+          "r": 530.9943,
+          "b": 164.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27°F",
+          "l": 546.47833,
+          "t": 159.3809,
+          "r": 561.2344,
+          "b": 164.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23°F",
+          "l": 577.4394,
+          "t": 159.3809,
+          "r": 592.19543,
+          "b": 164.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Balance",
+          "l": 64.32001,
+          "t": 169.94394,
+          "r": 93.224,
+          "b": 175.67993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0.00",
+          "l": 385.68,
+          "t": 169.94394,
+          "r": 405.69598,
+          "b": 175.67993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Heating Deg Days",
+          "l": 425.2803,
+          "t": 169.70073,
+          "r": 482.07828,
+          "b": 174.71973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1259",
+          "l": 515.76227,
+          "t": 169.70073,
+          "r": 531.3304,
+          "b": 174.71973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1253",
+          "l": 546.0024,
+          "t": 169.70073,
+          "r": 561.5705,
+          "b": 174.71973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1273",
+          "l": 576.9635,
+          "t": 169.70073,
+          "r": 592.5316,
+          "b": 174.71973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Current Charges",
+          "l": 64.32001,
+          "t": 178.58395,
+          "r": 143.456,
+          "b": 184.31995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$117.70",
+          "l": 377.04,
+          "t": 178.58395,
+          "r": 405.952,
+          "b": 184.31995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cooling Deg Days",
+          "l": 425.2803,
+          "t": 180.02098,
+          "r": 481.68625,
+          "b": 185.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 527.2773,
+          "t": 180.02098,
+          "r": 531.1693,
+          "b": 185.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 557.51733,
+          "t": 180.02098,
+          "r": 561.40936,
+          "b": 185.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 588.4784,
+          "t": 180.02098,
+          "r": 592.3704,
+          "b": 185.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Current Balance",
+          "l": 64.32001,
+          "t": 187.22397,
+          "r": 142.12799,
+          "b": 192.95996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$117.70",
+          "l": 377.04,
+          "t": 187.22397,
+          "r": 405.952,
+          "b": 192.95996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Therms Used",
+          "l": 425.2803,
+          "t": 190.34093,
+          "r": 467.2873,
+          "b": 195.35992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "72.6",
+          "l": 517.6803,
+          "t": 190.34093,
+          "r": 531.30237,
+          "b": 195.35992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "71.5",
+          "l": 547.92035,
+          "t": 190.34093,
+          "r": 561.5424,
+          "b": 195.35992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "76.4",
+          "l": 578.8814,
+          "t": 190.34093,
+          "r": 592.5035,
+          "b": 195.35992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gas Service",
+          "l": 18.0,
+          "t": 199.1999,
+          "r": 75.259995,
+          "b": 206.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Avg Therms / Day",
+          "l": 425.2803,
+          "t": 200.66118,
+          "r": 481.29434,
+          "b": 205.68018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.5",
+          "l": 521.5163,
+          "t": 200.66118,
+          "r": 531.24634,
+          "b": 205.68018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.2",
+          "l": 551.75635,
+          "t": 200.66118,
+          "r": 561.4864,
+          "b": 205.68018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.5",
+          "l": 582.7174,
+          "t": 200.66118,
+          "r": 592.44745,
+          "b": 205.68018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rate 1 - Small Residential Heating  5",
+          "l": 18.0,
+          "t": 196.44753,
+          "r": 179.08101,
+          "b": 220.6836,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Utility Gas Cost",
+          "l": 425.2803,
+          "t": 210.981,
+          "r": 473.5103,
+          "b": 216.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0.39",
+          "l": 513.8373,
+          "t": 210.981,
+          "r": 531.3514,
+          "b": 216.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0.42",
+          "l": 544.0774,
+          "t": 210.981,
+          "r": 561.5915,
+          "b": 216.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0.39",
+          "l": 575.0385,
+          "t": 210.981,
+          "r": 592.5526,
+          "b": 216.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Meter P01234567",
+          "l": 18.0,
+          "t": 221.76003,
+          "r": 82.47998,
+          "b": 227.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 100.5854,
+          "t": 227.26472,
+          "r": 120.76369,
+          "b": 251.5008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Actual Reading 02/02/2026",
+          "l": 185.52,
+          "t": 221.78403,
+          "r": 282.024,
+          "b": 227.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6299",
+          "l": 324.96002,
+          "t": 221.78403,
+          "r": 342.752,
+          "b": 227.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Graphs",
+          "l": 494.8799,
+          "t": 221.52028,
+          "r": 525.1119,
+          "b": 227.28027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Actual Reading 01/04/2026",
+          "l": 185.52,
+          "t": 231.14401,
+          "r": 282.024,
+          "b": 236.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-6230",
+          "l": 322.32,
+          "t": 231.14401,
+          "r": 342.776,
+          "b": 236.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Gas Use",
+          "l": 229.20001,
+          "t": 240.504,
+          "r": 279.24802,
+          "b": 246.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "69 CCF",
+          "l": 333.5996,
+          "t": 240.50418,
+          "r": 360.9036,
+          "b": 246.24017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Usage by Month",
+          "l": 425.7598,
+          "t": 236.63991,
+          "r": 487.5438,
+          "b": 242.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Therms",
+          "l": 528.0,
+          "t": 237.3809,
+          "r": 553.669,
+          "b": 242.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "80",
+          "l": 440.1602,
+          "t": 247.93507,
+          "r": 445.72018,
+          "b": 251.52008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "69 CCF x 1.052 BTU = 72.6 Therms",
+          "l": 162.0,
+          "t": 252.02383,
+          "r": 290.27197,
+          "b": 257.75983,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delivery Charges",
+          "l": 18.0,
+          "t": 261.11987,
+          "r": 83.35999,
+          "b": 266.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "60",
+          "l": 440.1602,
+          "t": 264.0151,
+          "r": 445.72018,
+          "b": 267.6001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fixed Charge",
+          "l": 18.0,
+          "t": 270.50418,
+          "r": 70.46399,
+          "b": 276.24017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$28.75",
+          "l": 381.36,
+          "t": 270.50418,
+          "r": 405.82397,
+          "b": 276.24017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Distribution Charge",
+          "l": 18.0,
+          "t": 279.8641,
+          "r": 90.91199,
+          "b": 285.6001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7",
+          "l": 120.2399,
+          "t": 268.99173,
+          "r": 137.3564,
+          "b": 293.2278,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "72.6 Therms at $0.46583",
+          "l": 162.0,
+          "t": 279.8641,
+          "r": 251.38397,
+          "b": 285.6001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$33.82",
+          "l": 381.36,
+          "t": 279.8641,
+          "r": 405.82397,
+          "b": 285.6001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "40",
+          "l": 440.1602,
+          "t": 282.9751,
+          "r": 445.72018,
+          "b": 286.5601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Storage Service Charge",
+          "l": 18.0,
+          "t": 289.224,
+          "r": 107.81599,
+          "b": 294.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "72.6 Therms at $0.08576",
+          "l": 162.0,
+          "t": 289.224,
+          "r": 251.38397,
+          "b": 294.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$6.23",
+          "l": 385.68,
+          "t": 289.224,
+          "r": 405.69598,
+          "b": 294.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gas Charge",
+          "l": 18.0,
+          "t": 298.5838,
+          "r": 65.57599,
+          "b": 304.3198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "72.6 Therms at $0.41603",
+          "l": 162.0,
+          "t": 298.5838,
+          "r": 251.38397,
+          "b": 304.3198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$30.20",
+          "l": 381.36,
+          "t": 298.5838,
+          "r": 405.82397,
+          "b": 304.3198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 440.1602,
+          "t": 301.935,
+          "r": 445.72018,
+          "b": 305.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Energy Efficiency Program",
+          "l": 18.0,
+          "t": 307.9442,
+          "r": 117.14399,
+          "b": 313.6802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "72.6 Therms at $0.01430",
+          "l": 162.0,
+          "t": 307.9442,
+          "r": 251.38397,
+          "b": 313.6802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$1.04",
+          "l": 385.68,
+          "t": 307.9442,
+          "r": 405.69598,
+          "b": 313.6802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Environmental Charge",
+          "l": 18.0,
+          "t": 317.30402,
+          "r": 102.03199,
+          "b": 323.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "72.6 Therms at $0.008959",
+          "l": 162.0,
+          "t": 317.30402,
+          "r": 255.83197,
+          "b": 323.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0.65",
+          "l": 385.68,
+          "t": 317.30402,
+          "r": 405.69598,
+          "b": 323.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 443.04,
+          "t": 318.49512,
+          "r": 445.82,
+          "b": 322.0801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UEA - Gas Cost Adjustment",
+          "l": 18.0,
+          "t": 326.6639,
+          "r": 121.59198,
+          "b": 332.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.38% of $30.20",
+          "l": 162.0,
+          "t": 326.6639,
+          "r": 220.26398,
+          "b": 332.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$1.02",
+          "l": 385.68,
+          "t": 326.6639,
+          "r": 405.69598,
+          "b": 332.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tax Cost Adjustment",
+          "l": 18.0,
+          "t": 336.0238,
+          "r": 96.695984,
+          "b": 341.7598,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-$0.05",
+          "l": 383.04,
+          "t": 336.0238,
+          "r": 405.72,
+          "b": 341.7598,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Low Income Discount Adjustment",
+          "l": 18.0,
+          "t": 345.3841,
+          "r": 141.15997,
+          "b": 351.1201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Days at $5.37000",
+          "l": 161.99997,
+          "t": 345.3841,
+          "r": 235.82394,
+          "b": 351.1201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$5.37",
+          "l": 385.68,
+          "t": 345.3841,
+          "r": 405.69598,
+          "b": 351.1201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Taxes",
+          "l": 18.0,
+          "t": 354.72,
+          "r": 40.68,
+          "b": 360.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Charges by Month",
+          "l": 426.0,
+          "t": 351.36008,
+          "r": 495.784,
+          "b": 357.1201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chicago Municipal Tax",
+          "l": 18.0,
+          "t": 364.10382,
+          "r": 103.359985,
+          "b": 369.8398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 121.0199,
+          "t": 365.2387,
+          "r": 141.38263,
+          "b": 389.4748,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.24% of $107.03",
+          "l": 162.0,
+          "t": 364.10382,
+          "r": 224.71198,
+          "b": 369.8398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$8.82",
+          "l": 385.68,
+          "t": 364.10382,
+          "r": 405.69598,
+          "b": 369.8398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "160",
+          "l": 437.2803,
+          "t": 362.6551,
+          "r": 445.6203,
+          "b": 366.24008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "State Tax",
+          "l": 18.0,
+          "t": 373.4642,
+          "r": 56.687996,
+          "b": 379.2002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.1% of $107.03",
+          "l": 162.0,
+          "t": 373.4642,
+          "r": 220.26398,
+          "b": 379.2002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0.11",
+          "l": 385.68,
+          "t": 373.4642,
+          "r": 405.69598,
+          "b": 379.2002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "120",
+          "l": 437.2803,
+          "t": 377.5351,
+          "r": 445.6203,
+          "b": 381.1201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "State Gas Revenue Tax",
+          "l": 18.0,
+          "t": 382.8241,
+          "r": 107.82398,
+          "b": 388.5601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "72.6 Therms at $0.024000",
+          "l": 162.0,
+          "t": 382.8241,
+          "r": 255.83197,
+          "b": 388.5601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$1.74",
+          "l": 385.68,
+          "t": 382.8241,
+          "r": 405.69598,
+          "b": 388.5601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Subtotal:",
+          "l": 305.2798,
+          "t": 392.15988,
+          "r": 339.9438,
+          "b": 397.9199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$117.70",
+          "l": 377.0398,
+          "t": 392.15988,
+          "r": 405.95178,
+          "b": 397.9199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "80",
+          "l": 440.1602,
+          "t": 395.29492,
+          "r": 445.72018,
+          "b": 398.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gas Service Total:",
+          "l": 262.3198,
+          "t": 402.0005,
+          "r": 340.85925,
+          "b": 408.4805,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$117.70",
+          "l": 372.23685,
+          "t": 402.0005,
+          "r": 404.76285,
+          "b": 408.4805,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "40",
+          "l": 440.1602,
+          "t": 413.0546,
+          "r": 445.72018,
+          "b": 416.6396,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Messages",
+          "l": 18.0,
+          "t": 418.3201,
+          "r": 56.23999,
+          "b": 424.0801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "View your bill o1nlin0e anytime in My Account. Visit our website to sign up.",
+          "l": 19.44,
+          "t": 413.2013,
+          "r": 274.64795,
+          "b": 434.8801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 443.04,
+          "t": 428.415,
+          "r": 445.82,
+          "b": 432.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your bill includes a Low Income Discount Adjustment, which funds the Low Income Discount program. Go to our",
+          "l": 19.44,
+          "t": 441.3841,
+          "r": 412.65552,
+          "b": 447.1201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "website to learn more.",
+          "l": 19.44,
+          "t": 450.74408,
+          "r": 98.13599,
+          "b": 456.48007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Struggling to pay your bill? There are several energy assistance programs available to eligible customers.",
+          "l": 19.44,
+          "t": 462.98407,
+          "r": 392.50793,
+          "b": 468.72006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "To learn if you qualify, visit our website or call.",
+          "l": 19.44,
+          "t": 472.34406,
+          "r": 182.60797,
+          "b": 478.08005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Even out your energy bills! Enroll in Budget Billing by paying exactly $70.00, rather than the amount due shown.",
+          "l": 19.4404,
+          "t": 484.58432,
+          "r": 414.7523,
+          "b": 490.3203,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This will then be your monthly Budget amount. Every six months, your account will be reviewed and your",
+          "l": 19.4404,
+          "t": 493.9443,
+          "r": 388.92032,
+          "b": 499.6803,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payment may be adjusted to better reflect your actual use.",
+          "l": 19.4404,
+          "t": 503.3043,
+          "r": 225.32036,
+          "b": 509.04028,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT NUMBER:",
+          "l": 18.2661,
+          "t": 540.5015,
+          "r": 87.0971,
+          "b": 545.5205,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0123456789-00001",
+          "l": 90.2681,
+          "t": 540.5015,
+          "r": 150.97906,
+          "b": 545.5205,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INVOICE: 0123456789",
+          "l": 171.39107,
+          "t": 540.5015,
+          "r": 242.98706,
+          "b": 545.5205,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Page 1 of 1",
+          "l": 279.3862,
+          "t": 540.5015,
+          "r": 315.19125,
+          "b": 545.5205,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEC_PDF_Out",
+          "l": 378.5062,
+          "t": 540.5015,
+          "r": 427.9052,
+          "b": 545.5205,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28151",
+          "l": 459.62222,
+          "t": 540.5015,
+          "r": 479.0822,
+          "b": 545.5205,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "{14}",
+          "l": 531.6242,
+          "t": 540.5015,
+          "r": 544.0843,
+          "b": 545.5205,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT NUMBER: 0123456789-00001",
+          "l": 173.0659,
+          "t": 578.1876,
+          "r": 342.13632,
+          "b": 584.6406,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Amout Due of $117.70 will be withdrawn from",
+          "l": 363.3789,
+          "t": 587.196,
+          "r": 583.87964,
+          "b": 595.083,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your bank account on 02/25/2026",
+          "l": 391.9899,
+          "t": 599.19696,
+          "r": 555.26306,
+          "b": 607.084,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 252.849,
+          "t": 608.8119,
+          "r": 276.06042,
+          "b": 633.048,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thank You!",
+          "l": 453.6201,
+          "t": 633.347,
+          "r": 493.65845,
+          "b": 639.083,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JOHN Q. CUSTOMER",
+          "l": 95.5166,
+          "t": 657.6258,
+          "r": 175.9646,
+          "b": 663.3618,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "123 MAIN ST",
+          "l": 95.5166,
+          "t": 667.9458,
+          "r": 143.5326,
+          "b": 673.6818,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CHICAGO IL 60601-6207",
+          "l": 95.5166,
+          "t": 678.6658,
+          "r": 186.66858,
+          "b": 684.4018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "I want to pledge $1 per month to the Share the Warmth program, which helps",
+          "l": 354.4653,
+          "t": 700.34235,
+          "r": 593.7467,
+          "b": 705.3613,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pay energy expenses for those in need.  I've added $1 to my payment.",
+          "l": 354.4653,
+          "t": 709.91833,
+          "r": 577.5904,
+          "b": 714.9583,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Peoples Gas",
+          "l": 72.2661,
+          "t": 720.2677,
+          "r": 123.791084,
+          "b": 726.7207,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PO Box 1110",
+          "l": 72.2661,
+          "t": 732.5077,
+          "r": 125.79808,
+          "b": 738.9607,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Glenview IL 60025",
+          "l": 72.2661,
+          "t": 744.7477,
+          "r": 146.80408,
+          "b": 751.2007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0123456789003001    2000012342",
+          "l": 354.2661,
+          "t": 751.8912,
+          "r": 570.2665,
+          "b": 757.2012,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb",
+          "l": 346.0801,
+          "t": 461.7781,
+          "r": 356.4181,
+          "b": 466.0801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb",
+          "l": 456.0,
+          "t": 461.7781,
+          "r": 466.33798,
+          "b": 466.0801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar",
+          "l": 346.0801,
+          "t": 471.8582,
+          "r": 356.41208,
+          "b": 476.1602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar",
+          "l": 456.0,
+          "t": 471.8582,
+          "r": 466.33197,
+          "b": 476.1602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Apr",
+          "l": 347.041,
+          "t": 481.9382,
+          "r": 356.37698,
+          "b": 486.2402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Apr",
+          "l": 456.9609,
+          "t": 481.9382,
+          "r": 466.2969,
+          "b": 486.2402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May",
+          "l": 345.1211,
+          "t": 492.0178,
+          "r": 356.45508,
+          "b": 496.3198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May",
+          "l": 455.041,
+          "t": 492.0178,
+          "r": 466.37497,
+          "b": 496.3198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jun",
+          "l": 346.5605,
+          "t": 502.0984,
+          "r": 356.23248,
+          "b": 506.4004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jun",
+          "l": 456.4805,
+          "t": 502.0979,
+          "r": 466.1525,
+          "b": 506.3999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jul",
+          "l": 348.4805,
+          "t": 512.1775,
+          "r": 356.1485,
+          "b": 516.4795,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jul",
+          "l": 458.4004,
+          "t": 512.178,
+          "r": 466.0684,
+          "b": 516.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aug",
+          "l": 345.5986,
+          "t": 522.2585,
+          "r": 356.2726,
+          "b": 526.5605,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aug",
+          "l": 455.5205,
+          "t": 522.2581,
+          "r": 466.19452,
+          "b": 526.5601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sep",
+          "l": 345.6006,
+          "t": 532.3386,
+          "r": 356.2746,
+          "b": 536.6406,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sep",
+          "l": 455.5205,
+          "t": 532.3381,
+          "r": 466.19452,
+          "b": 536.6401,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct",
+          "l": 347.04,
+          "t": 542.4177,
+          "r": 356.376,
+          "b": 546.7197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct",
+          "l": 456.96,
+          "t": 542.4177,
+          "r": 466.296,
+          "b": 546.7197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nov",
+          "l": 346.0791,
+          "t": 552.4978,
+          "r": 356.7471,
+          "b": 556.7998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nov",
+          "l": 455.999,
+          "t": 552.4978,
+          "r": 466.667,
+          "b": 556.7998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dec",
+          "l": 345.6006,
+          "t": 562.57837,
+          "r": 356.2686,
+          "b": 566.8804,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dec",
+          "l": 455.5205,
+          "t": 562.5779,
+          "r": 466.1885,
+          "b": 566.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan",
+          "l": 346.5596,
+          "t": 572.6584,
+          "r": 356.2316,
+          "b": 576.9604,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan",
+          "l": 456.4795,
+          "t": 572.658,
+          "r": 466.1515,
+          "b": 576.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb",
+          "l": 346.0791,
+          "t": 582.738,
+          "r": 356.41708,
+          "b": 587.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb",
+          "l": 456.001,
+          "t": 582.738,
+          "r": 466.339,
+          "b": 587.04,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,285 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Electronic Reservation Slip",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 226.315,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PNR: 8472619305    Train: 12951 MUMBAI RAJDHANI",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 319.71,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Arr",
+          "l": 430.3,
+          "t": 90.17079,
+          "r": 445.28003,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Co",
+          "l": 484.45,
+          "t": 90.17079,
+          "r": 497.75003,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "S",
+          "l": 537.5,
+          "t": 90.17079,
+          "r": 544.16,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date of",
+          "l": 279.15,
+          "t": 95.92079,
+          "r": 315.74994,
+          "b": 101.50079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Depar",
+          "l": 360.95,
+          "t": 95.92079,
+          "r": 389.28003,
+          "b": 101.50079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "From",
+          "l": 76.2,
+          "t": 101.67079,
+          "r": 101.17999,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "To",
+          "l": 164.15,
+          "t": 101.67079,
+          "r": 176.35,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "iva",
+          "l": 430.3,
+          "t": 101.67079,
+          "r": 444.15997,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ac",
+          "l": 484.45,
+          "t": 101.67079,
+          "r": 495.56,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 537.5,
+          "t": 101.67079,
+          "r": 543.06,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Journey",
+          "l": 279.15,
+          "t": 107.42079,
+          "r": 318.0,
+          "b": 113.00079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ture",
+          "l": 360.95,
+          "t": 107.42079,
+          "r": 379.80002,
+          "b": 113.00079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "l",
+          "l": 430.3,
+          "t": 113.17079,
+          "r": 433.06998,
+          "b": 118.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "h",
+          "l": 484.45,
+          "t": 113.17079,
+          "r": 490.55002,
+          "b": 118.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "at",
+          "l": 537.5,
+          "t": 113.17079,
+          "r": 546.38,
+          "b": 118.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 537.5,
+          "t": 141.62074,
+          "r": 543.06,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NEW",
+          "l": 76.2,
+          "t": 147.37074,
+          "r": 102.259995,
+          "b": 152.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MUMBAI",
+          "l": 164.15,
+          "t": 147.37074,
+          "r": 206.89003,
+          "b": 152.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/10/20",
+          "l": 279.15,
+          "t": 153.12074,
+          "r": 318.0399,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08:",
+          "l": 430.3,
+          "t": 153.12074,
+          "r": 444.16995,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 537.5,
+          "t": 153.12074,
+          "r": 545.82,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DELHI",
+          "l": 76.2,
+          "t": 158.87074,
+          "r": 108.39999,
+          "b": 164.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CENTRAL",
+          "l": 164.15,
+          "t": 158.87074,
+          "r": 213.55002,
+          "b": 164.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16:25",
+          "l": 360.95,
+          "t": 158.87074,
+          "r": 385.94995,
+          "b": 164.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A1",
+          "l": 484.45,
+          "t": 158.87074,
+          "r": 496.66,
+          "b": 164.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 279.15,
+          "t": 164.62074,
+          "r": 290.25998,
+          "b": 170.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "35",
+          "l": 430.3,
+          "t": 164.62074,
+          "r": 441.40997,
+          "b": 170.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "L",
+          "l": 537.5,
+          "t": 164.62074,
+          "r": 543.06,
+          "b": 170.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(NDLS)",
+          "l": 76.2,
+          "t": 170.37074,
+          "r": 109.509995,
+          "b": 175.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(MMCT)",
+          "l": 164.15,
+          "t": 170.37074,
+          "r": 200.76001,
+          "b": 175.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "B",
+          "l": 537.5,
+          "t": 176.12074,
+          "r": 544.16,
+          "b": 181.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please report at the boarding station 30 minutes before departure.",
+          "l": 74.8,
+          "t": 203.17079,
+          "r": 366.9399,
+          "b": 208.7508,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

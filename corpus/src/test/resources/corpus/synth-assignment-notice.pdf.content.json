@@ -1,0 +1,53 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Department of Computer Science — Notice",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 315.391,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sub: Submission of Assignment 2 (Data Structures, CS-2101)",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 348.0299,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All students of Semester 3 are informed that the last date for submission of Assignment 2 is 25/09/2026.",
+          "l": 74.8,
+          "t": 88.77077,
+          "r": 536.8496,
+          "b": 94.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Submissions received after 5:00 PM on 25/09/2026 will not be accepted.",
+          "l": 74.8,
+          "t": 100.27077,
+          "r": 394.7398,
+          "b": 105.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Vivas will be conducted on 29/09/2026 from 11:00 AM in Room A-204.",
+          "l": 74.8,
+          "t": 125.92079,
+          "r": 385.8399,
+          "b": 131.5008,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

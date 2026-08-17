@@ -1,0 +1,628 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "SAMPLE TRAINING AGENDA: Two-Day 16 Hour",
+          "l": 72.0,
+          "t": 107.89453,
+          "r": 341.0988,
+          "b": 115.243164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*This schedule offers a loose overview of how a 2-day",
+          "l": 72.0,
+          "t": 136.26416,
+          "r": 309.94012,
+          "b": 141.98438,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ITC training is structured. Topic order and pacing",
+          "l": 312.4217,
+          "t": 136.26416,
+          "r": 527.55066,
+          "b": 141.98438,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "may vary depending on how the training is designed",
+          "l": 72.0,
+          "t": 151.70605,
+          "r": 304.1549,
+          "b": 157.42627,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and timing day-of.",
+          "l": 306.636,
+          "t": 151.70605,
+          "r": 388.086,
+          "b": 157.42627,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day 1:",
+          "l": 72.0,
+          "t": 187.19336,
+          "r": 103.06055,
+          "b": 193.49219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:00am:",
+          "l": 72.0,
+          "t": 220.94336,
+          "r": 112.33008,
+          "b": 227.1836,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Welcome and Overview. The big picture of SUDs",
+          "l": 115.04297,
+          "t": 220.94043,
+          "r": 349.2129,
+          "b": 227.1836,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and their impact",
+          "l": 351.92578,
+          "t": 220.94043,
+          "r": 432.42773,
+          "b": 227.1836,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:30am:",
+          "l": 72.0,
+          "t": 237.78906,
+          "r": 112.33008,
+          "b": 244.0293,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Overview of the evidence-based strategies",
+          "l": 115.04297,
+          "t": 237.78613,
+          "r": 321.84375,
+          "b": 244.0293,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "included in the Invitation to Change",
+          "l": 324.55664,
+          "t": 237.78613,
+          "r": 497.9707,
+          "b": 244.0293,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Approach and evidence supporting their use",
+          "l": 72.0,
+          "t": 254.63184,
+          "r": 287.67773,
+          "b": 260.875,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:30am: Break",
+          "l": 72.0,
+          "t": 288.26758,
+          "r": 149.92969,
+          "b": 294.5664,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:45am:",
+          "l": 72.0,
+          "t": 322.01758,
+          "r": 118.41211,
+          "b": 328.2578,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Helping with Understanding: Behaviors Make",
+          "l": 121.125,
+          "t": 322.01465,
+          "r": 340.3828,
+          "b": 328.2578,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sense (overview of the topic, substance",
+          "l": 343.0957,
+          "t": 322.01465,
+          "r": 535.6758,
+          "b": 328.2578,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "use reasons that make sense, impact of Understanding,",
+          "l": 72.0,
+          "t": 338.86035,
+          "r": 341.0625,
+          "b": 345.10352,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kelly Wilson meditation, debrief)",
+          "l": 343.7754,
+          "t": 338.86035,
+          "r": 503.73633,
+          "b": 345.10352,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:15pm: Lunch Break",
+          "l": 72.0,
+          "t": 372.4961,
+          "r": 182.57227,
+          "b": 378.79492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1:15pm:",
+          "l": 72.0,
+          "t": 406.2461,
+          "r": 112.33008,
+          "b": 412.48633,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Helping with Understanding: One Size Does",
+          "l": 115.04297,
+          "t": 406.24316,
+          "r": 325.7461,
+          "b": 412.48633,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Not Fit All (overview of the topic,",
+          "l": 328.45898,
+          "t": 406.24316,
+          "r": 489.35742,
+          "b": 412.48633,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "considering diversity of substance use experiences",
+          "l": 72.0,
+          "t": 423.08887,
+          "r": 316.93945,
+          "b": 429.33203,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and contexts, talking to families, impact,",
+          "l": 319.65234,
+          "t": 423.08887,
+          "r": 515.61914,
+          "b": 429.33203,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "debrief)",
+          "l": 72.0,
+          "t": 439.93457,
+          "r": 110.859375,
+          "b": 446.17773,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2:15pm: Break",
+          "l": 72.0,
+          "t": 473.5703,
+          "r": 144.36328,
+          "b": 479.86914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2:30pm:",
+          "l": 72.0,
+          "t": 507.3203,
+          "r": 112.33008,
+          "b": 513.56055,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Helping with Understanding: Ambivalence is",
+          "l": 115.04297,
+          "t": 507.31738,
+          "r": 329.83008,
+          "b": 513.56055,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Normal (overview of the topic,",
+          "l": 332.54297,
+          "t": 507.31738,
+          "r": 481.5293,
+          "b": 513.56055,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ambivalence and uncertainty are part of the change",
+          "l": 72.0,
+          "t": 524.1631,
+          "r": 323.9004,
+          "b": 530.40625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "process, acknowledging positives and",
+          "l": 326.61328,
+          "t": 524.1631,
+          "r": 508.8047,
+          "b": 530.40625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "negatives of use, ambivalence exercise: listening",
+          "l": 72.0,
+          "t": 541.0088,
+          "r": 306.3457,
+          "b": 547.25195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "vs. telling vs. asking)",
+          "l": 309.0586,
+          "t": 541.0088,
+          "r": 407.6953,
+          "b": 547.25195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3:30 pm:",
+          "l": 72.0,
+          "t": 557.8574,
+          "r": 115.04297,
+          "b": 564.09766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Importance of Practice (Stumbling and",
+          "l": 117.75586,
+          "t": 557.8545,
+          "r": 325.79297,
+          "b": 564.09766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Positive Change, practice writing exercise)",
+          "l": 328.50586,
+          "t": 557.8545,
+          "r": 532.3125,
+          "b": 564.09766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4:30 pm:",
+          "l": 72.0,
+          "t": 574.7031,
+          "r": 115.04297,
+          "b": 580.94336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Review of the day and preparation for tomorrow",
+          "l": 117.75586,
+          "t": 574.7002,
+          "r": 353.96484,
+          "b": 580.94336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5:00 pm: End Day 1",
+          "l": 72.0,
+          "t": 608.33594,
+          "r": 167.68945,
+          "b": 614.63477,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day 2:",
+          "l": 72.0,
+          "t": 642.02734,
+          "r": 103.06055,
+          "b": 648.3262,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:00am:",
+          "l": 72.0,
+          "t": 658.93164,
+          "r": 112.33008,
+          "b": 665.1719,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Check-in and review of Day 1 material",
+          "l": 115.04297,
+          "t": 658.9287,
+          "r": 298.69922,
+          "b": 665.1719,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:30am:",
+          "l": 72.0,
+          "t": 675.77734,
+          "r": 112.33008,
+          "b": 682.0176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Overview and framing for the day",
+          "l": 115.04297,
+          "t": 675.7744,
+          "r": 278.26172,
+          "b": 682.0176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9:45am:",
+          "l": 72.0,
+          "t": 692.62305,
+          "r": 112.33008,
+          "b": 698.8633,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Helping with Awareness: Self-Awareness and",
+          "l": 115.04297,
+          "t": 692.6201,
+          "r": 333.16992,
+          "b": 698.8633,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Willingness (overview, noticing and",
+          "l": 335.8828,
+          "t": 692.6201,
+          "r": 506.98242,
+          "b": 698.8633,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "accepting painful feelings and thoughts, two sides",
+          "l": 72.0,
+          "t": 709.4658,
+          "r": 314.4375,
+          "b": 715.709,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of the coin –  connecting with values vs.",
+          "l": 317.1504,
+          "t": 709.4658,
+          "r": 510.6211,
+          "b": 715.709,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "avoiding discomfort, My 80th Birthday, Willingness: choosing to confront truth, The Pause",
+          "l": 72.0,
+          "t": 77.40527,
+          "r": 508.18945,
+          "b": 83.64844,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Button, debrief)",
+          "l": 72.0,
+          "t": 94.25098,
+          "r": 149.7832,
+          "b": 100.49414,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:30am: Break",
+          "l": 72.0,
+          "t": 127.88672,
+          "r": 149.92969,
+          "b": 134.18555,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:45am:",
+          "l": 72.0,
+          "t": 161.63672,
+          "r": 118.41211,
+          "b": 167.87695,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Helping with Awareness: Self-Compassion (overview,",
+          "l": 121.125,
+          "t": 161.63379,
+          "r": 377.3496,
+          "b": 167.87695,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "self-compassion vs. “self-care,”",
+          "l": 380.0625,
+          "t": 161.63379,
+          "r": 529.8164,
+          "b": 167.87695,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Holding Shame meditation, three components of self-compassion,",
+          "l": 72.0,
+          "t": 178.47949,
+          "r": 393.6211,
+          "b": 184.72266,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "making space to care for",
+          "l": 396.33398,
+          "t": 178.47949,
+          "r": 515.34375,
+          "b": 184.72266,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "loved one and self, self-kindness practices)",
+          "l": 72.0,
+          "t": 195.3252,
+          "r": 278.5957,
+          "b": 201.56836,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:15pm: Lunch",
+          "l": 72.0,
+          "t": 228.96094,
+          "r": 151.27734,
+          "b": 235.25977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1:15pm:",
+          "l": 72.0,
+          "t": 262.71094,
+          "r": 112.33008,
+          "b": 268.95117,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Helping with Action: Communication Tools (overview,",
+          "l": 115.04297,
+          "t": 262.708,
+          "r": 374.38477,
+          "b": 268.95117,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "red lights and green lights,",
+          "l": 377.09766,
+          "t": 262.708,
+          "r": 505.64648,
+          "b": 268.95117,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "L-O-V-E skills, O-A-R-S, closed vs. open questions,",
+          "l": 72.0,
+          "t": 279.5537,
+          "r": 310.66406,
+          "b": 285.79688,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "affirmations, listening and reflection exercises,",
+          "l": 313.37695,
+          "t": 279.5537,
+          "r": 539.25,
+          "b": 285.79688,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "combining LOVE elements, recap and debrief)",
+          "l": 72.0,
+          "t": 296.3994,
+          "r": 294.16406,
+          "b": 302.64258,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2:30pm: Break",
+          "l": 72.0,
+          "t": 330.03516,
+          "r": 144.36328,
+          "b": 336.33398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2:45pm:",
+          "l": 72.0,
+          "t": 363.78516,
+          "r": 112.33008,
+          "b": 370.0254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Helping with Action: Behavior Tools (garden",
+          "l": 115.04297,
+          "t": 363.78223,
+          "r": 327.5039,
+          "b": 370.0254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "metaphor: grow the positive, reduce the",
+          "l": 330.2168,
+          "t": 363.78223,
+          "r": 527.08594,
+          "b": 370.0254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "negative, behavior reinforcement deep dive, Finding",
+          "l": 72.0,
+          "t": 380.62793,
+          "r": 325.76367,
+          "b": 386.8711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Reinforcers, S-U-R-F, allowing natural",
+          "l": 328.47656,
+          "t": 380.62793,
+          "r": 507.87305,
+          "b": 386.8711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "consequences, limit setting, recap and debrief)",
+          "l": 72.0,
+          "t": 397.47363,
+          "r": 299.86523,
+          "b": 403.7168,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4:00pm:",
+          "l": 72.0,
+          "t": 414.32227,
+          "r": 112.33008,
+          "b": 420.5625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wrap-up, review, questions",
+          "l": 115.04297,
+          "t": 414.31934,
+          "r": 247.86328,
+          "b": 420.5625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5:00pm: End Day 2",
+          "l": 72.0,
+          "t": 447.95508,
+          "r": 164.97656,
+          "b": 454.2539,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

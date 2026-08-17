@@ -1,0 +1,2776 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Course Syllabus – SP26",
+          "l": 159.62,
+          "t": 59.862217,
+          "r": 557.22906,
+          "b": 65.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "_____________________________________________________________________________________________________________",
+          "l": 72.024,
+          "t": 71.109245,
+          "r": 558.708,
+          "b": 74.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ENGS 330-A: Dynamics",
+          "l": 237.05,
+          "t": 86.87334,
+          "r": 378.43,
+          "b": 92.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Information:",
+          "l": 72.024,
+          "t": 113.41067,
+          "r": 172.22,
+          "b": 118.34003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Instructor: Dr. Rajesh Vuddandam (Dr. Raj)",
+          "l": 72.024,
+          "t": 125.922325,
+          "r": 278.09,
+          "b": 130.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Email: vuddandam@roanoke.edu",
+          "l": 72.024,
+          "t": 138.5223,
+          "r": 226.25,
+          "b": 143.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Office: Trexler 270J; Phone: 540-375-2010;",
+          "l": 72.024,
+          "t": 151.24232,
+          "r": 278.33002,
+          "b": 156.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Office Hours: MWF 10:45am -12pm & 1pm to 2pm or by appointment",
+          "l": 72.024,
+          "t": 163.8423,
+          "r": 394.15002,
+          "b": 168.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Lecture time: MWF 2:20 – 3:20 pm; Lecture Room: Trexler 273; Units: 1",
+          "l": 72.024,
+          "t": 176.56233,
+          "r": 401.59,
+          "b": 181.58002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Description:",
+          "l": 72.024,
+          "t": 201.97066,
+          "r": 169.22,
+          "b": 206.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This course introduces principles of engineering dynamics, which elucidate applications of Newtonian",
+          "l": 72.024,
+          "t": 214.48232,
+          "r": 525.94,
+          "b": 219.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "principles. This includes an introduction to kinetics of a system of particles subjected to uniform and non-",
+          "l": 72.024,
+          "t": 227.08229,
+          "r": 538.13635,
+          "b": 232.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "uniform motion.",
+          "l": 72.024,
+          "t": 239.83229,
+          "r": 146.9,
+          "b": 244.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Prerequisites:",
+          "l": 72.024,
+          "t": 265.24063,
+          "r": 179.29999,
+          "b": 270.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ENGS-211 (Statics & Materials Testing) - Must be completed prior to taking this course.",
+          "l": 72.024,
+          "t": 277.75232,
+          "r": 466.54,
+          "b": 282.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PHYS-270 (Math Methods for Physics) or MATH-331 (Differential Equations) - Must be completed prior to",
+          "l": 72.024,
+          "t": 290.35233,
+          "r": 553.96826,
+          "b": 295.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "taking this course.",
+          "l": 72.024,
+          "t": 303.07233,
+          "r": 155.18,
+          "b": 308.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Textbook and/or Resource Materials:",
+          "l": 72.024,
+          "t": 328.48065,
+          "r": 253.84999,
+          "b": 333.41,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• (Required): Free OER Textbook -  Mechanics Map by Moore (Chapters 8 to 16); Alternate source link",
+          "l": 72.024,
+          "t": 341.67224,
+          "r": 544.5362,
+          "b": 346.85,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "form LibreTexts bookshelf: Mechanics Map by Moore, 2nd Edition",
+          "l": 90.024,
+          "t": 352.32666,
+          "r": 389.47,
+          "b": 359.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• (Required): Free Pdf - NCEES Fundamentals of Engineering (FE) Handbook, but you must be registered",
+          "l": 72.024,
+          "t": 367.71225,
+          "r": 554.4644,
+          "b": 372.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and logged into your MyNCEES account to access it by visiting https://ncees.org/",
+          "l": 90.024,
+          "t": 380.47232,
+          "r": 458.26,
+          "b": 385.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• (Required): NCEES exams approved calculator",
+          "l": 72.024,
+          "t": 393.87222,
+          "r": 301.75,
+          "b": 399.05,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• (Optional): Free OER Textbook - Introductory Dynamics by Steeneken, from LibreTexts bookshelf.",
+          "l": 72.024,
+          "t": 407.33224,
+          "r": 536.5,
+          "b": 412.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Inquire:",
+          "l": 72.024,
+          "t": 432.78064,
+          "r": 116.66,
+          "b": 437.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Inquire Access (required) – Inquire is a learning management system that will be used to post all course",
+          "l": 72.024,
+          "t": 445.41232,
+          "r": 531.6775,
+          "b": 450.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "activity handouts, assignments, project details, syllabus  etc., and can be accessed using Roanoke college’s",
+          "l": 72.024,
+          "t": 458.01233,
+          "r": 544.3829,
+          "b": 463.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "student login credentials using the following link https://inquire.roanoke.edu/",
+          "l": 72.024,
+          "t": 470.61234,
+          "r": 417.67,
+          "b": 475.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ABET Criteria 3 Student Outcomes:",
+          "l": 72.024,
+          "t": 496.02066,
+          "r": 249.29,
+          "b": 500.95,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The learning outcomes for this course are explicitly mapped to ABET Criterion 3 Student Outcomes (1-7).",
+          "l": 72.024,
+          "t": 508.65237,
+          "r": 544.1695,
+          "b": 513.67004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This course contributes predominantly to the achievement of ABET Student Outcomes 1, 2, and 7, preparing",
+          "l": 72.024,
+          "t": 521.2523,
+          "r": 553.9373,
+          "b": 526.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "students to apply foundational knowledge, solve engineering problems, and engage in lifelong learning.",
+          "l": 72.024,
+          "t": 533.8523,
+          "r": 530.98,
+          "b": 538.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1. an ability to identify, formulate, and solve complex engineering problems by applying principles of",
+          "l": 90.024,
+          "t": 546.41223,
+          "r": 548.1937,
+          "b": 551.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "engineering, science, and mathematics.",
+          "l": 108.02,
+          "t": 559.1723,
+          "r": 283.13,
+          "b": 564.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2. an ability to apply engineering design to produce solutions that meet specified needs with",
+          "l": 90.024,
+          "t": 571.76227,
+          "r": 504.5363,
+          "b": 576.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "consideration of public health, safety, and welfare, and global, cultural, social, environmental, and",
+          "l": 108.02,
+          "t": 584.5223,
+          "r": 542.9628,
+          "b": 589.54,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "economic factors.",
+          "l": 108.02,
+          "t": 597.1223,
+          "r": 189.04999,
+          "b": 602.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3. an ability to communicate effectively with a range of audiences.",
+          "l": 90.024,
+          "t": 609.68225,
+          "r": 393.07,
+          "b": 614.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4. an ability to recognize ethical and professional responsibilities in engineering situations and make",
+          "l": 90.024,
+          "t": 622.2823,
+          "r": 541.5493,
+          "b": 627.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "informed judgments, which must consider the impact of engineering solutions in global, economic,",
+          "l": 108.02,
+          "t": 635.1623,
+          "r": 546.68335,
+          "b": 640.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "environmental, and societal contexts.",
+          "l": 108.02,
+          "t": 647.7623,
+          "r": 274.25,
+          "b": 652.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5. an ability to function effectively on a team whose members together provide leadership, create a",
+          "l": 90.024,
+          "t": 660.2023,
+          "r": 534.2866,
+          "b": 665.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "l": 108.02,
+          "t": 673.0823,
+          "r": 502.66,
+          "b": 678.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6. an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use",
+          "l": 90.024,
+          "t": 685.5223,
+          "r": 541.75964,
+          "b": 690.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "engineering judgment to draw conclusions.",
+          "l": 108.02,
+          "t": 698.3983,
+          "r": 300.53,
+          "b": 703.416,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7. an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.",
+          "l": 90.024,
+          "t": 710.83826,
+          "r": 530.26,
+          "b": 716.016,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Course Syllabus – SP26",
+          "l": 159.62,
+          "t": 59.862217,
+          "r": 557.22906,
+          "b": 65.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "_____________________________________________________________________________________________________________",
+          "l": 72.024,
+          "t": 71.109245,
+          "r": 558.708,
+          "b": 74.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Learning Outcomes:",
+          "l": 72.024,
+          "t": 81.85067,
+          "r": 210.76999,
+          "b": 86.78003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Upon successful completion of this course, students will be able to:",
+          "l": 72.024,
+          "t": 94.36233,
+          "r": 371.47,
+          "b": 99.380005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Understand and apply the laws of motion to a system of particles. (ABET SO1, SO7)",
+          "l": 90.024,
+          "t": 107.076775,
+          "r": 481.90002,
+          "b": 112.099976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Differentiate between absolute dependent motion and relative motion for a system of particles. (ABET",
+          "l": 90.024,
+          "t": 119.67681,
+          "r": 560.00464,
+          "b": 124.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SO1)",
+          "l": 108.02,
+          "t": 132.2768,
+          "r": 133.34,
+          "b": 137.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Analyze equations of motion in rectilinear and curvilinear coordinate systems. (ABET SO1, SO2)",
+          "l": 90.024,
+          "t": 144.99683,
+          "r": 537.94,
+          "b": 150.02002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Understand rigid body dynamics through a study of translation and rotation vectors of planar kinetic",
+          "l": 90.024,
+          "t": 157.60231,
+          "r": 551.81683,
+          "b": 162.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "motion. (ABET SO1, SO7)",
+          "l": 108.02,
+          "t": 170.31683,
+          "r": 227.20999,
+          "b": 175.34003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Apply the principles of conservation of linear momentum, angular momentum, and energy to both",
+          "l": 90.024,
+          "t": 182.92232,
+          "r": 542.9629,
+          "b": 187.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "systems of particles and rigid bodies. (ABET SO1, SO2, SO7)",
+          "l": 108.02,
+          "t": 195.51678,
+          "r": 380.83002,
+          "b": 200.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Understand the 3D kinetics of a rigid body. (ABET SO1, SO7)",
+          "l": 90.024,
+          "t": 208.23682,
+          "r": 383.83002,
+          "b": 213.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Expectations & Course Format:",
+          "l": 72.024,
+          "t": 233.65065,
+          "r": 262.85,
+          "b": 238.58002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This course expects you to spend at least 12 hours of work each week inside and outside of class. This course",
+          "l": 72.024,
+          "t": 246.79231,
+          "r": 556.0096,
+          "b": 251.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "utilizes a flipped classroom model to maximize active, applied learning during our scheduled class time. Your",
+          "l": 72.024,
+          "t": 260.11234,
+          "r": 558.95734,
+          "b": 265.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "preparedness and engagement are essential for your success and the success of the class.",
+          "l": 72.024,
+          "t": 273.55234,
+          "r": 463.54,
+          "b": 278.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Before Class (Your Responsibility): You are required to prepare for each class session by reviewing",
+          "l": 90.024,
+          "t": 286.83224,
+          "r": 551.344,
+          "b": 292.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the assigned learning materials. These will include - Recorded video lectures and notes from",
+          "l": 108.02,
+          "t": 300.31232,
+          "r": 517.8955,
+          "b": 305.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the Mechanics Map LibreTexts OER (Open Educational Resource) textbook; Any other assigned",
+          "l": 108.02,
+          "t": 313.7468,
+          "r": 538.36865,
+          "b": 318.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "readings or multimedia content posted on INQUIRE",
+          "l": 108.02,
+          "t": 327.19232,
+          "r": 341.23,
+          "b": 332.21,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• During Class (Our Collaborative Time): Class time will be dedicated to active application and",
+          "l": 90.024,
+          "t": 340.51233,
+          "r": 524.69965,
+          "b": 345.53,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "deepening understanding, not passive lecture. Activities will include:",
+          "l": 108.02,
+          "t": 353.95233,
+          "r": 414.79,
+          "b": 358.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Clarifying complex concepts and addressing questions from the prepared material.",
+          "l": 126.02,
+          "t": 367.39233,
+          "r": 509.74002,
+          "b": 372.41,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Collaborative problem-solving and guided practice.",
+          "l": 126.02,
+          "t": 380.71234,
+          "r": 373.87,
+          "b": 385.73,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Reviewing and discussing homework assignments.",
+          "l": 126.02,
+          "t": 394.15234,
+          "r": 370.75,
+          "b": 399.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your consistent preparation is the foundation of this model. Coming to class having engaged with the",
+          "l": 72.024,
+          "t": 407.61234,
+          "r": 521.5041,
+          "b": 412.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "preliminary material allows us to work together to solve challenging problems and master the course content.",
+          "l": 72.024,
+          "t": 420.93234,
+          "r": 555.72003,
+          "b": 425.95,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grading Policy:",
+          "l": 72.024,
+          "t": 447.30066,
+          "r": 149.65999,
+          "b": 452.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Class grades will be calculated according to the following distribution",
+          "l": 72.024,
+          "t": 461.85233,
+          "r": 382.99002,
+          "b": 466.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Category",
+          "l": 86.424,
+          "t": 476.94064,
+          "r": 132.5,
+          "b": 481.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "% Distribution",
+          "l": 325.87,
+          "t": 476.94064,
+          "r": 399.79,
+          "b": 481.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Attendance/Class Participation",
+          "l": 86.424,
+          "t": 490.29233,
+          "r": 225.17,
+          "b": 495.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5%",
+          "l": 325.87,
+          "t": 490.29233,
+          "r": 343.27002,
+          "b": 495.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Handouts (Individual), Chapter-wise",
+          "l": 86.424,
+          "t": 505.77234,
+          "r": 250.84999,
+          "b": 510.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15%",
+          "l": 325.87,
+          "t": 505.77234,
+          "r": 348.79,
+          "b": 510.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework Assignments (Individual), Chapter-wise 10%",
+          "l": 86.424,
+          "t": 521.3723,
+          "r": 348.79,
+          "b": 526.39,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quizzes (4x), 2 before Midterm, 2 after Midterm",
+          "l": 86.424,
+          "t": 536.8523,
+          "r": 304.03,
+          "b": 541.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30%",
+          "l": 325.87,
+          "t": 536.8523,
+          "r": 348.79,
+          "b": 541.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm Exam (Individual)",
+          "l": 86.424,
+          "t": 552.3323,
+          "r": 211.37,
+          "b": 557.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20%",
+          "l": 325.87,
+          "t": 552.3323,
+          "r": 348.79,
+          "b": 557.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam (Comprehensive)",
+          "l": 86.424,
+          "t": 567.8423,
+          "r": 219.29,
+          "b": 572.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20%",
+          "l": 325.87,
+          "t": 567.8423,
+          "r": 348.79,
+          "b": 572.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total",
+          "l": 86.424,
+          "t": 583.4106,
+          "r": 114.26,
+          "b": 588.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100%",
+          "l": 325.87,
+          "t": 583.4106,
+          "r": 358.87,
+          "b": 588.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The final grade will be assigned as follows, although the instructor reserves the right to lower the limits",
+          "l": 72.024,
+          "t": 600.8423,
+          "r": 530.02,
+          "b": 605.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "slightly at their discretion considering factors such as student attendance, class participation, and class",
+          "l": 72.024,
+          "t": 617.2823,
+          "r": 524.24274,
+          "b": 622.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "performance.",
+          "l": 72.024,
+          "t": 631.8023,
+          "r": 133.09999,
+          "b": 636.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Points",
+          "l": 91.104,
+          "t": 647.2823,
+          "r": 121.340004,
+          "b": 652.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grade",
+          "l": 139.46,
+          "t": 647.2823,
+          "r": 169.09999,
+          "b": 652.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Points",
+          "l": 187.13,
+          "t": 647.2823,
+          "r": 217.37,
+          "b": 652.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grade",
+          "l": 235.37,
+          "t": 647.4023,
+          "r": 265.01,
+          "b": 652.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "<60",
+          "l": 96.264,
+          "t": 661.0823,
+          "r": 116.18,
+          "b": 666.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "F",
+          "l": 149.78,
+          "t": 661.0823,
+          "r": 158.65999,
+          "b": 666.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "77-79",
+          "l": 188.09,
+          "t": 661.0823,
+          "r": 216.53,
+          "b": 666.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "C+",
+          "l": 242.09,
+          "t": 661.0823,
+          "r": 258.41,
+          "b": 666.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "60-62",
+          "l": 91.944,
+          "t": 674.7623,
+          "r": 120.380005,
+          "b": 679.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "D-",
+          "l": 147.02,
+          "t": 674.7623,
+          "r": 161.42,
+          "b": 679.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "80-82",
+          "l": 188.09,
+          "t": 674.7623,
+          "r": 216.53,
+          "b": 679.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "B-",
+          "l": 243.29,
+          "t": 674.8823,
+          "r": 257.09,
+          "b": 679.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "63-66",
+          "l": 91.944,
+          "t": 688.5583,
+          "r": 120.380005,
+          "b": 693.576,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "D",
+          "l": 148.94,
+          "t": 688.5583,
+          "r": 159.62,
+          "b": 693.576,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "83-86",
+          "l": 188.09,
+          "t": 688.5583,
+          "r": 216.53,
+          "b": 693.576,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "B",
+          "l": 245.21,
+          "t": 688.6783,
+          "r": 255.29,
+          "b": 693.696,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "67-69",
+          "l": 91.944,
+          "t": 702.2383,
+          "r": 120.380005,
+          "b": 707.256,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "D+",
+          "l": 145.82,
+          "t": 702.2383,
+          "r": 162.73999,
+          "b": 707.256,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "87-89",
+          "l": 188.09,
+          "t": 702.2383,
+          "r": 216.53,
+          "b": 707.256,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "B+",
+          "l": 242.09,
+          "t": 702.3583,
+          "r": 258.41,
+          "b": 707.376,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "70-72",
+          "l": 91.944,
+          "t": 716.0383,
+          "r": 120.380005,
+          "b": 721.056,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "C-",
+          "l": 147.38,
+          "t": 716.0383,
+          "r": 161.18,
+          "b": 721.056,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "90-92",
+          "l": 188.09,
+          "t": 716.0383,
+          "r": 216.53,
+          "b": 721.056,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A-",
+          "l": 243.05,
+          "t": 716.1583,
+          "r": 257.45,
+          "b": 721.176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "73-76",
+          "l": 91.944,
+          "t": 729.7423,
+          "r": 120.380005,
+          "b": 734.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "C",
+          "l": 149.18,
+          "t": 729.7423,
+          "r": 159.26,
+          "b": 734.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "≥93",
+          "l": 192.41,
+          "t": 729.7423,
+          "r": 212.20999,
+          "b": 734.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A",
+          "l": 244.85,
+          "t": 729.8623,
+          "r": 255.53,
+          "b": 734.88,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Course Syllabus – SP26",
+          "l": 159.62,
+          "t": 59.862217,
+          "r": 557.22906,
+          "b": 65.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "_____________________________________________________________________________________________________________",
+          "l": 72.024,
+          "t": 71.109245,
+          "r": 558.708,
+          "b": 74.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Attendance Policy:",
+          "l": 72.024,
+          "t": 81.85067,
+          "r": 163.7,
+          "b": 86.78003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Regular attendance is required for this course. The instructor records attendance via INQUIRE, and it",
+          "l": 72.024,
+          "t": 96.402306,
+          "r": 521.47266,
+          "b": 101.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "contributes directly to your final grade as detailed in the grading policy. Attendance is graded using the",
+          "l": 72.024,
+          "t": 110.922325,
+          "r": 528.97766,
+          "b": 115.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "following point values: full attendance (P) = 2 points; late arrival or early departure (L) = 1 point;",
+          "l": 72.024,
+          "t": 125.442345,
+          "r": 505.63358,
+          "b": 130.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "documented, excused absence (E) = 1 point; unexcused absence (A) = 0 points. Students must notify the",
+          "l": 72.024,
+          "t": 140.08229,
+          "r": 534.64044,
+          "b": 145.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "instructor promptly of any excused absence and are personally accountable for all missed content and",
+          "l": 72.024,
+          "t": 154.60231,
+          "r": 521.47156,
+          "b": 159.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "assignments. If you miss class for a college activity, please contact instructor to arrange a make-up plan",
+          "l": 72.024,
+          "t": 169.12233,
+          "r": 531.4336,
+          "b": 174.14001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(e.g., a different deadline or exam time). To protect your learning, the college recommends that total",
+          "l": 72.024,
+          "t": 183.64229,
+          "r": 516.4061,
+          "b": 188.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "absences, across all reasons, stay below 20% of class meetings; coaches and instructors will work with",
+          "l": 72.024,
+          "t": 198.2823,
+          "r": 526.8717,
+          "b": 203.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you to help manage this limit. Also, read the late/make-up work policy section.",
+          "l": 72.024,
+          "t": 212.80232,
+          "r": 422.86002,
+          "b": 217.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Class Participation:",
+          "l": 72.024,
+          "t": 243.76064,
+          "r": 168.01999,
+          "b": 248.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This course emphasizes active, in-class collaboration, requiring thorough preparation before each session",
+          "l": 72.024,
+          "t": 258.31235,
+          "r": 537.51465,
+          "b": 263.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and engaged participation during class to succeed. Your grade is directly influenced by this participation",
+          "l": 72.024,
+          "t": 272.8323,
+          "r": 534.4896,
+          "b": 277.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and the completion of in-class activities, which cannot be made up without an excuse as defined in the",
+          "l": 72.024,
+          "t": 287.47232,
+          "r": 525.01105,
+          "b": 292.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Late/Makeup Work Policy. This approach ensures a deeper, practical understanding that passive",
+          "l": 72.024,
+          "t": 301.99234,
+          "r": 498.43295,
+          "b": 307.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "consumption of materials cannot provide.",
+          "l": 72.024,
+          "t": 316.51233,
+          "r": 257.81,
+          "b": 321.53,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In-Person Quizzes:",
+          "l": 72.024,
+          "t": 347.44064,
+          "r": 164.29999,
+          "b": 352.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "To support consistent learning and provide flexibility, the instructor will administer four quizzes",
+          "l": 72.024,
+          "t": 362.11234,
+          "r": 499.37393,
+          "b": 367.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "throughout the term—two before the midterm exam (Ch 8,12; Ch 9,13) and two after (Ch 10, 14; Ch",
+          "l": 72.024,
+          "t": 376.63232,
+          "r": 517.8803,
+          "b": 381.65,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11,15). Your final quiz grade will be calculated using your three highest scores; the lowest quiz score",
+          "l": 72.024,
+          "t": 391.15234,
+          "r": 520.9137,
+          "b": 396.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will be automatically dropped. This policy is designed to accommodate an unexpected absence or a",
+          "l": 72.024,
+          "t": 405.69232,
+          "r": 511.84656,
+          "b": 410.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "challenging week. Your performance on these quizzes contributes directly to your final grade, as detailed",
+          "l": 72.024,
+          "t": 420.33234,
+          "r": 537.7243,
+          "b": 425.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in the grading breakdown.",
+          "l": 72.024,
+          "t": 434.85233,
+          "r": 190.25,
+          "b": 439.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Handouts:",
+          "l": 72.024,
+          "t": 465.78064,
+          "r": 124.340004,
+          "b": 470.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This course utilizes handouts to deliver instructional content. Students are responsible for actively",
+          "l": 72.024,
+          "t": 480.33234,
+          "r": 505.74142,
+          "b": 485.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "completing these handouts during class by adhering to the instructor's guidance and taking notes.",
+          "l": 72.024,
+          "t": 494.85233,
+          "r": 501.39166,
+          "b": 499.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Submission of single, legible PDF file to INQUIRE by the due date is required.",
+          "l": 72.024,
+          "t": 509.49234,
+          "r": 424.06,
+          "b": 514.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Assignments:",
+          "l": 72.024,
+          "t": 540.4206,
+          "r": 137.78,
+          "b": 545.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Assignments are designed to help you apply and deepen your understanding of course material. All work",
+          "l": 72.024,
+          "t": 554.9723,
+          "r": 536.7087,
+          "b": 559.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "must be submitted as a single, legible PDF file through the INQUIRE platform by the specified due date.",
+          "l": 72.024,
+          "t": 569.5223,
+          "r": 536.57007,
+          "b": 574.54,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "It is essential to follow all instructions carefully and employ critical thinking to fully demonstrate your",
+          "l": 72.024,
+          "t": 584.1623,
+          "r": 525.8894,
+          "b": 589.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "comprehension.",
+          "l": 72.024,
+          "t": 598.6823,
+          "r": 144.73999,
+          "b": 603.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exams:",
+          "l": 72.024,
+          "t": 629.6106,
+          "r": 110.18,
+          "b": 634.54,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You will take one midterm exam and one comprehensive final exam on the dates listed in the course",
+          "l": 72.024,
+          "t": 644.2823,
+          "r": 516.81067,
+          "b": 649.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "schedule. Final examinations are scheduled at the times designated by the Registrar's Office.  Make-up is",
+          "l": 72.024,
+          "t": 658.8023,
+          "r": 537.3175,
+          "b": 663.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "only offered for excused reasons and requires advance notice (except in emergencies). Failure to obtain",
+          "l": 72.024,
+          "t": 673.32227,
+          "r": 529.5879,
+          "b": 678.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "an excuse will result in a zero for the missed exam.",
+          "l": 72.024,
+          "t": 687.8383,
+          "r": 299.93002,
+          "b": 692.856,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Projects:",
+          "l": 72.024,
+          "t": 718.7666,
+          "r": 116.9,
+          "b": 723.696,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "While no projects are required for this course, students have the option to undertake a self-motivated",
+          "l": 72.024,
+          "t": 733.4623,
+          "r": 517.8875,
+          "b": 738.48,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Course Syllabus – SP26",
+          "l": 159.62,
+          "t": 59.862217,
+          "r": 557.22906,
+          "b": 65.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "_____________________________________________________________________________________________________________",
+          "l": 72.024,
+          "t": 71.109245,
+          "r": 558.708,
+          "b": 74.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "project to deepen their understanding. To propose a project, identify a real-world problem where you can",
+          "l": 72.024,
+          "t": 81.88235,
+          "r": 536.998,
+          "b": 86.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "apply course principles. The instructor is available to advise on scope, methodology, and resources. This",
+          "l": 72.024,
+          "t": 96.402306,
+          "r": 534.8649,
+          "b": 101.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "is an opportunity for comprehensive, applied learning beyond the standard curriculum.",
+          "l": 72.024,
+          "t": 110.922325,
+          "r": 456.22,
+          "b": 115.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Handwritten Submission Policy:",
+          "l": 72.024,
+          "t": 141.85066,
+          "r": 226.97,
+          "b": 146.78003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Applicable to Handouts, Assignments, Quizzes, Exams: To ensure clarity and facilitate accurate grading,",
+          "l": 72.024,
+          "t": 156.51678,
+          "r": 533.73645,
+          "b": 161.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "all submitted handwritten work must adhere to a structured format. Solutions must clearly present:",
+          "l": 72.024,
+          "t": 171.04231,
+          "r": 508.18002,
+          "b": 176.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1. Given: The known values and conditions from the problem statement.",
+          "l": 90.024,
+          "t": 187.32224,
+          "r": 418.75,
+          "b": 192.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2. Find: The specific quantity or quantities to be determined.",
+          "l": 90.024,
+          "t": 203.76224,
+          "r": 366.43002,
+          "b": 208.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3. Solution Steps: A logical progression showing all formulae used, substitutions, and intermediate",
+          "l": 90.024,
+          "t": 220.20224,
+          "r": 534.5923,
+          "b": 225.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "calculations.",
+          "l": 108.02,
+          "t": 234.88234,
+          "r": 166.09999,
+          "b": 239.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4. Final Answer: The final answer, clearly boxed or highlighted.",
+          "l": 90.024,
+          "t": 251.31223,
+          "r": 382.75,
+          "b": 256.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Applicable to Handouts, Assignments: All assignments must be submitted as a single, legible PDF file.",
+          "l": 72.024,
+          "t": 267.9068,
+          "r": 527.38,
+          "b": 272.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This format is required to ensure the efficient and accurate grading of your work and for the secure",
+          "l": 72.024,
+          "t": 282.43234,
+          "r": 509.91458,
+          "b": 287.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "storage of student materials, which may be used for official course and program accreditation purposes.",
+          "l": 72.024,
+          "t": 296.95233,
+          "r": 530.74,
+          "b": 301.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If you need assistance with scanning, compiling, or organizing your work into a single PDF, please do",
+          "l": 72.024,
+          "t": 313.39233,
+          "r": 524.69714,
+          "b": 318.41,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "not hesitate to ask for help well before the submission deadline.",
+          "l": 72.024,
+          "t": 327.91232,
+          "r": 354.91,
+          "b": 332.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grading Consequence: Solutions that do not follow this prescribed structure and a single, legible pdf file",
+          "l": 72.024,
+          "t": 344.3468,
+          "r": 536.26,
+          "b": 349.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "rule will be returned without a grade or will receive zero credit unless student follows the instructions.",
+          "l": 72.024,
+          "t": 358.87234,
+          "r": 524.86005,
+          "b": 363.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This policy is in place to develop professional communication skills and ensure fair, efficient evaluation",
+          "l": 72.024,
+          "t": 373.51233,
+          "r": 533.07654,
+          "b": 378.53,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of your work.",
+          "l": 72.024,
+          "t": 388.03232,
+          "r": 135.01999,
+          "b": 393.05,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Late/Make-up Work Policy:",
+          "l": 72.024,
+          "t": 418.98065,
+          "r": 207.40999,
+          "b": 423.91,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Late submissions are not accepted without a valid, instructor-approved excuse. Students must proactively",
+          "l": 72.024,
+          "t": 433.65234,
+          "r": 538.5556,
+          "b": 438.67,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "communicate in any circumstances that may delay their submission. The approval of any excuse and the",
+          "l": 72.024,
+          "t": 448.17233,
+          "r": 533.4629,
+          "b": 453.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "granting of a makeup opportunity is solely at the instructor's discretion.",
+          "l": 72.024,
+          "t": 462.69232,
+          "r": 388.75,
+          "b": 467.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Teamwork:",
+          "l": 72.024,
+          "t": 493.62064,
+          "r": 129.74,
+          "b": 498.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "There are no required team projects that contribute to the final course grade. The option to pursue a self-",
+          "l": 72.024,
+          "t": 508.17233,
+          "r": 531.2963,
+          "b": 513.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "motivated project is available exclusively for students seeking to deepen their comprehension of the",
+          "l": 72.024,
+          "t": 522.81226,
+          "r": 514.17596,
+          "b": 527.82996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "material through applied, real-world problem-solving. Completing such a project will enhance your",
+          "l": 72.024,
+          "t": 537.3323,
+          "r": 512.5551,
+          "b": 542.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "learning but will not factor in your official grade calculation. The group project achieves two primary",
+          "l": 72.024,
+          "t": 551.8523,
+          "r": 521.596,
+          "b": 556.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "objectives:",
+          "l": 72.024,
+          "t": 566.4023,
+          "r": 122.420006,
+          "b": 571.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1. Academic: To develop your ability to collect, analyze, and evaluate real-world physical",
+          "l": 90.024,
+          "t": 582.68225,
+          "r": 496.14496,
+          "b": 587.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "measurements, including the management of errors and outliers.",
+          "l": 108.02,
+          "t": 597.3623,
+          "r": 393.43002,
+          "b": 602.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2. Professional: To cultivate essential teamwork skills, including sharing ideas, managing",
+          "l": 90.024,
+          "t": 613.76227,
+          "r": 493.55212,
+          "b": 618.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "responsibilities, resolving conflicts, and providing constructive peer feedback.",
+          "l": 108.02,
+          "t": 628.4423,
+          "r": 454.90002,
+          "b": 633.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Other Policies",
+          "l": 72.024,
+          "t": 659.3706,
+          "r": 141.01999,
+          "b": 664.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Generative AI Usage:",
+          "l": 72.024,
+          "t": 671.97064,
+          "r": 176.18,
+          "b": 676.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In this course, using AI as a learning tool is permitted with restrictions. However, you should consider",
+          "l": 72.024,
+          "t": 686.64233,
+          "r": 534.7578,
+          "b": 691.66003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the following conditions/concerns:",
+          "l": 72.024,
+          "t": 701.1583,
+          "r": 227.56999,
+          "b": 706.176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•   Permitted For: Brainstorming (ideation) and learning support.",
+          "l": 90.024,
+          "t": 717.07825,
+          "r": 400.39,
+          "b": 722.256,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•   Not Permitted For: Generating content to be submitted as your own work.",
+          "l": 90.024,
+          "t": 731.74225,
+          "r": 453.7,
+          "b": 736.92,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Course Syllabus – SP26",
+          "l": 159.62,
+          "t": 59.862217,
+          "r": 557.22906,
+          "b": 65.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "_____________________________________________________________________________________________________________",
+          "l": 72.024,
+          "t": 71.109245,
+          "r": 558.708,
+          "b": 74.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•   Citation: Always reference any AI tool you use for assistance.",
+          "l": 90.024,
+          "t": 83.282265,
+          "r": 401.71002,
+          "b": 88.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•   Accountability: You must be able to explain and defend all your work.",
+          "l": 90.024,
+          "t": 97.92222,
+          "r": 439.66,
+          "b": 103.099976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•   Exams: Absolutely no use of AI or any other external resources.",
+          "l": 90.024,
+          "t": 112.56223,
+          "r": 411.31,
+          "b": 117.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The goal of this course is to assess your understanding, not AI’s output.",
+          "l": 72.024,
+          "t": 125.682335,
+          "r": 390.07,
+          "b": 130.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Integrity:",
+          "l": 72.024,
+          "t": 150.97066,
+          "r": 169.22,
+          "b": 155.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your learning and integrity are at the core of your RC education. For this reason, you must follow the",
+          "l": 72.024,
+          "t": 163.60231,
+          "r": 522.1012,
+          "b": 168.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "rules outlined in the College AI policies. See www.roanoke.edu/academicintegrity",
+          "l": 72.024,
+          "t": 176.20229,
+          "r": 443.02002,
+          "b": 181.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Writing Center:",
+          "l": 72.024,
+          "t": 201.61061,
+          "r": 150.86,
+          "b": 206.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Writing Center Roanoke College, located on the Lower Level of Fintel Library (Room 5), offers free",
+          "l": 72.024,
+          "t": 214.12233,
+          "r": 538.4753,
+          "b": 219.14001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "tutorials focused on writing projects and oral presentations for students working in any field. Writers and",
+          "l": 72.024,
+          "t": 226.8423,
+          "r": 536.8389,
+          "b": 231.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "presenters at all levels of competence may visit the Writing Center at any point in their process, including",
+          "l": 72.024,
+          "t": 239.4723,
+          "r": 539.8283,
+          "b": 244.48999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "brainstorming, drafting, organizing, editing, or polishing presentation skills—to talk with trained peer tutors",
+          "l": 72.024,
+          "t": 252.19234,
+          "r": 550.1875,
+          "b": 257.21002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in informal, one-on-one sessions. The Writing Center is open Sunday through Thursday from 4 to 9",
+          "l": 72.024,
+          "t": 264.79233,
+          "r": 513.18475,
+          "b": 269.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PM. Simply stop in, or schedule an appointment at www.roanoke.edu/writingcenter. Questions? Email",
+          "l": 72.024,
+          "t": 277.39233,
+          "r": 526.5242,
+          "b": 282.41,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "writingcenter@roanoke.edu or call 540-375-4949.",
+          "l": 72.024,
+          "t": 290.11234,
+          "r": 298.85,
+          "b": 295.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Subject Tutoring:",
+          "l": 72.024,
+          "t": 315.52066,
+          "r": 158.78,
+          "b": 320.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Subject Tutoring, located on the lower level of Fintel Library (Room 5), is open 4-9 PM, Sunday-Thursday.",
+          "l": 72.024,
+          "t": 328.03232,
+          "r": 549.1898,
+          "b": 333.05,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Subject Tutors are highly trained, current students who offer free, one-on-one (and small group) tutorials in",
+          "l": 72.024,
+          "t": 340.63232,
+          "r": 547.3309,
+          "b": 345.65,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "over 80 courses taught at Roanoke College, including: Business, Economics, Mathematics, INQ 240, Modern",
+          "l": 72.024,
+          "t": 353.35233,
+          "r": 557.0165,
+          "b": 358.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Languages, Lab Sciences, and Social Sciences. Check out all available subjects and schedule 30- or 60-",
+          "l": 72.024,
+          "t": 365.95233,
+          "r": 527.93634,
+          "b": 370.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "minute appointments at www.roanoke.edu/tutoring. If you have a question, feel free to stop by, or contact us",
+          "l": 72.024,
+          "t": 378.67233,
+          "r": 552.244,
+          "b": 383.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "at subject_tutoring@roanoke.edu or 540-375-2590.",
+          "l": 72.024,
+          "t": 391.27234,
+          "r": 303.67,
+          "b": 396.29,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Accessible Education Services (AES):",
+          "l": 72.024,
+          "t": 416.70065,
+          "r": 250.48999,
+          "b": 421.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AES is located on the first floor of the Bank Building. AES provides reasonable accommodation to students",
+          "l": 72.024,
+          "t": 429.21234,
+          "r": 549.89056,
+          "b": 434.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with documented disabilities. To register for services, students must self-identify to AES, complete the",
+          "l": 72.024,
+          "t": 441.93234,
+          "r": 527.65,
+          "b": 446.95,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "registration process, and provide current documentation of disability along with recommendations from the",
+          "l": 72.024,
+          "t": 454.53232,
+          "r": 546.8394,
+          "b": 459.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "qualified specialist. Please contact Dustin Persinger, Assistant Director of Academic Services for Accessible",
+          "l": 72.024,
+          "t": 467.25232,
+          "r": 552.34125,
+          "b": 472.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Education, at 540-375-2248 or by e-mail at aes@roanoke.edu to schedule an appointment. If you have",
+          "l": 72.024,
+          "t": 479.85233,
+          "r": 525.1194,
+          "b": 484.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "registered with AES in the past and would like to receive academic accommodation for this semester, please",
+          "l": 72.024,
+          "t": 492.45233,
+          "r": 551.6727,
+          "b": 497.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "contact Dustin Persinger at your earliest convenience to schedule an appointment and/or obtain your",
+          "l": 72.024,
+          "t": 505.17233,
+          "r": 516.07477,
+          "b": 510.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "accommodation letter for the current semester. The testing center, also located on the first floor of the Bank",
+          "l": 72.024,
+          "t": 517.77234,
+          "r": 547.8481,
+          "b": 522.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Building, can be reached at 540-375-2247. https://www.roanoke.edu/inside/aes",
+          "l": 72.024,
+          "t": 530.4923,
+          "r": 425.86002,
+          "b": 535.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Health and Counseling Services (SHCS):",
+          "l": 72.024,
+          "t": 555.78064,
+          "r": 305.59,
+          "b": 560.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Health & Counseling Services supports students through in-person health appointments. Please see",
+          "l": 72.024,
+          "t": 568.4423,
+          "r": 547.01337,
+          "b": 573.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "https://www.roanoke.edu/shcs for more information and to access services.",
+          "l": 72.024,
+          "t": 581.00226,
+          "r": 406.09912,
+          "b": 586.18,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Course Syllabus – SP26",
+          "l": 159.62,
+          "t": 59.862217,
+          "r": 557.22906,
+          "b": 65.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "_____________________________________________________________________________________________________________",
+          "l": 72.024,
+          "t": 71.109245,
+          "r": 558.708,
+          "b": 74.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tentative Course Schedule:",
+          "l": 72.024,
+          "t": 81.85067,
+          "r": 204.29,
+          "b": 86.78003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The following schedule is tentative and may be adjusted. The official course schedule, assignments, and",
+          "l": 72.024,
+          "t": 96.402306,
+          "r": 532.61285,
+          "b": 101.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "announcements will be maintained on the Inquire LMS platform, which students are responsible for",
+          "l": 72.024,
+          "t": 110.922325,
+          "r": 513.92206,
+          "b": 115.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "monitoring regularly.",
+          "l": 72.024,
+          "t": 125.442345,
+          "r": 168.86,
+          "b": 130.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week Dates",
+          "l": 77.424,
+          "t": 140.53065,
+          "r": 143.29999,
+          "b": 145.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Primary Topic /",
+          "l": 172.82,
+          "t": 140.53065,
+          "r": 249.38237,
+          "b": 145.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Key Subtopics (Sections)",
+          "l": 289.37,
+          "t": 140.53065,
+          "r": 405.91,
+          "b": 145.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Reading Material",
+          "l": 172.82,
+          "t": 153.13063,
+          "r": 256.9448,
+          "b": 158.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Chapter)",
+          "l": 172.82,
+          "t": 165.85066,
+          "r": 221.09,
+          "b": 170.78003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Part A - The Geometry of Motion: Kinematics",
+          "l": 211.25,
+          "t": 178.93062,
+          "r": 427.06,
+          "b": 183.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 77.424,
+          "t": 192.04231,
+          "r": 85.584,
+          "b": 197.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 12 –",
+          "l": 114.74,
+          "t": 192.04231,
+          "r": 153.37999,
+          "b": 197.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Particle",
+          "l": 172.82,
+          "t": 192.04231,
+          "r": 208.46817,
+          "b": 197.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.1-8.3: 1D & 2D (Rectangular) Motion",
+          "l": 289.37,
+          "t": 192.04231,
+          "r": 464.74002,
+          "b": 197.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 114.74,
+          "t": 204.64229,
+          "r": 128.3,
+          "b": 209.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kinematics (Ch. 8)",
+          "l": 172.82,
+          "t": 204.64229,
+          "r": 257.81,
+          "b": 209.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 77.424,
+          "t": 217.8423,
+          "r": 85.584,
+          "b": 222.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 19 –",
+          "l": 114.74,
+          "t": 217.8423,
+          "r": 153.37999,
+          "b": 222.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Particle",
+          "l": 172.82,
+          "t": 217.8423,
+          "r": 208.46817,
+          "b": 222.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.4-8.7: Normal-Tangential, Polar, Dependent & Relative",
+          "l": 289.37,
+          "t": 217.8423,
+          "r": 540.573,
+          "b": 222.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2 3",
+          "l": 114.74,
+          "t": 230.44234,
+          "r": 128.3,
+          "b": 237.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kinematics (Ch. 8)",
+          "l": 172.82,
+          "t": 230.44234,
+          "r": 257.81,
+          "b": 235.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Motion",
+          "l": 289.37,
+          "t": 230.44234,
+          "r": 323.95,
+          "b": 235.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 19: No Class (MLK Jr. Day).",
+          "l": 289.37,
+          "t": 243.19234,
+          "r": 435.1,
+          "b": 248.21002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 77.424,
+          "t": 256.2723,
+          "r": 85.584,
+          "b": 261.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 26 –",
+          "l": 114.74,
+          "t": 256.2723,
+          "r": 153.37999,
+          "b": 261.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rigid Body",
+          "l": 172.82,
+          "t": 256.2723,
+          "r": 225.61327,
+          "b": 261.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12.1-12.4: Fixed Axis Rotation, Absolute Motion",
+          "l": 289.37,
+          "t": 256.2723,
+          "r": 505.06,
+          "b": 261.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 114.74,
+          "t": 268.99234,
+          "r": 128.3,
+          "b": 274.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kinematics (Ch. 12)",
+          "l": 172.82,
+          "t": 268.99234,
+          "r": 263.21002,
+          "b": 274.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 77.424,
+          "t": 282.07233,
+          "r": 85.584,
+          "b": 287.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 2 – 6",
+          "l": 114.74,
+          "t": 282.07233,
+          "r": 157.81999,
+          "b": 287.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rigid Body",
+          "l": 172.82,
+          "t": 282.07233,
+          "r": 225.61327,
+          "b": 287.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12.5-12.8: Relative Motion, Instantaneous Center, Rotating",
+          "l": 289.37,
+          "t": 282.07233,
+          "r": 547.6238,
+          "b": 287.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kinematics (Ch. 12)",
+          "l": 172.82,
+          "t": 294.79233,
+          "r": 263.21002,
+          "b": 299.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Frames",
+          "l": 289.37,
+          "t": 294.79233,
+          "r": 323.95,
+          "b": 299.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Part B - The Cause of Motion: Kinetics",
+          "l": 227.69,
+          "t": 307.96066,
+          "r": 412.99002,
+          "b": 312.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5",
+          "l": 77.424,
+          "t": 321.07233,
+          "r": 85.584,
+          "b": 326.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 9 – 13 Newton's 2nd Law for",
+          "l": 114.74,
+          "t": 321.07233,
+          "r": 271.70532,
+          "b": 326.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9.1-9.4: Equations of Motion in Various Coordinates",
+          "l": 289.37,
+          "t": 321.07233,
+          "r": 519.94,
+          "b": 326.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Particles (Ch. 9)",
+          "l": 172.82,
+          "t": 333.67233,
+          "r": 245.68999,
+          "b": 338.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 11 (Wed) - Quiz 1 (Chapters 8, 12)",
+          "l": 232.73,
+          "t": 346.87234,
+          "r": 405.55002,
+          "b": 351.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 77.424,
+          "t": 359.95233,
+          "r": 85.584,
+          "b": 364.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 16 –",
+          "l": 114.74,
+          "t": 359.95233,
+          "r": 155.18,
+          "b": 364.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Newton's 2nd Law for",
+          "l": 172.82,
+          "t": 359.95233,
+          "r": 271.70532,
+          "b": 364.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13.1-13.4: Translation, Rotation, General Planar Motion",
+          "l": 289.37,
+          "t": 359.95233,
+          "r": 534.46,
+          "b": 364.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 114.74,
+          "t": 372.67233,
+          "r": 128.3,
+          "b": 377.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rigid Bodies (Ch. 13)",
+          "l": 172.82,
+          "t": 372.67233,
+          "r": 270.65002,
+          "b": 377.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7",
+          "l": 77.424,
+          "t": 385.75232,
+          "r": 85.584,
+          "b": 390.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 23 –",
+          "l": 114.74,
+          "t": 385.75232,
+          "r": 155.18,
+          "b": 390.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quiz 2, Midterm Exam",
+          "l": 172.82,
+          "t": 385.75232,
+          "r": 275.8167,
+          "b": 390.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cumulative Exam (Ch. 8, 9, 12, 13)",
+          "l": 289.37,
+          "t": 385.75232,
+          "r": 446.5,
+          "b": 390.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 114.74,
+          "t": 398.47232,
+          "r": 128.3,
+          "b": 403.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "& Review",
+          "l": 172.82,
+          "t": 398.47232,
+          "r": 219.76999,
+          "b": 403.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 23 (Mon): Quiz 2 (Chapters 9, 13); Feb 27 (Fri) Midterm Exam – (Chapters 8, 9, 12, 13)",
+          "l": 117.74,
+          "t": 411.57233,
+          "r": 520.42,
+          "b": 416.59,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Part C - Analyzing Motion: SCALAR Approach",
+          "l": 206.45,
+          "t": 424.86066,
+          "r": 431.74002,
+          "b": 429.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 77.424,
+          "t": 437.85233,
+          "r": 85.584,
+          "b": 442.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 1 – 8",
+          "l": 114.74,
+          "t": 437.85233,
+          "r": 159.62,
+          "b": 442.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Break – No Classes!!",
+          "l": 303.91,
+          "t": 437.85233,
+          "r": 429.94,
+          "b": 442.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9",
+          "l": 77.424,
+          "t": 451.05234,
+          "r": 85.584,
+          "b": 456.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 9 –",
+          "l": 114.74,
+          "t": 451.05234,
+          "r": 151.7,
+          "b": 456.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Work & Energy in",
+          "l": 172.82,
+          "t": 451.05234,
+          "r": 256.21613,
+          "b": 456.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10.1-10.5: Work-Energy Principle, Power, Systems",
+          "l": 289.37,
+          "t": 451.05234,
+          "r": 514.06,
+          "b": 456.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 114.74,
+          "t": 463.65234,
+          "r": 128.3,
+          "b": 468.67,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Particles (Ch. 10)",
+          "l": 172.82,
+          "t": 463.65234,
+          "r": 251.09,
+          "b": 468.67,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 77.424,
+          "t": 476.85233,
+          "r": 90.984,
+          "b": 481.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 16 –",
+          "l": 114.74,
+          "t": 476.85233,
+          "r": 157.09999,
+          "b": 481.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Work & Energy in",
+          "l": 172.82,
+          "t": 476.85233,
+          "r": 256.21613,
+          "b": 481.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14.1-14.4: Work-Energy Principle for Rigid Bodies",
+          "l": 289.37,
+          "t": 476.85233,
+          "r": 514.3,
+          "b": 481.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 114.74,
+          "t": 489.45233,
+          "r": 128.3,
+          "b": 494.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rigid Bodies (Ch. 14)",
+          "l": 172.82,
+          "t": 489.45233,
+          "r": 270.65002,
+          "b": 494.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Part D - Analyzing Motion: VECTOR Approach",
+          "l": 205.49,
+          "t": 502.74066,
+          "r": 432.7,
+          "b": 507.67,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 77.424,
+          "t": 515.7323,
+          "r": 90.984,
+          "b": 520.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 23 –",
+          "l": 114.74,
+          "t": 515.7323,
+          "r": 157.09999,
+          "b": 520.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Impulse & Momentum",
+          "l": 172.82,
+          "t": 515.7323,
+          "r": 274.69708,
+          "b": 520.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11.1-11.6: Impulse-Momentum Principle, Collisions",
+          "l": 289.37,
+          "t": 515.7323,
+          "r": 518.26,
+          "b": 520.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 114.74,
+          "t": 528.4523,
+          "r": 128.3,
+          "b": 533.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in Particles (Ch. 11)",
+          "l": 172.82,
+          "t": 528.4523,
+          "r": 262.13,
+          "b": 533.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 25 (Wed) - Quiz 3 (Chapters 10, 14)",
+          "l": 229.13,
+          "t": 541.5323,
+          "r": 409.15002,
+          "b": 546.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 77.424,
+          "t": 554.7323,
+          "r": 90.984,
+          "b": 559.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 30 –",
+          "l": 114.74,
+          "t": 554.7323,
+          "r": 157.09999,
+          "b": 559.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Impulse & Momentum",
+          "l": 172.82,
+          "t": 554.7323,
+          "r": 274.69708,
+          "b": 559.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15.1-15.4: Impulse-Momentum Theorem, Rigid Body",
+          "l": 289.37,
+          "t": 554.7323,
+          "r": 524.8237,
+          "b": 559.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Apr 3",
+          "l": 114.74,
+          "t": 567.3623,
+          "r": 142.34,
+          "b": 572.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in Rigid Bodies (Ch.",
+          "l": 172.82,
+          "t": 567.3623,
+          "r": 264.76425,
+          "b": 572.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Collisions",
+          "l": 289.37,
+          "t": 567.3623,
+          "r": 335.83002,
+          "b": 572.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15)",
+          "l": 172.82,
+          "t": 580.0823,
+          "r": 190.01,
+          "b": 585.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 77.424,
+          "t": 593.1623,
+          "r": 90.984,
+          "b": 598.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Apr 6 – 10 Vibrations (Ch. 16) –",
+          "l": 114.74,
+          "t": 593.1623,
+          "r": 267.65002,
+          "b": 598.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16.1-16.3: Free Vibrations (Undamped & Damped)",
+          "l": 289.37,
+          "t": 593.1623,
+          "r": 513.94,
+          "b": 598.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Optional Topic",
+          "l": 172.82,
+          "t": 605.8823,
+          "r": 241.12999,
+          "b": 610.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Apr 10 (Fri) - Quiz 4 (Chapters 11, 15)",
+          "l": 233.69,
+          "t": 618.9623,
+          "r": 404.59,
+          "b": 623.98,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14,15 Apr 13 –",
+          "l": 77.424,
+          "t": 632.1623,
+          "r": 155.78,
+          "b": 637.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Review & Catch-Up",
+          "l": 172.82,
+          "t": 632.1623,
+          "r": 264.29,
+          "b": 637.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Comprehensive Course Review",
+          "l": 289.37,
+          "t": 632.1623,
+          "r": 428.86002,
+          "b": 637.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 114.74,
+          "t": 644.7623,
+          "r": 128.3,
+          "b": 649.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam (Comprehensive): April 23 (Thursday) – 2pm to 5pm",
+          "l": 176.3,
+          "t": 657.9623,
+          "r": 461.86002,
+          "b": 662.98,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

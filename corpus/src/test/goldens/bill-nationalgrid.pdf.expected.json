@@ -1,0 +1,11 @@
+{
+  "document": "bill-nationalgrid.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 3
+    }
+  ],
+  "groups": 3
+}

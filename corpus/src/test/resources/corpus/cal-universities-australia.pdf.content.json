@@ -1,0 +1,5613 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 1190.52,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "Universities Australia",
+          "l": 542.81,
+          "t": 19.069666,
+          "r": 647.96216,
+          "b": 24.359985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summary of 2026 principal academic dates for Australian universities",
+          "l": 493.13,
+          "t": 30.024595,
+          "r": 697.26135,
+          "b": 33.119995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "For updates to this data visit universitiesaustralia.edu.au",
+          "l": 972.1,
+          "t": 32.54455,
+          "r": 1136.427,
+          "b": 35.639954,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer",
+          "l": 217.58,
+          "t": 73.38001,
+          "r": 238.53264,
+          "b": 76.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Autumn",
+          "l": 427.97,
+          "t": 73.38001,
+          "r": 448.08792,
+          "b": 76.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring",
+          "l": 660.91,
+          "t": 73.38001,
+          "r": 676.9332,
+          "b": 76.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer",
+          "l": 885.58,
+          "t": 73.38001,
+          "r": 906.5326,
+          "b": 76.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Universities Australia",
+          "l": 98.88,
+          "t": 77.09998,
+          "r": 193.71089,
+          "b": 79.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last teaching day^",
+          "l": 310.34,
+          "t": 77.09998,
+          "r": 355.132,
+          "b": 79.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last teaching day",
+          "l": 521.33,
+          "t": 77.09998,
+          "r": 563.3641,
+          "b": 79.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last teaching day",
+          "l": 757.03,
+          "t": 77.09998,
+          "r": 799.0641,
+          "b": 79.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last teaching day",
+          "l": 981.58,
+          "t": 77.09998,
+          "r": 1023.6141,
+          "b": 79.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "session^",
+          "l": 217.46,
+          "t": 80.71998,
+          "r": 238.62126,
+          "b": 83.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mid-term break",
+          "l": 257.54,
+          "t": 80.21998,
+          "r": 294.66257,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exam period",
+          "l": 374.09,
+          "t": 80.21998,
+          "r": 403.49133,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "session",
+          "l": 428.81,
+          "t": 80.71998,
+          "r": 447.21332,
+          "b": 83.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mid-term break",
+          "l": 466.61,
+          "t": 80.21998,
+          "r": 503.73254,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exam period",
+          "l": 594.65,
+          "t": 80.21998,
+          "r": 624.05133,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "session",
+          "l": 659.71,
+          "t": 80.71998,
+          "r": 678.11346,
+          "b": 83.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mid-term break",
+          "l": 699.91,
+          "t": 80.21998,
+          "r": 737.0325,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exam period",
+          "l": 825.91,
+          "t": 80.21998,
+          "r": 855.3113,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "session (start",
+          "l": 879.82,
+          "t": 80.71998,
+          "r": 912.2332,
+          "b": 83.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mid-term break",
+          "l": 925.9,
+          "t": 80.21998,
+          "r": 963.0225,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exam period",
+          "l": 1049.5,
+          "t": 80.21998,
+          "r": 1078.9012,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Member Universities",
+          "l": 98.88,
+          "t": 84.44001,
+          "r": 148.34842,
+          "b": 87.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(summer session)",
+          "l": 311.42,
+          "t": 84.44001,
+          "r": 352.72742,
+          "b": 87.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(autumn session)",
+          "l": 521.57,
+          "t": 84.44001,
+          "r": 561.8059,
+          "b": 87.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(spring session)",
+          "l": 759.19,
+          "t": 84.44001,
+          "r": 795.5682,
+          "b": 87.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(spring session)",
+          "l": 983.74,
+          "t": 84.44001,
+          "r": 1020.11816,
+          "b": 87.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(start date)",
+          "l": 214.22,
+          "t": 88.039986,
+          "r": 240.54189,
+          "b": 90.859985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(start date)",
+          "l": 424.13,
+          "t": 88.039986,
+          "r": 450.4519,
+          "b": 90.859985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(start date)",
+          "l": 655.03,
+          "t": 88.039986,
+          "r": 681.3519,
+          "b": 90.859985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "date)",
+          "l": 889.3,
+          "t": 88.039986,
+          "r": 901.6121,
+          "b": 90.859985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New South Wales",
+          "l": 98.88,
+          "t": 100.519966,
+          "r": 140.334,
+          "b": 103.339966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Charles Sturt University",
+          "l": 98.88,
+          "t": 109.39998,
+          "r": 149.52023,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 Nov 25",
+          "l": 216.74,
+          "t": 109.39998,
+          "r": 238.0508,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Dec 25",
+          "l": 249.74,
+          "t": 109.39998,
+          "r": 270.46252,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 26",
+          "l": 281.54,
+          "t": 109.39998,
+          "r": 301.40598,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Feb 26",
+          "l": 321.74,
+          "t": 109.39998,
+          "r": 342.32834,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Feb 26",
+          "l": 362.9,
+          "t": 109.39998,
+          "r": 383.48834,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 394.97,
+          "t": 109.39998,
+          "r": 415.55835,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 109.39998,
+          "r": 448.19165,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Apr 26",
+          "l": 458.45,
+          "t": 109.39998,
+          "r": 478.9197,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Apr 26",
+          "l": 489.77,
+          "t": 109.39998,
+          "r": 510.2397,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jun 26",
+          "l": 531.65,
+          "t": 109.39998,
+          "r": 551.75854,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Jun 26",
+          "l": 577.61,
+          "t": 109.39998,
+          "r": 597.7185,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Jun 26",
+          "l": 619.97,
+          "t": 109.39998,
+          "r": 640.0785,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Jul 25",
+          "l": 658.99,
+          "t": 109.39998,
+          "r": 677.5402,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Aug 26",
+          "l": 690.91,
+          "t": 109.39998,
+          "r": 711.9834,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Sep 26",
+          "l": 724.87,
+          "t": 109.39998,
+          "r": 745.4585,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Oct 26",
+          "l": 767.35,
+          "t": 109.39998,
+          "r": 787.47394,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Oct 26",
+          "l": 811.27,
+          "t": 109.39998,
+          "r": 831.394,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Oct 26",
+          "l": 849.19,
+          "t": 109.39998,
+          "r": 869.31396,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Nov 26",
+          "l": 884.74,
+          "t": 109.39998,
+          "r": 906.05084,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Dec 26",
+          "l": 916.78,
+          "t": 109.39998,
+          "r": 937.5027,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 109.39998,
+          "r": 969.28595,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Feb 27",
+          "l": 991.66,
+          "t": 109.39998,
+          "r": 1012.2485,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Feb 27",
+          "l": 1031.62,
+          "t": 109.39998,
+          "r": 1052.2081,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Feb 27",
+          "l": 1068.7,
+          "t": 109.39998,
+          "r": 1089.2881,
+          "b": 111.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Macquarie University",
+          "l": 98.88,
+          "t": 118.03999,
+          "r": 144.96396,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 Dec 25",
+          "l": 216.98,
+          "t": 118.03999,
+          "r": 237.70255,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Dec 25",
+          "l": 249.74,
+          "t": 118.03999,
+          "r": 270.46252,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Jan 26",
+          "l": 281.54,
+          "t": 118.03999,
+          "r": 301.40598,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Jan 26",
+          "l": 322.1,
+          "t": 118.03999,
+          "r": 341.96597,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jan 26",
+          "l": 363.26,
+          "t": 118.03999,
+          "r": 383.12598,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Feb 26",
+          "l": 394.97,
+          "t": 118.03999,
+          "r": 415.55835,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 427.01,
+          "t": 118.03999,
+          "r": 447.59836,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 118.03999,
+          "r": 478.9197,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Apr 26",
+          "l": 489.77,
+          "t": 118.03999,
+          "r": 510.2397,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Jun 26",
+          "l": 531.65,
+          "t": 118.03999,
+          "r": 551.75854,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Jun 26",
+          "l": 577.61,
+          "t": 118.03999,
+          "r": 597.7185,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Jun 26",
+          "l": 619.97,
+          "t": 118.03999,
+          "r": 640.0785,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 118.03999,
+          "r": 677.5402,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Sep 26",
+          "l": 691.15,
+          "t": 118.03999,
+          "r": 711.7385,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Oct 26",
+          "l": 725.11,
+          "t": 118.03999,
+          "r": 745.23395,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Nov 26",
+          "l": 766.75,
+          "t": 118.03999,
+          "r": 788.06085,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Nov 26",
+          "l": 810.67,
+          "t": 118.03999,
+          "r": 831.98083,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Nov 26",
+          "l": 848.59,
+          "t": 118.03999,
+          "r": 869.9009,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Dec 26",
+          "l": 885.1,
+          "t": 118.03999,
+          "r": 905.82263,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Dec 26",
+          "l": 916.78,
+          "t": 118.03999,
+          "r": 937.5027,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Jan 27",
+          "l": 949.42,
+          "t": 118.03999,
+          "r": 969.28595,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Jan 27",
+          "l": 992.02,
+          "t": 118.03999,
+          "r": 1011.886,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Jan 27",
+          "l": 1031.98,
+          "t": 118.03999,
+          "r": 1051.8458,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Feb 27",
+          "l": 1068.7,
+          "t": 118.03999,
+          "r": 1089.2881,
+          "b": 120.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Southern Cross University # (a)",
+          "l": 98.88,
+          "t": 126.68,
+          "r": 165.91734,
+          "b": 129.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Jan 26",
+          "l": 217.46,
+          "t": 126.68001,
+          "r": 237.32599,
+          "b": 129.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Jun 26",
+          "l": 321.98,
+          "t": 126.68001,
+          "r": 342.0885,
+          "b": 129.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Jul 26",
+          "l": 658.99,
+          "t": 126.68001,
+          "r": 677.5402,
+          "b": 129.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Dec 26",
+          "l": 766.99,
+          "t": 126.68001,
+          "r": 787.71265,
+          "b": 129.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University of New England",
+          "l": 98.88,
+          "t": 135.31996,
+          "r": 164.73706,
+          "b": 137.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18 May 26",
+          "l": 657.19,
+          "t": 135.31996,
+          "r": 679.3367,
+          "b": 137.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Aug 26",
+          "l": 766.87,
+          "t": 135.31996,
+          "r": 787.9434,
+          "b": 137.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Sep 26",
+          "l": 885.1,
+          "t": 135.31996,
+          "r": 905.6885,
+          "b": 137.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11 Dec 26",
+          "l": 991.54,
+          "t": 135.31996,
+          "r": 1012.26263,
+          "b": 137.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Dec 26",
+          "l": 1031.62,
+          "t": 135.31996,
+          "r": 1052.3424,
+          "b": 137.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18 Dec 26",
+          "l": 1068.7,
+          "t": 135.31996,
+          "r": 1089.4224,
+          "b": 137.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UNSW, Sydney (b)",
+          "l": 98.88,
+          "t": 143.95996,
+          "r": 139.64217,
+          "b": 146.77997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University of Newcastle (c)",
+          "l": 98.88,
+          "t": 152.59998,
+          "r": 166.17747,
+          "b": 155.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Jan 26",
+          "l": 217.46,
+          "t": 152.59999,
+          "r": 237.32599,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Mar 26",
+          "l": 249.26,
+          "t": 152.59999,
+          "r": 270.92166,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 Mar 26",
+          "l": 280.58,
+          "t": 152.59999,
+          "r": 302.24164,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Apr 26",
+          "l": 321.86,
+          "t": 152.59999,
+          "r": 342.32968,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Apr 26",
+          "l": 363.02,
+          "t": 152.59999,
+          "r": 383.4897,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 May 26",
+          "l": 394.25,
+          "t": 152.59999,
+          "r": 416.3967,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 May 26",
+          "l": 426.29,
+          "t": 152.59999,
+          "r": 448.4367,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 464.45,
+          "t": 153.55995,
+          "r": 472.8247,
+          "b": 156.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 495.77,
+          "t": 153.55995,
+          "r": 504.14468,
+          "b": 156.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Jun 26",
+          "l": 531.65,
+          "t": 152.59999,
+          "r": 551.75854,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Jun 26",
+          "l": 577.61,
+          "t": 152.59999,
+          "r": 597.7185,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Jun 26",
+          "l": 619.97,
+          "t": 152.59999,
+          "r": 640.0785,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 Aug 26",
+          "l": 657.67,
+          "t": 152.59999,
+          "r": 678.7434,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Sep 26",
+          "l": 691.15,
+          "t": 152.59999,
+          "r": 711.7385,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Oct 26",
+          "l": 725.11,
+          "t": 152.59999,
+          "r": 745.23395,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Nov 26",
+          "l": 766.75,
+          "t": 152.59999,
+          "r": 788.06085,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Nov 26",
+          "l": 810.67,
+          "t": 152.59999,
+          "r": 831.98083,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Nov 26",
+          "l": 848.59,
+          "t": 152.59999,
+          "r": 869.9009,
+          "b": 155.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 891.22,
+          "t": 153.55995,
+          "r": 899.5946,
+          "b": 156.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 922.9,
+          "t": 153.55995,
+          "r": 931.27466,
+          "b": 156.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 955.18,
+          "t": 153.55995,
+          "r": 963.5546,
+          "b": 156.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 997.78,
+          "t": 153.55995,
+          "r": 1006.15466,
+          "b": 156.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 1037.74,
+          "t": 153.55995,
+          "r": 1046.1146,
+          "b": 156.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 1074.82,
+          "t": 153.55995,
+          "r": 1083.1946,
+          "b": 156.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University of Sydney * (d)",
+          "l": 98.88,
+          "t": 161.23999,
+          "r": 163.53368,
+          "b": 164.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "University of Technology Sydney * ^ (e)",
+          "l": 98.88,
+          "t": 169.88,
+          "r": 183.69685,
+          "b": 172.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Dec 25",
+          "l": 216.98,
+          "t": 169.87996,
+          "r": 237.70255,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Dec 25",
+          "l": 249.74,
+          "t": 169.87996,
+          "r": 270.46252,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Jan 26",
+          "l": 281.54,
+          "t": 169.87996,
+          "r": 301.40598,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 321.74,
+          "t": 169.87996,
+          "r": 342.32834,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 369.02,
+          "t": 169.87996,
+          "r": 377.39468,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 401.09,
+          "t": 169.87996,
+          "r": 409.4647,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Feb 26",
+          "l": 427.01,
+          "t": 169.87996,
+          "r": 447.59836,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 169.87996,
+          "r": 478.9197,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Apr 26",
+          "l": 489.77,
+          "t": 169.87996,
+          "r": 510.2397,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 May 26",
+          "l": 530.57,
+          "t": 169.87996,
+          "r": 552.7167,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 May 26",
+          "l": 576.53,
+          "t": 169.87996,
+          "r": 598.6767,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Jun 26",
+          "l": 619.97,
+          "t": 169.87996,
+          "r": 640.0785,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 169.87996,
+          "r": 677.5402,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Sep 26",
+          "l": 691.15,
+          "t": 169.87996,
+          "r": 711.7385,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Sep 26",
+          "l": 724.87,
+          "t": 169.87996,
+          "r": 745.4585,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Oct 26",
+          "l": 767.35,
+          "t": 169.87996,
+          "r": 787.47394,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Nov 26",
+          "l": 810.67,
+          "t": 169.87996,
+          "r": 831.98083,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Nov 26",
+          "l": 848.59,
+          "t": 169.87996,
+          "r": 869.9009,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Nov 26",
+          "l": 884.74,
+          "t": 169.87996,
+          "r": 906.05084,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Dec 26",
+          "l": 916.78,
+          "t": 169.87996,
+          "r": 937.5027,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 169.87996,
+          "r": 969.28595,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Feb 27",
+          "l": 991.66,
+          "t": 169.87996,
+          "r": 1012.2485,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 1037.74,
+          "t": 169.87996,
+          "r": 1046.1146,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 1074.82,
+          "t": 169.87996,
+          "r": 1083.1946,
+          "b": 172.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Western Sydney University",
+          "l": 98.88,
+          "t": 178.51997,
+          "r": 156.8371,
+          "b": 181.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "University of Wollongong (f)",
+          "l": 98.88,
+          "t": 187.15997,
+          "r": 160.0467,
+          "b": 189.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Dec 25",
+          "l": 216.98,
+          "t": 187.15999,
+          "r": 237.70255,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Dec 25",
+          "l": 249.74,
+          "t": 187.15999,
+          "r": 270.46252,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Jan 26",
+          "l": 281.54,
+          "t": 187.15999,
+          "r": 301.40598,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Jan 26",
+          "l": 322.1,
+          "t": 187.15999,
+          "r": 341.96597,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Feb 26",
+          "l": 362.9,
+          "t": 187.15999,
+          "r": 383.48834,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 394.97,
+          "t": 187.15999,
+          "r": 415.55835,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 187.15999,
+          "r": 448.19165,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Apr 26",
+          "l": 458.45,
+          "t": 187.15999,
+          "r": 478.9197,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Apr 26",
+          "l": 489.77,
+          "t": 187.15999,
+          "r": 510.2397,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jun 26",
+          "l": 531.65,
+          "t": 187.15999,
+          "r": 551.75854,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Jun 26",
+          "l": 577.61,
+          "t": 187.15999,
+          "r": 597.7185,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Jun 26",
+          "l": 619.97,
+          "t": 187.15999,
+          "r": 640.0785,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 187.15999,
+          "r": 677.5402,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Sep 26",
+          "l": 691.15,
+          "t": 187.15999,
+          "r": 711.7385,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Oct 26",
+          "l": 725.11,
+          "t": 187.15999,
+          "r": 745.23395,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Oct 26",
+          "l": 767.35,
+          "t": 187.15999,
+          "r": 787.47394,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Nov 26",
+          "l": 810.67,
+          "t": 187.15999,
+          "r": 831.98083,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Nov 26",
+          "l": 848.59,
+          "t": 187.15999,
+          "r": 869.9009,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Nov 26",
+          "l": 884.74,
+          "t": 187.15999,
+          "r": 906.05084,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Dec 26",
+          "l": 916.78,
+          "t": 187.15999,
+          "r": 937.5027,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 187.15999,
+          "r": 969.28595,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Jan 27",
+          "l": 992.02,
+          "t": 187.15999,
+          "r": 1011.886,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Feb 27",
+          "l": 1031.62,
+          "t": 187.15999,
+          "r": 1052.2081,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Feb 27",
+          "l": 1068.7,
+          "t": 187.15999,
+          "r": 1089.2881,
+          "b": 189.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Victoria",
+          "l": 98.88,
+          "t": 195.56,
+          "r": 117.2382,
+          "b": 198.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Deakin University #",
+          "l": 98.88,
+          "t": 204.44,
+          "r": 141.06876,
+          "b": 207.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Nov 25",
+          "l": 216.74,
+          "t": 204.43996,
+          "r": 238.0508,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Dec 25",
+          "l": 249.74,
+          "t": 204.43996,
+          "r": 270.46252,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Jan 26",
+          "l": 281.54,
+          "t": 204.43996,
+          "r": 301.40598,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Jan 26",
+          "l": 322.1,
+          "t": 204.43996,
+          "r": 341.96597,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Feb 26",
+          "l": 362.9,
+          "t": 204.43996,
+          "r": 383.48834,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 394.97,
+          "t": 204.43996,
+          "r": 415.55835,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 204.43996,
+          "r": 448.19165,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Apr 26",
+          "l": 458.45,
+          "t": 204.43996,
+          "r": 478.9197,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Apr 26",
+          "l": 489.77,
+          "t": 204.43996,
+          "r": 510.2397,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 May 26",
+          "l": 530.57,
+          "t": 204.43996,
+          "r": 552.7167,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jun 26",
+          "l": 577.61,
+          "t": 204.43996,
+          "r": 597.7185,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Jun 26",
+          "l": 619.97,
+          "t": 204.43996,
+          "r": 640.0785,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Jul 26",
+          "l": 658.99,
+          "t": 204.43996,
+          "r": 677.5402,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Aug 26",
+          "l": 690.91,
+          "t": 204.43996,
+          "r": 711.9834,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Aug 26",
+          "l": 724.63,
+          "t": 204.43996,
+          "r": 745.7034,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Sep 26",
+          "l": 767.11,
+          "t": 204.43996,
+          "r": 787.6985,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Oct 26",
+          "l": 811.27,
+          "t": 204.43996,
+          "r": 831.394,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Oct 26",
+          "l": 849.19,
+          "t": 204.43996,
+          "r": 869.31396,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Nov 26",
+          "l": 884.74,
+          "t": 204.43996,
+          "r": 906.05084,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Dec 26",
+          "l": 916.78,
+          "t": 204.43996,
+          "r": 937.5027,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 204.43996,
+          "r": 969.28595,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Jan 27",
+          "l": 992.02,
+          "t": 204.43996,
+          "r": 1011.886,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Feb 27",
+          "l": 1031.62,
+          "t": 204.43996,
+          "r": 1052.2081,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Feb 27",
+          "l": 1068.7,
+          "t": 204.43996,
+          "r": 1089.2881,
+          "b": 207.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Federation University Australia (g)",
+          "l": 98.88,
+          "t": 213.07996,
+          "r": 173.1327,
+          "b": 215.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 213.07997,
+          "r": 448.19165,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Apr 26",
+          "l": 458.45,
+          "t": 213.07997,
+          "r": 478.9197,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Apr 26",
+          "l": 489.77,
+          "t": 213.07997,
+          "r": 510.2397,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 May 26",
+          "l": 530.57,
+          "t": 213.07997,
+          "r": 552.7167,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Jun 26",
+          "l": 577.61,
+          "t": 213.07997,
+          "r": 597.7185,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Jun 26",
+          "l": 619.97,
+          "t": 213.07997,
+          "r": 640.0785,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Jul 26",
+          "l": 658.99,
+          "t": 213.07997,
+          "r": 677.5402,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 Aug 26",
+          "l": 690.91,
+          "t": 213.07997,
+          "r": 711.9834,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Sep 26",
+          "l": 724.87,
+          "t": 213.07997,
+          "r": 745.4585,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Oct 26",
+          "l": 767.35,
+          "t": 213.07997,
+          "r": 787.47394,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Oct 26",
+          "l": 811.27,
+          "t": 213.07997,
+          "r": 831.394,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Nov 26",
+          "l": 848.59,
+          "t": 213.07997,
+          "r": 869.9009,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Nov 26",
+          "l": 884.74,
+          "t": 213.07997,
+          "r": 906.05084,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Dec 26",
+          "l": 916.78,
+          "t": 213.07997,
+          "r": 937.5027,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Jan 27",
+          "l": 949.42,
+          "t": 213.07997,
+          "r": 969.28595,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Feb 27",
+          "l": 991.66,
+          "t": 213.07997,
+          "r": 1012.2485,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Feb 27",
+          "l": 1031.62,
+          "t": 213.07997,
+          "r": 1052.2081,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Feb 27",
+          "l": 1068.7,
+          "t": 213.07997,
+          "r": 1089.2881,
+          "b": 215.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "La Trobe University * ^ (h)",
+          "l": 98.88,
+          "t": 221.71997,
+          "r": 155.49368,
+          "b": 224.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jan 26",
+          "l": 217.46,
+          "t": 221.71999,
+          "r": 237.32599,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 321.74,
+          "t": 221.71999,
+          "r": 342.32834,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Feb 26",
+          "l": 362.9,
+          "t": 221.71999,
+          "r": 383.48834,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Feb 26",
+          "l": 394.97,
+          "t": 221.71999,
+          "r": 415.55835,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 221.71999,
+          "r": 448.19165,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Apr 26",
+          "l": 458.45,
+          "t": 221.71999,
+          "r": 478.9197,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Apr 26",
+          "l": 489.77,
+          "t": 221.71999,
+          "r": 510.2397,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 May 26",
+          "l": 530.57,
+          "t": 221.71999,
+          "r": 552.7167,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jun 26",
+          "l": 577.61,
+          "t": 221.71999,
+          "r": 597.7185,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 Jun 26",
+          "l": 619.97,
+          "t": 221.71999,
+          "r": 640.0785,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Jul 26",
+          "l": 658.99,
+          "t": 221.71999,
+          "r": 677.5402,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 Aug 26",
+          "l": 690.91,
+          "t": 221.71999,
+          "r": 711.9834,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Sep 26",
+          "l": 724.87,
+          "t": 221.71999,
+          "r": 745.4585,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Oct 26",
+          "l": 767.35,
+          "t": 221.71999,
+          "r": 787.47394,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Oct 26",
+          "l": 811.27,
+          "t": 221.71999,
+          "r": 831.394,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Oct 26",
+          "l": 849.19,
+          "t": 221.71999,
+          "r": 869.31396,
+          "b": 224.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monash University (z)",
+          "l": 98.88,
+          "t": 230.36,
+          "r": 145.707,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 230.36,
+          "r": 448.19165,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 230.36,
+          "r": 478.9197,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Apr 26",
+          "l": 489.77,
+          "t": 230.36,
+          "r": 510.2397,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Jun 26",
+          "l": 531.65,
+          "t": 230.36,
+          "r": 551.75854,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Jun 26",
+          "l": 577.61,
+          "t": 230.36,
+          "r": 597.7185,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Jun 26",
+          "l": 619.97,
+          "t": 230.36,
+          "r": 640.0785,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 230.36,
+          "r": 677.5402,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Sep 26",
+          "l": 691.15,
+          "t": 230.36,
+          "r": 711.7385,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Sep 26",
+          "l": 724.87,
+          "t": 230.36,
+          "r": 745.4585,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18 Nov 26",
+          "l": 766.75,
+          "t": 230.36,
+          "r": 788.06085,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Nov 26",
+          "l": 810.67,
+          "t": 230.36,
+          "r": 831.98083,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18 Nov 26",
+          "l": 848.59,
+          "t": 230.36,
+          "r": 869.9009,
+          "b": 232.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "RMIT University (i)",
+          "l": 98.88,
+          "t": 239.0,
+          "r": 139.40575,
+          "b": 241.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Swinburne University of Technology (j)",
+          "l": 98.88,
+          "t": 247.63997,
+          "r": 181.91986,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jan 26",
+          "l": 217.46,
+          "t": 247.63997,
+          "r": 237.32599,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 255.98,
+          "t": 247.63997,
+          "r": 264.35468,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 287.3,
+          "t": 247.63997,
+          "r": 295.67468,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 Feb 26",
+          "l": 321.74,
+          "t": 247.63997,
+          "r": 342.32834,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Feb 26",
+          "l": 362.9,
+          "t": 247.63997,
+          "r": 383.48834,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Feb 26",
+          "l": 394.97,
+          "t": 247.63997,
+          "r": 415.55835,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 247.63997,
+          "r": 448.19165,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Apr 26",
+          "l": 458.45,
+          "t": 247.63997,
+          "r": 478.9197,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Apr 26",
+          "l": 489.77,
+          "t": 247.63997,
+          "r": 510.2397,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 May 26",
+          "l": 530.57,
+          "t": 247.63997,
+          "r": 552.7167,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jun 26",
+          "l": 577.61,
+          "t": 247.63997,
+          "r": 597.7185,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Jun 26",
+          "l": 619.97,
+          "t": 247.63997,
+          "r": 640.0785,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Aug 26",
+          "l": 657.67,
+          "t": 247.63997,
+          "r": 678.7434,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Sep 26",
+          "l": 691.15,
+          "t": 247.63997,
+          "r": 711.7385,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Sep 26",
+          "l": 724.87,
+          "t": 247.63997,
+          "r": 745.4585,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Nov 26",
+          "l": 766.75,
+          "t": 247.63997,
+          "r": 788.06085,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Nov 25",
+          "l": 810.67,
+          "t": 247.63997,
+          "r": 831.98083,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Nov 26",
+          "l": 848.59,
+          "t": 247.63997,
+          "r": 869.9009,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Jan 27",
+          "l": 885.46,
+          "t": 247.63997,
+          "r": 905.326,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 922.9,
+          "t": 247.63997,
+          "r": 931.27466,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 955.18,
+          "t": 247.63997,
+          "r": 963.5546,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Feb 27",
+          "l": 991.66,
+          "t": 247.63997,
+          "r": 1012.2485,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TBA",
+          "l": 1037.86,
+          "t": 247.63997,
+          "r": 1046.1263,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TBA",
+          "l": 1074.94,
+          "t": 247.63997,
+          "r": 1083.2063,
+          "b": 250.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University of Melbourne (y)",
+          "l": 98.88,
+          "t": 256.28,
+          "r": 167.40479,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Nov 25",
+          "l": 216.74,
+          "t": 256.28,
+          "r": 238.0508,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Dec 25",
+          "l": 249.74,
+          "t": 256.28,
+          "r": 270.46252,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 26",
+          "l": 281.54,
+          "t": 256.28,
+          "r": 301.40598,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 321.74,
+          "t": 256.28,
+          "r": 342.32834,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Feb 26",
+          "l": 362.9,
+          "t": 256.28,
+          "r": 383.48834,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 394.97,
+          "t": 256.28,
+          "r": 415.55835,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 256.28,
+          "r": 448.19165,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Apr 26",
+          "l": 458.45,
+          "t": 256.28,
+          "r": 478.9197,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Apr 26",
+          "l": 489.77,
+          "t": 256.28,
+          "r": 510.2397,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 May 26",
+          "l": 530.57,
+          "t": 256.28,
+          "r": 552.7167,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Jun 26",
+          "l": 577.61,
+          "t": 256.28,
+          "r": 597.7185,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Jun 26",
+          "l": 619.97,
+          "t": 256.28,
+          "r": 640.0785,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 256.28,
+          "r": 677.5402,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Sep 26",
+          "l": 691.15,
+          "t": 256.28,
+          "r": 711.7385,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Oct 26",
+          "l": 725.11,
+          "t": 256.28,
+          "r": 745.23395,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Oct 26",
+          "l": 767.35,
+          "t": 256.28,
+          "r": 787.47394,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Nov 26",
+          "l": 810.67,
+          "t": 256.28,
+          "r": 831.98083,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Nov 26",
+          "l": 848.59,
+          "t": 256.28,
+          "r": 869.9009,
+          "b": 258.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Victoria University * (k)",
+          "l": 98.88,
+          "t": 264.94995,
+          "r": 149.8455,
+          "b": 267.76996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Queensland",
+          "l": 98.88,
+          "t": 273.34998,
+          "r": 126.96722,
+          "b": 276.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bond University #",
+          "l": 98.88,
+          "t": 282.22998,
+          "r": 137.22876,
+          "b": 285.05,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Griffith University * #",
+          "l": 98.88,
+          "t": 290.87003,
+          "r": 144.96913,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 290.87003,
+          "r": 448.19165,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 Jun 26",
+          "l": 458.57,
+          "t": 290.87003,
+          "r": 478.6785,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Jul 26",
+          "l": 490.73,
+          "t": 290.87003,
+          "r": 509.28018,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 May 26",
+          "l": 530.57,
+          "t": 290.87003,
+          "r": 552.7167,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Jun 26",
+          "l": 577.61,
+          "t": 290.87003,
+          "r": 597.7185,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "`13 Jun 26",
+          "l": 619.25,
+          "t": 290.87003,
+          "r": 640.9117,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Jul 26",
+          "l": 658.99,
+          "t": 290.87003,
+          "r": 677.5402,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Oct 26",
+          "l": 691.39,
+          "t": 290.87003,
+          "r": 711.514,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Oct 26",
+          "l": 725.11,
+          "t": 290.87003,
+          "r": 745.23395,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Oct 26",
+          "l": 767.35,
+          "t": 290.87003,
+          "r": 787.47394,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 Oct 26",
+          "l": 811.27,
+          "t": 290.87003,
+          "r": 831.394,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Oct 26",
+          "l": 849.19,
+          "t": 290.87003,
+          "r": 869.31396,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Nov 26",
+          "l": 884.74,
+          "t": 290.87003,
+          "r": 906.05084,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Dec 26",
+          "l": 916.78,
+          "t": 290.87003,
+          "r": 937.5027,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 290.87003,
+          "r": 969.28595,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Dec 26",
+          "l": 991.54,
+          "t": 290.87003,
+          "r": 1012.26263,
+          "b": 293.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "James Cook University * ^ (m)",
+          "l": 98.88,
+          "t": 299.50995,
+          "r": 163.77597,
+          "b": 302.32996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 427.01,
+          "t": 299.50998,
+          "r": 447.59836,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jun 26",
+          "l": 458.57,
+          "t": 299.50998,
+          "r": 478.6785,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jun 26",
+          "l": 489.89,
+          "t": 299.50998,
+          "r": 509.9985,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Jun 26",
+          "l": 531.65,
+          "t": 299.50998,
+          "r": 551.75854,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Jun 26",
+          "l": 577.61,
+          "t": 299.50998,
+          "r": 597.7185,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Jun 26",
+          "l": 619.97,
+          "t": 299.50998,
+          "r": 640.0785,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 299.50998,
+          "r": 677.5402,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Nov 26",
+          "l": 690.79,
+          "t": 299.50998,
+          "r": 712.1008,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Nov 26",
+          "l": 724.51,
+          "t": 299.50998,
+          "r": 745.82086,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Nov 26",
+          "l": 766.75,
+          "t": 299.50998,
+          "r": 788.06085,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Nov 26",
+          "l": 810.67,
+          "t": 299.50998,
+          "r": 831.98083,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Nov 26",
+          "l": 848.59,
+          "t": 299.50998,
+          "r": 869.9009,
+          "b": 302.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Queensland University of Technology",
+          "l": 98.88,
+          "t": 308.15,
+          "r": 179.03542,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 Nov 25",
+          "l": 216.74,
+          "t": 308.15,
+          "r": 238.0508,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Dec 25",
+          "l": 249.74,
+          "t": 308.15,
+          "r": 270.46252,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Jan 26",
+          "l": 281.54,
+          "t": 308.15,
+          "r": 301.40598,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Feb 26",
+          "l": 321.74,
+          "t": 308.15,
+          "r": 342.32834,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Feb 26",
+          "l": 362.9,
+          "t": 308.15,
+          "r": 383.48834,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Feb 26",
+          "l": 394.97,
+          "t": 308.15,
+          "r": 415.55835,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 427.01,
+          "t": 308.15,
+          "r": 447.59836,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 308.15,
+          "r": 478.9197,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Apr 26",
+          "l": 489.77,
+          "t": 308.15,
+          "r": 510.2397,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 May 26",
+          "l": 530.57,
+          "t": 308.15,
+          "r": 552.7167,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Jun 26",
+          "l": 577.61,
+          "t": 308.15,
+          "r": 597.7185,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Jun 26",
+          "l": 619.97,
+          "t": 308.15,
+          "r": 640.0785,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Jul 26",
+          "l": 658.99,
+          "t": 308.15,
+          "r": 677.5402,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Sep 26",
+          "l": 691.15,
+          "t": 308.15,
+          "r": 711.7385,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Sep 26",
+          "l": 724.87,
+          "t": 308.15,
+          "r": 745.4585,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Oct 26",
+          "l": 767.35,
+          "t": 308.15,
+          "r": 787.47394,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 Oct 26",
+          "l": 811.27,
+          "t": 308.15,
+          "r": 831.394,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Nov 26",
+          "l": 848.59,
+          "t": 308.15,
+          "r": 869.9009,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Nov 26",
+          "l": 884.74,
+          "t": 308.15,
+          "r": 906.05084,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Dec 26",
+          "l": 916.78,
+          "t": 308.15,
+          "r": 937.5027,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 308.15,
+          "r": 969.28595,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Feb 27",
+          "l": 991.66,
+          "t": 308.15,
+          "r": 1012.2485,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Feb 27",
+          "l": 1031.62,
+          "t": 308.15,
+          "r": 1052.2081,
+          "b": 310.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19-Feb-27",
+          "l": 1068.34,
+          "t": 309.11002,
+          "r": 1089.6505,
+          "b": 311.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University of Queensland",
+          "l": 98.88,
+          "t": 316.79,
+          "r": 162.45634,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Dec 25",
+          "l": 216.98,
+          "t": 316.79,
+          "r": 237.70255,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Dec 25",
+          "l": 249.74,
+          "t": 316.79,
+          "r": 270.46252,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 26",
+          "l": 281.54,
+          "t": 316.79,
+          "r": 301.40598,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Jan 26",
+          "l": 322.1,
+          "t": 316.79,
+          "r": 341.96597,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Feb 26",
+          "l": 362.9,
+          "t": 316.79,
+          "r": 383.48834,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Feb 26",
+          "l": 394.97,
+          "t": 316.79,
+          "r": 415.55835,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 427.01,
+          "t": 316.79,
+          "r": 447.59836,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 316.79,
+          "r": 478.9197,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Apr 26",
+          "l": 489.77,
+          "t": 316.79,
+          "r": 510.2397,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 May 26",
+          "l": 530.57,
+          "t": 316.79,
+          "r": 552.7167,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Jun 26",
+          "l": 577.61,
+          "t": 316.79,
+          "r": 597.7185,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Jun 26",
+          "l": 619.97,
+          "t": 316.79,
+          "r": 640.0785,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 316.79,
+          "r": 677.5402,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Sep 26",
+          "l": 691.15,
+          "t": 316.79,
+          "r": 711.7385,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Oct 26",
+          "l": 725.11,
+          "t": 316.79,
+          "r": 745.23395,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 Oct 26",
+          "l": 767.35,
+          "t": 316.79,
+          "r": 787.47394,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Nov 26",
+          "l": 810.67,
+          "t": 316.79,
+          "r": 831.98083,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Nov 26",
+          "l": 848.59,
+          "t": 316.79,
+          "r": 869.9009,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Nov 26",
+          "l": 884.74,
+          "t": 316.79,
+          "r": 906.05084,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Dec 26",
+          "l": 916.78,
+          "t": 316.79,
+          "r": 937.5027,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 316.79,
+          "r": 969.28595,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Jan 27",
+          "l": 992.02,
+          "t": 316.79,
+          "r": 1011.886,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Feb 27",
+          "l": 1031.62,
+          "t": 316.79,
+          "r": 1052.2081,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 27",
+          "l": 1068.7,
+          "t": 316.79,
+          "r": 1089.2881,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "University of Southern Queensland (aa)",
+          "l": 98.88,
+          "t": 325.78998,
+          "r": 184.64323,
+          "b": 328.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Sep 25",
+          "l": 217.1,
+          "t": 325.79,
+          "r": 237.6884,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Oct 25",
+          "l": 250.1,
+          "t": 325.79,
+          "r": 270.224,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Oct 25",
+          "l": 281.42,
+          "t": 325.79,
+          "r": 301.54398,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Nov 25",
+          "l": 321.38,
+          "t": 325.79,
+          "r": 342.69077,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Dec 25",
+          "l": 362.9,
+          "t": 325.79,
+          "r": 383.6225,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Dec 25",
+          "l": 394.97,
+          "t": 325.79,
+          "r": 415.6925,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Feb 26",
+          "l": 427.01,
+          "t": 325.79,
+          "r": 447.59836,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Mar 26",
+          "l": 457.85,
+          "t": 325.79,
+          "r": 479.51166,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Apr 26",
+          "l": 489.77,
+          "t": 325.79,
+          "r": 510.2397,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 May 26",
+          "l": 530.57,
+          "t": 325.79,
+          "r": 552.7167,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11 May 25",
+          "l": 576.53,
+          "t": 325.79,
+          "r": 598.6767,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 May 26",
+          "l": 619.01,
+          "t": 325.79,
+          "r": 641.1567,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jun 26",
+          "l": 658.15,
+          "t": 325.79,
+          "r": 678.25854,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Jul 26",
+          "l": 692.11,
+          "t": 325.79,
+          "r": 710.6602,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 Jul 26",
+          "l": 725.83,
+          "t": 325.79,
+          "r": 744.38025,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Aug 26",
+          "l": 766.87,
+          "t": 325.79,
+          "r": 787.9434,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Aug 26",
+          "l": 810.79,
+          "t": 325.79,
+          "r": 831.8634,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Aug 26",
+          "l": 848.71,
+          "t": 325.79,
+          "r": 869.78345,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Sep 26",
+          "l": 885.1,
+          "t": 325.79,
+          "r": 905.6885,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Oct 26",
+          "l": 917.02,
+          "t": 325.79,
+          "r": 937.144,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Oct 26",
+          "l": 949.3,
+          "t": 325.79,
+          "r": 969.42395,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Dec 26",
+          "l": 991.54,
+          "t": 325.79,
+          "r": 1012.26263,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Dec 26",
+          "l": 1031.62,
+          "t": 325.79,
+          "r": 1052.3424,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Dec 26",
+          "l": 1068.7,
+          "t": 325.79,
+          "r": 1089.4224,
+          "b": 328.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "University of the Sunshine Coast * ^ (n)",
+          "l": 98.88,
+          "t": 334.66998,
+          "r": 182.99313,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Nov 25",
+          "l": 216.74,
+          "t": 334.66998,
+          "r": 238.0508,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Dec 25",
+          "l": 249.74,
+          "t": 334.66998,
+          "r": 270.46252,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Jan 26",
+          "l": 281.54,
+          "t": 334.66998,
+          "r": 301.40598,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Jan 26",
+          "l": 322.1,
+          "t": 334.66998,
+          "r": 341.96597,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Jan 26",
+          "l": 363.26,
+          "t": 334.66998,
+          "r": 383.12598,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Jan 26",
+          "l": 395.33,
+          "t": 334.66998,
+          "r": 415.19595,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 334.66998,
+          "r": 448.19165,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 334.66998,
+          "r": 478.9197,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Apr 26",
+          "l": 489.77,
+          "t": 334.66998,
+          "r": 510.2397,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 May 26",
+          "l": 530.57,
+          "t": 334.66998,
+          "r": 552.7167,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Jun 26",
+          "l": 577.61,
+          "t": 334.66998,
+          "r": 597.7185,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Jun 26",
+          "l": 619.97,
+          "t": 334.66998,
+          "r": 640.0785,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Jul 26",
+          "l": 658.99,
+          "t": 334.66998,
+          "r": 677.5402,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Sep 26",
+          "l": 691.15,
+          "t": 334.66998,
+          "r": 711.7385,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Oct 26",
+          "l": 725.11,
+          "t": 334.66998,
+          "r": 745.23395,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Oct 26",
+          "l": 767.35,
+          "t": 334.66998,
+          "r": 787.47394,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Oct 26",
+          "l": 811.27,
+          "t": 334.66998,
+          "r": 831.394,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Oct 26",
+          "l": 849.19,
+          "t": 334.66998,
+          "r": 869.31396,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Nov 26",
+          "l": 884.74,
+          "t": 334.66998,
+          "r": 906.05084,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Dec 26",
+          "l": 916.78,
+          "t": 334.66998,
+          "r": 937.5027,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Jan 27",
+          "l": 949.42,
+          "t": 334.66998,
+          "r": 969.28595,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Jan 27",
+          "l": 992.02,
+          "t": 334.66998,
+          "r": 1011.886,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Jan 27",
+          "l": 1031.98,
+          "t": 334.66998,
+          "r": 1051.8458,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Jan 27",
+          "l": 1069.06,
+          "t": 334.66998,
+          "r": 1088.9259,
+          "b": 337.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Western Australia",
+          "l": 98.88,
+          "t": 343.55,
+          "r": 141.32664,
+          "b": 346.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17-Aug-26",
+          "l": 690.55,
+          "t": 352.19,
+          "r": 712.34595,
+          "b": 354.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21-Aug-26",
+          "l": 724.27,
+          "t": 352.19,
+          "r": 746.066,
+          "b": 354.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Curtin University",
+          "l": 98.88,
+          "t": 359.38998,
+          "r": 135.12901,
+          "b": 361.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24-Nov-25",
+          "l": 216.38,
+          "t": 359.75,
+          "r": 238.41321,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22-Dec-25",
+          "l": 249.38,
+          "t": 359.75,
+          "r": 270.82495,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26-Dec-25",
+          "l": 280.7,
+          "t": 359.75,
+          "r": 302.14493,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23-Jan-26",
+          "l": 321.74,
+          "t": 359.75,
+          "r": 342.32837,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2-Feb-26",
+          "l": 363.86,
+          "t": 359.75,
+          "r": 382.534,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6-Feb-26",
+          "l": 395.93,
+          "t": 359.75,
+          "r": 414.604,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16-Feb-26",
+          "l": 426.65,
+          "t": 359.75,
+          "r": 447.96075,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6-Apr-26",
+          "l": 459.41,
+          "t": 359.75,
+          "r": 477.97052,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17-Apr-26",
+          "l": 489.41,
+          "t": 359.75,
+          "r": 510.60727,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22-May-26",
+          "l": 530.21,
+          "t": 359.75,
+          "r": 553.0792,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-Jun-26",
+          "l": 578.57,
+          "t": 359.75,
+          "r": 596.7643,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12-Jun-26",
+          "l": 619.61,
+          "t": 359.75,
+          "r": 640.44104,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20-Jul-26",
+          "l": 658.63,
+          "t": 359.75,
+          "r": 677.90796,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28-Sep-26",
+          "l": 690.79,
+          "t": 359.75,
+          "r": 712.101,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2-Oct-26",
+          "l": 726.07,
+          "t": 359.75,
+          "r": 744.2797,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23-Oct-26",
+          "l": 766.99,
+          "t": 359.75,
+          "r": 787.8365,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2-Nov-26",
+          "l": 811.63,
+          "t": 359.75,
+          "r": 831.0266,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13-Nov-26",
+          "l": 848.23,
+          "t": 359.75,
+          "r": 870.26337,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23-Nov-26",
+          "l": 884.38,
+          "t": 359.75,
+          "r": 906.4134,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21-Dec-26",
+          "l": 916.42,
+          "t": 359.75,
+          "r": 937.8652,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25-Dec-26",
+          "l": 948.58,
+          "t": 359.75,
+          "r": 970.0252,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22-Jan-27",
+          "l": 991.66,
+          "t": 359.75,
+          "r": 1012.2485,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-Feb-27",
+          "l": 1032.58,
+          "t": 359.75,
+          "r": 1051.2538,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5-Feb-27",
+          "l": 1069.66,
+          "t": 359.75,
+          "r": 1088.3339,
+          "b": 362.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Edith Cowan University",
+          "l": 98.88,
+          "t": 368.27,
+          "r": 148.92166,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 Nov 25",
+          "l": 216.74,
+          "t": 368.27,
+          "r": 238.0508,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Dec 25",
+          "l": 249.74,
+          "t": 368.27,
+          "r": 270.46252,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Jan 26",
+          "l": 281.54,
+          "t": 368.27,
+          "r": 301.40598,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Feb 26",
+          "l": 321.74,
+          "t": 368.27,
+          "r": 342.32834,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11 Feb 26",
+          "l": 362.9,
+          "t": 368.27,
+          "r": 383.48834,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18 Feb 26",
+          "l": 394.97,
+          "t": 368.27,
+          "r": 415.55835,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 427.01,
+          "t": 368.27,
+          "r": 447.59836,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 368.27,
+          "r": 478.9197,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Apr 26",
+          "l": 489.77,
+          "t": 368.27,
+          "r": 510.2397,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 May 26",
+          "l": 530.57,
+          "t": 368.27,
+          "r": 552.7167,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Jun 26",
+          "l": 577.61,
+          "t": 368.27,
+          "r": 597.7185,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Jun 26",
+          "l": 619.97,
+          "t": 368.27,
+          "r": 640.0785,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 368.27,
+          "r": 677.5402,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Sep 26",
+          "l": 691.15,
+          "t": 368.27,
+          "r": 711.7385,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Oct 26",
+          "l": 725.11,
+          "t": 368.27,
+          "r": 745.23395,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Oct 26",
+          "l": 767.35,
+          "t": 368.27,
+          "r": 787.47394,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Nov 26",
+          "l": 810.67,
+          "t": 368.27,
+          "r": 831.98083,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Nov 26",
+          "l": 848.59,
+          "t": 368.27,
+          "r": 869.9009,
+          "b": 370.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Murdoch University ^ (o)",
+          "l": 98.88,
+          "t": 377.74997,
+          "r": 154.28215,
+          "b": 380.56998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University of Western Australia (q)",
+          "l": 98.88,
+          "t": 386.38998,
+          "r": 183.21368,
+          "b": 389.21,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Nov 25",
+          "l": 216.74,
+          "t": 386.38998,
+          "r": 238.0508,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Jan 26",
+          "l": 322.1,
+          "t": 386.38998,
+          "r": 341.96597,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Jan 26",
+          "l": 363.26,
+          "t": 386.38998,
+          "r": 383.12598,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Feb 26",
+          "l": 394.97,
+          "t": 386.38998,
+          "r": 415.55835,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 427.01,
+          "t": 386.38998,
+          "r": 447.59836,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 386.38998,
+          "r": 478.9197,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 Apr 26",
+          "l": 489.77,
+          "t": 386.38998,
+          "r": 510.2397,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 May 26",
+          "l": 530.57,
+          "t": 386.38998,
+          "r": 552.7167,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jun 26",
+          "l": 577.61,
+          "t": 386.38998,
+          "r": 597.7185,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Jun 26",
+          "l": 619.97,
+          "t": 386.38998,
+          "r": 640.0785,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Jul 26",
+          "l": 658.99,
+          "t": 386.38998,
+          "r": 677.5402,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 Aug 26",
+          "l": 690.91,
+          "t": 386.38998,
+          "r": 711.9834,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Sep 26",
+          "l": 724.87,
+          "t": 386.38998,
+          "r": 745.4585,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Oct 26",
+          "l": 767.35,
+          "t": 386.38998,
+          "r": 787.47394,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26 Oct 26",
+          "l": 811.27,
+          "t": 386.38998,
+          "r": 831.394,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Nov 26",
+          "l": 848.59,
+          "t": 386.38998,
+          "r": 869.9009,
+          "b": 388.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "South Australia",
+          "l": 98.88,
+          "t": 394.78998,
+          "r": 134.75038,
+          "b": 397.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Flinders University *",
+          "l": 98.88,
+          "t": 403.66998,
+          "r": 142.69357,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jan 26",
+          "l": 217.46,
+          "t": 403.66998,
+          "r": 237.32599,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 259.34,
+          "t": 403.66998,
+          "r": 260.91895,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 290.66,
+          "t": 403.66998,
+          "r": 292.23895,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Feb 26",
+          "l": 321.74,
+          "t": 403.66998,
+          "r": 342.32834,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 372.53,
+          "t": 403.66998,
+          "r": 374.10895,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 404.57,
+          "t": 403.66998,
+          "r": 406.14896,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 427.01,
+          "t": 403.66998,
+          "r": 447.59836,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Apr 26",
+          "l": 458.45,
+          "t": 403.66998,
+          "r": 478.9197,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Apr 26",
+          "l": 489.77,
+          "t": 403.66998,
+          "r": 510.2397,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Jun 26",
+          "l": 531.65,
+          "t": 403.66998,
+          "r": 551.75854,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Jun 26",
+          "l": 577.61,
+          "t": 403.66998,
+          "r": 597.7185,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Jul 26",
+          "l": 620.81,
+          "t": 403.66998,
+          "r": 639.3602,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jul 26",
+          "l": 658.99,
+          "t": 403.66998,
+          "r": 677.5402,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Sep 26",
+          "l": 691.15,
+          "t": 403.66998,
+          "r": 711.7385,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Oct 26",
+          "l": 725.11,
+          "t": 403.66998,
+          "r": 745.23395,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Nov 26",
+          "l": 766.75,
+          "t": 403.66998,
+          "r": 788.06085,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Nov 26",
+          "l": 810.67,
+          "t": 403.66998,
+          "r": 831.98083,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Nov 26",
+          "l": 848.59,
+          "t": 403.66998,
+          "r": 869.9009,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 894.7,
+          "t": 403.66998,
+          "r": 896.279,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 926.38,
+          "t": 403.66998,
+          "r": 927.959,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 958.54,
+          "t": 403.66998,
+          "r": 960.11896,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 1001.14,
+          "t": 403.66998,
+          "r": 1002.719,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 1041.22,
+          "t": 403.66998,
+          "r": 1042.799,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 1078.3,
+          "t": 403.66998,
+          "r": 1079.879,
+          "b": 406.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University of Adelaide (r)",
+          "l": 98.88,
+          "t": 412.31,
+          "r": 161.88358,
+          "b": 414.88998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "University of South Australia * (nn)",
+          "l": 98.88,
+          "t": 420.94998,
+          "r": 174.00443,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Oct 24",
+          "l": 217.34,
+          "t": 420.94998,
+          "r": 237.464,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 255.98,
+          "t": 420.94998,
+          "r": 264.35468,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 287.3,
+          "t": 420.94998,
+          "r": 295.67468,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Jan 25",
+          "l": 322.1,
+          "t": 420.94998,
+          "r": 341.96597,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27 Jan 25",
+          "l": 363.26,
+          "t": 420.94998,
+          "r": 383.12598,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Feb 25",
+          "l": 394.97,
+          "t": 420.94998,
+          "r": 415.55835,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Mar 25",
+          "l": 426.53,
+          "t": 420.94998,
+          "r": 448.19165,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Apr 25",
+          "l": 458.45,
+          "t": 420.94998,
+          "r": 478.9197,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Apr 25",
+          "l": 489.77,
+          "t": 420.94998,
+          "r": 510.2397,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Jun 25",
+          "l": 531.65,
+          "t": 420.94998,
+          "r": 551.75854,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Jun 25",
+          "l": 577.61,
+          "t": 420.94998,
+          "r": 597.7185,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jul 25",
+          "l": 620.81,
+          "t": 420.94998,
+          "r": 639.3602,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Jul 25",
+          "l": 658.99,
+          "t": 420.94998,
+          "r": 677.5402,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Sep 25",
+          "l": 691.15,
+          "t": 420.94998,
+          "r": 711.7385,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Oct 25",
+          "l": 725.11,
+          "t": 420.94998,
+          "r": 745.23395,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Nov 25",
+          "l": 766.75,
+          "t": 420.94998,
+          "r": 788.06085,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 Nov 25",
+          "l": 810.67,
+          "t": 420.94998,
+          "r": 831.98083,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Nov 25",
+          "l": 848.59,
+          "t": 420.94998,
+          "r": 869.9009,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Nov 25",
+          "l": 884.74,
+          "t": 420.94998,
+          "r": 906.05084,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 922.9,
+          "t": 420.94998,
+          "r": 931.27466,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 955.18,
+          "t": 420.94998,
+          "r": 963.5546,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Jan 26",
+          "l": 992.02,
+          "t": 420.94998,
+          "r": 1011.886,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Feb 26",
+          "l": 1031.62,
+          "t": 420.94998,
+          "r": 1052.2081,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Feb 26",
+          "l": 1068.7,
+          "t": 420.94998,
+          "r": 1089.2881,
+          "b": 423.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tasmania",
+          "l": 98.88,
+          "t": 429.34998,
+          "r": 121.20878,
+          "b": 432.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "University of Tasmania * ^ (w)",
+          "l": 98.88,
+          "t": 438.25,
+          "r": 163.56575,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Nov 25",
+          "l": 216.74,
+          "t": 438.25,
+          "r": 238.0508,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Dec 25",
+          "l": 249.74,
+          "t": 438.25,
+          "r": 270.46252,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 26",
+          "l": 281.54,
+          "t": 438.25,
+          "r": 301.40598,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 321.74,
+          "t": 438.25,
+          "r": 342.32834,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 369.02,
+          "t": 438.25,
+          "r": 377.39468,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 401.09,
+          "t": 438.25,
+          "r": 409.4647,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Feb 26",
+          "l": 427.01,
+          "t": 438.25,
+          "r": 447.59836,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Apr 26",
+          "l": 458.45,
+          "t": 438.25,
+          "r": 478.9197,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Apr 26",
+          "l": 489.77,
+          "t": 438.25,
+          "r": 510.2397,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 May 26",
+          "l": 530.57,
+          "t": 438.25,
+          "r": 552.7167,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 May 26",
+          "l": 576.53,
+          "t": 438.25,
+          "r": 598.6767,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Jun 26",
+          "l": 619.97,
+          "t": 438.25,
+          "r": 640.0785,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Jul 26",
+          "l": 658.99,
+          "t": 438.25,
+          "r": 677.5402,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Aug 26",
+          "l": 690.91,
+          "t": 438.25,
+          "r": 711.9834,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30 Aug 26",
+          "l": 724.63,
+          "t": 438.25,
+          "r": 745.7034,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Oct 26",
+          "l": 767.35,
+          "t": 438.25,
+          "r": 787.47394,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Oct 26",
+          "l": 811.27,
+          "t": 438.25,
+          "r": 831.394,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Oct 26",
+          "l": 849.19,
+          "t": 438.25,
+          "r": 869.31396,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Nov 26",
+          "l": 884.74,
+          "t": 438.25,
+          "r": 906.05084,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25 Dec 26",
+          "l": 916.78,
+          "t": 438.25,
+          "r": 937.5027,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Jan 27",
+          "l": 949.42,
+          "t": 438.25,
+          "r": 969.28595,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Feb 27",
+          "l": 991.66,
+          "t": 438.25,
+          "r": 1012.2485,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 1037.74,
+          "t": 438.25,
+          "r": 1046.1146,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 1074.82,
+          "t": 438.25,
+          "r": 1083.1946,
+          "b": 440.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Northern Territory",
+          "l": 98.88,
+          "t": 446.64996,
+          "r": 142.54488,
+          "b": 449.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Charles Darwin University * ^ (v)",
+          "l": 98.88,
+          "t": 455.53,
+          "r": 168.59155,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 Nov 25",
+          "l": 216.74,
+          "t": 455.53,
+          "r": 238.0508,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Dec 25",
+          "l": 249.74,
+          "t": 455.53,
+          "r": 270.46252,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Jan 26",
+          "l": 281.54,
+          "t": 455.53,
+          "r": 301.40598,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Feb 26",
+          "l": 321.74,
+          "t": 455.53,
+          "r": 342.32834,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Feb 26",
+          "l": 362.9,
+          "t": 455.53,
+          "r": 383.48834,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 394.97,
+          "t": 455.53,
+          "r": 415.55835,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 455.53,
+          "r": 448.19165,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 455.53,
+          "r": 478.9197,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Apr 26",
+          "l": 489.77,
+          "t": 455.53,
+          "r": 510.2397,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 May 26",
+          "l": 530.57,
+          "t": 455.53,
+          "r": 552.7167,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Jun 26",
+          "l": 577.61,
+          "t": 455.53,
+          "r": 597.7185,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Jun 26",
+          "l": 619.97,
+          "t": 455.53,
+          "r": 640.0785,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Jul 26",
+          "l": 658.99,
+          "t": 455.53,
+          "r": 677.5402,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Aug 26",
+          "l": 690.91,
+          "t": 455.53,
+          "r": 711.9834,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Aug 26",
+          "l": 724.63,
+          "t": 455.53,
+          "r": 745.7034,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Oct 26",
+          "l": 767.35,
+          "t": 455.53,
+          "r": 787.47394,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Oct 26",
+          "l": 811.27,
+          "t": 455.53,
+          "r": 831.394,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Oct 26",
+          "l": 849.19,
+          "t": 455.53,
+          "r": 869.31396,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Nov 26",
+          "l": 884.74,
+          "t": 455.53,
+          "r": 906.05084,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Dec 26",
+          "l": 916.78,
+          "t": 455.53,
+          "r": 937.5027,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 455.53,
+          "r": 969.28595,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Feb 27",
+          "l": 991.66,
+          "t": 455.53,
+          "r": 1012.2485,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Feb 27",
+          "l": 1031.62,
+          "t": 455.53,
+          "r": 1052.2081,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Feb 27",
+          "l": 1068.7,
+          "t": 455.53,
+          "r": 1089.2881,
+          "b": 458.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Australian Capital Territory",
+          "l": 98.88,
+          "t": 463.92996,
+          "r": 162.54431,
+          "b": 466.74997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Australian National University * (x)",
+          "l": 98.88,
+          "t": 472.81,
+          "r": 182.98283,
+          "b": 475.38998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "University of Canberra  *  (s)",
+          "l": 98.88,
+          "t": 481.44998,
+          "r": 160.98053,
+          "b": 484.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Nov 25",
+          "l": 216.74,
+          "t": 481.44998,
+          "r": 238.0508,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Dec 25",
+          "l": 249.74,
+          "t": 481.44998,
+          "r": 270.46252,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Jan 26",
+          "l": 281.54,
+          "t": 481.44998,
+          "r": 301.40598,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Jan 26",
+          "l": 322.1,
+          "t": 481.44998,
+          "r": 341.96597,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 369.02,
+          "t": 482.41,
+          "r": 377.39468,
+          "b": 484.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 401.09,
+          "t": 482.41,
+          "r": 409.4647,
+          "b": 484.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Mar 26",
+          "l": 426.53,
+          "t": 481.44998,
+          "r": 448.19165,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Apr 26",
+          "l": 458.45,
+          "t": 481.44998,
+          "r": 478.9197,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17 Apr 26",
+          "l": 489.77,
+          "t": 481.44998,
+          "r": 510.2397,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 May 26",
+          "l": 530.57,
+          "t": 481.44998,
+          "r": 552.7167,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18 May 26",
+          "l": 576.53,
+          "t": 481.44998,
+          "r": 598.6767,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 May 26",
+          "l": 619.01,
+          "t": 481.44998,
+          "r": 641.1567,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Aug 26",
+          "l": 657.67,
+          "t": 481.44998,
+          "r": 678.7434,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Oct 26",
+          "l": 691.39,
+          "t": 481.44998,
+          "r": 711.514,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Oct 26",
+          "l": 725.11,
+          "t": 481.44998,
+          "r": 745.23395,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Nov 26",
+          "l": 766.75,
+          "t": 481.44998,
+          "r": 788.06085,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Nov 26",
+          "l": 810.67,
+          "t": 481.44998,
+          "r": 831.98083,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Nov 26",
+          "l": 848.59,
+          "t": 481.44998,
+          "r": 869.9009,
+          "b": 484.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Multi-state",
+          "l": 98.88,
+          "t": 489.84998,
+          "r": 124.96499,
+          "b": 492.66998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Australian Catholic University * ^ (t)",
+          "l": 98.88,
+          "t": 498.72998,
+          "r": 176.6108,
+          "b": 501.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Mar 26",
+          "l": 426.53,
+          "t": 498.73,
+          "r": 448.19165,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06 Apr 26",
+          "l": 458.45,
+          "t": 498.73,
+          "r": 478.9197,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Apr 26",
+          "l": 489.77,
+          "t": 498.73,
+          "r": 510.2397,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Jun 26",
+          "l": 531.65,
+          "t": 498.73,
+          "r": 551.75854,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Jun 26",
+          "l": 577.61,
+          "t": 498.73,
+          "r": 597.7185,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Jun 26",
+          "l": 619.97,
+          "t": 498.73,
+          "r": 640.0785,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03 Aug 26",
+          "l": 657.67,
+          "t": 498.73,
+          "r": 678.7434,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Sep 26",
+          "l": 691.15,
+          "t": 498.73,
+          "r": 711.7385,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04 Oct 26",
+          "l": 725.11,
+          "t": 498.73,
+          "r": 745.23395,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Nov 25",
+          "l": 766.75,
+          "t": 498.73,
+          "r": 788.06085,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Nov 26",
+          "l": 810.67,
+          "t": 498.73,
+          "r": 831.98083,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29 Nov 26",
+          "l": 848.59,
+          "t": 498.73,
+          "r": 869.9009,
+          "b": 501.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University of Notre Dame Australia* ^ (u)",
+          "l": 98.88,
+          "t": 507.37,
+          "r": 196.55876,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Feb 26",
+          "l": 427.01,
+          "t": 507.37,
+          "r": 447.59836,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Apr 26",
+          "l": 458.45,
+          "t": 507.37,
+          "r": 478.9197,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Apr 26",
+          "l": 489.77,
+          "t": 507.37,
+          "r": 510.2397,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 May 26",
+          "l": 530.57,
+          "t": 507.37,
+          "r": 552.7167,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Jun 26",
+          "l": 577.61,
+          "t": 507.37,
+          "r": 597.7185,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Jun 26",
+          "l": 619.97,
+          "t": 507.37,
+          "r": 640.0785,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Jun 26",
+          "l": 658.15,
+          "t": 507.37,
+          "r": 678.25854,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07 Sep 26",
+          "l": 691.15,
+          "t": 507.37,
+          "r": 711.7385,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11 Sepo 26",
+          "l": 723.43,
+          "t": 507.37,
+          "r": 746.7739,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23 Oct 26",
+          "l": 767.35,
+          "t": 507.37,
+          "r": 787.47394,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Nov 26",
+          "l": 810.67,
+          "t": 507.37,
+          "r": 831.98083,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14 Nov 26",
+          "l": 848.59,
+          "t": 507.37,
+          "r": 869.9009,
+          "b": 509.94998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CQUniversity Australia # (l)",
+          "l": 98.88,
+          "t": 516.00995,
+          "r": 157.87193,
+          "b": 518.82996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Nov 25",
+          "l": 216.74,
+          "t": 516.00995,
+          "r": 238.0508,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22 Dec 25",
+          "l": 249.74,
+          "t": 516.00995,
+          "r": 270.46252,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02 Jan 26",
+          "l": 281.54,
+          "t": 516.00995,
+          "r": 301.40598,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Feb 26",
+          "l": 321.74,
+          "t": 516.00995,
+          "r": 342.32834,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Feb 26",
+          "l": 362.9,
+          "t": 516.00995,
+          "r": 383.48834,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Feb 26",
+          "l": 394.97,
+          "t": 516.00995,
+          "r": 415.55835,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Mar 26",
+          "l": 426.53,
+          "t": 516.00995,
+          "r": 448.19165,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Apr 26",
+          "l": 458.45,
+          "t": 516.00995,
+          "r": 478.9197,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Apr 26",
+          "l": 489.77,
+          "t": 516.00995,
+          "r": 510.2397,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05 Jun 26",
+          "l": 531.65,
+          "t": 516.00995,
+          "r": 551.75854,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08 Jun 26",
+          "l": 577.61,
+          "t": 516.00995,
+          "r": 597.7185,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16 Jun 26",
+          "l": 619.97,
+          "t": 516.00995,
+          "r": 640.0785,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 Jul 26",
+          "l": 658.99,
+          "t": 516.00995,
+          "r": 677.5402,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 Aug 26",
+          "l": 690.91,
+          "t": 516.00995,
+          "r": 711.9834,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28 Aug 26",
+          "l": 724.63,
+          "t": 516.00995,
+          "r": 745.7034,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Oct 26",
+          "l": 767.35,
+          "t": 516.00995,
+          "r": 787.47394,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Oct 26",
+          "l": 811.27,
+          "t": 516.00995,
+          "r": 831.394,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20 Oct 26",
+          "l": 849.19,
+          "t": 516.00995,
+          "r": 869.31396,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09 Nov 26",
+          "l": 884.74,
+          "t": 516.00995,
+          "r": 906.05084,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21 Dec 26",
+          "l": 916.78,
+          "t": 516.00995,
+          "r": 937.5027,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01 Jan 27",
+          "l": 949.42,
+          "t": 516.00995,
+          "r": 969.28595,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 Feb 27",
+          "l": 991.66,
+          "t": 516.00995,
+          "r": 1012.2485,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15 Feb 27",
+          "l": 1031.62,
+          "t": 516.00995,
+          "r": 1052.2081,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19 Feb 27",
+          "l": 1068.7,
+          "t": 516.00995,
+          "r": 1089.2881,
+          "b": 518.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Source: Universities Australia 2025 collection of data on 2025-26 academic dates (data provided by individual universities). This table reflects principal dates for the standard teaching sessions of each university. This document is NOT intended to fully represent the official academic/operating calendar of individual universities – please refer to their calendars for details.",
+          "l": 90.48,
+          "t": 536.17,
+          "r": 789.8571,
+          "b": 538.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Many universities now teach outside the periods shown, particularly through winter sessions during June and July (indicated by *). Individual faculties within universities (often Business, Medicine, Health Sciences, Visual Arts and Education) may operate by different timetables.",
+          "l": 90.48,
+          "t": 544.08997,
+          "r": 612.7067,
+          "b": 546.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "^ Summer session is offered only for a limited number of degree programs or individual subjects, which can start and finish anytime during the period. N/A indicates an ad-hoc/integrated exam period within the session.",
+          "l": 90.48,
+          "t": 567.8499,
+          "r": 518.5404,
+          "b": 570.18994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "For universities operating under a two semester model, \"Autumn Session\" is Semester 1 and \"Spring Session\" is Semester 2.",
+          "l": 90.48,
+          "t": 575.76996,
+          "r": 333.39984,
+          "b": 578.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "# University operates under a three session (trimester) model, ie. summer session is a formal teaching period for all students.",
+          "l": 90.48,
+          "t": 583.68994,
+          "r": 336.2499,
+          "b": 586.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Notes:",
+          "l": 90.48,
+          "t": 607.44995,
+          "r": 103.39213,
+          "b": 609.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(b) UNSW Sydney operates on a three term model, with an additional optional intensive Summer Term.",
+          "l": 90.48,
+          "t": 615.39996,
+          "r": 286.62253,
+          "b": 617.74,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(c) The University of Newcastle also operates formal trimesters from 26 Jan to 24 Apr with exam period 27-01 May; 11 May to 31 July with exam period 03 -07 Aug; 17 Aug to 13 Nov with exam period 16-20 Nov.",
+          "l": 90.48,
+          "t": 623.31995,
+          "r": 491.5438,
+          "b": 625.66,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(d) The University of Sydney also offers some courses – known as Intensive Units – over Summer (January and February 2024) and Winter (July 2024), with no published exam period as the examination dates/requirements vary by course. STUVAC is between 27-31 May in the Autumn Session and 4-8 November in the Spring Session.",
+          "l": 90.48,
+          "t": 631.2399,
+          "r": 720.03754,
+          "b": 633.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(e) University of Technology Sydney utilises 8 calendars. The dates provided here are for the main teaching calendar. Other calendars are used specifically for Health, Education, GSH, PG Online and UTS Parallel, Short Sessions and HDR.",
+          "l": 90.48,
+          "t": 639.16,
+          "r": 535.2526,
+          "b": 641.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UOW also operates a formal Trimester model for postgraduate business programs. The 2025 Trimesters are as follows: Trimester 1 is from 10 Feb to 18 Apr with exam period 26 Apr to 02 May; Trimester 2 from 19 May to 25 Jul with exam period 2 Aug to 8 Aug; Trimester 3 from 25 Aug to 31 Oct with exam period 8 Nov to 20 Nov.",
+          "l": 90.48,
+          "t": 647.07996,
+          "r": 719.6824,
+          "b": 649.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(g) Federation University Australia also operates late summer, winter and spring teaching periods for a limited number of courses.",
+          "l": 90.48,
+          "t": 654.99994,
+          "r": 337.82578,
+          "b": 657.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(•h S) tLuad Tyr Poebreio Udn Livaeters Situym omffeerrs f r7o tmer 0m9s  Jiann audadryit itoon 1 t7o  Ftehber sutaarnyd 2a0rd2 4te waicthhi nngo  ppeurbiolidshs.e Tde erxmasm c opnesriisotd o af s6 t hwee eekxas mofi ntaetaicohni ndga.t Eexsa/rmeqs uoicrceumr einn ttsh vea froyl lboyw cinogu rwsee.ek after conclusion of teaching. Term 1 (06 Jan 25 - 14 Feb 25), Term 2 (03 Feb 25 - 11 April 25), Term 3 (23 April 25 - 30 May 25), Winter Term (10 June 25 - 18 Jul 25), Term 4 (28 Jul 25 – 05 Sept 25), Term 5 (15 Sept 25 –",
+          "l": 90.48,
+          "t": 661.11993,
+          "r": 799.44037,
+          "b": 665.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(2i4)  ROMctI T2 5U)n aivnedr sTietyrm o f6fe (r0s3 s tNaonvd a2r5d – S e1m2 Desetce r2 51) &.   Semester 2, flexible teaching (full year term) with additional Spring and Summer teaching semesters. Spring Semester dates run from 14 Nov - 10 Feb 2023. RMIT no longer advertise an exam period but advertise an assessment period.",
+          "l": 90.48,
+          "t": 669.04,
+          "r": 626.54486,
+          "b": 673.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(j) Swinburne University Mid Semester break for Semester 1 (Autumn Session) will occur at Easter. Swinburne University will operate a formal Winter Term from 19 Jun 23 to 30 July 23. Limited number of degree programs or individual units. Different calendars operate for different Schools and cohorts.",
+          "l": 90.48,
+          "t": 678.75995,
+          "r": 663.9772,
+          "b": 681.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(k) Victoria University delivers most units in Block study periods. For undergraduate and some postgraduate courses, Blocks are four weeks' duration. Four sets of Blocks run within Autumn Sesssion (Semester 1) and another four run within Spring Session (Semester 2). For some postgraduate courses, Blocks are eight weeks' duration – two sets of 8-week Blocks run within Autumn Session and another two run in",
+          "l": 90.48,
+          "t": 686.68,
+          "r": 872.931,
+          "b": 689.02,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Slp) rTinwgo S sehsosirot nm. iSdu-mtemrme rb arenadk Ws, isnhtoewr Bnl oseckpsa raartee alyls.o offered as optional study periods.",
+          "l": 90.48,
+          "t": 692.8,
+          "r": 253.2643,
+          "b": 696.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(m) No formal summer semester period, however a select number of individual subjects are offered.",
+          "l": 90.48,
+          "t": 702.51996,
+          "r": 280.7483,
+          "b": 704.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(n) The University of the Sunshine Coast delivers two main teaching semesters and also offers trimesters and smaller (8 week) teaching sessions throughout the year where a select number of courses are on offer.",
+          "l": 90.48,
+          "t": 710.43994,
+          "r": 491.76572,
+          "b": 712.77997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(q) Subject to change: The University of Western Australia will operate formal trimesters from 24 Jan to 14 Apr, with exam period from 16 Apr to 23 Apr; 2 May to 22 Jul with exam period from 23 Jul to 30 Jul; 22 Aug to11 Nov with exam period from 12 to 18 Nov",
+          "l": 90.48,
+          "t": 718.3599,
+          "r": 588.4922,
+          "b": 720.69995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(r) The University of Adelaide offers formal trimesters 29 January  – 26 April, with exam period from 2 May to 4 May; 20 May – 16 August with exam period from 22 to 24 August; 2 Sept to 22 Nov with exam period from 28 Nov to 7 Dec and a Winter Semester from 24 Jun-17 July, with an exam period from 18 Jul to 20 Jul.",
+          "l": 90.48,
+          "t": 726.27997,
+          "r": 701.4509,
+          "b": 728.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(s) University of Canberra will operate a formal mid-year term (winter) from 27 May to 12 July, with exam period from 15 Jul to 27 July, along with a number of other intensive teaching periods. A limited summer teaching period will apply in 2023/24.",
+          "l": 90.48,
+          "t": 734.19995,
+          "r": 563.73816,
+          "b": 736.54,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(t) Australian Catholic University offers a winter term from 20 May to 28 July 2024",
+          "l": 90.48,
+          "t": 742.11597,
+          "r": 246.99487,
+          "b": 744.456,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(u) The University of Notre Dame Australia offers a winter term from 17 June 2024 until 05 July 2024 with exams from 08 July until 13 July 2024.",
+          "l": 90.48,
+          "t": 750.03595,
+          "r": 365.3252,
+          "b": 752.376,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(v) Charles Darwin University delivers six (6) intensive teaching periods that include a *Dry and Wet Season as well as the two (2) formal Semesters",
+          "l": 90.48,
+          "t": 757.95593,
+          "r": 368.7991,
+          "b": 760.29596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(w) University of Tasmania also operates trimesters for select Business and Health programs. Date ranges vary by program but generally run as Period 1 from mid Jan to late Apr; Period 2 from mid May to mid Aug; Period 3 from end Aug to early Dec.",
+          "l": 90.48,
+          "t": 765.876,
+          "r": 563.6558,
+          "b": 768.216,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(w) The Australian National University operates in semester 1 between 17 February to 23 may 2025, and semester 2 between 21 July to 24 October 2025. The “non-semester based” teaching sessions (Summer, Autumn, Winter, Spring) do not operate on the model of pre-defined examination periods, and hence they are left blank.",
+          "l": 90.48,
+          "t": 773.79596,
+          "r": 716.9261,
+          "b": 776.136,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(y) The teaching period for University of Melbourne's Summer Term and Winter Term subjects, and the other intensive subjects offered across the year, vary. Specific dates are provided in the subject entries in the University Handbook.",
+          "l": 90.48,
+          "t": 781.71594,
+          "r": 535.7578,
+          "b": 784.05597,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(z) The dates provided are for the main intakes being semester 1 and 2. Monash also offers a November intake and other teaching periods including Summer.",
+          "l": 90.48,
+          "t": 789.6359,
+          "r": 388.3086,
+          "b": 791.97595,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(aa) The University of Southern Queensland will transition to a flexible academic calendar with five different length study periods between 2023 and 2025. In 2023, selected programs will be delivered in trimester and block calendars. Dates provided are the current semester based calendar.",
+          "l": 90.48,
+          "t": 797.57996,
+          "r": 639.2352,
+          "b": 799.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(nn) The 2025/26 Summer Session dates are subject to change with the merger of UniSA with the University of Adelaide.",
+          "l": 90.48,
+          "t": 807.42,
+          "r": 318.7528,
+          "b": 809.76,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

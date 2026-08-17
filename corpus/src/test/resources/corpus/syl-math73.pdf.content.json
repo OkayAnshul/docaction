@@ -1,0 +1,3367 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Math 73",
+          "l": 157.75,
+          "t": 75.272026,
+          "r": 209.01398,
+          "b": 80.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Intermediate Algebra (General Ed)",
+          "l": 254.02,
+          "t": 75.272026,
+          "r": 457.606,
+          "b": 80.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INSTRUCTOR:",
+          "l": 36.024,
+          "t": 115.62198,
+          "r": 123.05,
+          "b": 120.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Professor Linda Ho",
+          "l": 144.05,
+          "t": 115.52598,
+          "r": 241.18,
+          "b": 120.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CLASS TIME:",
+          "l": 36.024,
+          "t": 143.15599,
+          "r": 116.81,
+          "b": 148.60999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0411  MW 12:15 PM – 2:45 PM at MBA-118",
+          "l": 144.05,
+          "t": 143.15599,
+          "r": 367.46,
+          "b": 148.60999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OFFICE HOURS: MW 11:25 – 12:05 PM and 3:00 – 3:30 PM",
+          "l": 36.024,
+          "t": 168.596,
+          "r": 357.38,
+          "b": 174.04999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TuTh 11:25 – 12:55 PM @ MBA-243",
+          "l": 144.05,
+          "t": 182.27599,
+          "r": 330.26,
+          "b": 187.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Office phone & Voice Mail (310) 660-3593 ext 6756",
+          "l": 144.05,
+          "t": 196.19603,
+          "r": 402.29,
+          "b": 201.65002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Email address: lho@elcamino.edu",
+          "l": 144.05,
+          "t": 209.89598,
+          "r": 317.76,
+          "b": 215.34998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Webpage:  www.elcamino.edu/faculty/lho",
+          "l": 144.05,
+          "t": 223.81602,
+          "r": 350.42,
+          "b": 229.27002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TEXT:",
+          "l": 36.024,
+          "t": 251.416,
+          "r": 75.744,
+          "b": 256.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Intermediate Algebra, 5th Edition, Tussy/Gufstason, Brooks/Cole (Cengage)",
+          "l": 144.05,
+          "t": 248.70639,
+          "r": 511.54,
+          "b": 256.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "elcamino 5195 6409",
+          "l": 144.05,
+          "t": 265.192,
+          "r": 253.18,
+          "b": 270.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PREREQUISITE:     Math 40 or equivalent (Elementary Algebra) or level-up per AB 705",
+          "l": 36.024,
+          "t": 279.046,
+          "r": 477.43,
+          "b": 284.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MATERIALS:           Graph papers and a scientific calculator.",
+          "l": 36.024,
+          "t": 306.646,
+          "r": 360.5,
+          "b": 312.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRADING SCALE: The grade you receive in this class will be based on:",
+          "l": 36.024,
+          "t": 334.246,
+          "r": 397.73,
+          "b": 339.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(1) 4 Homework Quizzes (out of 5)   25 points each",
+          "l": 36.024,
+          "t": 347.926,
+          "r": 291.12,
+          "b": 353.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100 points",
+          "l": 324.12,
+          "t": 347.926,
+          "r": 388.61,
+          "b": 353.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(2) 4 Midterms",
+          "l": 36.024,
+          "t": 361.866,
+          "r": 147.05,
+          "b": 367.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100 points each",
+          "l": 180.07,
+          "t": 361.866,
+          "r": 294.48,
+          "b": 367.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "400 points",
+          "l": 324.12,
+          "t": 361.866,
+          "r": 388.61,
+          "b": 367.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(3) Final Exam (comprehensive)",
+          "l": 36.024,
+          "t": 375.546,
+          "r": 195.31,
+          "b": 381.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "200 points",
+          "l": 288.12,
+          "t": 375.546,
+          "r": 391.49,
+          "b": 381.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-------------------------------------------------------------------------------------",
+          "l": 36.024,
+          "t": 389.466,
+          "r": 393.65,
+          "b": 394.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "700 Points Total",
+          "l": 324.12,
+          "t": 403.242,
+          "r": 416.45,
+          "b": 408.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You are assured at least the following grade for obtaining the total points in one of the following categories:",
+          "l": 36.024,
+          "t": 430.842,
+          "r": 572.52,
+          "b": 436.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "630 - 700 ................................... A (at least 90%)",
+          "l": 187.75,
+          "t": 444.686,
+          "r": 427.49,
+          "b": 450.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "560 - 629....................................B (at least 80%)",
+          "l": 187.99,
+          "t": 458.366,
+          "r": 427.01,
+          "b": 463.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "490 - 559 ................................... C (at least 70%)",
+          "l": 187.75,
+          "t": 472.28598,
+          "r": 427.49,
+          "b": 477.74,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "420 - 489 ................................... D (at least 60%)",
+          "l": 187.75,
+          "t": 485.966,
+          "r": 427.49,
+          "b": 491.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0 - 419 ................................ …F (59% or below)",
+          "l": 177.91,
+          "t": 499.886,
+          "r": 437.09,
+          "b": 505.34,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOMMODATIONS:  It is the policy of the El Camino Community College District to encourage full inclusion of people",
+          "l": 36.024,
+          "t": 525.21204,
+          "r": 562.2404,
+          "b": 530.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with disabilities in all programs and services.  Students with disabilities who believe they may need accommodations in this class",
+          "l": 36.024,
+          "t": 537.9836,
+          "r": 555.99304,
+          "b": 542.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "should contact the campus Special Resource Center as soon as possible.  This will ensure that students are able to fully",
+          "l": 36.024,
+          "t": 549.50354,
+          "r": 516.33203,
+          "b": 554.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "participate.  As well one may contact the instructor privately to discuss your specific needs. The Special Resource Center is located in",
+          "l": 36.024,
+          "t": 561.02356,
+          "r": 574.9315,
+          "b": 565.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the southeast wing of the Student Services Center, (310) 660-3295. More guidelines for students with disabilities may be found on",
+          "l": 36.024,
+          "t": 572.5436,
+          "r": 557.9688,
+          "b": 577.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "page 27 of 2018-2019 College Catalog or may visit their website at www.elcamino.edu/academics/src .”",
+          "l": 36.024,
+          "t": 584.0636,
+          "r": 457.99,
+          "b": 588.65,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EXTRA CREDIT OPPORTUNITY:",
+          "l": 36.024,
+          "t": 610.432,
+          "r": 232.3,
+          "b": 615.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• A maximum of 10 points will be rewarded any time during the semester when you have used one or",
+          "l": 54.024,
+          "t": 624.802,
+          "r": 554.698,
+          "b": 630.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "more on-campus tutorial services below with at least 10 hours during the semester.  This will bump up",
+          "l": 72.024,
+          "t": 638.656,
+          "r": 575.494,
+          "b": 644.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your lowest test score (i.e. C to B or B to A, etc.):",
+          "l": 72.024,
+          "t": 652.57605,
+          "r": 319.68,
+          "b": 658.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mathematics Study Center (first floor of MBA, EOP&S Tutorial, and Special Resource Tutorial:",
+          "l": 72.024,
+          "t": 680.27203,
+          "r": 573.7701,
+          "b": 685.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please give me a copy of your log-in records (see attached log sheet, last page of syllabus) when you",
+          "l": 72.024,
+          "t": 693.876,
+          "r": 560.69214,
+          "b": 699.336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "complete the tutorial hours by the day you take comprehensive final exam (Wednesday, 6/5/19).",
+          "l": 72.024,
+          "t": 707.802,
+          "r": 540.34,
+          "b": 713.256,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Math 73",
+          "l": 157.75,
+          "t": 75.272026,
+          "r": 209.01398,
+          "b": 80.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Intermediate Algebra (General Ed)",
+          "l": 254.02,
+          "t": 75.272026,
+          "r": 457.606,
+          "b": 80.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACADEMIC HONESTY:  El Camino College places a high value on the integrity of its student scholars.  When an",
+          "l": 36.024,
+          "t": 115.62198,
+          "r": 566.24084,
+          "b": 120.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "instructor determines that there is evidence of dishonesty in any academic work (including, but not limited to cheating,",
+          "l": 36.024,
+          "t": 128.94678,
+          "r": 561.6826,
+          "b": 133.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "plagiarism, or theft of exam materials), disciplinary action appropriate to the misconduct as defined in BP 5500 may be",
+          "l": 36.024,
+          "t": 141.66681,
+          "r": 567.20276,
+          "b": 146.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "taken.  A failing grade on an assignment in which academic dishonesty has occurred and suspension from class are",
+          "l": 36.024,
+          "t": 154.38678,
+          "r": 548.1417,
+          "b": 159.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "among the disciplinary actions for academic dishonesty (AP 5520).  Students with any questions about the Academic",
+          "l": 36.024,
+          "t": 167.10681,
+          "r": 552.61945,
+          "b": 172.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Honesty or discipline policies are encouraged to speak with their instructor in advance.",
+          "l": 36.024,
+          "t": 179.58679,
+          "r": 426.05002,
+          "b": 184.60999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATTENDANCE/PARTICIPATION:  Good Attendance and active participation are critical and highly",
+          "l": 36.024,
+          "t": 206.536,
+          "r": 550.168,
+          "b": 211.98999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "encouraged in this class.  Homework questions will be answered in the first 20 minutes of each class. All",
+          "l": 36.024,
+          "t": 220.21599,
+          "r": 542.5,
+          "b": 225.66998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "students will be expected to do problems in class when asked to.",
+          "l": 36.024,
+          "t": 234.13603,
+          "r": 354.26,
+          "b": 239.59003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Students may be dropped because of the following:",
+          "l": 36.024,
+          "t": 247.91202,
+          "r": 290.16,
+          "b": 253.27002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• More than 4 absences",
+          "l": 54.024,
+          "t": 262.52203,
+          "r": 183.31,
+          "b": 268.15002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Missing more than one exam",
+          "l": 54.024,
+          "t": 277.16202,
+          "r": 219.1,
+          "b": 282.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Excessive tardy and leaving class early",
+          "l": 54.024,
+          "t": 291.832,
+          "r": 266.62,
+          "b": 297.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Disruptive Behavior (which includes but is not limited to talking, emotional outbursts, disrespectful",
+          "l": 54.024,
+          "t": 306.47202,
+          "r": 564.6962,
+          "b": 312.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "behaviors, listening to i-pod/mp3, texting on cell phones, reading materials other than classroom text,",
+          "l": 72.024,
+          "t": 320.422,
+          "r": 576.1282,
+          "b": 325.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and cheating of any means.)",
+          "l": 72.024,
+          "t": 334.342,
+          "r": 215.5,
+          "b": 339.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STUDENT ABSENCE LOG:",
+          "l": 36.024,
+          "t": 361.962,
+          "r": 189.07,
+          "b": 367.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Absence 1:  Date: _______  I notified the instructor by ____ phone ____email ____ in-person",
+          "l": 54.024,
+          "t": 375.546,
+          "r": 508.18,
+          "b": 381.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Absence 2:  Date: _______  I notified the instructor by ____ phone ____email ____ in-person",
+          "l": 54.024,
+          "t": 389.466,
+          "r": 508.18,
+          "b": 394.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Absence 3:  Date: _______  I notified the instructor by ____ phone ____email ____ in-person",
+          "l": 54.024,
+          "t": 403.146,
+          "r": 508.18,
+          "b": 408.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Absence 4:  Date: _______  I have scheduled an appointment to meet with the instructor to",
+          "l": 54.024,
+          "t": 417.06598,
+          "r": 556.8279,
+          "b": 422.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discuss my status in the class on the following date:  _____________",
+          "l": 54.024,
+          "t": 430.746,
+          "r": 389.57,
+          "b": 436.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CLASS CONDUCT:",
+          "l": 36.024,
+          "t": 458.462,
+          "r": 151.39,
+          "b": 463.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• If you carry a cell phone, please turn the audio off or put in vibrating mode before entering class.",
+          "l": 54.024,
+          "t": 473.07202,
+          "r": 544.9,
+          "b": 478.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Because of liability considerations, children of any age may not come to class with you.",
+          "l": 54.024,
+          "t": 487.712,
+          "r": 499.75,
+          "b": 493.34,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Seating will be assigned next time based on where you sit.",
+          "l": 54.024,
+          "t": 502.35202,
+          "r": 358.1,
+          "b": 507.98,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• If you disrupt class, you will be removed from the classroom.  Consequences may also result in a drop",
+          "l": 54.024,
+          "t": 516.992,
+          "r": 569.18396,
+          "b": 522.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "from the course and additional disciplinary actions from the administration.",
+          "l": 72.024,
+          "t": 530.87604,
+          "r": 437.57,
+          "b": 536.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• I do not accommodate students’ vacation plans, family visits, or business trips whatsoever!",
+          "l": 54.024,
+          "t": 545.342,
+          "r": 513.7,
+          "b": 550.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• I do not deal with your parents!",
+          "l": 54.024,
+          "t": 559.982,
+          "r": 228.46,
+          "b": 565.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HOMEWORK QUIZ POLICIES:",
+          "l": 36.024,
+          "t": 587.85205,
+          "r": 214.54,
+          "b": 593.21,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Homework will be assigned everyday but they will not be collected (see dates on homework",
+          "l": 54.024,
+          "t": 602.482,
+          "r": 520.36597,
+          "b": 608.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "assignment.). It is YOUR JOB as a student to do homework!",
+          "l": 72.024,
+          "t": 616.336,
+          "r": 371.54,
+          "b": 621.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Instead there will be 5 in-class homework quizzes (based on exact homework problems) given",
+          "l": 54.024,
+          "t": 630.802,
+          "r": 538.63605,
+          "b": 636.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "periodically (please see dates on tentative schedule).",
+          "l": 72.024,
+          "t": 644.656,
+          "r": 333.86,
+          "b": 650.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Each homework quiz is worth 25 points.  There will be 3-4 homework problems per quiz.  You will",
+          "l": 54.024,
+          "t": 659.362,
+          "r": 553.5159,
+          "b": 664.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "have 20 minutes at the end of the class to complete the quiz.",
+          "l": 72.024,
+          "t": 673.216,
+          "r": 364.1,
+          "b": 678.67,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Lowest homework quiz will automatically be dropped.  Therefore, if you missed a homework quiz,",
+          "l": 54.024,
+          "t": 687.708,
+          "r": 566.4319,
+          "b": 693.336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "there will be NO MAKE-UP!",
+          "l": 72.024,
+          "t": 701.562,
+          "r": 216.94,
+          "b": 707.016,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• A maximum of 100 points (best 4 out of 5 homework quizzes) will count toward your grades, which is",
+          "l": 54.024,
+          "t": 716.268,
+          "r": 567.96,
+          "b": 721.896,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "equivalent to one midterm grade.",
+          "l": 72.024,
+          "t": 730.11597,
+          "r": 243.1,
+          "b": 735.576,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Math 73",
+          "l": 157.75,
+          "t": 75.272026,
+          "r": 209.01398,
+          "b": 80.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Intermediate Algebra (General Ed)",
+          "l": 254.02,
+          "t": 75.272026,
+          "r": 457.606,
+          "b": 80.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Since all quiz problems are exact homework problems and all exam problems are similar to",
+          "l": 54.024,
+          "t": 102.63201,
+          "r": 541.28796,
+          "b": 108.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "homework problems, not doing homework on a regular basis will result in getting a bad grade in",
+          "l": 72.024,
+          "t": 116.61197,
+          "r": 568.22394,
+          "b": 121.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "this class!",
+          "l": 72.024,
+          "t": 130.29202,
+          "r": 124.73,
+          "b": 135.65002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EXAM POLICIES:",
+          "l": 36.024,
+          "t": 157.796,
+          "r": 148.97,
+          "b": 163.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Test guides and/or review problems will be assigned the weekend before each test.",
+          "l": 36.024,
+          "t": 172.502,
+          "r": 454.15,
+          "b": 178.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• There will be no make-up exams and no retakes.  Your LOWEST midterm score, however, could be",
+          "l": 36.024,
+          "t": 187.14201,
+          "r": 546.51605,
+          "b": 192.77002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "dropped AND replaced by ½ of the comprehensive final exam score. For example, if you score a 60 on",
+          "l": 54.024,
+          "t": 201.01598,
+          "r": 557.162,
+          "b": 206.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "midterm #1 and you end up scoring a 180 on final exam, then the score of 90 will replace 60 for midterm",
+          "l": 54.024,
+          "t": 214.93602,
+          "r": 560.74805,
+          "b": 220.39001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "#1.  Therefore, if you fail to show up on any exam dates, you will receive 0 on that exam--NO",
+          "l": 54.024,
+          "t": 228.61601,
+          "r": 509.59,
+          "b": 234.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EXCEPTIONS!",
+          "l": 54.024,
+          "t": 242.536,
+          "r": 139.13,
+          "b": 247.98999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Students must SHOW ALL WORK on every exam.  Answers with supporting work will receive full credit",
+          "l": 36.024,
+          "t": 257.002,
+          "r": 574.9122,
+          "b": 262.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(if correct) and partial credit (if incorrect).  Answers without supporting work will receive NO CREDIT.",
+          "l": 54.024,
+          "t": 270.856,
+          "r": 562.66,
+          "b": 276.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• We will have a midterm every 2 to 3 chapters.  Each midterm will be timed at 75 minutes.",
+          "l": 36.024,
+          "t": 285.592,
+          "r": 492.55,
+          "b": 291.22,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A comprehensive (2 ½ hours) final exam will be given.  Please see exam dates on course schedule.",
+          "l": 54.024,
+          "t": 299.44598,
+          "r": 540.82,
+          "b": 304.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WORDS OF WISDOM:",
+          "l": 36.024,
+          "t": 327.142,
+          "r": 164.35,
+          "b": 332.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Mathematics is not a spectator’s sport.  If you cannot commit to 5 hours of class time weekly and at least",
+          "l": 54.024,
+          "t": 341.51202,
+          "r": 578.76,
+          "b": 347.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 hours per week doing homework, reviewing lectures and getting tutorial help outside the classroom,",
+          "l": 72.024,
+          "t": 355.366,
+          "r": 569.7101,
+          "b": 360.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "please drop this course immediately.",
+          "l": 72.024,
+          "t": 369.306,
+          "r": 256.78,
+          "b": 374.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Reminder:  All exam dates and assignment dates on the syllabus are subject to change depending upon the class",
+          "l": 36.024,
+          "t": 396.90598,
+          "r": 576.69617,
+          "b": 402.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "progress.  Hence, you are responsible for all the announcements and materials covered during your absence.  It",
+          "l": 36.024,
+          "t": 410.58002,
+          "r": 573.70807,
+          "b": 416.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "is ultimately the students’ responsibility to withdraw themselves from the class if they wish to be",
+          "l": 36.024,
+          "t": 424.602,
+          "r": 530.332,
+          "b": 429.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "withdrawn.  Don’t just stop coming to class and assume the instructor will drop you.  She/he may not and you",
+          "l": 36.024,
+          "t": 438.186,
+          "r": 570.4341,
+          "b": 443.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will receive an “F” for the semester.",
+          "l": 36.024,
+          "t": 452.12598,
+          "r": 212.62,
+          "b": 457.58,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Math 73",
+          "l": 157.75,
+          "t": 75.272026,
+          "r": 209.01398,
+          "b": 80.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Intermediate Algebra (General Ed)",
+          "l": 254.02,
+          "t": 75.272026,
+          "r": 457.606,
+          "b": 80.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TENATIVE COURSE SCHEDULE",
+          "l": 170.95,
+          "t": 101.941986,
+          "r": 358.75665,
+          "b": 107.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day",
+          "l": 36.024,
+          "t": 126.477936,
+          "r": 57.79104,
+          "b": 131.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date",
+          "l": 108.05,
+          "t": 126.477936,
+          "r": 131.97704,
+          "b": 131.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Description",
+          "l": 180.07,
+          "t": 126.477936,
+          "r": 234.02704,
+          "b": 131.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day",
+          "l": 311.4,
+          "t": 126.477936,
+          "r": 333.18704,
+          "b": 131.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date",
+          "l": 376.7,
+          "t": 126.477936,
+          "r": 403.53702,
+          "b": 131.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Description",
+          "l": 442.97,
+          "t": 126.477936,
+          "r": 496.91702,
+          "b": 131.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 36.024,
+          "t": 138.47794,
+          "r": 57.79104,
+          "b": 143.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2/11",
+          "l": 108.05,
+          "t": 138.47794,
+          "r": 134.85704,
+          "b": 143.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.5-1.6",
+          "l": 180.07,
+          "t": 138.47794,
+          "r": 215.78705,
+          "b": 143.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 311.4,
+          "t": 138.47794,
+          "r": 333.18704,
+          "b": 143.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4/15",
+          "l": 376.7,
+          "t": 138.47794,
+          "r": 403.53702,
+          "b": 143.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.1-6.2 /HW Quiz 3",
+          "l": 442.97,
+          "t": 138.47794,
+          "r": 536.78705,
+          "b": 143.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 36.024,
+          "t": 150.47794,
+          "r": 95.015045,
+          "b": 155.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2/13",
+          "l": 108.05,
+          "t": 150.47794,
+          "r": 134.85704,
+          "b": 155.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.7-1.8",
+          "l": 180.07,
+          "t": 150.47794,
+          "r": 215.67665,
+          "b": 155.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 311.4,
+          "t": 150.47794,
+          "r": 337.02704,
+          "b": 155.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4/17",
+          "l": 376.7,
+          "t": 150.47794,
+          "r": 403.53702,
+          "b": 155.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.3-6.4",
+          "l": 442.97,
+          "t": 150.47794,
+          "r": 478.67703,
+          "b": 155.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 36.024,
+          "t": 174.47794,
+          "r": 57.79104,
+          "b": 179.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2/18",
+          "l": 108.05,
+          "t": 174.47794,
+          "r": 134.85704,
+          "b": 179.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HOLIDAY",
+          "l": 180.07,
+          "t": 174.47794,
+          "r": 226.71664,
+          "b": 179.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 311.4,
+          "t": 174.47794,
+          "r": 333.18704,
+          "b": 179.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4/22",
+          "l": 376.7,
+          "t": 174.47794,
+          "r": 403.53702,
+          "b": 179.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.5-6.6/Study Guide",
+          "l": 442.97,
+          "t": 174.47794,
+          "r": 539.42706,
+          "b": 179.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 36.024,
+          "t": 186.47794,
+          "r": 61.63104,
+          "b": 191.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2/20",
+          "l": 108.05,
+          "t": 186.47794,
+          "r": 134.85704,
+          "b": 191.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.1–2.3",
+          "l": 180.07,
+          "t": 186.47794,
+          "r": 220.58704,
+          "b": 191.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 311.4,
+          "t": 186.47794,
+          "r": 337.02704,
+          "b": 191.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4/24",
+          "l": 376.7,
+          "t": 186.47794,
+          "r": 403.53702,
+          "b": 191.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.7-6.9",
+          "l": 442.97,
+          "t": 186.47794,
+          "r": 478.56665,
+          "b": 191.33002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 36.024,
+          "t": 210.2579,
+          "r": 57.79104,
+          "b": 215.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2/25",
+          "l": 108.05,
+          "t": 210.2579,
+          "r": 134.85704,
+          "b": 215.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.4-2.5/HW Quiz 1",
+          "l": 180.07,
+          "t": 210.2579,
+          "r": 271.00702,
+          "b": 215.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 311.4,
+          "t": 210.2579,
+          "r": 333.18704,
+          "b": 215.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4/29",
+          "l": 376.7,
+          "t": 210.2579,
+          "r": 403.53702,
+          "b": 215.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Q & A/Midterm 3",
+          "l": 442.97,
+          "t": 210.2579,
+          "r": 525.02704,
+          "b": 215.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 36.024,
+          "t": 222.2579,
+          "r": 61.63104,
+          "b": 227.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2/27",
+          "l": 108.05,
+          "t": 222.2579,
+          "r": 134.85704,
+          "b": 227.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.5-2.6/Study Guide1",
+          "l": 180.07,
+          "t": 222.2579,
+          "r": 282.76703,
+          "b": 227.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 311.4,
+          "t": 222.2579,
+          "r": 337.02704,
+          "b": 227.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/1",
+          "l": 376.7,
+          "t": 222.2579,
+          "r": 397.29703,
+          "b": 227.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.1-7.2",
+          "l": 442.97,
+          "t": 222.2579,
+          "r": 478.67703,
+          "b": 227.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 36.024,
+          "t": 246.2579,
+          "r": 57.79104,
+          "b": 251.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3/4",
+          "l": 108.05,
+          "t": 246.2579,
+          "r": 128.61703,
+          "b": 251.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Q & A /Midterm 1",
+          "l": 180.07,
+          "t": 246.2579,
+          "r": 264.87665,
+          "b": 251.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 311.4,
+          "t": 246.2579,
+          "r": 333.18704,
+          "b": 251.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/6",
+          "l": 376.7,
+          "t": 246.2579,
+          "r": 397.29703,
+          "b": 251.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.3–7.4/HW Quiz 4",
+          "l": 442.97,
+          "t": 246.2579,
+          "r": 535.58704,
+          "b": 251.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 36.024,
+          "t": 258.2579,
+          "r": 61.63104,
+          "b": 263.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3/6",
+          "l": 108.05,
+          "t": 258.2579,
+          "r": 128.61703,
+          "b": 263.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.1-3.2",
+          "l": 180.07,
+          "t": 258.2579,
+          "r": 215.78705,
+          "b": 263.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 311.4,
+          "t": 258.2579,
+          "r": 337.02704,
+          "b": 263.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/8",
+          "l": 376.7,
+          "t": 258.2579,
+          "r": 397.29703,
+          "b": 263.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.5-7.6 /Study Guide4",
+          "l": 442.97,
+          "t": 258.2579,
+          "r": 551.66705,
+          "b": 263.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 36.024,
+          "t": 282.28793,
+          "r": 57.79104,
+          "b": 287.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3/11",
+          "l": 108.05,
+          "t": 282.28793,
+          "r": 134.85704,
+          "b": 287.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.6-4.1",
+          "l": 180.07,
+          "t": 282.28793,
+          "r": 215.78705,
+          "b": 287.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 311.4,
+          "t": 282.28793,
+          "r": 333.18704,
+          "b": 287.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/13",
+          "l": 376.7,
+          "t": 282.28793,
+          "r": 403.53702,
+          "b": 287.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.1-8.3",
+          "l": 442.97,
+          "t": 282.28793,
+          "r": 478.56665,
+          "b": 287.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 36.024,
+          "t": 294.28793,
+          "r": 61.63104,
+          "b": 299.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3/13",
+          "l": 108.05,
+          "t": 294.28793,
+          "r": 134.85704,
+          "b": 299.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.2-4.3",
+          "l": 180.07,
+          "t": 294.28793,
+          "r": 215.78705,
+          "b": 299.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 311.4,
+          "t": 294.28793,
+          "r": 334.27664,
+          "b": 299.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/15",
+          "l": 376.7,
+          "t": 294.28793,
+          "r": 403.53702,
+          "b": 299.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Q & A/Midterm 4",
+          "l": 442.97,
+          "t": 294.28793,
+          "r": 524.9166,
+          "b": 299.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 36.024,
+          "t": 318.28793,
+          "r": 57.79104,
+          "b": 323.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3/18",
+          "l": 108.05,
+          "t": 318.28793,
+          "r": 134.85704,
+          "b": 323.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.4/5.1/HW Quiz2",
+          "l": 180.07,
+          "t": 318.28793,
+          "r": 269.80704,
+          "b": 323.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 311.4,
+          "t": 318.28793,
+          "r": 333.18704,
+          "b": 323.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/20",
+          "l": 376.7,
+          "t": 318.28793,
+          "r": 403.53702,
+          "b": 323.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.4-8.5",
+          "l": 442.97,
+          "t": 318.28793,
+          "r": 478.67703,
+          "b": 323.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 36.024,
+          "t": 330.28793,
+          "r": 61.63104,
+          "b": 335.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3/20",
+          "l": 108.05,
+          "t": 330.28793,
+          "r": 134.85704,
+          "b": 335.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.3-5.4/Study Guide2",
+          "l": 180.07,
+          "t": 330.28793,
+          "r": 282.76703,
+          "b": 335.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 311.4,
+          "t": 330.28793,
+          "r": 334.27664,
+          "b": 335.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/22",
+          "l": 376.7,
+          "t": 330.28793,
+          "r": 403.53702,
+          "b": 335.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.5, 9.1/ HW Quiz 5",
+          "l": 442.97,
+          "t": 330.28793,
+          "r": 538.70703,
+          "b": 335.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 36.024,
+          "t": 354.0479,
+          "r": 57.79104,
+          "b": 358.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3/25",
+          "l": 108.05,
+          "t": 354.0479,
+          "r": 134.85704,
+          "b": 358.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Q & A/Midterm 2",
+          "l": 180.07,
+          "t": 354.0479,
+          "r": 261.99664,
+          "b": 358.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 311.4,
+          "t": 354.0479,
+          "r": 333.18704,
+          "b": 358.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/27",
+          "l": 376.7,
+          "t": 354.0479,
+          "r": 403.53702,
+          "b": 358.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HOLIDAY",
+          "l": 442.97,
+          "t": 354.0479,
+          "r": 489.60666,
+          "b": 358.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 36.024,
+          "t": 366.06793,
+          "r": 61.63104,
+          "b": 370.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3/27",
+          "l": 108.05,
+          "t": 366.06793,
+          "r": 134.85704,
+          "b": 370.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.5-5.6",
+          "l": 180.07,
+          "t": 366.06793,
+          "r": 215.78705,
+          "b": 370.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 311.4,
+          "t": 366.06793,
+          "r": 337.02704,
+          "b": 370.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5/29",
+          "l": 376.7,
+          "t": 366.06793,
+          "r": 403.53702,
+          "b": 370.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9.1, 10.1/Study Guide",
+          "l": 442.97,
+          "t": 366.06793,
+          "r": 550.22705,
+          "b": 370.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 36.024,
+          "t": 390.06793,
+          "r": 57.79104,
+          "b": 394.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4/1",
+          "l": 108.05,
+          "t": 390.06793,
+          "r": 128.61703,
+          "b": 394.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.7-5.8",
+          "l": 180.07,
+          "t": 390.06793,
+          "r": 215.78705,
+          "b": 394.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 311.4,
+          "t": 390.06793,
+          "r": 333.18704,
+          "b": 394.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6/3",
+          "l": 376.7,
+          "t": 390.06793,
+          "r": 397.29703,
+          "b": 394.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "REVIEW",
+          "l": 442.97,
+          "t": 390.06793,
+          "r": 481.44666,
+          "b": 394.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 36.024,
+          "t": 402.06793,
+          "r": 61.63104,
+          "b": 406.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4/3",
+          "l": 108.05,
+          "t": 402.06793,
+          "r": 125.66408,
+          "b": 406.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.9-6.1",
+          "l": 180.07,
+          "t": 402.06793,
+          "r": 215.78705,
+          "b": 406.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wed",
+          "l": 311.4,
+          "t": 402.06793,
+          "r": 337.02704,
+          "b": 406.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6/5",
+          "l": 376.7,
+          "t": 402.06793,
+          "r": 397.29703,
+          "b": 406.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FINAL EXAM",
+          "l": 442.97,
+          "t": 402.06793,
+          "r": 505.44666,
+          "b": 406.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NO CLASS",
+          "l": 36.024,
+          "t": 438.06793,
+          "r": 83.94865,
+          "b": 442.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SPRING BREAK",
+          "l": 180.07,
+          "t": 438.06793,
+          "r": 253.59665,
+          "b": 442.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Test 1- (1.5-Ch 2)",
+          "l": 96.288,
+          "t": 484.34985,
+          "r": 183.11705,
+          "b": 490.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quiz 1- (1.5-1.8)",
+          "l": 329.42,
+          "t": 490.58984,
+          "r": 401.59207,
+          "b": 495.02,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Test 2- (3.1-3.2, 3.6,     4.1-4.4,",
+          "l": 96.288,
+          "t": 495.38986,
+          "r": 225.60863,
+          "b": 502.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quiz 2- (3.1, 3.2, 3.6)",
+          "l": 329.42,
+          "t": 501.38986,
+          "r": 424.15207,
+          "b": 505.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.1, 5.3, 5.4)",
+          "l": 96.288,
+          "t": 506.18985,
+          "r": 151.41208,
+          "b": 510.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quiz 3- (5.5, 5.6, 5.7, 5.8)",
+          "l": 329.42,
+          "t": 509.84793,
+          "r": 445.90665,
+          "b": 516.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Test 3- (5.5-5.9, 6.1-6.5)",
+          "l": 96.288,
+          "t": 517.22986,
+          "r": 202.29207,
+          "b": 521.66003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quiz 4- (6.6-6.7)",
+          "l": 329.42,
+          "t": 523.2598,
+          "r": 401.35208,
+          "b": 527.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Test 4- (6.6-6.9, 7.1-7.6)",
+          "l": 96.288,
+          "t": 528.0598,
+          "r": 199.41208,
+          "b": 532.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quiz 5- (8.1-8.3)",
+          "l": 329.42,
+          "t": 534.0598,
+          "r": 401.35208,
+          "b": 538.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final (8.1-8.5, 9.1; 10.1 Test 1 –",
+          "l": 96.288,
+          "t": 538.8598,
+          "r": 231.60208,
+          "b": 543.29,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Test 4)",
+          "l": 96.288,
+          "t": 549.89984,
+          "r": 125.472084,
+          "b": 554.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last day to drop",
+          "l": 96.288,
+          "t": 571.4998,
+          "r": 168.83127,
+          "b": 575.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Without a “W”  is Friday,",
+          "l": 96.288,
+          "t": 582.5398,
+          "r": 202.66168,
+          "b": 586.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2/22/19",
+          "l": 96.288,
+          "t": 593.33984,
+          "r": 132.81128,
+          "b": 597.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last day to drop",
+          "l": 96.288,
+          "t": 615.1998,
+          "r": 168.83127,
+          "b": 619.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with a “W”  is Friday, 5/10/19",
+          "l": 96.288,
+          "t": 625.84863,
+          "r": 233.74,
+          "b": 630.43,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Math 73",
+          "l": 157.75,
+          "t": 60.872,
+          "r": 209.01398,
+          "b": 66.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Intermediate Algebra (General Ed)",
+          "l": 254.02,
+          "t": 60.872,
+          "r": 457.606,
+          "b": 66.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HOMEWORK ASSIGNMENTS",
+          "l": 222.34,
+          "t": 87.54202,
+          "r": 393.17,
+          "b": 92.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You must do homework assignment corresponding to the pace of the lecture. Homework questions will be",
+          "l": 36.024,
+          "t": 111.69246,
+          "r": 544.33655,
+          "b": 116.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "answered at the beginning of class except on quiz and exam dates.",
+          "l": 36.024,
+          "t": 123.24245,
+          "r": 357.90225,
+          "b": 127.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "O = ODD NUMBERED PROBLEMS (1, 3, 5, 7...)",
+          "l": 36.024,
+          "t": 146.5093,
+          "r": 250.3,
+          "b": 151.01001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EOO = EVERY OTHER ODD NUMBERED PROBLEM (1, 5, 9, 13...)",
+          "l": 36.024,
+          "t": 157.8025,
+          "r": 340.62225,
+          "b": 162.53003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Section",
+          "l": 36.024,
+          "t": 192.3625,
+          "r": 74.82624,
+          "b": 197.09003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Study Set",
+          "l": 108.05,
+          "t": 192.3625,
+          "r": 156.95224,
+          "b": 197.09003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Section",
+          "l": 310.68,
+          "t": 192.3625,
+          "r": 349.50226,
+          "b": 197.09003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exercises",
+          "l": 387.29,
+          "t": 192.3625,
+          "r": 436.89224,
+          "b": 197.09003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.5",
+          "l": 36.024,
+          "t": 215.18245,
+          "r": 52.74624,
+          "b": 219.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 15-85Eoo",
+          "l": 108.05,
+          "t": 215.18245,
+          "r": 190.79225,
+          "b": 219.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.1",
+          "l": 310.68,
+          "t": 215.18245,
+          "r": 327.40225,
+          "b": 219.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-16 All,19-65 o",
+          "l": 387.29,
+          "t": 215.18245,
+          "r": 462.83224,
+          "b": 219.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.6",
+          "l": 36.024,
+          "t": 226.70247,
+          "r": 52.74624,
+          "b": 231.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11-25 o, 35, 39-65 o",
+          "l": 108.05,
+          "t": 226.70247,
+          "r": 202.07225,
+          "b": 231.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.2",
+          "l": 310.68,
+          "t": 226.70247,
+          "r": 327.40225,
+          "b": 231.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All,11-41 o,47-85 Eoo",
+          "l": 387.29,
+          "t": 226.70247,
+          "r": 507.50226,
+          "b": 231.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.7",
+          "l": 36.024,
+          "t": 238.22249,
+          "r": 52.74624,
+          "b": 242.95001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-8 All,13-23 o, 39-41 o",
+          "l": 108.05,
+          "t": 238.22249,
+          "r": 218.18225,
+          "b": 242.95001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.3",
+          "l": 310.68,
+          "t": 238.22249,
+          "r": 327.40225,
+          "b": 242.95001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All,15-101 Eoo",
+          "l": 387.29,
+          "t": 238.22249,
+          "r": 475.79224,
+          "b": 242.95001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.8",
+          "l": 36.024,
+          "t": 249.74245,
+          "r": 52.74624,
+          "b": 254.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9,10,14,15,16; 27-29 o, 35-37 o,",
+          "l": 108.05,
+          "t": 249.74245,
+          "r": 258.26224,
+          "b": 254.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.4",
+          "l": 310.68,
+          "t": 249.74245,
+          "r": 327.40225,
+          "b": 254.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All,11-29 o, 35-65 o",
+          "l": 387.29,
+          "t": 249.74245,
+          "r": 497.39224,
+          "b": 254.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "41-51 o, 59-61 o",
+          "l": 108.05,
+          "t": 261.26248,
+          "r": 190.79225,
+          "b": 265.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.5",
+          "l": 310.68,
+          "t": 261.26248,
+          "r": 327.40225,
+          "b": 265.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All,15-81Eoo",
+          "l": 387.29,
+          "t": 261.26248,
+          "r": 467.39224,
+          "b": 265.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(MIDTERM 3)",
+          "l": 387.29,
+          "t": 272.79257,
+          "r": 451.79224,
+          "b": 277.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.1",
+          "l": 36.024,
+          "t": 284.3325,
+          "r": 52.74624,
+          "b": 289.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-8 All, 19-33 o, 41-51 o",
+          "l": 108.05,
+          "t": 284.3325,
+          "r": 220.82225,
+          "b": 289.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.2",
+          "l": 36.024,
+          "t": 295.85248,
+          "r": 52.74624,
+          "b": 300.58,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 17-47 o, 81-87 o",
+          "l": 108.05,
+          "t": 295.85248,
+          "r": 220.82225,
+          "b": 300.58,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.6",
+          "l": 310.68,
+          "t": 295.85248,
+          "r": 327.40225,
+          "b": 300.58,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-3 All,13-35 o",
+          "l": 387.29,
+          "t": 295.85248,
+          "r": 457.31226,
+          "b": 300.58,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.3",
+          "l": 36.024,
+          "t": 307.3725,
+          "r": 52.74624,
+          "b": 312.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 17-51 o, 55-59 o",
+          "l": 108.05,
+          "t": 307.3725,
+          "r": 220.82225,
+          "b": 312.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.7",
+          "l": 310.68,
+          "t": 307.3725,
+          "r": 327.40225,
+          "b": 312.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All,9-39 o, 53-87Eoo",
+          "l": 387.29,
+          "t": 307.3725,
+          "r": 501.71225,
+          "b": 312.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.4",
+          "l": 36.024,
+          "t": 318.8925,
+          "r": 52.74624,
+          "b": 323.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15-65 o, 93, 97, 99",
+          "l": 108.05,
+          "t": 318.8925,
+          "r": 195.35225,
+          "b": 323.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.8/6.9",
+          "l": 310.68,
+          "t": 318.8925,
+          "r": 343.98224,
+          "b": 323.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SEE D=R*T and Workshare Handout",
+          "l": 387.29,
+          "t": 318.8925,
+          "r": 561.50226,
+          "b": 323.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.5",
+          "l": 36.024,
+          "t": 330.1725,
+          "r": 52.74624,
+          "b": 334.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 19-93 Eoo",
+          "l": 108.05,
+          "t": 330.1725,
+          "r": 193.67224,
+          "b": 334.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.6",
+          "l": 36.024,
+          "t": 341.6925,
+          "r": 52.74624,
+          "b": 346.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-5 All, 14-16 All, 17-71 o",
+          "l": 108.05,
+          "t": 341.6925,
+          "r": 227.54225,
+          "b": 346.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(MIDTERM 1)",
+          "l": 108.05,
+          "t": 353.22256,
+          "r": 172.55225,
+          "b": 357.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.1",
+          "l": 310.68,
+          "t": 353.2125,
+          "r": 327.40225,
+          "b": 357.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-10 All,23-37o,51-65o;71-78All,87-93o",
+          "l": 387.29,
+          "t": 353.2125,
+          "r": 570.88226,
+          "b": 357.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.2",
+          "l": 310.68,
+          "t": 364.7525,
+          "r": 327.40225,
+          "b": 369.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 17-27 o, 43-103Eoo;109-131 o",
+          "l": 387.29,
+          "t": 364.7525,
+          "r": 564.62225,
+          "b": 369.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.1",
+          "l": 36.024,
+          "t": 376.2725,
+          "r": 52.74624,
+          "b": 381.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All, 13-35 o",
+          "l": 108.05,
+          "t": 376.2725,
+          "r": 183.59224,
+          "b": 381.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.3",
+          "l": 310.68,
+          "t": 376.2725,
+          "r": 327.40225,
+          "b": 381.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All, 13-103 Eoo",
+          "l": 387.29,
+          "t": 376.2725,
+          "r": 478.43225,
+          "b": 381.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.2",
+          "l": 36.024,
+          "t": 387.79248,
+          "r": 52.74624,
+          "b": 392.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All, 13-35 o, 45-53 o",
+          "l": 108.05,
+          "t": 387.79248,
+          "r": 220.82225,
+          "b": 392.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.4",
+          "l": 310.68,
+          "t": 387.79248,
+          "r": 327.40225,
+          "b": 392.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 15-101Eoo",
+          "l": 387.29,
+          "t": 387.79248,
+          "r": 475.79224,
+          "b": 392.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.6",
+          "l": 36.024,
+          "t": 399.3125,
+          "r": 52.74624,
+          "b": 404.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SEE Mixture HANDOUT 1-9 ALL",
+          "l": 108.05,
+          "t": 399.3125,
+          "r": 264.26224,
+          "b": 404.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.5",
+          "l": 310.68,
+          "t": 399.3125,
+          "r": 327.40225,
+          "b": 404.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 15-35o , 41-53 o, 111",
+          "l": 387.29,
+          "t": 399.3125,
+          "r": 522.38226,
+          "b": 404.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.6",
+          "l": 310.68,
+          "t": 410.8325,
+          "r": 327.40225,
+          "b": 415.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15-21 o; 43-53 o",
+          "l": 387.29,
+          "t": 410.8325,
+          "r": 467.87225,
+          "b": 415.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.1",
+          "l": 36.024,
+          "t": 422.35248,
+          "r": 52.74624,
+          "b": 427.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 17-75 o, 99-101 o",
+          "l": 108.05,
+          "t": 422.35248,
+          "r": 226.58224,
+          "b": 427.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(MIDTERM 4)",
+          "l": 387.29,
+          "t": 422.36255,
+          "r": 451.79224,
+          "b": 427.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.2",
+          "l": 36.024,
+          "t": 433.8725,
+          "r": 52.74624,
+          "b": 438.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-12 All, 25-71 o",
+          "l": 108.05,
+          "t": 433.8725,
+          "r": 186.47224,
+          "b": 438.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.3",
+          "l": 36.024,
+          "t": 445.4125,
+          "r": 52.74624,
+          "b": 450.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19-65 o; 69, 77, 81",
+          "l": 108.05,
+          "t": 445.4125,
+          "r": 195.83224,
+          "b": 450.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.1",
+          "l": 310.68,
+          "t": 445.4125,
+          "r": 327.40225,
+          "b": 450.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All, 15-21 o; 31-61 o",
+          "l": 387.29,
+          "t": 445.4125,
+          "r": 500.75226,
+          "b": 450.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.4",
+          "l": 36.024,
+          "t": 456.6925,
+          "r": 52.74624,
+          "b": 461.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All, 11-41 o",
+          "l": 108.05,
+          "t": 456.6925,
+          "r": 180.95224,
+          "b": 461.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.2",
+          "l": 310.68,
+          "t": 456.6925,
+          "r": 327.40225,
+          "b": 461.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 13-27 o, 37-39 o,",
+          "l": 387.29,
+          "t": 456.6925,
+          "r": 502.91223,
+          "b": 461.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "45-53 o",
+          "l": 387.29,
+          "t": 468.2125,
+          "r": 424.65225,
+          "b": 472.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.1",
+          "l": 36.024,
+          "t": 479.73248,
+          "r": 52.74624,
+          "b": 484.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-12 All, 15-105 Eoo",
+          "l": 108.05,
+          "t": 479.73248,
+          "r": 204.71225,
+          "b": 484.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.3",
+          "l": 310.68,
+          "t": 479.73248,
+          "r": 327.40225,
+          "b": 484.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23, 27-29 o, 43-47 o, 87",
+          "l": 387.29,
+          "t": 479.73248,
+          "r": 497.87225,
+          "b": 484.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.3",
+          "l": 36.024,
+          "t": 491.2525,
+          "r": 52.74624,
+          "b": 495.98,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-8 All, 19-25 o, 29-67 o",
+          "l": 108.05,
+          "t": 491.2525,
+          "r": 220.82225,
+          "b": 495.98,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.4",
+          "l": 36.024,
+          "t": 502.7725,
+          "r": 52.74624,
+          "b": 507.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All, 11-59 o",
+          "l": 108.05,
+          "t": 502.7725,
+          "r": 180.95224,
+          "b": 507.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.4",
+          "l": 310.68,
+          "t": 502.7725,
+          "r": 327.40225,
+          "b": 507.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-7 All, 15-73Eoo",
+          "l": 387.29,
+          "t": 502.7725,
+          "r": 470.03226,
+          "b": 507.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(MIDTERM 2)",
+          "l": 108.05,
+          "t": 514.30255,
+          "r": 172.55225,
+          "b": 519.02,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.5",
+          "l": 310.68,
+          "t": 514.2925,
+          "r": 327.40225,
+          "b": 519.02,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-2All, 15-21 o; 27-29 o; 49-59 o",
+          "l": 387.29,
+          "t": 514.2925,
+          "r": 538.4622,
+          "b": 519.02,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.5",
+          "l": 36.024,
+          "t": 537.3624,
+          "r": 52.74624,
+          "b": 542.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6 All, 11-81 o",
+          "l": 108.05,
+          "t": 537.3624,
+          "r": 180.95224,
+          "b": 542.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9.1",
+          "l": 310.68,
+          "t": 537.3624,
+          "r": 327.40225,
+          "b": 542.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-6All, 13-81 Eoo",
+          "l": 387.29,
+          "t": 537.3624,
+          "r": 470.03226,
+          "b": 542.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.6",
+          "l": 36.024,
+          "t": 548.88245,
+          "r": 52.74624,
+          "b": 553.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All, 11-71 o",
+          "l": 108.05,
+          "t": 548.88245,
+          "r": 180.95224,
+          "b": 553.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10.1",
+          "l": 310.68,
+          "t": 548.88245,
+          "r": 332.94226,
+          "b": 553.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15-37 o",
+          "l": 387.29,
+          "t": 548.88245,
+          "r": 424.65225,
+          "b": 553.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.7",
+          "l": 36.024,
+          "t": 560.40247,
+          "r": 52.74624,
+          "b": 565.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-2 All, 9-47 o, 53-59 o",
+          "l": 108.05,
+          "t": 560.40247,
+          "r": 215.30225,
+          "b": 565.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.8",
+          "l": 36.024,
+          "t": 571.9225,
+          "r": 52.74624,
+          "b": 576.65,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-4 All, 13-30 All",
+          "l": 108.05,
+          "t": 571.9225,
+          "r": 187.67224,
+          "b": 576.65,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.9",
+          "l": 36.024,
+          "t": 583.44244,
+          "r": 52.74624,
+          "b": 588.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-10 All 15-37 o, 43-53 o,",
+          "l": 108.05,
+          "t": 583.44244,
+          "r": 229.22224,
+          "b": 588.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "59-79 o, 91-95 o, 105,109",
+          "l": 108.05,
+          "t": 594.7225,
+          "r": 335.34225,
+          "b": 599.45,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Math 73",
+          "l": 72.024,
+          "t": 78.7647,
+          "r": 125.69,
+          "b": 84.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course description:",
+          "l": 72.024,
+          "t": 105.30197,
+          "r": 176.11,
+          "b": 110.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This intermediate algebra course is designed for students who are not considering further study",
+          "l": 72.024,
+          "t": 118.91599,
+          "r": 530.328,
+          "b": 124.369995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in the sciences, technology, engineering or mathematics. In the context of studying basic",
+          "l": 72.024,
+          "t": 132.83598,
+          "r": 499.63208,
+          "b": 138.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "functions and their graphs, students strengthen and expand their algebra skills. Functions studied",
+          "l": 72.024,
+          "t": 146.51598,
+          "r": 538.7181,
+          "b": 151.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "include linear, quadratic, polynomial, rational, and radical functions, as well as the absolute",
+          "l": 72.024,
+          "t": 160.43602,
+          "r": 513.9601,
+          "b": 165.89001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "value function. Particular emphasis is placed on the operations on functions, solving equations",
+          "l": 72.024,
+          "t": 174.11601,
+          "r": 527.4121,
+          "b": 179.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and inequalities, as well as using functions to model real life situations. Other topics include",
+          "l": 72.024,
+          "t": 188.036,
+          "r": 517.1321,
+          "b": 193.48999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "solving systems of equations and applications.",
+          "l": 72.024,
+          "t": 201.73601,
+          "r": 300.72,
+          "b": 207.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note: Mathematics 73 serves as a prerequisite course for all transfer-level mathematics course",
+          "l": 72.024,
+          "t": 215.65599,
+          "r": 528.1701,
+          "b": 221.10999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "sequences, EXCEPT (Math 130, 165) and the calculus sequence (Mathematics 170, 180, 190,",
+          "l": 72.024,
+          "t": 229.33598,
+          "r": 524.74396,
+          "b": 234.78998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "191 and 220).",
+          "l": 72.024,
+          "t": 243.25603,
+          "r": 141.29,
+          "b": 248.71002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Objectives:",
+          "l": 72.024,
+          "t": 270.952,
+          "r": 175.63,
+          "b": 276.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.  Carry out numerical operations and manipulate algebraic expressions, including",
+          "l": 90.048,
+          "t": 298.552,
+          "r": 497.06595,
+          "b": 304.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "expressions with rational and negative exponents.",
+          "l": 108.05,
+          "t": 312.40598,
+          "r": 349.7,
+          "b": 317.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2. Recognize functional relationships in the form of graphs, data or symbolic equations.",
+          "l": 90.048,
+          "t": 326.152,
+          "r": 519.94,
+          "b": 331.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3. Solve problems involving a variety of function types, including linear, quadratic,",
+          "l": 90.048,
+          "t": 339.832,
+          "r": 498.73398,
+          "b": 345.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "polynomial, rational and radical functions, as well as the absolute value function.",
+          "l": 108.05,
+          "t": 353.926,
+          "r": 500.47,
+          "b": 359.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4. Graph a variety of functions and relations and draw connections between these graphs",
+          "l": 90.048,
+          "t": 367.452,
+          "r": 523.8201,
+          "b": 373.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and solutions to problems.",
+          "l": 108.05,
+          "t": 381.546,
+          "r": 237.82,
+          "b": 387.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5. Solve a variety of equations and inequalities, as well as systems of equations and",
+          "l": 90.048,
+          "t": 395.052,
+          "r": 498.962,
+          "b": 400.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "inequalities, using algebraic and graphical methods.  Types of equations include linear,",
+          "l": 108.05,
+          "t": 409.146,
+          "r": 528.8239,
+          "b": 414.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "quadratic, polynomial, rational and radical equations, as well as absolute value equations.",
+          "l": 108.05,
+          "t": 422.826,
+          "r": 540.58,
+          "b": 428.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6. Using numerical, symbolic and graphical methods, model application problems, solve",
+          "l": 90.048,
+          "t": 436.57202,
+          "r": 522.98596,
+          "b": 442.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "them and interpret the results in the context of the problem.",
+          "l": 108.05,
+          "t": 450.686,
+          "r": 396.05,
+          "b": 456.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SLO Statements:",
+          "l": 72.024,
+          "t": 478.382,
+          "r": 165.79,
+          "b": 483.74,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SLO #1 Application Problems",
+          "l": 71.064,
+          "t": 491.42,
+          "r": 204.40504,
+          "b": 496.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Students will be able to recognize and apply appropriate mathematical concepts and models involving a",
+          "l": 71.064,
+          "t": 504.86002,
+          "r": 542.1959,
+          "b": 510.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "variety of functions to contextualized problems (authentic, real-world applications).",
+          "l": 72.024,
+          "t": 518.3,
+          "r": 448.36502,
+          "b": 523.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SLO #2 Solving Equations and Manipulating Expressions",
+          "l": 72.024,
+          "t": 541.85,
+          "r": 329.75504,
+          "b": 547.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Students will be able to symbolically (algebraically) solve a variety of equations, inequalities and linear",
+          "l": 72.024,
+          "t": 555.29,
+          "r": 530.493,
+          "b": 560.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "systems and manipulate symbolic (algebraic) expressions that arise in contextualized problems.",
+          "l": 72.024,
+          "t": 568.73,
+          "r": 500.68503,
+          "b": 574.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SLO #3 Visual and Graphical Methods",
+          "l": 71.064,
+          "t": 595.61,
+          "r": 254.59505,
+          "b": 601.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Students will use visual and graphical methods to represent, analyze and solve contextualized problems.",
+          "l": 71.064,
+          "t": 609.06995,
+          "r": 539.11505,
+          "b": 614.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SLO #4 Articulating Mathematical Reasoning",
+          "l": 71.064,
+          "t": 635.94995,
+          "r": 278.37503,
+          "b": 641.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Students will be able to articulate the mathematical reasoning used in solving a variety of contextualized",
+          "l": 71.064,
+          "t": 649.39,
+          "r": 542.59625,
+          "b": 654.91003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "problems, both orally and in writing.",
+          "l": 72.024,
+          "t": 662.82996,
+          "r": 237.31505,
+          "b": 668.35,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "On Campus tutorial Extra Credit Log Sheet",
+          "l": 201.67,
+          "t": 77.605995,
+          "r": 413.33,
+          "b": 83.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Name __________________________   Extra Credit Points ____/10",
+          "l": 120.77,
+          "t": 91.28599,
+          "r": 494.47,
+          "b": 96.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Directions:  Please fill out the information clearly each time you use a tutorial service.  Keep this",
+          "l": 72.024,
+          "t": 118.91599,
+          "r": 539.41205,
+          "b": 124.369995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "original as your record.  In order to get your extra credit points (max = 10 points), please",
+          "l": 72.024,
+          "t": 132.83598,
+          "r": 499.77612,
+          "b": 138.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "duplicate a copy of this and turn it in to me by Wednesday, 6/5/19 (Final Exam Date).",
+          "l": 72.024,
+          "t": 146.51598,
+          "r": 487.75,
+          "b": 151.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Type of On-",
+          "l": 77.784,
+          "t": 174.83598,
+          "r": 136.766,
+          "b": 180.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 169.27,
+          "t": 174.83598,
+          "r": 204.19,
+          "b": 180.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Time",
+          "l": 222.1,
+          "t": 174.83598,
+          "r": 250.04799,
+          "b": 180.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Time",
+          "l": 289.08,
+          "t": 174.83598,
+          "r": 317.02798,
+          "b": 180.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Length of",
+          "l": 353.9,
+          "t": 174.83598,
+          "r": 403.65204,
+          "b": 180.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tutor’s",
+          "l": 424.25,
+          "t": 174.83598,
+          "r": 462.49402,
+          "b": 180.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "campus Tutorial",
+          "l": 77.784,
+          "t": 188.51598,
+          "r": 158.774,
+          "b": 193.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Logged in:  Logged",
+          "l": 222.1,
+          "t": 188.51598,
+          "r": 328.788,
+          "b": 193.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tutorial",
+          "l": 353.9,
+          "t": 188.51598,
+          "r": 395.252,
+          "b": 193.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Signature/Verification.",
+          "l": 424.25,
+          "t": 188.51598,
+          "r": 537.46,
+          "b": 193.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Service",
+          "l": 77.784,
+          "t": 202.45598,
+          "r": 116.52001,
+          "b": 207.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(i.e. 10",
+          "l": 222.1,
+          "t": 202.45598,
+          "r": 258.89203,
+          "b": 207.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Out:",
+          "l": 289.08,
+          "t": 202.45598,
+          "r": 313.44,
+          "b": 207.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Received:",
+          "l": 353.9,
+          "t": 202.45598,
+          "r": 404.93,
+          "b": 207.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(EOP&S,",
+          "l": 77.784,
+          "t": 216.13603,
+          "r": 129.456,
+          "b": 221.59003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AM,",
+          "l": 222.1,
+          "t": 216.13603,
+          "r": 250.54,
+          "b": 221.59003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(i.e. 11",
+          "l": 289.08,
+          "t": 216.13603,
+          "r": 325.872,
+          "b": 221.59003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(i.e. 1 hour,",
+          "l": 353.9,
+          "t": 216.13603,
+          "r": 412.58603,
+          "b": 221.59003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MBA-119 Math",
+          "l": 77.784,
+          "t": 230.05602,
+          "r": 158.318,
+          "b": 235.51001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1 PM, etc.) AM,",
+          "l": 222.1,
+          "t": 230.05602,
+          "r": 317.52,
+          "b": 235.51001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "45 minutes,",
+          "l": 353.9,
+          "t": 230.05602,
+          "r": 412.784,
+          "b": 235.51001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Study Center,",
+          "l": 77.784,
+          "t": 243.73601,
+          "r": 146.712,
+          "b": 249.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2 PM, etc.) etc.)",
+          "l": 289.08,
+          "t": 243.73601,
+          "r": 377.78,
+          "b": 249.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Special",
+          "l": 77.784,
+          "t": 257.65598,
+          "r": 115.788,
+          "b": 263.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Resource, etc.).",
+          "l": 77.784,
+          "t": 271.33597,
+          "r": 155.47,
+          "b": 276.78998,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

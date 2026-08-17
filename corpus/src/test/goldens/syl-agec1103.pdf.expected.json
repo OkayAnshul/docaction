@@ -1,0 +1,11 @@
+{
+  "document": "syl-agec1103.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 2
+    }
+  ],
+  "groups": 2
+}

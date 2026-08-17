@@ -1,0 +1,1274 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Syllabus",
+          "l": 285.29,
+          "t": 77.536316,
+          "r": 329.69,
+          "b": 82.67999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ENME 431 Nuclear Reactor Systems and Safety",
+          "l": 188.06,
+          "t": 90.75635,
+          "r": 426.79,
+          "b": 95.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All Sections",
+          "l": 277.13,
+          "t": 103.864136,
+          "r": 337.87,
+          "b": 109.099976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring 2015",
+          "l": 276.41,
+          "t": 117.276306,
+          "r": 338.47,
+          "b": 122.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Information",
+          "l": 256.97,
+          "t": 143.67633,
+          "r": 357.91,
+          "b": 148.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Location and Time",
+          "l": 90.024,
+          "t": 169.74414,
+          "r": 180.5,
+          "b": 174.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classroom:",
+          "l": 90.024,
+          "t": 196.26416,
+          "r": 145.34001,
+          "b": 201.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JMP 2121",
+          "l": 198.02,
+          "t": 196.26416,
+          "r": 247.85,
+          "b": 201.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Time:",
+          "l": 90.024,
+          "t": 222.66418,
+          "r": 128.9,
+          "b": 227.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MW  2:00pm – 3:15pm",
+          "l": 198.02,
+          "t": 222.66418,
+          "r": 309.53,
+          "b": 227.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Instructor Information",
+          "l": 90.024,
+          "t": 249.18414,
+          "r": 195.5,
+          "b": 254.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Instructor:",
+          "l": 90.024,
+          "t": 275.61417,
+          "r": 140.78,
+          "b": 280.85,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dr. Robert C. Sanders",
+          "l": 198.02,
+          "t": 275.61417,
+          "r": 302.81,
+          "b": 280.85,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Office:",
+          "l": 90.024,
+          "t": 302.01416,
+          "r": 128.9,
+          "b": 307.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3109A Martin Hall",
+          "l": 198.02,
+          "t": 302.01416,
+          "r": 289.13,
+          "b": 307.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Email:",
+          "l": 90.024,
+          "t": 328.53415,
+          "r": 128.9,
+          "b": 333.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "rsanders@umd.edu",
+          "l": 198.02,
+          "t": 328.53415,
+          "r": 289.73,
+          "b": 333.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Phone:",
+          "l": 90.024,
+          "t": 354.93417,
+          "r": 128.9,
+          "b": 360.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "443-804-6485",
+          "l": 198.02,
+          "t": 354.93417,
+          "r": 266.09,
+          "b": 360.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Office Hours:",
+          "l": 90.024,
+          "t": 381.45416,
+          "r": 164.90001,
+          "b": 386.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MW  12:30pm – 1:30pm, or by appointment",
+          "l": 198.02,
+          "t": 381.45416,
+          "r": 405.43,
+          "b": 386.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ELMS Site",
+          "l": 90.024,
+          "t": 407.85416,
+          "r": 144.38,
+          "b": 413.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ENME431 All Sections – Spring 2015: Nuclear Reactor Systems and Safety",
+          "l": 90.024,
+          "t": 434.27417,
+          "r": 444.31,
+          "b": 439.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Required Textbook",
+          "l": 90.024,
+          "t": 460.79416,
+          "r": 182.18001,
+          "b": 466.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "None.",
+          "l": 90.024,
+          "t": 487.19415,
+          "r": 120.74,
+          "b": 492.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Required Technology",
+          "l": 90.024,
+          "t": 513.7142,
+          "r": 192.74,
+          "b": 518.95,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All students are required to have a calculator.",
+          "l": 90.024,
+          "t": 540.11414,
+          "r": 301.73,
+          "b": 545.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Communications",
+          "l": 90.024,
+          "t": 566.51416,
+          "r": 171.62001,
+          "b": 571.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Communications outside the classroom will be via email and/or the ELMS site.",
+          "l": 90.024,
+          "t": 593.0342,
+          "r": 458.35,
+          "b": 598.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Emergency Protocol",
+          "l": 90.024,
+          "t": 619.4642,
+          "r": 187.22,
+          "b": 624.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In the event of an emergency that closes the university for an extended period of time,",
+          "l": 90.024,
+          "t": 645.98413,
+          "r": 488.99216,
+          "b": 651.22,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "lectures, homework assignments and exams will be posted on the ELMS site.  Students will",
+          "l": 90.024,
+          "t": 659.18414,
+          "r": 514.2018,
+          "b": 664.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "provide the instructor with completed homework assignments and exams via email.",
+          "l": 90.024,
+          "t": 672.38416,
+          "r": 477.1,
+          "b": 677.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 303.05,
+          "t": 733.84204,
+          "r": 312.05,
+          "b": 739.296,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Course Description, Goals and Expectations",
+          "l": 197.9,
+          "t": 77.536316,
+          "r": 417.07,
+          "b": 82.67999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Description",
+          "l": 90.024,
+          "t": 103.624146,
+          "r": 182.18001,
+          "b": 108.859985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ENME 431 presents the major fluid systems used in nuclear reactor power plants, including",
+          "l": 90.024,
+          "t": 130.14417,
+          "r": 514.84686,
+          "b": 135.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the bases for the designs of these systems.  The emphasis is on auxiliary and safety systems;",
+          "l": 90.024,
+          "t": 143.34418,
+          "r": 516.4252,
+          "b": 148.58002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "however, primary coolant systems are also discussed.  Systems used in existing nuclear",
+          "l": 90.024,
+          "t": 156.54419,
+          "r": 494.76947,
+          "b": 161.78003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "power plants are presented, as well as proposed systems for advanced nuclear power plant",
+          "l": 90.024,
+          "t": 169.74414,
+          "r": 507.34744,
+          "b": 174.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "concepts.  Major components used in nuclear reactor fluid systems (pumps, valves and heat",
+          "l": 90.024,
+          "t": 183.06415,
+          "r": 513.37225,
+          "b": 188.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "exchangers) are discussed.  In addition, nuclear reactor safety, including regulatory",
+          "l": 90.024,
+          "t": 196.26416,
+          "r": 474.9522,
+          "b": 201.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "requirements and safety analysis, are discussed.",
+          "l": 90.024,
+          "t": 209.46417,
+          "r": 312.29,
+          "b": 214.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Goals",
+          "l": 90.024,
+          "t": 235.86414,
+          "r": 155.3,
+          "b": 241.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The major objective of ENME 431 is to have the student understand the fluid systems",
+          "l": 90.024,
+          "t": 262.556,
+          "r": 504.876,
+          "b": 268.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "used in nuclear power plants, including the design bases and safety requirements.  A",
+          "l": 90.024,
+          "t": 276.356,
+          "r": 497.5,
+          "b": 281.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "student who successfully completes ENME 431 is able to demonstrate the ability to:",
+          "l": 90.024,
+          "t": 290.01416,
+          "r": 480.7,
+          "b": 295.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1. Understand the major fluid systems used in nuclear power plants.",
+          "l": 108.02,
+          "t": 316.2471,
+          "r": 429.67,
+          "b": 321.65,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2. Understand the design bases and safety requirements for the major fluid systems used",
+          "l": 108.02,
+          "t": 342.76712,
+          "r": 522.6669,
+          "b": 348.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in nuclear power plants.",
+          "l": 126.02,
+          "t": 356.13416,
+          "r": 239.57,
+          "b": 361.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3. Understand the design bases for major components used in nuclear power plant fluid",
+          "l": 108.02,
+          "t": 382.3671,
+          "r": 518.3258,
+          "b": 387.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "systems including pumps, valves and heat exchangers.",
+          "l": 126.02,
+          "t": 395.73416,
+          "r": 379.27002,
+          "b": 400.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4. Understand the regulatory and safety requirements for the major fluid system used in",
+          "l": 108.02,
+          "t": 422.0871,
+          "r": 519.6121,
+          "b": 427.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "nuclear power plants.",
+          "l": 126.02,
+          "t": 435.47415,
+          "r": 227.69,
+          "b": 440.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Schedule",
+          "l": 90.024,
+          "t": 461.87415,
+          "r": 170.66,
+          "b": 467.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "During each class meeting the instructor will present information that supports the Course",
+          "l": 90.024,
+          "t": 488.39417,
+          "r": 507.01816,
+          "b": 493.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Goals discussed above.  Students are expected to ask questions if additional clarification is",
+          "l": 90.024,
+          "t": 501.59415,
+          "r": 509.93933,
+          "b": 506.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "needed.",
+          "l": 90.024,
+          "t": 514.7942,
+          "r": 128.42,
+          "b": 520.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Due Dates",
+          "l": 90.024,
+          "t": 541.31415,
+          "r": 141.26001,
+          "b": 546.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework:",
+          "l": 90.024,
+          "t": 567.7142,
+          "r": 147.86,
+          "b": 572.95,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework assignments are due at the beginning of class on the",
+          "l": 198.02,
+          "t": 567.7142,
+          "r": 494.2059,
+          "b": 572.95,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "specified due dates.  To be fair to all students, late homework will not",
+          "l": 198.02,
+          "t": 580.9142,
+          "r": 522.0616,
+          "b": 586.15,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be accepted under any circumstances.",
+          "l": 198.02,
+          "t": 594.11414,
+          "r": 374.35,
+          "b": 599.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm Exams:",
+          "l": 90.024,
+          "t": 620.6642,
+          "r": 170.54001,
+          "b": 625.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Two midterm exams will be given during the semester.  The tentative",
+          "l": 198.02,
+          "t": 620.6642,
+          "r": 520.66046,
+          "b": 625.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "dates for the midterm exams are:",
+          "l": 198.02,
+          "t": 633.86414,
+          "r": 351.91,
+          "b": 639.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exam 1:",
+          "l": 198.02,
+          "t": 647.06415,
+          "r": 239.57,
+          "b": 652.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "March 2, 2015",
+          "l": 270.05,
+          "t": 647.06415,
+          "r": 340.39,
+          "b": 652.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exam 2:",
+          "l": 198.02,
+          "t": 660.26416,
+          "r": 239.57,
+          "b": 665.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "April 13, 2015",
+          "l": 270.05,
+          "t": 660.26416,
+          "r": 340.39,
+          "b": 665.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam:",
+          "l": 90.024,
+          "t": 686.78015,
+          "r": 149.42,
+          "b": 692.016,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 18, 2015.  1:30pm to 3:30pm.",
+          "l": 198.02,
+          "t": 686.78015,
+          "r": 361.63,
+          "b": 692.016,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 303.05,
+          "t": 733.84204,
+          "r": 312.05,
+          "b": 739.296,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Expectations for Students",
+          "l": 90.024,
+          "t": 90.42413,
+          "r": 211.13,
+          "b": 95.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Students are expected to attend class on a regular basis.  Students are also expected to",
+          "l": 90.024,
+          "t": 116.94415,
+          "r": 486.8303,
+          "b": 122.17999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "complete all homework assignments, both midterm exams, possible unannounced quizzes",
+          "l": 90.024,
+          "t": 130.14417,
+          "r": 506.02002,
+          "b": 135.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and the final exam.",
+          "l": 90.024,
+          "t": 143.34418,
+          "r": 181.1,
+          "b": 148.58002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grading Procedure",
+          "l": 90.024,
+          "t": 169.74414,
+          "r": 180.26001,
+          "b": 174.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework:",
+          "l": 90.024,
+          "t": 196.26416,
+          "r": 147.86,
+          "b": 201.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In order for the student to better understand the material presented in",
+          "l": 198.02,
+          "t": 196.26416,
+          "r": 517.1928,
+          "b": 201.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "class, homework will be assigned. Problem sets (collected at the",
+          "l": 198.02,
+          "t": 209.46417,
+          "r": 496.21497,
+          "b": 214.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "beginning of the class on the due date) will be worth 10 points each.",
+          "l": 198.02,
+          "t": 222.66418,
+          "r": 517.368,
+          "b": 227.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Most homework assignments will not be graded in detail and all",
+          "l": 198.02,
+          "t": 235.86414,
+          "r": 496.29993,
+          "b": 241.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "students that make an honest effort to complete a homework",
+          "l": 198.02,
+          "t": 249.18414,
+          "r": 478.2092,
+          "b": 254.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "assignment will receive 10 points for the assignment.  However, on a",
+          "l": 198.02,
+          "t": 262.41418,
+          "r": 518.92505,
+          "b": 267.65002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "random basis, some homework assignments will be selected for",
+          "l": 198.02,
+          "t": 275.61417,
+          "r": 493.7942,
+          "b": 280.85,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "detailed grading.  Solutions to all homework assignments will be",
+          "l": 198.02,
+          "t": 288.81415,
+          "r": 499.36023,
+          "b": 294.05,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "posted on the ELMS site.  Students can work together; however,",
+          "l": 198.02,
+          "t": 302.01416,
+          "r": 497.5,
+          "b": 307.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "copying homework is a violation of the Student Code of Academic",
+          "l": 198.02,
+          "t": 315.33417,
+          "r": 508.80637,
+          "b": 320.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Integrity – any occurrences will be referred to and dealt with by the",
+          "l": 198.02,
+          "t": 328.53415,
+          "r": 511.19803,
+          "b": 333.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Honor Council.  In fairness to all students in the class, late",
+          "l": 198.02,
+          "t": 341.73416,
+          "r": 507.44052,
+          "b": 346.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "homework assignments will not be accepted under any circumstances.",
+          "l": 198.02,
+          "t": 354.93417,
+          "r": 523.9,
+          "b": 360.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm Exams:",
+          "l": 90.024,
+          "t": 381.45416,
+          "r": 170.54001,
+          "b": 386.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "There will be two one-hour midterm exams.  Each hour exam will",
+          "l": 198.02,
+          "t": 381.45416,
+          "r": 505.14734,
+          "b": 386.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "concentrate on the subject matter covered since the previous exam.",
+          "l": 198.02,
+          "t": 394.65417,
+          "r": 508.63348,
+          "b": 399.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "However, keep in mind that engineering material builds on itself as a",
+          "l": 198.02,
+          "t": 407.85416,
+          "r": 518.126,
+          "b": 413.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "course progresses.  Students are expected to have mastery of all",
+          "l": 198.02,
+          "t": 421.05417,
+          "r": 493.82098,
+          "b": 426.29,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "previous material.  Each midterm exam is worth 100 points.",
+          "l": 198.02,
+          "t": 434.27417,
+          "r": 476.5,
+          "b": 439.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quizzes:",
+          "l": 90.024,
+          "t": 460.79416,
+          "r": 133.1,
+          "b": 466.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Unannounced quizzes may be given at random times during the",
+          "l": 198.02,
+          "t": 460.79416,
+          "r": 493.77582,
+          "b": 466.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "semester.  If given, each quiz will be worth 10 points.",
+          "l": 198.02,
+          "t": 473.99417,
+          "r": 450.67,
+          "b": 479.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam:",
+          "l": 90.024,
+          "t": 500.39417,
+          "r": 149.42,
+          "b": 505.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The final exam will be cumulative and cover all course material.  The",
+          "l": 198.02,
+          "t": 500.39417,
+          "r": 521.48267,
+          "b": 505.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "final exam is worth 200 points.",
+          "l": 198.02,
+          "t": 513.7142,
+          "r": 343.99,
+          "b": 518.95,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The student’s final grade will be determined based on all course work. The final grade is",
+          "l": 90.024,
+          "t": 540.11414,
+          "r": 500.07828,
+          "b": 545.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "determined only after all course work is completed (i.e. after the final exam).",
+          "l": 90.024,
+          "t": 553.31415,
+          "r": 447.07,
+          "b": 558.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The final grade will be determined using the following points:",
+          "l": 90.024,
+          "t": 579.83417,
+          "r": 378.91,
+          "b": 585.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Points",
+          "l": 234.05,
+          "t": 606.26416,
+          "r": 265.73,
+          "b": 611.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework:",
+          "l": 90.024,
+          "t": 619.4642,
+          "r": 147.86,
+          "b": 624.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100",
+          "l": 234.05,
+          "t": 619.4642,
+          "r": 254.21,
+          "b": 624.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm Exam 1:",
+          "l": 90.024,
+          "t": 632.6642,
+          "r": 174.62001,
+          "b": 637.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100",
+          "l": 234.05,
+          "t": 632.6642,
+          "r": 254.21,
+          "b": 637.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm Exam 2:",
+          "l": 90.024,
+          "t": 645.98413,
+          "r": 174.62001,
+          "b": 651.22,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100",
+          "l": 234.05,
+          "t": 645.98413,
+          "r": 254.21,
+          "b": 651.22,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quizzes:",
+          "l": 90.024,
+          "t": 659.18414,
+          "r": 133.1,
+          "b": 664.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 per quiz",
+          "l": 234.05,
+          "t": 659.18414,
+          "r": 288.65,
+          "b": 664.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam:",
+          "l": 90.024,
+          "t": 672.38416,
+          "r": 149.42,
+          "b": 677.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "200",
+          "l": 234.05,
+          "t": 672.38416,
+          "r": 257.09,
+          "b": 677.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOTAL:",
+          "l": 90.024,
+          "t": 685.58417,
+          "r": 133.82,
+          "b": 690.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "500 + 10 per quiz",
+          "l": 234.05,
+          "t": 685.58417,
+          "r": 318.17,
+          "b": 690.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 303.05,
+          "t": 733.84204,
+          "r": 312.05,
+          "b": 739.296,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Course Procedures and Policies",
+          "l": 228.53,
+          "t": 77.536316,
+          "r": 386.35,
+          "b": 82.67999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Attendance Policy",
+          "l": 90.024,
+          "t": 103.624146,
+          "r": 213.05,
+          "b": 108.859985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Class attendance will not be recorded on a regular basis; however, students are strongly",
+          "l": 90.024,
+          "t": 130.14417,
+          "r": 495.28217,
+          "b": 135.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "encouraged to attend all classes since all of the material covered during the exams is",
+          "l": 90.024,
+          "t": 143.34418,
+          "r": 480.58255,
+          "b": 148.58002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "presented in the classroom and not included in a course textbook.  Also, unannounced",
+          "l": 90.024,
+          "t": 156.54419,
+          "r": 488.07162,
+          "b": 161.78003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "quizzes may be given at random times during the semester.",
+          "l": 90.024,
+          "t": 169.74414,
+          "r": 364.99,
+          "b": 174.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Written Absence Policy",
+          "l": 90.024,
+          "t": 196.26416,
+          "r": 202.73001,
+          "b": 201.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All students are expected to attend class on the scheduled days for the midterm and final",
+          "l": 90.024,
+          "t": 222.66418,
+          "r": 499.20267,
+          "b": 227.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "exams.  Absences will be granted only in extreme situations such as illness or personal",
+          "l": 90.024,
+          "t": 235.86414,
+          "r": 491.6572,
+          "b": 241.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "emergency.  In such situations, the student must provide the instructor with a written",
+          "l": 90.024,
+          "t": 249.18414,
+          "r": 482.31534,
+          "b": 254.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "document signed by a physician, or other authorized official, explaining why the student was",
+          "l": 90.024,
+          "t": 262.41418,
+          "r": 520.3418,
+          "b": 267.65002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "not able to take the exam at the scheduled time.  A makeup time for the missed exam will be",
+          "l": 90.024,
+          "t": 275.61417,
+          "r": 518.14166,
+          "b": 280.85,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "mutually agreed to by the student and the instructor.",
+          "l": 90.024,
+          "t": 288.81415,
+          "r": 332.69,
+          "b": 294.05,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If a student anticipates in advance that he or she cannot attend class for a scheduled exam, it",
+          "l": 90.024,
+          "t": 315.33417,
+          "r": 516.258,
+          "b": 320.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "is the student’s responsibility to notify the instructor in advance so that a makeup exam can",
+          "l": 90.024,
+          "t": 328.53415,
+          "r": 512.5889,
+          "b": 333.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be scheduled.  Failure to do so will result in a score of zero for the missed exam.",
+          "l": 90.024,
+          "t": 341.73416,
+          "r": 463.15,
+          "b": 346.97,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Integrity Expectations",
+          "l": 90.024,
+          "t": 368.13416,
+          "r": 244.37001,
+          "b": 373.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The University has a nationally recognized Honor Code, administered by the Student Honor",
+          "l": 90.024,
+          "t": 397.05417,
+          "r": 516.4022,
+          "b": 402.29,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Council. The Student Honor Council proposed and the University Senate approved an Honor",
+          "l": 90.024,
+          "t": 412.65417,
+          "r": 520.4803,
+          "b": 417.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pledge. The University of Maryland Honor Pledge reads:",
+          "l": 90.024,
+          "t": 428.15417,
+          "r": 356.11002,
+          "b": 433.39,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "I pledge on my honor that I have not given or received any unauthorized assistance on this",
+          "l": 90.024,
+          "t": 457.7884,
+          "r": 510.5846,
+          "b": 463.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "assignment/examination.",
+          "l": 90.024,
+          "t": 473.2684,
+          "r": 207.77,
+          "b": 478.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Unless you are specifically advised to the contrary, the Pledge statement should be",
+          "l": 90.024,
+          "t": 503.03415,
+          "r": 472.94864,
+          "b": 508.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "handwritten and signed on the front cover of all papers, projects, or other academic",
+          "l": 90.024,
+          "t": 518.6284,
+          "r": 475.915,
+          "b": 523.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "assignments submitted for evaluation in this course. Students who fail to write and sign the",
+          "l": 90.024,
+          "t": 534.23413,
+          "r": 511.3218,
+          "b": 539.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pledge will be asked to confer with the instructor.",
+          "l": 90.024,
+          "t": 549.83417,
+          "r": 321.89,
+          "b": 555.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Arrangements for Students with Disabilities",
+          "l": 90.024,
+          "t": 576.23413,
+          "r": 295.37,
+          "b": 581.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic accommodations for students with disabilities will be provided as directed by a",
+          "l": 90.024,
+          "t": 602.7842,
+          "r": 505.8467,
+          "b": 608.02,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "signed statement from the university Disability Support Service.",
+          "l": 90.024,
+          "t": 615.98413,
+          "r": 388.75,
+          "b": 621.22,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Copyright Notice",
+          "l": 90.024,
+          "t": 642.38416,
+          "r": 173.18001,
+          "b": 647.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All class lectures and other materials used by the instructor are copyrighted and may not be",
+          "l": 90.024,
+          "t": 668.9042,
+          "r": 512.98,
+          "b": 674.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "reproduced for anything other than personal use without the written permission of the",
+          "l": 90.024,
+          "t": 682.1041,
+          "r": 486.20822,
+          "b": 687.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "instructor.",
+          "l": 90.024,
+          "t": 695.3002,
+          "r": 139.94,
+          "b": 700.536,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 303.05,
+          "t": 733.84204,
+          "r": 312.05,
+          "b": 739.296,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

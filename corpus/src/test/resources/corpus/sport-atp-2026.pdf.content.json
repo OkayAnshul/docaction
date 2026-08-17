@@ -1,0 +1,4852 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.276,
+      "heightPt": 841.89,
+      "runs": [
+        {
+          "text": "2026 CALENDAR",
+          "l": 15.0,
+          "t": 25.017775,
+          "r": 286.00446,
+          "b": 42.727844,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OTHER INFORMATION",
+          "l": 15.3485,
+          "t": 88.24893,
+          "r": 74.0985,
+          "b": 91.27643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JAN 2026",
+          "l": 15.4833,
+          "t": 97.38122,
+          "r": 113.78731,
+          "b": 107.845215,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 15.4833,
+          "t": 117.1924,
+          "r": 38.1213,
+          "b": 121.116394,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 43.3893,
+          "t": 117.1924,
+          "r": 62.277306,
+          "b": 121.116394,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 77.8113,
+          "t": 117.1924,
+          "r": 95.5893,
+          "b": 121.116394,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 199.20331,
+          "t": 117.1924,
+          "r": 239.9073,
+          "b": 121.116394,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 276.54932,
+          "t": 117.1924,
+          "r": 355.00534,
+          "b": 121.116394,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 505.16132,
+          "t": 117.1924,
+          "r": 540.09937,
+          "b": 121.116394,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 545.9433,
+          "t": 117.1924,
+          "r": 574.6232,
+          "b": 121.116394,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 26.0473,
+          "t": 128.66895,
+          "r": 28.1653,
+          "b": 132.30194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02-JAN",
+          "l": 43.3873,
+          "t": 128.66895,
+          "r": 67.4833,
+          "b": 132.30194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PERTH,SYDNEY",
+          "l": 77.809296,
+          "t": 128.66895,
+          "r": 128.2273,
+          "b": 132.30194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 128.8315,
+          "t": 128.18585,
+          "r": 130.94429,
+          "b": 130.3039,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UNITED CUP",
+          "l": 199.20798,
+          "t": 128.66895,
+          "r": 239.53397,
+          "b": 132.30194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UNITED CUP",
+          "l": 276.554,
+          "t": 128.66895,
+          "r": 316.87997,
+          "b": 132.30194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 505.61,
+          "t": 128.66895,
+          "r": 510.00198,
+          "b": 132.30194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18 TEAMS",
+          "l": 545.84595,
+          "t": 128.66895,
+          "r": 577.06995,
+          "b": 132.30194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05-JAN",
+          "l": 43.387985,
+          "t": 137.15295,
+          "r": 67.53198,
+          "b": 140.78595,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BRISBANE",
+          "l": 77.8101,
+          "t": 137.21515,
+          "r": 111.0975,
+          "b": 140.84814,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.2081,
+          "t": 137.21515,
+          "r": 225.72206,
+          "b": 140.84814,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BRISBANE INTERNATIONAL PRESENTED BY ANZ",
+          "l": 276.54797,
+          "t": 137.24396,
+          "r": 436.36398,
+          "b": 140.87695,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 505.6041,
+          "t": 137.21515,
+          "r": 509.9961,
+          "b": 140.84814,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.84607,
+          "t": 137.21515,
+          "r": 554.9,
+          "b": 140.84814,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HONG KONG",
+          "l": 77.79791,
+          "t": 146.01495,
+          "r": 119.26991,
+          "b": 149.64795,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.20792,
+          "t": 145.89496,
+          "r": 225.72188,
+          "b": 149.52795,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BANK OF CHINA HONG KONG TENNIS OPEN",
+          "l": 276.75198,
+          "t": 145.95496,
+          "r": 421.38788,
+          "b": 149.58795,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 505.538,
+          "t": 146.0149,
+          "r": 509.93,
+          "b": 149.64789,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.852,
+          "t": 145.8949,
+          "r": 554.9359,
+          "b": 149.5279,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 25.9133,
+          "t": 155.18994,
+          "r": 29.435299,
+          "b": 158.82294,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12-JAN",
+          "l": 43.391754,
+          "t": 155.05151,
+          "r": 65.98175,
+          "b": 158.68451,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ADELAIDE",
+          "l": 78.31732,
+          "t": 155.052,
+          "r": 110.813324,
+          "b": 158.685,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 111.4114,
+          "t": 154.56848,
+          "r": 113.4997,
+          "b": 156.68652,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.21176,
+          "t": 155.05151,
+          "r": 225.72572,
+          "b": 158.68451,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ADELAIDE INTERNATIONAL",
+          "l": 277.0558,
+          "t": 155.05151,
+          "r": 365.25638,
+          "b": 158.68451,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 506.1118,
+          "t": 155.14154,
+          "r": 510.50378,
+          "b": 158.77454,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.84973,
+          "t": 155.14154,
+          "r": 553.5537,
+          "b": 158.77454,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AUCKLAND",
+          "l": 78.3053,
+          "t": 164.9339,
+          "r": 115.559296,
+          "b": 168.5669,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 116.163,
+          "t": 164.45215,
+          "r": 118.251305,
+          "b": 166.57019,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.21143,
+          "t": 164.93524,
+          "r": 225.72539,
+          "b": 168.56824,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ASB CLASSIC",
+          "l": 277.0494,
+          "t": 164.93524,
+          "r": 321.58142,
+          "b": 168.56824,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 506.1054,
+          "t": 164.93524,
+          "r": 510.4974,
+          "b": 168.56824,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.8493,
+          "t": 165.18597,
+          "r": 553.5533,
+          "b": 168.81897,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 25.84143,
+          "t": 174.30118,
+          "r": 29.513432,
+          "b": 178.13818,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18-JAN",
+          "l": 43.3853,
+          "t": 174.29391,
+          "r": 66.3773,
+          "b": 178.13092,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MELBOURNE",
+          "l": 78.308105,
+          "t": 174.25314,
+          "r": 118.9641,
+          "b": 178.09015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 119.5649,
+          "t": 173.85397,
+          "r": 120.943115,
+          "b": 176.09094,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND SLAM",
+          "l": 199.21143,
+          "t": 174.2532,
+          "r": 244.05544,
+          "b": 178.09021,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AUSTRALIAN OPEN",
+          "l": 277.0493,
+          "t": 174.25192,
+          "r": 340.4213,
+          "b": 178.08893,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 506.1054,
+          "t": 174.2532,
+          "r": 510.30542,
+          "b": 178.09021,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "128",
+          "l": 545.8493,
+          "t": 174.25198,
+          "r": 556.7213,
+          "b": 178.08899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 25.841309,
+          "t": 184.35599,
+          "r": 29.51331,
+          "b": 188.193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MELBOURNE",
+          "l": 78.31143,
+          "t": 184.35721,
+          "r": 118.96743,
+          "b": 188.19421,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 119.5649,
+          "t": 183.95816,
+          "r": 120.943115,
+          "b": 186.19513,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND SLAM",
+          "l": 199.2113,
+          "t": 184.35599,
+          "r": 244.05531,
+          "b": 188.193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AUSTRALIAN OPEN",
+          "l": 277.0493,
+          "t": 184.35599,
+          "r": 340.4213,
+          "b": 188.193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 506.1053,
+          "t": 184.35599,
+          "r": 510.3053,
+          "b": 188.193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FEB 2026",
+          "l": 15.363,
+          "t": 210.18163,
+          "r": 107.10701,
+          "b": 220.64563,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 15.3631,
+          "t": 230.0077,
+          "r": 38.001102,
+          "b": 233.9317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 43.2691,
+          "t": 230.0077,
+          "r": 62.157104,
+          "b": 233.9317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 77.6911,
+          "t": 230.0077,
+          "r": 95.46909,
+          "b": 233.9317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 199.08911,
+          "t": 230.0077,
+          "r": 239.7931,
+          "b": 233.9317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 276.4291,
+          "t": 230.0077,
+          "r": 354.88513,
+          "b": 233.9317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 505.4851,
+          "t": 230.0077,
+          "r": 540.42316,
+          "b": 233.9317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 545.726,
+          "t": 230.00777,
+          "r": 574.40594,
+          "b": 233.93176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5",
+          "l": 25.95929,
+          "t": 242.00397,
+          "r": 29.52929,
+          "b": 245.63696,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02-FEB",
+          "l": 43.3893,
+          "t": 241.29602,
+          "r": 65.7633,
+          "b": 244.92902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MONTPELLIER",
+          "l": 78.2733,
+          "t": 241.956,
+          "r": 124.2093,
+          "b": 245.58899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.20328,
+          "t": 241.956,
+          "r": 225.71724,
+          "b": 245.58899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OPEN OCCITANIE",
+          "l": 277.0113,
+          "t": 241.956,
+          "r": 333.46524,
+          "b": 245.58899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 506.0673,
+          "t": 241.956,
+          "r": 512.5713,
+          "b": 245.58899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.8413,
+          "t": 241.956,
+          "r": 554.92523,
+          "b": 245.58899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MULTI-CITY",
+          "l": 78.5115,
+          "t": 251.03992,
+          "r": 115.5435,
+          "b": 254.67291,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DAVIS CUP",
+          "l": 199.2048,
+          "t": 251.03992,
+          "r": 234.92879,
+          "b": 254.67291,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DAVIS CUP QUALIFIERS 1",
+          "l": 277.2495,
+          "t": 251.03992,
+          "r": 359.19153,
+          "b": 254.67291,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ST ROUND",
+          "l": 359.793,
+          "t": 250.55688,
+          "r": 390.3708,
+          "b": 254.67291,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 25.1492,
+          "t": 261.19403,
+          "r": 28.773201,
+          "b": 264.82703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09-FEB",
+          "l": 43.2452,
+          "t": 261.19403,
+          "r": 65.72119,
+          "b": 264.82703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DALLAS",
+          "l": 77.667206,
+          "t": 261.19403,
+          "r": 104.63061,
+          "b": 264.82703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.06522,
+          "t": 261.19403,
+          "r": 225.68118,
+          "b": 264.82703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DALLAS OPEN",
+          "l": 276.4052,
+          "t": 261.19403,
+          "r": 322.57523,
+          "b": 264.82703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 505.4612,
+          "t": 261.19403,
+          "r": 511.9652,
+          "b": 264.82703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.70917,
+          "t": 261.19403,
+          "r": 553.3831,
+          "b": 264.82703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROTTERDAM",
+          "l": 77.67319,
+          "t": 270.716,
+          "r": 118.16059,
+          "b": 274.349,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.06522,
+          "t": 270.716,
+          "r": 225.68118,
+          "b": 274.349,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ABN AMRO OPEN",
+          "l": 276.4112,
+          "t": 270.716,
+          "r": 332.96118,
+          "b": 274.349,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 505.4612,
+          "t": 270.716,
+          "r": 511.9652,
+          "b": 274.349,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.70917,
+          "t": 270.716,
+          "r": 553.3831,
+          "b": 274.349,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUENOS AIRES",
+          "l": 77.672,
+          "t": 279.6068,
+          "r": 126.914,
+          "b": 283.2398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.07,
+          "t": 279.6068,
+          "r": 225.58397,
+          "b": 283.2398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IEB+ ARGENTINA OPEN",
+          "l": 276.41,
+          "t": 279.6068,
+          "r": 352.49,
+          "b": 283.2398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.466,
+          "t": 279.6068,
+          "r": 513.64996,
+          "b": 283.2398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.714,
+          "t": 279.60675,
+          "r": 553.41797,
+          "b": 283.23975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7",
+          "l": 25.40599,
+          "t": 289.53082,
+          "r": 28.52599,
+          "b": 293.16382,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16-FEB",
+          "l": 43.249992,
+          "t": 289.53082,
+          "r": 64.219986,
+          "b": 293.16382,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DOHA",
+          "l": 77.676,
+          "t": 289.12885,
+          "r": 96.876,
+          "b": 292.76184,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 97.4759,
+          "t": 288.64575,
+          "r": 99.5642,
+          "b": 290.7638,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.07,
+          "t": 289.12878,
+          "r": 225.68597,
+          "b": 292.76178,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "QATAR EXXONMOBIL OPEN",
+          "l": 276.416,
+          "t": 289.12885,
+          "r": 364.38855,
+          "b": 292.76184,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 505.466,
+          "t": 289.12878,
+          "r": 509.858,
+          "b": 292.76178,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.714,
+          "t": 289.12872,
+          "r": 554.76794,
+          "b": 292.76172,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "RIO DE JANEIRO",
+          "l": 77.673294,
+          "t": 298.17596,
+          "r": 132.79471,
+          "b": 301.80896,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.04733,
+          "t": 298.17596,
+          "r": 225.6633,
+          "b": 301.80896,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "RIO OPEN PRESENTED BY CLARO",
+          "l": 276.3933,
+          "t": 298.17596,
+          "r": 385.46732,
+          "b": 301.80896,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.46732,
+          "t": 298.17596,
+          "r": 513.6513,
+          "b": 301.80896,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.70935,
+          "t": 297.99,
+          "r": 553.3833,
+          "b": 301.623,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DELRAY BEACH",
+          "l": 77.6971,
+          "t": 307.052,
+          "r": 129.2251,
+          "b": 310.685,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.07114,
+          "t": 307.052,
+          "r": 225.5851,
+          "b": 310.685,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DELRAY BEACH OPEN",
+          "l": 276.4171,
+          "t": 307.052,
+          "r": 347.1511,
+          "b": 310.685,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 505.49112,
+          "t": 307.052,
+          "r": 509.88312,
+          "b": 310.685,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.73315,
+          "t": 306.86603,
+          "r": 553.43713,
+          "b": 310.49902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 25.244,
+          "t": 318.0728,
+          "r": 28.826,
+          "b": 321.7058,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23-FEB",
+          "l": 43.253998,
+          "t": 317.93878,
+          "r": 65.621994,
+          "b": 321.57178,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACAPULCO",
+          "l": 77.672,
+          "t": 317.9348,
+          "r": 114.385994,
+          "b": 321.5678,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 114.9898,
+          "t": 317.4532,
+          "r": 117.0781,
+          "b": 319.57123,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.07599,
+          "t": 317.9361,
+          "r": 225.69196,
+          "b": 321.5691,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ABIERTO MEXICANO TELCEL PRESENTADO POR HSBC",
+          "l": 276.416,
+          "t": 317.9361,
+          "r": 452.5034,
+          "b": 321.5691,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 505.472,
+          "t": 317.9361,
+          "r": 509.86398,
+          "b": 321.5691,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.718,
+          "t": 318.1848,
+          "r": 553.39197,
+          "b": 321.8178,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DUBAI",
+          "l": 77.67799,
+          "t": 326.3721,
+          "r": 98.126,
+          "b": 330.0051,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 98.7239,
+          "t": 325.88574,
+          "r": 100.8122,
+          "b": 328.00378,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.074,
+          "t": 326.3688,
+          "r": 225.68997,
+          "b": 330.0018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DUBAI DUTY FREE TENNIS CHAMPIONSHIPS",
+          "l": 276.42,
+          "t": 326.3688,
+          "r": 421.572,
+          "b": 330.0018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 505.47,
+          "t": 326.3688,
+          "r": 509.862,
+          "b": 330.0018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.718,
+          "t": 326.3688,
+          "r": 553.39197,
+          "b": 330.0018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SANTIAGO",
+          "l": 77.67801,
+          "t": 334.54272,
+          "r": 112.165405,
+          "b": 338.17572,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.07599,
+          "t": 334.5441,
+          "r": 225.58995,
+          "b": 338.1771,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BCI SEGUROS CHILE OPEN",
+          "l": 276.416,
+          "t": 334.47482,
+          "r": 364.29196,
+          "b": 338.10782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 333.8361,
+          "r": 513.65594,
+          "b": 337.4691,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.718,
+          "t": 334.5408,
+          "r": 553.422,
+          "b": 338.1738,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MAR 2026",
+          "l": 15.3485,
+          "t": 360.36493,
+          "r": 118.10051,
+          "b": 370.82892,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 16.4011,
+          "t": 380.4618,
+          "r": 39.0391,
+          "b": 384.3858,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 44.3071,
+          "t": 380.4978,
+          "r": 63.1951,
+          "b": 384.4218,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 78.729095,
+          "t": 380.4978,
+          "r": 96.50709,
+          "b": 384.4218,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 200.1271,
+          "t": 380.4978,
+          "r": 240.8311,
+          "b": 384.4218,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 277.4671,
+          "t": 380.4978,
+          "r": 355.92313,
+          "b": 384.4218,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 507.5971,
+          "t": 380.4978,
+          "r": 542.5351,
+          "b": 384.4218,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 547.8375,
+          "t": 380.5036,
+          "r": 576.51746,
+          "b": 384.4276,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9",
+          "l": 27.255493,
+          "t": 393.01532,
+          "r": 30.927494,
+          "b": 396.85233,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04-MAR",
+          "l": 45.375492,
+          "t": 393.01532,
+          "r": 71.23549,
+          "b": 396.85233,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INDIAN WELLS",
+          "l": 79.79749,
+          "t": 393.5613,
+          "r": 127.77949,
+          "b": 397.39832,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 128.3832,
+          "t": 393.16525,
+          "r": 130.52397,
+          "b": 395.40222,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 201.1995,
+          "t": 393.0166,
+          "r": 265.1295,
+          "b": 396.8536,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BNP PARIBAS OPEN",
+          "l": 278.3654,
+          "t": 392.8689,
+          "r": 343.304,
+          "b": 396.7059,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.5955,
+          "t": 393.0166,
+          "r": 511.7955,
+          "b": 396.8536,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "96",
+          "l": 547.8375,
+          "t": 393.0226,
+          "r": 555.7815,
+          "b": 396.85962,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 25.777527,
+          "t": 402.54462,
+          "r": 32.41353,
+          "b": 406.38162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INDIAN WELLS",
+          "l": 79.8015,
+          "t": 402.53732,
+          "r": 127.783485,
+          "b": 406.37433,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 128.3832,
+          "t": 402.13934,
+          "r": 130.52397,
+          "b": 404.3763,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 201.1995,
+          "t": 402.5386,
+          "r": 265.1295,
+          "b": 406.3756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BNP PARIBAS OPEN",
+          "l": 278.5415,
+          "t": 402.53732,
+          "r": 343.4801,
+          "b": 406.37433,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.5955,
+          "t": 402.5386,
+          "r": 511.7955,
+          "b": 406.3756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 26.42749,
+          "t": 412.0567,
+          "r": 31.755491,
+          "b": 415.8937,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18-MAR",
+          "l": 45.37549,
+          "t": 412.0567,
+          "r": 69.92748,
+          "b": 415.8937,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MIAMI",
+          "l": 79.797485,
+          "t": 412.0567,
+          "r": 100.38949,
+          "b": 415.8937,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 100.9933,
+          "t": 411.66003,
+          "r": 103.13408,
+          "b": 413.897,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 201.2015,
+          "t": 412.05792,
+          "r": 265.1315,
+          "b": 415.89493,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MIAMI OPEN PRESENTED BY ITAÚ",
+          "l": 278.5415,
+          "t": 412.05792,
+          "r": 388.1849,
+          "b": 415.89493,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.5975,
+          "t": 412.05792,
+          "r": 511.79752,
+          "b": 415.89493,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "96",
+          "l": 547.8395,
+          "t": 412.05792,
+          "r": 555.78345,
+          "b": 415.89493,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 25.797485,
+          "t": 421.57993,
+          "r": 32.397488,
+          "b": 425.41693,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MIAMI",
+          "l": 79.80153,
+          "t": 421.58862,
+          "r": 100.39353,
+          "b": 425.42563,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 100.9933,
+          "t": 421.18063,
+          "r": 103.13408,
+          "b": 423.4176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 201.2015,
+          "t": 421.57993,
+          "r": 265.1315,
+          "b": 425.41693,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MIAMI OPEN PRESENTED BY ITAÚ",
+          "l": 278.5415,
+          "t": 421.5787,
+          "r": 388.1849,
+          "b": 425.4157,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.5975,
+          "t": 421.57993,
+          "r": 511.79752,
+          "b": 425.41693,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 25.8676,
+          "t": 431.8987,
+          "r": 32.203598,
+          "b": 435.5317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30-MAR",
+          "l": 44.6116,
+          "t": 431.1907,
+          "r": 69.89559,
+          "b": 434.8237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUCHAREST",
+          "l": 79.0336,
+          "t": 431.1907,
+          "r": 119.35361,
+          "b": 434.8237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 200.43161,
+          "t": 431.1907,
+          "r": 226.94557,
+          "b": 434.8237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TIRIAC OPEN",
+          "l": 277.7716,
+          "t": 431.1907,
+          "r": 320.0776,
+          "b": 434.8237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 506.8276,
+          "t": 431.1907,
+          "r": 515.0116,
+          "b": 434.8237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 547.0696,
+          "t": 431.1907,
+          "r": 556.1535,
+          "b": 434.8237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HOUSTON",
+          "l": 79.0336,
+          "t": 440.7127,
+          "r": 111.673,
+          "b": 444.3457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 200.43161,
+          "t": 440.7127,
+          "r": 226.94557,
+          "b": 444.3457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FAYEZ SAROFIM & CO. U.S.",
+          "l": 277.7716,
+          "t": 440.7127,
+          "r": 365.89294,
+          "b": 444.3457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MEN’S CLAY COURT CHAMPIONSHIP",
+          "l": 366.49295,
+          "t": 440.7127,
+          "r": 489.06696,
+          "b": 444.3457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 506.8276,
+          "t": 440.7127,
+          "r": 515.0116,
+          "b": 444.3457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 547.0696,
+          "t": 440.7127,
+          "r": 556.1535,
+          "b": 444.3457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MARRAKECH",
+          "l": 79.0336,
+          "t": 450.4807,
+          "r": 121.5976,
+          "b": 454.1137,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 200.43161,
+          "t": 450.4807,
+          "r": 226.94557,
+          "b": 454.1137,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND PRIX HASSAN I",
+          "l": 277.7716,
+          "t": 450.4807,
+          "r": 353.37704,
+          "b": 454.1137,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "I",
+          "l": 353.97705,
+          "t": 450.4807,
+          "r": 356.86905,
+          "b": 454.1137,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 506.8276,
+          "t": 450.5707,
+          "r": 515.0116,
+          "b": 454.2037,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 547.0696,
+          "t": 450.5707,
+          "r": 554.77356,
+          "b": 454.2037,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "APR 2026",
+          "l": 15.349,
+          "t": 476.2011,
+          "r": 113.461006,
+          "b": 486.6651,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 15.4833,
+          "t": 494.2345,
+          "r": 38.1213,
+          "b": 498.1585,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 43.2573,
+          "t": 494.2705,
+          "r": 62.1453,
+          "b": 498.19452,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 77.679306,
+          "t": 494.2705,
+          "r": 95.4573,
+          "b": 498.19452,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 199.0773,
+          "t": 494.97852,
+          "r": 239.7813,
+          "b": 498.90253,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 276.4173,
+          "t": 494.97852,
+          "r": 354.87332,
+          "b": 498.90253,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 505.4733,
+          "t": 494.97852,
+          "r": 540.4113,
+          "b": 498.90253,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 545.7119,
+          "t": 494.9812,
+          "r": 574.39185,
+          "b": 498.9052,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 23.237946,
+          "t": 507.9202,
+          "r": 29.777946,
+          "b": 511.7572,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05-APR",
+          "l": 43.256012,
+          "t": 507.77792,
+          "r": 67.51401,
+          "b": 511.61493,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MONTE-CARLO",
+          "l": 77.67595,
+          "t": 507.4942,
+          "r": 126.56994,
+          "b": 511.3312,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 127.1697,
+          "t": 507.09793,
+          "r": 128.54791,
+          "b": 509.3349,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 199.07599,
+          "t": 507.4959,
+          "r": 263.00598,
+          "b": 511.33292,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROLEX MONTE-CARLO MASTERS",
+          "l": 276.416,
+          "t": 507.4959,
+          "r": 383.522,
+          "b": 511.33292,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 507.4959,
+          "r": 513.518,
+          "b": 511.33292,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "56",
+          "l": 545.714,
+          "t": 507.7419,
+          "r": 553.61,
+          "b": 511.57892,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 23.371979,
+          "t": 518.2299,
+          "r": 29.659979,
+          "b": 521.8629,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13-APR",
+          "l": 43.253944,
+          "t": 518.4622,
+          "r": 65.79594,
+          "b": 522.0952,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BARCELONA",
+          "l": 77.675934,
+          "t": 518.41425,
+          "r": 118.52993,
+          "b": 522.04724,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.07599,
+          "t": 518.41595,
+          "r": 225.69196,
+          "b": 522.04895,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BARCELONA OPEN BANC SABADELL",
+          "l": 276.41394,
+          "t": 518.41425,
+          "r": 397.32587,
+          "b": 522.04724,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 518.41595,
+          "r": 513.65594,
+          "b": 522.04895,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.714,
+          "t": 518.41595,
+          "r": 553.38794,
+          "b": 522.04895,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MUNICH",
+          "l": 77.67798,
+          "t": 528.51996,
+          "r": 104.683975,
+          "b": 532.15295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.07599,
+          "t": 528.51996,
+          "r": 225.69196,
+          "b": 532.15295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BMW OPEN",
+          "l": 282.4088,
+          "t": 528.51996,
+          "r": 319.1228,
+          "b": 532.15295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BY BITPANDA",
+          "l": 319.7228,
+          "t": 528.51996,
+          "r": 366.6068,
+          "b": 532.15295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 528.51996,
+          "r": 513.65594,
+          "b": 532.15295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.714,
+          "t": 528.51996,
+          "r": 553.38794,
+          "b": 532.15295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 23.198013,
+          "t": 538.27594,
+          "r": 29.834015,
+          "b": 542.1129,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22-APR",
+          "l": 43.256012,
+          "t": 538.50397,
+          "r": 67.49001,
+          "b": 542.34094,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MADRID",
+          "l": 77.67801,
+          "t": 538.27594,
+          "r": 104.132,
+          "b": 542.1129,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 104.7297,
+          "t": 537.8814,
+          "r": 106.870476,
+          "b": 540.1184,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 199.07599,
+          "t": 538.2795,
+          "r": 263.00598,
+          "b": 542.11646,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MUTUA MADRID OPEN",
+          "l": 276.416,
+          "t": 538.2795,
+          "r": 350.77997,
+          "b": 542.11646,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 538.2795,
+          "r": 513.518,
+          "b": 542.11646,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "96",
+          "l": 545.714,
+          "t": 538.2802,
+          "r": 553.65796,
+          "b": 542.1172,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 23.390015,
+          "t": 549.35626,
+          "r": 29.648016,
+          "b": 553.19324,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MADRID",
+          "l": 77.67799,
+          "t": 548.92944,
+          "r": 104.13199,
+          "b": 552.7664,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 104.7297,
+          "t": 548.5322,
+          "r": 106.870476,
+          "b": 550.7692,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 199.07599,
+          "t": 548.93024,
+          "r": 263.00598,
+          "b": 552.7672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MUTUA MADRID OPEN",
+          "l": 276.416,
+          "t": 548.93024,
+          "r": 349.39996,
+          "b": 552.7672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 548.93024,
+          "r": 513.518,
+          "b": 552.7672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MAY 2026",
+          "l": 15.349,
+          "t": 574.75574,
+          "r": 116.197014,
+          "b": 585.2197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 15.349,
+          "t": 594.7265,
+          "r": 37.987,
+          "b": 598.6505,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 43.255,
+          "t": 594.6065,
+          "r": 62.143005,
+          "b": 598.5305,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 77.677,
+          "t": 594.6065,
+          "r": 95.454994,
+          "b": 598.5305,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 199.07501,
+          "t": 594.6065,
+          "r": 239.779,
+          "b": 598.5305,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 276.415,
+          "t": 594.6065,
+          "r": 354.87103,
+          "b": 598.5305,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 505.471,
+          "t": 594.6065,
+          "r": 540.40906,
+          "b": 598.5305,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 545.714,
+          "t": 594.61017,
+          "r": 574.3939,
+          "b": 598.5342,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 23.647995,
+          "t": 607.01855,
+          "r": 30.283997,
+          "b": 610.8555,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06-MAY",
+          "l": 43.249992,
+          "t": 607.01855,
+          "r": 68.42539,
+          "b": 610.8555,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROME",
+          "l": 77.672,
+          "t": 607.01855,
+          "r": 96.56,
+          "b": 610.8555,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 97.1638,
+          "t": 606.6232,
+          "r": 99.30458,
+          "b": 608.8602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 199.07599,
+          "t": 607.02124,
+          "r": 263.00598,
+          "b": 610.8582,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INTERNAZIONALI BNL D’",
+          "l": 276.416,
+          "t": 607.02124,
+          "r": 356.86395,
+          "b": 610.8582,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ITALIA",
+          "l": 357.46393,
+          "t": 607.02124,
+          "r": 378.4699,
+          "b": 610.8582,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 607.02124,
+          "r": 513.518,
+          "b": 610.8582,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "96",
+          "l": 545.714,
+          "t": 607.02124,
+          "r": 553.65796,
+          "b": 610.8582,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 23.653992,
+          "t": 616.43524,
+          "r": 30.289993,
+          "b": 620.2722,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROME",
+          "l": 77.676,
+          "t": 616.43256,
+          "r": 96.564,
+          "b": 620.26953,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 97.1638,
+          "t": 616.0345,
+          "r": 99.30458,
+          "b": 618.2715,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 199.07599,
+          "t": 616.43524,
+          "r": 263.00598,
+          "b": 620.2722,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INTERNAZIONALI BNL D’",
+          "l": 276.416,
+          "t": 616.43256,
+          "r": 356.86395,
+          "b": 620.26953,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ITALIA",
+          "l": 357.46393,
+          "t": 616.43256,
+          "r": 378.4699,
+          "b": 620.26953,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 616.43524,
+          "r": 513.518,
+          "b": 620.2722,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 23.095978,
+          "t": 626.0452,
+          "r": 30.841978,
+          "b": 629.6782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17-MAY",
+          "l": 43.255978,
+          "t": 626.0452,
+          "r": 65.80937,
+          "b": 629.6782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HAMBURG",
+          "l": 77.67798,
+          "t": 626.0452,
+          "r": 111.517975,
+          "b": 629.6782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1, 8",
+          "l": 112.1157,
+          "t": 625.5649,
+          "r": 118.18123,
+          "b": 627.6829,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.07599,
+          "t": 626.0479,
+          "r": 225.69196,
+          "b": 629.6809,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BITPANDA HAMBURG OPEN",
+          "l": 276.416,
+          "t": 626.0479,
+          "r": 366.62,
+          "b": 629.6809,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 626.0479,
+          "r": 513.65594,
+          "b": 629.6809,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.714,
+          "t": 626.0479,
+          "r": 553.38794,
+          "b": 629.6809,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GENEVA",
+          "l": 77.67799,
+          "t": 635.46124,
+          "r": 104.006,
+          "b": 639.09424,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1, 8",
+          "l": 104.6038,
+          "t": 634.9762,
+          "r": 110.66933,
+          "b": 637.09424,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.07599,
+          "t": 635.4619,
+          "r": 225.58995,
+          "b": 639.0949,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GONET GENEVA OPEN",
+          "l": 276.416,
+          "t": 635.4592,
+          "r": 348.49396,
+          "b": 639.0922,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 635.4619,
+          "r": 513.65594,
+          "b": 639.0949,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.714,
+          "t": 635.4619,
+          "r": 553.41797,
+          "b": 639.0949,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 23.665985,
+          "t": 644.66394,
+          "r": 30.265985,
+          "b": 648.5009,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24-MAY",
+          "l": 43.249985,
+          "t": 644.66394,
+          "r": 68.23938,
+          "b": 648.5009,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PARIS",
+          "l": 77.67198,
+          "t": 644.66394,
+          "r": 97.23198,
+          "b": 648.5009,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 97.8358,
+          "t": 644.2686,
+          "r": 99.21401,
+          "b": 646.5056,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND SLAM",
+          "l": 199.07599,
+          "t": 644.6666,
+          "r": 243.92,
+          "b": 648.5036,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROLAND-GARROS",
+          "l": 276.416,
+          "t": 644.6666,
+          "r": 335.32397,
+          "b": 648.5036,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 644.6666,
+          "r": 513.518,
+          "b": 648.5036,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "128",
+          "l": 545.714,
+          "t": 644.6666,
+          "r": 556.586,
+          "b": 648.5036,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 23.03601,
+          "t": 654.0806,
+          "r": 30.90801,
+          "b": 657.9176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PARIS",
+          "l": 77.67801,
+          "t": 654.07996,
+          "r": 97.23801,
+          "b": 657.91693,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 97.8358,
+          "t": 653.67993,
+          "r": 99.21401,
+          "b": 655.91693,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND SLAM",
+          "l": 199.07599,
+          "t": 654.0806,
+          "r": 243.92,
+          "b": 657.9176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROLAND-GARROS",
+          "l": 276.416,
+          "t": 654.07794,
+          "r": 335.32397,
+          "b": 657.9149,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 505.472,
+          "t": 654.0806,
+          "r": 513.518,
+          "b": 657.9176,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JUN 2026",
+          "l": 15.349,
+          "t": 679.83624,
+          "r": 112.40501,
+          "b": 690.30023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 15.349,
+          "t": 700.2392,
+          "r": 37.987,
+          "b": 704.1632,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 43.255,
+          "t": 700.3232,
+          "r": 62.143005,
+          "b": 704.2472,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 77.677,
+          "t": 700.3232,
+          "r": 95.454994,
+          "b": 704.2472,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 199.07501,
+          "t": 700.3232,
+          "r": 239.779,
+          "b": 704.2472,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 275.707,
+          "t": 700.3232,
+          "r": 354.16302,
+          "b": 704.2472,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 505.471,
+          "t": 700.3232,
+          "r": 540.40906,
+          "b": 704.2472,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 545.70605,
+          "t": 700.31903,
+          "r": 574.386,
+          "b": 704.24304,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 23.093994,
+          "t": 713.078,
+          "r": 30.833994,
+          "b": 716.711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08-JUN",
+          "l": 43.247993,
+          "t": 713.078,
+          "r": 67.54199,
+          "b": 716.711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "‘S-HERTOGENBOSCH",
+          "l": 77.67,
+          "t": 713.078,
+          "r": 146.274,
+          "b": 716.711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.06802,
+          "t": 713.078,
+          "r": 226.96199,
+          "b": 716.711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LIBEMA OPEN",
+          "l": 276.40802,
+          "t": 713.078,
+          "r": 321.294,
+          "b": 716.711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "G",
+          "l": 505.46402,
+          "t": 713.078,
+          "r": 509.91602,
+          "b": 716.711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.70605,
+          "t": 713.078,
+          "r": 553.41003,
+          "b": 716.711,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STUTTGART",
+          "l": 77.676,
+          "t": 722.708,
+          "r": 116.30341,
+          "b": 726.341,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.06802,
+          "t": 722.708,
+          "r": 226.96199,
+          "b": 726.341,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BOSS OPEN",
+          "l": 276.414,
+          "t": 722.708,
+          "r": 315.00598,
+          "b": 726.341,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "G",
+          "l": 505.46402,
+          "t": 722.708,
+          "r": 509.91602,
+          "b": 726.341,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.70605,
+          "t": 722.708,
+          "r": 553.41003,
+          "b": 726.341,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 23.208069,
+          "t": 732.338,
+          "r": 30.708069,
+          "b": 735.971,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15-JUN",
+          "l": 43.24207,
+          "t": 732.338,
+          "r": 66.01807,
+          "b": 735.971,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HALLE",
+          "l": 77.66407,
+          "t": 732.338,
+          "r": 98.48407,
+          "b": 735.971,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.06207,
+          "t": 732.338,
+          "r": 225.67804,
+          "b": 735.971,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TERRA WORTMANN OPEN",
+          "l": 276.40207,
+          "t": 732.338,
+          "r": 360.78006,
+          "b": 735.971,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "G",
+          "l": 505.45807,
+          "t": 732.338,
+          "r": 509.91006,
+          "b": 735.971,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.7001,
+          "t": 732.338,
+          "r": 553.374,
+          "b": 735.971,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LONDON",
+          "l": 77.670074,
+          "t": 741.968,
+          "r": 105.87607,
+          "b": 745.601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 199.06207,
+          "t": 741.968,
+          "r": 225.67804,
+          "b": 745.601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HSBC CHAMPIONSHIPS",
+          "l": 276.40808,
+          "t": 741.968,
+          "r": 354.45007,
+          "b": 745.601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "G",
+          "l": 505.45807,
+          "t": 741.968,
+          "r": 509.91006,
+          "b": 745.601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.7001,
+          "t": 741.968,
+          "r": 553.374,
+          "b": 745.601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 23.119995,
+          "t": 751.598,
+          "r": 30.811995,
+          "b": 755.231,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21-JUN",
+          "l": 43.249996,
+          "t": 751.598,
+          "r": 65.978,
+          "b": 755.231,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MALLORCA",
+          "l": 77.672,
+          "t": 751.598,
+          "r": 114.422,
+          "b": 755.231,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1, 8",
+          "l": 115.0258,
+          "t": 751.115,
+          "r": 121.09133,
+          "b": 753.23303,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.07599,
+          "t": 751.598,
+          "r": 226.96996,
+          "b": 755.231,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MALLORCA CHAMPIONSHIPS PRESENTED BY ECOTRANS GROUP",
+          "l": 276.416,
+          "t": 751.598,
+          "r": 489.43396,
+          "b": 755.231,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "G",
+          "l": 505.472,
+          "t": 751.598,
+          "r": 509.92398,
+          "b": 755.231,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.714,
+          "t": 751.598,
+          "r": 553.41797,
+          "b": 755.231,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22-JUN",
+          "l": 43.0551,
+          "t": 761.6571,
+          "r": 67.1871,
+          "b": 765.2901,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EASTBOURNE",
+          "l": 77.66409,
+          "t": 761.228,
+          "r": 122.03409,
+          "b": 764.861,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 122.6457,
+          "t": 760.745,
+          "r": 124.734,
+          "b": 762.86304,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.07599,
+          "t": 761.228,
+          "r": 226.96996,
+          "b": 764.861,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LEXUS EASTBOURNE OPEN",
+          "l": 276.416,
+          "t": 761.228,
+          "r": 364.92197,
+          "b": 764.861,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "G",
+          "l": 505.472,
+          "t": 761.228,
+          "r": 509.92398,
+          "b": 764.861,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.714,
+          "t": 761.228,
+          "r": 553.41797,
+          "b": 764.861,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 22.8351,
+          "t": 774.49115,
+          "r": 30.6651,
+          "b": 778.3281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29-JUN",
+          "l": 43.0371,
+          "t": 774.49115,
+          "r": 67.2471,
+          "b": 778.3281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LONDON",
+          "l": 77.45911,
+          "t": 774.49115,
+          "r": 105.5331,
+          "b": 778.3281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND SLAM",
+          "l": 198.85712,
+          "t": 774.49115,
+          "r": 243.70113,
+          "b": 778.3281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THE CHAMPIONSHIPS,",
+          "l": 276.1971,
+          "t": 774.49115,
+          "r": 350.00308,
+          "b": 778.3281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WIMBLEDON",
+          "l": 350.60306,
+          "t": 774.49115,
+          "r": 393.63504,
+          "b": 778.3281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "G",
+          "l": 505.2531,
+          "t": 774.49115,
+          "r": 509.5791,
+          "b": 778.3281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "128",
+          "l": 545.4951,
+          "t": 774.49115,
+          "r": 556.3671,
+          "b": 778.3281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 23.2546,
+          "t": 782.08624,
+          "r": 30.6886,
+          "b": 785.9232,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LONDON",
+          "l": 77.4586,
+          "t": 782.08624,
+          "r": 105.53259,
+          "b": 785.9232,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND SLAM",
+          "l": 198.8566,
+          "t": 782.08624,
+          "r": 243.7006,
+          "b": 785.9232,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THE CHAMPIONSHIPS,",
+          "l": 276.1966,
+          "t": 782.08624,
+          "r": 350.00256,
+          "b": 785.9232,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WIMBLEDON",
+          "l": 350.60254,
+          "t": 782.08624,
+          "r": 393.63452,
+          "b": 785.9232,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "G",
+          "l": 505.2526,
+          "t": 782.08624,
+          "r": 509.57858,
+          "b": 785.9232,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1SUNDAY START    3TUESDAY START    4WEDNESDAY START    5THURSDAY START    6FRIDAY START     7SATURDAY START    8SATURDAY FINAL    9MONDAY FINAL     10TUESDAY FINAL     11WEDNESDAY FINAL     12THURSDAY FINAL",
+          "l": 13.9312,
+          "t": 814.8866,
+          "r": 551.45667,
+          "b": 817.97363,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 595.276,
+      "heightPt": 841.89,
+      "runs": [
+        {
+          "text": "2026 CALENDAR",
+          "l": 15.0,
+          "t": 25.017775,
+          "r": 286.00446,
+          "b": 42.727844,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OTHER INFORMATION",
+          "l": 13.9312,
+          "t": 88.24875,
+          "r": 72.6812,
+          "b": 91.276245,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JUL 2026",
+          "l": 14.7226,
+          "t": 97.381096,
+          "r": 107.68261,
+          "b": 107.84509,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 14.7222,
+          "t": 116.22969,
+          "r": 37.360203,
+          "b": 120.15369,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 42.758392,
+          "t": 116.076675,
+          "r": 61.646393,
+          "b": 120.00067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 77.18039,
+          "t": 116.076675,
+          "r": 94.95838,
+          "b": 120.00067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 199.29242,
+          "t": 116.076675,
+          "r": 239.99641,
+          "b": 120.00067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 275.3064,
+          "t": 116.076675,
+          "r": 353.76242,
+          "b": 120.00067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 507.1044,
+          "t": 116.076675,
+          "r": 542.0424,
+          "b": 120.00067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 545.9304,
+          "t": 116.076675,
+          "r": 574.61035,
+          "b": 120.00067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 22.5609,
+          "t": 127.731804,
+          "r": 30.2649,
+          "b": 131.3648,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13-JUL",
+          "l": 41.82843,
+          "t": 127.60491,
+          "r": 63.464424,
+          "b": 131.23792,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BÅSTAD",
+          "l": 76.33441,
+          "t": 127.60485,
+          "r": 102.17042,
+          "b": 131.23785,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.3324,
+          "t": 127.60491,
+          "r": 224.84636,
+          "b": 131.23792,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NORDEA OPEN",
+          "l": 275.8404,
+          "t": 128.27087,
+          "r": 325.52637,
+          "b": 131.90387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 508.6644,
+          "t": 127.688896,
+          "r": 516.8484,
+          "b": 131.3219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.3524,
+          "t": 127.688896,
+          "r": 552.0564,
+          "b": 131.3219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GSTAAD",
+          "l": 76.3464,
+          "t": 136.19763,
+          "r": 102.8964,
+          "b": 139.83063,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.34439,
+          "t": 136.1977,
+          "r": 224.85835,
+          "b": 139.83069,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EFG SWISS OPEN GSTAAD",
+          "l": 275.8524,
+          "t": 136.86365,
+          "r": 361.60376,
+          "b": 140.49664,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 508.6764,
+          "t": 136.28168,
+          "r": 516.8604,
+          "b": 139.91467,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.3644,
+          "t": 136.28168,
+          "r": 552.06836,
+          "b": 139.91467,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UMAG",
+          "l": 76.344894,
+          "t": 144.79584,
+          "r": 95.9229,
+          "b": 148.42883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.3429,
+          "t": 144.78986,
+          "r": 224.85686,
+          "b": 148.42285,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PLAVA LAGUNA CROATIA OPEN UMAG",
+          "l": 275.8509,
+          "t": 144.89783,
+          "r": 401.12494,
+          "b": 148.53082,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 508.6749,
+          "t": 144.65186,
+          "r": 516.8589,
+          "b": 148.28485,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.3584,
+          "t": 144.3689,
+          "r": 552.0624,
+          "b": 148.00189,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 22.538391,
+          "t": 153.9209,
+          "r": 30.284391,
+          "b": 157.5539,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20-JUL",
+          "l": 41.843,
+          "t": 154.08014,
+          "r": 64.889,
+          "b": 157.71313,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "KITZBÜHEL",
+          "l": 76.3389,
+          "t": 153.91583,
+          "r": 113.052895,
+          "b": 157.54883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 113.6602,
+          "t": 153.43787,
+          "r": 115.748505,
+          "b": 155.55591,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.34439,
+          "t": 153.9209,
+          "r": 224.85835,
+          "b": 157.5539,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GENERALI",
+          "l": 275.8524,
+          "t": 153.9209,
+          "r": 308.54037,
+          "b": 157.5539,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OPEN",
+          "l": 309.14038,
+          "t": 153.9209,
+          "r": 329.12637,
+          "b": 157.5539,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 508.6764,
+          "t": 153.9209,
+          "r": 516.8604,
+          "b": 157.5539,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.3584,
+          "t": 153.92688,
+          "r": 552.0624,
+          "b": 157.55988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ESTORIL",
+          "l": 76.34039,
+          "t": 162.5857,
+          "r": 103.40039,
+          "b": 166.21869,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.33838,
+          "t": 162.5849,
+          "r": 224.85234,
+          "b": 166.2179,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MILLENNIUM ESTORIL OPEN",
+          "l": 275.84637,
+          "t": 162.5849,
+          "r": 367.5204,
+          "b": 166.2179,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CL",
+          "l": 508.67038,
+          "t": 162.5849,
+          "r": 516.8544,
+          "b": 166.2179,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.3584,
+          "t": 162.59088,
+          "r": 552.0624,
+          "b": 166.22388,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 23.396393,
+          "t": 171.39368,
+          "r": 31.238394,
+          "b": 175.02667,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27-JUL",
+          "l": 41.843,
+          "t": 171.39111,
+          "r": 64.265,
+          "b": 175.02411,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WASHINGTON, D.C.",
+          "l": 76.346436,
+          "t": 171.39368,
+          "r": 139.59183,
+          "b": 175.02667,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 198.3504,
+          "t": 171.39368,
+          "r": 224.96637,
+          "b": 175.02667,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MUBADALA CITI",
+          "l": 275.85242,
+          "t": 171.39368,
+          "r": 328.2864,
+          "b": 175.02667,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DC OPEN",
+          "l": 328.8864,
+          "t": 171.39368,
+          "r": 360.6084,
+          "b": 175.02667,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 508.8684,
+          "t": 171.39368,
+          "r": 513.26044,
+          "b": 175.02667,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 544.5541,
+          "t": 171.39014,
+          "r": 552.228,
+          "b": 175.02313,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LOS CABOS",
+          "l": 76.344055,
+          "t": 180.05414,
+          "r": 114.78606,
+          "b": 183.68713,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 115.3881,
+          "t": 179.57104,
+          "r": 117.4764,
+          "b": 181.68909,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.3481,
+          "t": 180.05414,
+          "r": 224.86208,
+          "b": 183.68713,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MIFEL TENNIS OPEN BY TELCEL OPPO",
+          "l": 275.8584,
+          "t": 180.05768,
+          "r": 400.1364,
+          "b": 183.69067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 508.8674,
+          "t": 180.05414,
+          "r": 515.2394,
+          "b": 183.68713,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.5541,
+          "t": 180.05414,
+          "r": 552.25806,
+          "b": 183.68713,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AUG 2026",
+          "l": 16.7637,
+          "t": 203.1881,
+          "r": 116.267715,
+          "b": 213.6521,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK DATE",
+          "l": 16.764,
+          "t": 225.98903,
+          "r": 63.678,
+          "b": 230.00903,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 79.0917,
+          "t": 225.78242,
+          "r": 96.8697,
+          "b": 229.70642,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 201.1977,
+          "t": 225.78242,
+          "r": 241.90169,
+          "b": 229.70642,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 277.2177,
+          "t": 225.78242,
+          "r": 355.67374,
+          "b": 229.70642,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 506.8857,
+          "t": 225.78242,
+          "r": 541.8237,
+          "b": 229.70642,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 547.1267,
+          "t": 225.7817,
+          "r": 575.80664,
+          "b": 229.70569,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 22.390411,
+          "t": 238.52213,
+          "r": 29.026411,
+          "b": 242.35913,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2-AUG",
+          "l": 44.31172,
+          "t": 238.81424,
+          "r": 64.83772,
+          "b": 242.65125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MONTREAL",
+          "l": 78.46972,
+          "t": 238.59225,
+          "r": 115.24371,
+          "b": 242.42926,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1, 12",
+          "l": 115.8462,
+          "t": 238.19815,
+          "r": 123.884605,
+          "b": 240.43512,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 200.47641,
+          "t": 238.81613,
+          "r": 264.4064,
+          "b": 242.65314,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NATIONAL BANK OPEN PRESENTED BY ROGERS",
+          "l": 277.9784,
+          "t": 238.81613,
+          "r": 434.96838,
+          "b": 242.65314,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.2804,
+          "t": 238.81613,
+          "r": 511.4804,
+          "b": 242.65314,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "96",
+          "l": 547.7384,
+          "t": 238.81613,
+          "r": 555.6824,
+          "b": 242.65314,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 21.782959,
+          "t": 246.12509,
+          "r": 29.61896,
+          "b": 249.9621,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MONTREAL",
+          "l": 78.47096,
+          "t": 246.67111,
+          "r": 115.244965,
+          "b": 250.50812,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1, 12",
+          "l": 115.8462,
+          "t": 246.27292,
+          "r": 123.884605,
+          "b": 248.50989,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 200.47372,
+          "t": 246.12222,
+          "r": 264.40372,
+          "b": 249.95923,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NATIONAL BANK OPEN PRESENTED BY ROGERS",
+          "l": 277.9784,
+          "t": 246.07016,
+          "r": 434.96838,
+          "b": 249.90717,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.2777,
+          "t": 246.12222,
+          "r": 511.47772,
+          "b": 249.95923,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 21.782959,
+          "t": 257.2971,
+          "r": 29.61896,
+          "b": 261.1341,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13-AUG",
+          "l": 44.364,
+          "t": 257.05203,
+          "r": 68.13,
+          "b": 260.88904,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CINCINNATI",
+          "l": 79.362,
+          "t": 257.40005,
+          "r": 118.47699,
+          "b": 261.23706,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5",
+          "l": 119.076004,
+          "t": 256.9971,
+          "r": 122.34334,
+          "b": 259.23407,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 200.47495,
+          "t": 256.92508,
+          "r": 264.40494,
+          "b": 260.7621,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CINCINNATI OPEN",
+          "l": 277.3829,
+          "t": 256.92508,
+          "r": 338.23486,
+          "b": 260.7621,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.27893,
+          "t": 256.92508,
+          "r": 511.47894,
+          "b": 260.7621,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "96",
+          "l": 547.73694,
+          "t": 256.9611,
+          "r": 555.6809,
+          "b": 260.7981,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "33",
+          "l": 21.73161,
+          "t": 265.13907,
+          "r": 29.67561,
+          "b": 268.97607,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CINCINNATI",
+          "l": 78.489,
+          "t": 265.72403,
+          "r": 117.60399,
+          "b": 269.56104,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5",
+          "l": 118.203995,
+          "t": 265.32205,
+          "r": 120.31679,
+          "b": 267.55902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 200.47159,
+          "t": 265.15714,
+          "r": 264.40158,
+          "b": 268.99414,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CINCINNATI OPEN",
+          "l": 277.2176,
+          "t": 265.15714,
+          "r": 338.06955,
+          "b": 268.99414,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.2777,
+          "t": 264.9736,
+          "r": 511.47772,
+          "b": 268.8106,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "34",
+          "l": 22.433609,
+          "t": 275.3991,
+          "r": 30.23361,
+          "b": 279.0321,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23-AUG",
+          "l": 44.54961,
+          "t": 275.3991,
+          "r": 69.257614,
+          "b": 279.0321,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WINSTON-SALEM",
+          "l": 78.47272,
+          "t": 274.9787,
+          "r": 134.75871,
+          "b": 278.6117,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1, 8",
+          "l": 135.3581,
+          "t": 274.4961,
+          "r": 141.42363,
+          "b": 276.61414,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 200.4896,
+          "t": 274.97913,
+          "r": 227.00356,
+          "b": 278.61212,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WINSTON-SALEM OPEN",
+          "l": 277.2176,
+          "t": 274.97913,
+          "r": 354.0896,
+          "b": 278.61212,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.2777,
+          "t": 274.99963,
+          "r": 511.6697,
+          "b": 278.63263,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "48",
+          "l": 547.7369,
+          "t": 273.87793,
+          "r": 555.50085,
+          "b": 277.51093,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "35",
+          "l": 22.37961,
+          "t": 285.16708,
+          "r": 30.275612,
+          "b": 289.0041,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31-AUG",
+          "l": 44.54361,
+          "t": 285.02908,
+          "r": 68.06961,
+          "b": 288.8661,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NEW YORK",
+          "l": 78.47359,
+          "t": 284.7471,
+          "r": 114.53959,
+          "b": 288.5841,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND SLAM",
+          "l": 200.36362,
+          "t": 284.7471,
+          "r": 245.20763,
+          "b": 288.5841,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "US OPEN",
+          "l": 277.0916,
+          "t": 284.7471,
+          "r": 306.07162,
+          "b": 288.5841,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.2777,
+          "t": 284.7496,
+          "r": 511.47772,
+          "b": 288.5866,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "128",
+          "l": 547.7369,
+          "t": 284.03732,
+          "r": 558.6089,
+          "b": 287.87433,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "36",
+          "l": 22.28361,
+          "t": 293.1351,
+          "r": 30.227612,
+          "b": 296.9721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NEW YORK",
+          "l": 78.47362,
+          "t": 293.12912,
+          "r": 114.53962,
+          "b": 296.96613,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND SLAM",
+          "l": 200.36362,
+          "t": 293.12912,
+          "r": 245.20763,
+          "b": 296.96613,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "US OPEN",
+          "l": 277.3196,
+          "t": 293.12912,
+          "r": 306.29965,
+          "b": 296.96613,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 507.2777,
+          "t": 293.13162,
+          "r": 511.47772,
+          "b": 296.96863,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SEP 2026",
+          "l": 14.6399,
+          "t": 319.8774,
+          "r": 108.75191,
+          "b": 330.3414,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 14.6399,
+          "t": 339.9718,
+          "r": 37.2779,
+          "b": 343.8958,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 42.5459,
+          "t": 339.9958,
+          "r": 61.4339,
+          "b": 343.9198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 76.967896,
+          "t": 339.9958,
+          "r": 94.74589,
+          "b": 343.9198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 198.3659,
+          "t": 339.9958,
+          "r": 239.0699,
+          "b": 343.9198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 275.60388,
+          "t": 339.9958,
+          "r": 354.0599,
+          "b": 343.9198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 504.7619,
+          "t": 339.9958,
+          "r": 539.69995,
+          "b": 343.9198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 545.00146,
+          "t": 339.99713,
+          "r": 573.6814,
+          "b": 343.92114,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "37",
+          "l": 22.7153,
+          "t": 352.63013,
+          "r": 29.9393,
+          "b": 356.26312,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MULTI-CITY",
+          "l": 76.08742,
+          "t": 352.6297,
+          "r": 113.11942,
+          "b": 356.2627,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DAVIS CUP",
+          "l": 198.3635,
+          "t": 352.63013,
+          "r": 234.08748,
+          "b": 356.26312,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DAVIS CUP QUALIFIERS 2",
+          "l": 275.6054,
+          "t": 352.6297,
+          "r": 358.95142,
+          "b": 356.2627,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ND ROUND",
+          "l": 359.5508,
+          "t": 352.1472,
+          "r": 390.99948,
+          "b": 356.26312,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "38",
+          "l": 22.435486,
+          "t": 362.11713,
+          "r": 30.235487,
+          "b": 365.75012,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23-SEP",
+          "l": 42.547394,
+          "t": 362.51443,
+          "r": 65.53939,
+          "b": 366.14743,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CHENGDU",
+          "l": 76.0868,
+          "t": 362.1217,
+          "r": 109.0868,
+          "b": 365.7547,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4, 10",
+          "l": 109.6866,
+          "t": 361.63867,
+          "r": 118.21472,
+          "b": 363.7567,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.3635,
+          "t": 362.12213,
+          "r": 224.87746,
+          "b": 365.75513,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CHENGDU OPEN",
+          "l": 275.6054,
+          "t": 362.1217,
+          "r": 329.19138,
+          "b": 365.7547,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 504.7595,
+          "t": 362.12213,
+          "r": 509.1515,
+          "b": 365.75513,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.00146,
+          "t": 362.12213,
+          "r": 554.0854,
+          "b": 365.75513,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HANGZHOU",
+          "l": 76.087494,
+          "t": 371.85513,
+          "r": 114.62548,
+          "b": 375.48813,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4, 10",
+          "l": 115.2245,
+          "t": 371.3795,
+          "r": 123.752625,
+          "b": 373.49753,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.3674,
+          "t": 371.86243,
+          "r": 224.88136,
+          "b": 375.49542,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LYNK & CO HANGZHOU OPEN",
+          "l": 275.6054,
+          "t": 371.86243,
+          "r": 373.89142,
+          "b": 375.49542,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 504.7634,
+          "t": 371.95242,
+          "r": 509.1554,
+          "b": 375.58542,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 545.0054,
+          "t": 371.95242,
+          "r": 552.70935,
+          "b": 375.58542,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LONDON6",
+          "l": 76.0868,
+          "t": 381.17035,
+          "r": 107.45864,
+          "b": 385.4281,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LAVER CUP",
+          "l": 198.3675,
+          "t": 381.86313,
+          "r": 235.28549,
+          "b": 385.49612,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LAVER CUP",
+          "l": 275.6055,
+          "t": 381.86313,
+          "r": 312.5235,
+          "b": 385.49612,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 504.7635,
+          "t": 381.86313,
+          "r": 511.2675,
+          "b": 385.49612,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2 TEAMS",
+          "l": 545.0055,
+          "t": 381.77313,
+          "r": 573.45154,
+          "b": 385.40613,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "39",
+          "l": 22.447395,
+          "t": 392.28043,
+          "r": 30.211395,
+          "b": 395.91342,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30-SEP",
+          "l": 42.547424,
+          "t": 392.82922,
+          "r": 65.64142,
+          "b": 396.46222,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOKYO",
+          "l": 76.083466,
+          "t": 392.89612,
+          "r": 98.52946,
+          "b": 396.5291,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4, 10",
+          "l": 99.1327,
+          "t": 392.41217,
+          "r": 107.66082,
+          "b": 394.5302,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 198.39749,
+          "t": 392.56113,
+          "r": 225.01346,
+          "b": 396.19412,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "KINOSHITA GROUP JAPAN OPEN TENNIS CHAMPIONSHIPS",
+          "l": 275.6054,
+          "t": 392.89523,
+          "r": 469.61545,
+          "b": 396.52823,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 504.7635,
+          "t": 392.56113,
+          "r": 509.1555,
+          "b": 396.19412,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 545.0055,
+          "t": 392.55515,
+          "r": 552.67944,
+          "b": 396.18814,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BEIJING",
+          "l": 76.0874,
+          "t": 403.3652,
+          "r": 102.49339,
+          "b": 406.9982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4, 10",
+          "l": 103.0926,
+          "t": 402.88037,
+          "r": 111.62072,
+          "b": 404.9984,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 198.22345,
+          "t": 403.0952,
+          "r": 224.83942,
+          "b": 406.7282,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CHINA OPEN",
+          "l": 275.4314,
+          "t": 403.3652,
+          "r": 317.32938,
+          "b": 406.9982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 504.58945,
+          "t": 403.0952,
+          "r": 508.98145,
+          "b": 406.7282,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 544.8314,
+          "t": 403.0952,
+          "r": 552.5054,
+          "b": 406.7282,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OCT 2026",
+          "l": 14.6399,
+          "t": 419.04572,
+          "r": 111.34391,
+          "b": 429.5097,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 14.6399,
+          "t": 439.258,
+          "r": 37.2779,
+          "b": 443.182,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 42.5459,
+          "t": 439.306,
+          "r": 61.4339,
+          "b": 443.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 76.967896,
+          "t": 439.306,
+          "r": 94.74589,
+          "b": 443.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 198.3659,
+          "t": 439.306,
+          "r": 239.0699,
+          "b": 443.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 276.0779,
+          "t": 439.306,
+          "r": 354.53394,
+          "b": 443.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 504.7619,
+          "t": 439.306,
+          "r": 539.69995,
+          "b": 443.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 545.0049,
+          "t": 439.3043,
+          "r": 573.6848,
+          "b": 443.2283,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "40",
+          "l": 22.356903,
+          "t": 451.7813,
+          "r": 30.300903,
+          "b": 455.61832,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07-OCT",
+          "l": 42.546875,
+          "t": 451.77972,
+          "r": 66.44488,
+          "b": 455.61673,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SHANGHAI",
+          "l": 76.96887,
+          "t": 451.77972,
+          "r": 112.73488,
+          "b": 455.61673,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 113.3326,
+          "t": 451.38333,
+          "r": 115.47338,
+          "b": 453.6203,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 198.36688,
+          "t": 451.7813,
+          "r": 262.29688,
+          "b": 455.61832,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROLEX SHANGHAI MASTERS",
+          "l": 276.0789,
+          "t": 451.7813,
+          "r": 370.05685,
+          "b": 455.61832,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 504.76288,
+          "t": 451.7813,
+          "r": 508.9629,
+          "b": 455.61832,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "96",
+          "l": 545.0049,
+          "t": 451.7813,
+          "r": 552.94885,
+          "b": 455.61832,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "41",
+          "l": 23.010925,
+          "t": 461.3333,
+          "r": 29.646925,
+          "b": 465.17032,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SHANGHAI",
+          "l": 76.9669,
+          "t": 461.3257,
+          "r": 112.73291,
+          "b": 465.16272,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 113.3326,
+          "t": 460.92773,
+          "r": 115.47338,
+          "b": 463.1647,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 198.36688,
+          "t": 461.3273,
+          "r": 262.29688,
+          "b": 465.1643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROLEX SHANGHAI MASTERS",
+          "l": 276.0789,
+          "t": 461.3257,
+          "r": 370.05685,
+          "b": 465.16272,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "H",
+          "l": 504.76288,
+          "t": 461.3273,
+          "r": 508.9629,
+          "b": 465.1643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "42",
+          "l": 22.470886,
+          "t": 471.4193,
+          "r": 30.174885,
+          "b": 475.0523,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19-OCT",
+          "l": 43.716927,
+          "t": 471.4193,
+          "r": 66.41553,
+          "b": 475.0523,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ALMATY",
+          "l": 76.96292,
+          "t": 471.3293,
+          "r": 103.47092,
+          "b": 474.9623,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.36093,
+          "t": 471.3293,
+          "r": 224.8749,
+          "b": 474.9623,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ALMATY OPEN",
+          "l": 276.07294,
+          "t": 471.3293,
+          "r": 323.16693,
+          "b": 474.9623,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 504.75693,
+          "t": 472.12732,
+          "r": 511.26093,
+          "b": 475.7603,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.7229,
+          "t": 471.4193,
+          "r": 552.4269,
+          "b": 475.0523,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BRUSSELS",
+          "l": 76.9689,
+          "t": 481.17532,
+          "r": 111.33091,
+          "b": 484.80832,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.36092,
+          "t": 481.51132,
+          "r": 224.8749,
+          "b": 485.14432,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BNP PARIBAS FORTIS EUROPEAN OPEN",
+          "l": 275.8069,
+          "t": 481.37473,
+          "r": 405.5077,
+          "b": 485.00772,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 504.9409,
+          "t": 481.76474,
+          "r": 511.4449,
+          "b": 485.39774,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.72687,
+          "t": 481.51273,
+          "r": 552.43085,
+          "b": 485.14572,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LYON",
+          "l": 76.9689,
+          "t": 491.42932,
+          "r": 93.4149,
+          "b": 495.06232,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 198.25687,
+          "t": 491.98273,
+          "r": 224.77083,
+          "b": 495.61572,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRAND PRIX AUVERGNE-RHONE-ALPES",
+          "l": 276.07892,
+          "t": 491.8073,
+          "r": 406.02097,
+          "b": 495.4403,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 505.16885,
+          "t": 491.77274,
+          "r": 511.67285,
+          "b": 495.40573,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 544.85284,
+          "t": 491.77274,
+          "r": 552.5568,
+          "b": 495.40573,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "43",
+          "l": 22.422886,
+          "t": 501.56332,
+          "r": 30.222885,
+          "b": 505.19632,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26-OCT",
+          "l": 43.176888,
+          "t": 501.56332,
+          "r": 67.278885,
+          "b": 505.19632,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BASEL",
+          "l": 76.96292,
+          "t": 501.56332,
+          "r": 97.78293,
+          "b": 505.19632,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 198.36093,
+          "t": 501.56332,
+          "r": 224.9769,
+          "b": 505.19632,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SWISS INDOORS BASEL",
+          "l": 276.07294,
+          "t": 501.56332,
+          "r": 355.45892,
+          "b": 505.19632,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 504.75693,
+          "t": 501.56332,
+          "r": 511.26093,
+          "b": 505.19632,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 544.9989,
+          "t": 501.56332,
+          "r": 552.67285,
+          "b": 505.19632,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "VIENNA",
+          "l": 76.96289,
+          "t": 511.69135,
+          "r": 101.99489,
+          "b": 515.32434,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 500",
+          "l": 198.3609,
+          "t": 511.69135,
+          "r": 224.97687,
+          "b": 515.32434,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ERSTE BANK OPEN",
+          "l": 276.0729,
+          "t": 511.69135,
+          "r": 338.0109,
+          "b": 515.32434,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 504.7569,
+          "t": 511.69135,
+          "r": 511.2609,
+          "b": 515.32434,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "32",
+          "l": 544.9989,
+          "t": 511.69135,
+          "r": 552.67285,
+          "b": 515.32434,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NOV 2026",
+          "l": 16.5833,
+          "t": 537.32294,
+          "r": 116.871315,
+          "b": 547.7869,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 16.5833,
+          "t": 557.4823,
+          "r": 39.221302,
+          "b": 561.4063,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 44.4893,
+          "t": 557.5183,
+          "r": 63.377304,
+          "b": 561.4423,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 78.9113,
+          "t": 557.5183,
+          "r": 96.68929,
+          "b": 561.4423,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 200.3093,
+          "t": 557.5183,
+          "r": 241.01329,
+          "b": 561.4423,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 278.5733,
+          "t": 557.5183,
+          "r": 357.02933,
+          "b": 561.4423,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 506.7053,
+          "t": 557.5183,
+          "r": 541.6433,
+          "b": 561.4423,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 546.9473,
+          "t": 557.51886,
+          "r": 575.62726,
+          "b": 561.4429,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "44",
+          "l": 23.774841,
+          "t": 568.748,
+          "r": 31.718842,
+          "b": 572.58496,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02-NOV",
+          "l": 44.01288,
+          "t": 568.748,
+          "r": 69.29628,
+          "b": 572.58496,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PARIS",
+          "l": 78.38688,
+          "t": 568.748,
+          "r": 97.94687,
+          "b": 572.58496,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP MASTERS 1000",
+          "l": 199.78488,
+          "t": 568.748,
+          "r": 263.71487,
+          "b": 572.58496,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ROLEX PARIS MASTERS",
+          "l": 277.29288,
+          "t": 568.748,
+          "r": 355.06427,
+          "b": 572.58496,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 506.18088,
+          "t": 568.748,
+          "r": 512.5649,
+          "b": 572.58496,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "56",
+          "l": 546.42285,
+          "t": 568.748,
+          "r": 554.31885,
+          "b": 572.58496,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "45",
+          "l": 23.90332,
+          "t": 580.0999,
+          "r": 31.589321,
+          "b": 583.7329,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08-NOV",
+          "l": 44.0083,
+          "t": 580.2246,
+          "r": 68.836296,
+          "b": 583.8576,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STOCKHOLM",
+          "l": 78.9043,
+          "t": 580.1046,
+          "r": 121.072296,
+          "b": 583.7376,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1, 8",
+          "l": 121.6781,
+          "t": 579.6169,
+          "r": 127.74363,
+          "b": 581.7349,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.78131,
+          "t": 580.0999,
+          "r": 226.29527,
+          "b": 583.7329,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BNP PARIBAS NORDIC OPEN",
+          "l": 277.2893,
+          "t": 580.0999,
+          "r": 370.9187,
+          "b": 583.7329,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 506.1773,
+          "t": 580.0999,
+          "r": 512.68134,
+          "b": 583.7329,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 546.4193,
+          "t": 580.0999,
+          "r": 554.1233,
+          "b": 583.7329,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TBD",
+          "l": 78.9103,
+          "t": 589.6206,
+          "r": 91.56431,
+          "b": 593.2536,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP 250",
+          "l": 199.78131,
+          "t": 589.6219,
+          "r": 226.29527,
+          "b": 593.2549,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TBD",
+          "l": 277.2883,
+          "t": 589.6206,
+          "r": 289.9423,
+          "b": 593.2536,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "46",
+          "l": 23.771301,
+          "t": 599.27795,
+          "r": 31.715302,
+          "b": 603.1149,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15-NOV",
+          "l": 44.012,
+          "t": 599.89777,
+          "r": 67.9754,
+          "b": 603.73474,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TURIN",
+          "l": 78.911,
+          "t": 599.99304,
+          "r": 98.819,
+          "b": 603.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 99.41901,
+          "t": 599.597,
+          "r": 100.79722,
+          "b": 601.834,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP FINALS",
+          "l": 199.78131,
+          "t": 599.89594,
+          "r": 238.85931,
+          "b": 603.7329,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NITTO ATP FINALS",
+          "l": 277.289,
+          "t": 599.99506,
+          "r": 333.74298,
+          "b": 603.83203,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 506.1773,
+          "t": 599.27795,
+          "r": 512.5613,
+          "b": 603.1149,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 546.4193,
+          "t": 599.27795,
+          "r": 550.0913,
+          "b": 603.1149,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "47",
+          "l": 24.167313,
+          "t": 610.4439,
+          "r": 31.325314,
+          "b": 614.0769,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ITALY",
+          "l": 78.776,
+          "t": 610.50574,
+          "r": 95.786,
+          "b": 614.13873,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DAVIS CUP",
+          "l": 199.78131,
+          "t": 610.5039,
+          "r": 235.5053,
+          "b": 614.1369,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DAVIS CUP FINALS",
+          "l": 277.2893,
+          "t": 610.5039,
+          "r": 338.9627,
+          "b": 614.1369,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 506.18,
+          "t": 610.5057,
+          "r": 512.684,
+          "b": 614.1387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 546.422,
+          "t": 610.4217,
+          "r": 550.00397,
+          "b": 614.0547,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DEC 2026",
+          "l": 16.5833,
+          "t": 636.1272,
+          "r": 111.04731,
+          "b": 646.5912,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEEK",
+          "l": 16.5833,
+          "t": 656.2866,
+          "r": 39.221302,
+          "b": 660.21063,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE",
+          "l": 44.4893,
+          "t": 656.3226,
+          "r": 63.377304,
+          "b": 660.2466,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CITY",
+          "l": 78.9113,
+          "t": 656.3226,
+          "r": 96.68929,
+          "b": 660.2466,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CATEGORY",
+          "l": 200.3093,
+          "t": 656.3226,
+          "r": 241.01329,
+          "b": 660.2466,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOURNAMENT NAME",
+          "l": 278.5733,
+          "t": 656.3226,
+          "r": 357.02933,
+          "b": 660.2466,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SURFACE",
+          "l": 506.7053,
+          "t": 656.3226,
+          "r": 541.6433,
+          "b": 660.2466,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DRAWS",
+          "l": 546.9463,
+          "t": 656.3259,
+          "r": 575.6262,
+          "b": 660.24994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50",
+          "l": 24.322327,
+          "t": 668.77893,
+          "r": 32.218327,
+          "b": 672.6159,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TBC",
+          "l": 78.91,
+          "t": 668.87805,
+          "r": 91.642006,
+          "b": 672.715,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ATP FINALS",
+          "l": 200.30829,
+          "t": 668.77893,
+          "r": 238.54631,
+          "b": 672.6159,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NEXT GEN ATP FINALS PRESENTED BY PIF",
+          "l": 278.5723,
+          "t": 668.77893,
+          "r": 416.0971,
+          "b": 672.6159,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IH",
+          "l": 506.70428,
+          "t": 668.77893,
+          "r": 513.08826,
+          "b": 672.6159,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 546.9463,
+          "t": 668.77893,
+          "r": 550.6183,
+          "b": 672.6159,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1SUNDAY START    2TUESDAY START    4WEDNESDAY START    5THURSDAY START    6FRIDAY START     7SATURDAY START    8SATURDAY FINAL    9MONDAY FINAL     10TUESDAY FINAL     11WEDNESDAY FINAL     12THURSDAY FINAL",
+          "l": 15.3486,
+          "t": 814.8866,
+          "r": 552.832,
+          "b": 817.97363,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,11 @@
+{
+  "document": "kiit-student.xlsx",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 335
+    }
+  ],
+  "groups": 335
+}

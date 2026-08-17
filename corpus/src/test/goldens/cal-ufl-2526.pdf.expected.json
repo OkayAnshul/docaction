@@ -1,0 +1,57 @@
+{
+  "document": "cal-ufl-2526.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 3,
+  "candidates": [
+    {
+      "title": "S M T W T F S S M T W T F S S M T W T F S",
+      "start": "2018-08-17T00:00",
+      "end": "2018-08-18T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Homecoming",
+      "start": "2019-11-01T00:00",
+      "end": "2019-11-02T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Classes Exams Rev.",
+      "start": "2025-02-21T00:00",
+      "end": "2025-02-22T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Interview Call Letter",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 192.35901,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dear Candidate,",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 147.53,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You are invited to attend a technical interview for the post of Software Engineer.",
+          "l": 74.8,
+          "t": 88.77077,
+          "r": 427.4698,
+          "b": 94.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Round",
+          "l": 76.2,
+          "t": 115.820755,
+          "r": 107.799995,
+          "b": 121.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date",
+          "l": 164.1,
+          "t": 115.820755,
+          "r": 185.75,
+          "b": 121.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Time",
+          "l": 236.05,
+          "t": 115.820755,
+          "r": 259.35,
+          "b": 121.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Venue",
+          "l": 300.95,
+          "t": 115.820755,
+          "r": 330.91,
+          "b": 121.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21/09/",
+          "l": 164.1,
+          "t": 144.27077,
+          "r": 191.86003,
+          "b": 149.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:00",
+          "l": 236.05,
+          "t": 144.27077,
+          "r": 263.81998,
+          "b": 149.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Conference",
+          "l": 300.95,
+          "t": 144.27077,
+          "r": 355.3499,
+          "b": 149.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Technical",
+          "l": 76.2,
+          "t": 150.02077,
+          "r": 118.95998,
+          "b": 155.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026",
+          "l": 164.1,
+          "t": 155.77077,
+          "r": 186.31001,
+          "b": 161.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AM",
+          "l": 236.05,
+          "t": 155.77077,
+          "r": 251.03001,
+          "b": 161.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Room 3",
+          "l": 300.95,
+          "t": 155.77077,
+          "r": 335.93997,
+          "b": 161.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HR",
+          "l": 76.2,
+          "t": 184.22078,
+          "r": 93.37,
+          "b": 189.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21/09/",
+          "l": 164.1,
+          "t": 184.22078,
+          "r": 191.86003,
+          "b": 189.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02:30",
+          "l": 236.05,
+          "t": 184.22078,
+          "r": 263.81998,
+          "b": 189.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Conference",
+          "l": 300.95,
+          "t": 184.22078,
+          "r": 355.3499,
+          "b": 189.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion",
+          "l": 76.2,
+          "t": 195.72078,
+          "r": 124.5,
+          "b": 201.30078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026",
+          "l": 164.1,
+          "t": 195.72078,
+          "r": 186.31001,
+          "b": 201.30078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PM",
+          "l": 236.05,
+          "t": 195.72078,
+          "r": 251.03001,
+          "b": 201.30078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Room 1",
+          "l": 300.95,
+          "t": 195.72078,
+          "r": 335.93997,
+          "b": 201.30078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please report by 09:30 AM on 21/09/2026 with original documents.",
+          "l": 74.8,
+          "t": 222.77077,
+          "r": 369.74985,
+          "b": 228.35077,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

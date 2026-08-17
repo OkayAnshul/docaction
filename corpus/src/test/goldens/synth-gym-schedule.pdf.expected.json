@@ -1,0 +1,369 @@
+{
+  "document": "synth-gym-schedule.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 20,
+  "candidates": [
+    {
+      "title": "Spin",
+      "start": "2026-08-17T06:00",
+      "end": "2026-08-17T07:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "HIIT",
+      "start": "2026-08-17T07:00",
+      "end": "2026-08-17T08:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Boxing",
+      "start": "2026-08-17T18:00",
+      "end": "2026-08-17T19:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Pilates",
+      "start": "2026-08-17T19:00",
+      "end": "2026-08-17T20:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Yoga",
+      "start": "2026-08-18T06:00",
+      "end": "2026-08-18T07:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Strength",
+      "start": "2026-08-18T07:00",
+      "end": "2026-08-18T08:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Spin",
+      "start": "2026-08-18T18:00",
+      "end": "2026-08-18T19:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "HIIT",
+      "start": "2026-08-18T19:00",
+      "end": "2026-08-18T20:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Spin",
+      "start": "2026-08-19T06:00",
+      "end": "2026-08-19T07:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Pilates",
+      "start": "2026-08-19T07:00",
+      "end": "2026-08-19T08:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Yoga",
+      "start": "2026-08-19T18:00",
+      "end": "2026-08-19T19:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Boxing",
+      "start": "2026-08-19T19:00",
+      "end": "2026-08-19T20:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "HIIT",
+      "start": "2026-08-20T06:00",
+      "end": "2026-08-20T07:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Spin",
+      "start": "2026-08-20T07:00",
+      "end": "2026-08-20T08:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Strength",
+      "start": "2026-08-20T18:00",
+      "end": "2026-08-20T19:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Yoga",
+      "start": "2026-08-20T19:00",
+      "end": "2026-08-20T20:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Yoga",
+      "start": "2026-08-21T06:00",
+      "end": "2026-08-21T07:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Strength",
+      "start": "2026-08-21T07:00",
+      "end": "2026-08-21T08:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Boxing",
+      "start": "2026-08-21T18:00",
+      "end": "2026-08-21T19:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Spin",
+      "start": "2026-08-21T19:00",
+      "end": "2026-08-21T20:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

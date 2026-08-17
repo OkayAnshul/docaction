@@ -1,0 +1,2091 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "SERVICE FOR",
+          "l": 208.08,
+          "t": 28.529924,
+          "r": 256.03198,
+          "b": 33.109924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BILLING PERIOD",
+          "l": 318.96,
+          "t": 27.740007,
+          "r": 376.32794,
+          "b": 32.320007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PAGE 1 OF 3",
+          "l": 462.96,
+          "t": 27.643885,
+          "r": 507.01602,
+          "b": 32.319885,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JOHN SMITH",
+          "l": 208.08,
+          "t": 39.863876,
+          "r": 271.39603,
+          "b": 46.309875,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 14, 2014 to Feb 12, 2015",
+          "l": 318.96,
+          "t": 39.07402,
+          "r": 449.93698,
+          "b": 45.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UtilityBill",
+          "l": 36.04,
+          "t": 50.876812,
+          "r": 179.718,
+          "b": 73.61981,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "500 MAIN ST",
+          "l": 208.08,
+          "t": 53.06389,
+          "r": 272.06592,
+          "b": 59.509888,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT NUMBER",
+          "l": 318.96,
+          "t": 55.039993,
+          "r": 389.88,
+          "b": 59.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ALBANY NY 12000",
+          "l": 208.08,
+          "t": 66.2639,
+          "r": 299.138,
+          "b": 72.7099,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "00001-2345",
+          "l": 318.96,
+          "t": 66.37401,
+          "r": 377.13895,
+          "b": 72.82001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.utilitybill.com",
+          "l": 41.6,
+          "t": 100.48442,
+          "r": 113.959114,
+          "b": 105.78992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT BALANCE",
+          "l": 208.08,
+          "t": 106.41887,
+          "r": 304.49997,
+          "b": 112.40387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CUSTOMER SERVICE",
+          "l": 41.6,
+          "t": 122.0844,
+          "r": 126.226105,
+          "b": 127.38989,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Previous Balance",
+          "l": 208.08,
+          "t": 123.00887,
+          "r": 286.24,
+          "b": 128.90387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$  80.55",
+          "l": 496.08002,
+          "t": 123.00887,
+          "r": 553.52905,
+          "b": 128.90387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-800-900-1000",
+          "l": 41.6,
+          "t": 132.80338,
+          "r": 107.084,
+          "b": 138.18988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Received",
+          "l": 208.08002,
+          "t": 139.50887,
+          "r": 291.75903,
+          "b": 145.40387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THANK YOU",
+          "l": 352.08,
+          "t": 139.50887,
+          "r": 404.1504,
+          "b": 145.40387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-   80.55",
+          "l": 496.0804,
+          "t": 139.50887,
+          "r": 553.17944,
+          "b": 145.40387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AUTOMATED SERVICES",
+          "l": 41.6,
+          "t": 152.68437,
+          "r": 137.1611,
+          "b": 157.98987,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Current Charges",
+          "l": 208.08041,
+          "t": 156.00887,
+          "r": 280.48038,
+          "b": 161.90387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-800-700-1100",
+          "l": 41.6,
+          "t": 163.40335,
+          "r": 104.635994,
+          "b": 168.78986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Amount Due",
+          "l": 352.0804,
+          "t": 170.3189,
+          "r": 411.7804,
+          "b": 176.3039,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$  70.94",
+          "l": 460.0804,
+          "t": 170.3189,
+          "r": 554.15015,
+          "b": 176.3039,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GAS EMERGENCIES",
+          "l": 41.6,
+          "t": 183.28435,
+          "r": 120.91701,
+          "b": 188.58984,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "To avoid late payment charges of 1.5%, $70.94 must be recieved by Mar 13, 2014.",
+          "l": 244.08,
+          "t": 186.12392,
+          "r": 523.3176,
+          "b": 190.70392,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-800-500-1200",
+          "l": 41.6,
+          "t": 194.00333,
+          "r": 106.904,
+          "b": 199.38983,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OUTAGE AND ELECTRIC",
+          "l": 41.6,
+          "t": 213.88432,
+          "r": 141.752,
+          "b": 219.18982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SUMMARY OF CURRENT CHARGES",
+          "l": 208.08,
+          "t": 213.51878,
+          "r": 371.56995,
+          "b": 219.50378,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EMERGENCIES",
+          "l": 41.6,
+          "t": 224.68431,
+          "r": 101.13501,
+          "b": 229.9898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DELIVERY",
+          "l": 316.08002,
+          "t": 228.84789,
+          "r": 356.68002,
+          "b": 233.60388,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SUPPLY",
+          "l": 388.08002,
+          "t": 228.84789,
+          "r": 426.1368,
+          "b": 233.60388,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OTHER CHARGES/",
+          "l": 460.0808,
+          "t": 228.84789,
+          "r": 527.36804,
+          "b": 233.60388,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1-800-600-1300",
+          "l": 41.6,
+          "t": 235.40329,
+          "r": 106.786995,
+          "b": 240.7898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SERVICES",
+          "l": 316.08002,
+          "t": 238.44786,
+          "r": 354.72803,
+          "b": 243.20386,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SERVICES",
+          "l": 388.08002,
+          "t": 238.44786,
+          "r": 428.78403,
+          "b": 243.20386,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ADJUSTMENTS",
+          "l": 460.08002,
+          "t": 238.44786,
+          "r": 518.3121,
+          "b": 243.20386,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOTAL",
+          "l": 532.08,
+          "t": 238.44786,
+          "r": 556.032,
+          "b": 243.20386,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CORRESPONDENCE ADDRESS",
+          "l": 41.6,
+          "t": 255.28429,
+          "r": 165.43102,
+          "b": 260.58978,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electric Service",
+          "l": 208.08002,
+          "t": 257.64786,
+          "r": 264.76797,
+          "b": 262.40387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31.96",
+          "l": 316.08002,
+          "t": 257.64786,
+          "r": 355.84805,
+          "b": 262.40387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "39.38",
+          "l": 388.08002,
+          "t": 257.64786,
+          "r": 427.09525,
+          "b": 262.40387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "71.34",
+          "l": 532.08,
+          "t": 257.64786,
+          "r": 550.568,
+          "b": 262.40387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50 ELECTRIC AVE",
+          "l": 41.6,
+          "t": 266.00327,
+          "r": 115.45311,
+          "b": 271.38977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Other Charges/Adjustments",
+          "l": 208.08002,
+          "t": 271.74387,
+          "r": 318.13605,
+          "b": 276.49988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-0.40",
+          "l": 496.08005,
+          "t": 271.74387,
+          "r": 516.79205,
+          "b": 276.49988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ALBANY NY 12100",
+          "l": 41.6,
+          "t": 276.80325,
+          "r": 117.883995,
+          "b": 282.18976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DATE BILL ISSUED",
+          "l": 41.6,
+          "t": 296.68423,
+          "r": 115.193016,
+          "b": 301.98975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Current Charges",
+          "l": 208.08002,
+          "t": 295.43988,
+          "r": 288.4,
+          "b": 300.1959,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$31.96",
+          "l": 316.08002,
+          "t": 295.43988,
+          "r": 356.57605,
+          "b": 300.1959,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "39.38",
+          "l": 388.08002,
+          "t": 295.43988,
+          "r": 427.09525,
+          "b": 300.1959,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-$0.40      $70.94",
+          "l": 460.08002,
+          "t": 295.43988,
+          "r": 556.0938,
+          "b": 300.1959,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 15, 2015",
+          "l": 41.6,
+          "t": 307.40323,
+          "r": 93.224,
+          "b": 312.78973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UtilityBill buys low cost energy and receives a Residential Consumer Discount monthly",
+          "l": 244.08002,
+          "t": 319.1759,
+          "r": 547.18066,
+          "b": 323.8919,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payment from the Power Authority to be used as a benefit for residential customers. This",
+          "l": 244.08002,
+          "t": 328.7759,
+          "r": 554.87024,
+          "b": 333.4919,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "bill reflects a savings of $1.43 from these benefits.",
+          "l": 244.08002,
+          "t": 338.37592,
+          "r": 419.4959,
+          "b": 343.09192,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electric Usage History:",
+          "l": 82.6357,
+          "t": 344.0796,
+          "r": 177.0817,
+          "b": 349.4661,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This will be important informatio n",
+          "l": 82.6357,
+          "t": 352.43192,
+          "r": 215.47566,
+          "b": 360.26608,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PAYMENT CONCERNS? We’re here to help you. We have several plans that can help you",
+          "l": 244.08002,
+          "t": 352.39993,
+          "r": 558.2224,
+          "b": 357.18793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to share with your installer to",
+          "l": 82.6357,
+          "t": 365.76056,
+          "r": 198.46568,
+          "b": 371.06607,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "manage your energy bills. Go to www.utilitybill.com/paymentoptions to find out more or",
+          "l": 244.08002,
+          "t": 362.03192,
+          "r": 553.8794,
+          "b": 366.78793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "call us at 1-800-900-1000",
+          "l": 244.08002,
+          "t": 371.67194,
+          "r": 333.016,
+          "b": 376.38794,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "help determine the system size",
+          "l": 82.6357,
+          "t": 376.56055,
+          "r": 207.67273,
+          "b": 381.86606,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for your home.",
+          "l": 82.6357,
+          "t": 387.36053,
+          "r": 142.21481,
+          "b": 392.66605,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WILL WE BE ABLE TO REACH YOU DURING A POWER OUTAGE? During a power",
+          "l": 244.08002,
+          "t": 385.72794,
+          "r": 534.6696,
+          "b": 390.48395,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "outage, phones with a direct link to a local phone line are able to operate. Phones that",
+          "l": 244.08002,
+          "t": 395.36795,
+          "r": 547.1309,
+          "b": 400.08395,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "are not directly linked (for example, wireless phones with answering machines) need",
+          "l": 244.08002,
+          "t": 404.96796,
+          "r": 540.3655,
+          "b": 409.68396,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "electricity to make/receive calls. If you would like to register another phone number,",
+          "l": 244.08002,
+          "t": 414.56796,
+          "r": 540.2983,
+          "b": 419.28397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ELECTRIC USAGE HISTORY (KWH)",
+          "l": 42.6,
+          "t": 423.5239,
+          "r": 166.07916,
+          "b": 428.2799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "such as a cell phone, as your account’s primary phone number, please go to",
+          "l": 244.08002,
+          "t": 424.16797,
+          "r": 513.05255,
+          "b": 428.88397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.utilitybill.com/myaccount to update your information so that we may be able",
+          "l": 244.08002,
+          "t": 433.72797,
+          "r": 534.72723,
+          "b": 438.48398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "400",
+          "l": 44.0123,
+          "t": 440.47705,
+          "r": 52.329212,
+          "b": 443.7249,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to reach you with important information during power outages.",
+          "l": 244.08002,
+          "t": 443.36798,
+          "r": 464.3758,
+          "b": 448.08398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "350",
+          "l": 44.012093,
+          "t": 454.87494,
+          "r": 52.329006,
+          "b": 458.1228,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "300",
+          "l": 44.012093,
+          "t": 469.28766,
+          "r": 52.329006,
+          "b": 472.53552,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "250",
+          "l": 44.012093,
+          "t": 483.70038,
+          "r": 52.329006,
+          "b": 486.94824,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "200",
+          "l": 44.012093,
+          "t": 498.1131,
+          "r": 52.329006,
+          "b": 501.36096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "150",
+          "l": 44.012093,
+          "t": 512.5258,
+          "r": 52.329006,
+          "b": 515.7737,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100",
+          "l": 44.012093,
+          "t": 526.93854,
+          "r": 52.329006,
+          "b": 530.1864,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50",
+          "l": 46.784397,
+          "t": 541.3513,
+          "r": 52.329006,
+          "b": 544.5992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "KEEP THIS PORTION FOR YOUR RECORDS",
+          "l": 208.08,
+          "t": 541.4773,
+          "r": 341.42163,
+          "b": 545.6038,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 49.5567,
+          "t": 555.76404,
+          "r": 52.329006,
+          "b": 559.0119,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "F",
+          "l": 65.52,
+          "t": 561.4039,
+          "r": 69.92,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "M",
+          "l": 71.92,
+          "t": 561.4039,
+          "r": 78.392,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AM",
+          "l": 79.592,
+          "t": 561.4039,
+          "r": 91.888,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "J",
+          "l": 92.928,
+          "t": 561.4039,
+          "r": 96.728004,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "J",
+          "l": 98.15201,
+          "t": 561.4039,
+          "r": 101.95201,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A",
+          "l": 105.504005,
+          "t": 561.4039,
+          "r": 110.768005,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "S",
+          "l": 112.49601,
+          "t": 561.4039,
+          "r": 117.18401,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "O",
+          "l": 118.38401,
+          "t": 561.4039,
+          "r": 124.50401,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ND",
+          "l": 125.54401,
+          "t": 561.4039,
+          "r": 137.528,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "J",
+          "l": 139.208,
+          "t": 561.4039,
+          "r": 143.008,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "F",
+          "l": 145.48799,
+          "t": 561.4039,
+          "r": 149.88799,
+          "b": 566.1199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "RETURN THIS PORTION WITH YOUR PAYMENT",
+          "l": 208.08,
+          "t": 567.2793,
+          "r": 353.97256,
+          "b": 571.4058,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT NUMBER",
+          "l": 208.08,
+          "t": 593.0813,
+          "r": 281.88586,
+          "b": 597.2078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PLEASE PAY BY",
+          "l": 316.083,
+          "t": 593.0813,
+          "r": 366.4473,
+          "b": 597.2078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AMOUNT DUE",
+          "l": 424.086,
+          "t": 593.0813,
+          "r": 469.14496,
+          "b": 597.2078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UtilityBill",
+          "l": 44.88,
+          "t": 604.78503,
+          "r": 164.43523,
+          "b": 623.7096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0000-55-4321",
+          "l": 208.08,
+          "t": 612.22034,
+          "r": 282.29706,
+          "b": 618.80383,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 13, 2015",
+          "l": 316.078,
+          "t": 612.22034,
+          "r": 390.89453,
+          "b": 618.80383,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$70.94",
+          "l": 424.076,
+          "t": 612.22034,
+          "r": 459.485,
+          "b": 618.80383,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ENTER AMOUNT ENCLOSED",
+          "l": 424.08,
+          "t": 641.0773,
+          "r": 513.673,
+          "b": 645.2038,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50 Electric Ave.",
+          "l": 47.88,
+          "t": 653.2559,
+          "r": 108.467094,
+          "b": 658.5299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Albany NY 12100",
+          "l": 47.88,
+          "t": 664.0559,
+          "r": 112.88701,
+          "b": 669.3299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$",
+          "l": 388.08,
+          "t": 668.6413,
+          "r": 403.43,
+          "b": 683.6038,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JOHN SMITH",
+          "l": 47.88,
+          "t": 691.16394,
+          "r": 99.68401,
+          "b": 696.4379,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UTILITY BILL",
+          "l": 293.45398,
+          "t": 691.16394,
+          "r": 342.82797,
+          "b": 696.4379,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Write account number on check and make",
+          "l": 412.4,
+          "t": 693.8825,
+          "r": 542.98987,
+          "b": 697.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "555 MAIN STREET",
+          "l": 47.88,
+          "t": 701.9639,
+          "r": 120.33809,
+          "b": 707.2379,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50 ELECTRIC AVE.",
+          "l": 293.45398,
+          "t": 701.9639,
+          "r": 368.54904,
+          "b": 707.2379,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payable to Utility Bill",
+          "l": 412.4,
+          "t": 702.2825,
+          "r": 473.85986,
+          "b": 706.29,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ALBANY NY 12100",
+          "l": 47.88,
+          "t": 712.7639,
+          "r": 119.68201,
+          "b": 718.0379,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ALBANY NY 12100",
+          "l": 293.45398,
+          "t": 712.7639,
+          "r": 365.25595,
+          "b": 718.0379,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "00000098765432   7777700000888889999",
+          "l": 137.52,
+          "t": 753.204,
+          "r": 448.56033,
+          "b": 759.576,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "SERVICE FOR",
+          "l": 200.88,
+          "t": 21.329973,
+          "r": 248.83199,
+          "b": 25.909973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BILLING PERIOD",
+          "l": 311.76,
+          "t": 20.539873,
+          "r": 369.12796,
+          "b": 25.119873,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PAGE 2 OF 3",
+          "l": 455.76,
+          "t": 20.443872,
+          "r": 501.53604,
+          "b": 25.119873,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JOHN SMITH",
+          "l": 200.88,
+          "t": 32.663986,
+          "r": 264.196,
+          "b": 39.109985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 14, 2014 to Feb 12, 2015",
+          "l": 311.76,
+          "t": 31.873886,
+          "r": 442.737,
+          "b": 38.319885,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UtilityBill",
+          "l": 28.84,
+          "t": 43.6768,
+          "r": 172.51799,
+          "b": 66.4198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "500 MAIN ST",
+          "l": 200.88,
+          "t": 45.864,
+          "r": 264.86594,
+          "b": 52.309998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT NUMBER",
+          "l": 311.76,
+          "t": 47.83992,
+          "r": 382.68002,
+          "b": 52.41992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ALBANY NY 12000",
+          "l": 200.88,
+          "t": 59.06401,
+          "r": 291.938,
+          "b": 65.51001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "00001-2345",
+          "l": 311.76,
+          "t": 59.173874,
+          "r": 369.93896,
+          "b": 65.61987,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "kWh: The unit of electricity usage",
+          "l": 409.56,
+          "t": 64.20353,
+          "r": 545.4779,
+          "b": 69.59003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "measured by your meter. One kilowatt-hour",
+          "l": 409.56,
+          "t": 75.08452,
+          "r": 582.4662,
+          "b": 80.390015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(kWh) equals 1000 watts-hours, and will",
+          "l": 409.56,
+          "t": 85.88451,
+          "r": 568.69806,
+          "b": 91.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DETAIL OF CURRENT CHARGES",
+          "l": 200.88,
+          "t": 98.39488,
+          "r": 347.39996,
+          "b": 104.37988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "light a 100-watt bulb for 10 hours. The",
+          "l": 409.56,
+          "t": 96.684494,
+          "r": 561.46204,
+          "b": 101.98999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "number of kWhs is used to determine the",
+          "l": 409.56,
+          "t": 107.48448,
+          "r": 576.39215,
+          "b": 112.78998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electric Service Classification:",
+          "l": 49.44,
+          "t": 117.3209,
+          "r": 173.15398,
+          "b": 122.7074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "electricity charges on your bill.",
+          "l": 409.56,
+          "t": 118.28447,
+          "r": 529.107,
+          "b": 123.589966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classification (residential or",
+          "l": 49.44,
+          "t": 128.20189,
+          "r": 159.44699,
+          "b": 133.50739,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delivery Services",
+          "l": 200.88,
+          "t": 124.87491,
+          "r": 278.68,
+          "b": 130.7799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "commercial) is considered when",
+          "l": 49.44,
+          "t": 139.00188,
+          "r": 178.42802,
+          "b": 144.30737,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "determining system size and",
+          "l": 49.44,
+          "t": 149.80186,
+          "r": 164.22601,
+          "b": 155.10736,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Service Period",
+          "l": 200.88,
+          "t": 150.16791,
+          "r": 253.73521,
+          "b": 154.7799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "No. of days",
+          "l": 272.88,
+          "t": 150.16791,
+          "r": 314.776,
+          "b": 154.7799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Current Reading",
+          "l": 344.88,
+          "t": 150.16791,
+          "r": 404.49518,
+          "b": 154.7799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Previous Reading",
+          "l": 416.88,
+          "t": 150.16791,
+          "r": 480.3992,
+          "b": 154.7799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Usage",
+          "l": 488.88,
+          "t": 150.16791,
+          "r": 547.4399,
+          "b": 154.7799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "incentive levels.",
+          "l": 49.44,
+          "t": 160.60185,
+          "r": 112.224,
+          "b": 165.90735,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 14 - Feb 12",
+          "l": 200.88,
+          "t": 164.7744,
+          "r": 260.775,
+          "b": 170.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 272.88,
+          "t": 164.7744,
+          "r": 297.42294,
+          "b": 170.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "35775 Actual",
+          "l": 308.88,
+          "t": 164.7744,
+          "r": 402.65085,
+          "b": 170.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "35463 Actual",
+          "l": 416.88,
+          "t": 164.7744,
+          "r": 471.951,
+          "b": 170.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "312 kWh",
+          "l": 488.88,
+          "t": 164.7744,
+          "r": 540.4671,
+          "b": 170.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "METER NUMBER   1155224433",
+          "l": 200.88,
+          "t": 178.81842,
+          "r": 299.32806,
+          "b": 182.97992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NEXT SCHEDULED READ DATE   Mar 17",
+          "l": 344.877,
+          "t": 178.81842,
+          "r": 468.69867,
+          "b": 182.97992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Basic Service: A charge",
+          "l": 49.44,
+          "t": 196.332,
+          "r": 145.42502,
+          "b": 201.6825,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "RATE",
+          "l": 200.88002,
+          "t": 197.71844,
+          "r": 219.40901,
+          "b": 201.87994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electric SC1 Non Heat",
+          "l": 236.88,
+          "t": 196.57439,
+          "r": 322.36197,
+          "b": 201.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to cover costs for meter",
+          "l": 49.44,
+          "t": 207.17699,
+          "r": 145.2,
+          "b": 212.48248,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Basic Service (not including usage)",
+          "l": 236.88,
+          "t": 209.57036,
+          "r": 383.2019,
+          "b": 214.87585,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17.00",
+          "l": 524.8799,
+          "t": 209.57036,
+          "r": 544.49994,
+          "b": 214.87585,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "reading, billing, equip-",
+          "l": 49.44,
+          "t": 217.97697,
+          "r": 136.776,
+          "b": 223.28247,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delivery",
+          "l": 236.88,
+          "t": 222.56633,
+          "r": 275.20197,
+          "b": 227.87183,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.04244  X  312 kWh",
+          "l": 380.88,
+          "t": 222.56633,
+          "r": 464.25507,
+          "b": 227.87183,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13.25",
+          "l": 524.88,
+          "t": 222.56633,
+          "r": 545.616,
+          "b": 227.87183,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ment, and maintenance.",
+          "l": 49.44,
+          "t": 228.77696,
+          "r": 146.19812,
+          "b": 234.08246,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This charge is the same",
+          "l": 49.44,
+          "t": 239.57695,
+          "r": 144.88503,
+          "b": 244.88245,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Market Settlement",
+          "l": 236.88,
+          "t": 235.5623,
+          "r": 311.4989,
+          "b": 240.8678,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.00029  X  312 kWh",
+          "l": 380.88,
+          "t": 235.5623,
+          "r": 465.52405,
+          "b": 240.8678,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.09",
+          "l": 524.88,
+          "t": 235.5623,
+          "r": 542.72705,
+          "b": 240.8678,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "regardless of how much",
+          "l": 49.44,
+          "t": 250.37694,
+          "r": 146.35202,
+          "b": 255.68243,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Incr State Assessment",
+          "l": 236.88,
+          "t": 248.55827,
+          "r": 326.27695,
+          "b": 253.86377,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.00307  X  312 kWh",
+          "l": 380.88,
+          "t": 248.55827,
+          "r": 465.55106,
+          "b": 253.86377,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.96",
+          "l": 524.88,
+          "t": 248.55827,
+          "r": 542.817,
+          "b": 253.86377,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "energy is used during the",
+          "l": 49.44,
+          "t": 261.1769,
+          "r": 152.22002,
+          "b": 266.48242,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SBC/RPS",
+          "l": 236.88,
+          "t": 261.55423,
+          "r": 274.91394,
+          "b": 266.85974,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.007911  X  312 kwh",
+          "l": 380.88,
+          "t": 261.55423,
+          "r": 464.32794,
+          "b": 266.85974,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.46",
+          "l": 524.88,
+          "t": 261.55423,
+          "r": 542.583,
+          "b": 266.85974,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "billing period. You will still",
+          "l": 49.44,
+          "t": 271.9769,
+          "r": 152.23709,
+          "b": 277.2824,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Legacy Transition Charge              -0.006794  X  312 kWh",
+          "l": 236.88,
+          "t": 274.5502,
+          "r": 466.58594,
+          "b": 279.8557,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-2.13",
+          "l": 524.88,
+          "t": 274.5502,
+          "r": 542.304,
+          "b": 279.8557,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "see this fixed cost even if",
+          "l": 49.44,
+          "t": 282.7769,
+          "r": 150.88712,
+          "b": 288.0824,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "RDM",
+          "l": 236.88,
+          "t": 287.5462,
+          "r": 258.255,
+          "b": 292.8517,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-0.00103965  X  312 kWh",
+          "l": 344.88,
+          "t": 287.5462,
+          "r": 466.52298,
+          "b": 292.8517,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-0.32",
+          "l": 524.88,
+          "t": 287.5462,
+          "r": 545.184,
+          "b": 292.8517,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your solar electric system",
+          "l": 49.44,
+          "t": 293.57687,
+          "r": 151.761,
+          "b": 298.8824,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "offsets 100% of the kWh",
+          "l": 49.44,
+          "t": 304.37686,
+          "r": 145.73912,
+          "b": 309.68237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Transmission Rev Adj",
+          "l": 236.88,
+          "t": 300.5422,
+          "r": 322.66705,
+          "b": 305.84772,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.00007  X  312 kWh",
+          "l": 344.88,
+          "t": 300.5422,
+          "r": 466.2079,
+          "b": 305.84772,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.02",
+          "l": 524.88,
+          "t": 300.5422,
+          "r": 542.7,
+          "b": 305.84772,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "that you use.",
+          "l": 49.44,
+          "t": 315.17685,
+          "r": 99.82108,
+          "b": 320.48236,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tariff Surcharge",
+          "l": 236.88,
+          "t": 313.5382,
+          "r": 311.20193,
+          "b": 318.84372,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.04082  X  312 kWh",
+          "l": 380.88,
+          "t": 313.5382,
+          "r": 467.33304,
+          "b": 318.84372,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.63",
+          "l": 524.88,
+          "t": 313.5382,
+          "r": 542.232,
+          "b": 318.84372,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Delivery Services",
+          "l": 380.88,
+          "t": 335.05722,
+          "r": 475.23593,
+          "b": 340.44373,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$ 31.96",
+          "l": 488.88,
+          "t": 335.05722,
+          "r": 546.5879,
+          "b": 340.44373,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delivery: Charge for bringing",
+          "l": 49.44,
+          "t": 356.1786,
+          "r": 166.521,
+          "b": 361.5651,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Supply Services",
+          "l": 200.8799,
+          "t": 357.3749,
+          "r": 272.62988,
+          "b": 363.2799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "electricity from your supplier",
+          "l": 49.44,
+          "t": 367.05957,
+          "r": 165.79199,
+          "b": 372.36508,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SUPPLIER  Utility Bill",
+          "l": 200.8799,
+          "t": 368.77438,
+          "r": 281.1329,
+          "b": 374.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to your premise, regardless",
+          "l": 49.44,
+          "t": 377.85956,
+          "r": 161.6241,
+          "b": 383.16507,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of supplier.",
+          "l": 49.44,
+          "t": 388.65955,
+          "r": 94.628105,
+          "b": 393.96506,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electricity Supply",
+          "l": 236.8799,
+          "t": 390.3744,
+          "r": 311.20187,
+          "b": 395.6799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.19136  X  312 kWh",
+          "l": 380.87988,
+          "t": 390.3744,
+          "r": 464.3629,
+          "b": 395.6799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "59.70",
+          "l": 488.87988,
+          "t": 390.3744,
+          "r": 545.678,
+          "b": 395.6799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Merchant Function",
+          "l": 236.87988,
+          "t": 401.17438,
+          "r": 312.71393,
+          "b": 406.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.00590024  X  312 kWh",
+          "l": 344.87988,
+          "t": 401.17438,
+          "r": 463.93985,
+          "b": 406.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.84",
+          "l": 488.87988,
+          "t": 401.17438,
+          "r": 546.048,
+          "b": 406.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ESRM",
+          "l": 236.87988,
+          "t": 411.97437,
+          "r": 262.34988,
+          "b": 417.27988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-0.071046  X  312 kWh",
+          "l": 344.87988,
+          "t": 411.97437,
+          "r": 464.3178,
+          "b": 417.27988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-22.16",
+          "l": 488.87988,
+          "t": 411.97437,
+          "r": 544.4099,
+          "b": 417.27988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Supply Services",
+          "l": 380.87988,
+          "t": 433.49338,
+          "r": 469.79083,
+          "b": 438.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$ 39.38",
+          "l": 488.87988,
+          "t": 433.49338,
+          "r": 547.9648,
+          "b": 438.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electricity Supply: The price of",
+          "l": 49.44,
+          "t": 454.7434,
+          "r": 176.09702,
+          "b": 460.1299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Other Charges/Adjustments",
+          "l": 200.8799,
+          "t": 455.7749,
+          "r": 330.4501,
+          "b": 461.6799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "electricity supply used during",
+          "l": 49.44,
+          "t": 465.6244,
+          "r": 169.35602,
+          "b": 470.9299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Paperless Billing Credit",
+          "l": 236.8771,
+          "t": 467.17438,
+          "r": 330.18814,
+          "b": 472.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-0.40",
+          "l": 524.8771,
+          "t": 467.17438,
+          "r": 545.40607,
+          "b": 472.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the billing period. If you choose",
+          "l": 49.44,
+          "t": 476.42438,
+          "r": 177.56403,
+          "b": 481.7299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Other Charges/Adjustments",
+          "l": 308.8771,
+          "t": 477.89337,
+          "r": 470.39087,
+          "b": 483.27988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-$0.40",
+          "l": 488.8771,
+          "t": 477.89337,
+          "r": 545.703,
+          "b": 483.27988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "an alternate supplier, the price",
+          "l": 49.44,
+          "t": 487.22437,
+          "r": 173.13423,
+          "b": 492.52988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will reflect what you agree upon",
+          "l": 49.44,
+          "t": 498.02435,
+          "r": 179.86801,
+          "b": 503.32986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with that supplier.",
+          "l": 49.44,
+          "t": 508.82437,
+          "r": 120.5031,
+          "b": 514.1299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A solar electric system will reduce the",
+          "l": 401.6,
+          "t": 523.9056,
+          "r": 552.37695,
+          "b": 529.21106,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "amount of electricity (kWh) that you",
+          "l": 401.6,
+          "t": 534.7056,
+          "r": 544.3831,
+          "b": 540.0111,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "purchase. All charges that are calculated",
+          "l": 401.6,
+          "t": 545.5056,
+          "r": 563.6351,
+          "b": 550.8111,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "per kWh will also decrease as you reduce",
+          "l": 401.6,
+          "t": 556.3056,
+          "r": 567.3439,
+          "b": 561.6111,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your electrical supply consumption.",
+          "l": 401.6,
+          "t": 567.10565,
+          "r": 542.702,
+          "b": 572.41113,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "SERVICE FOR",
+          "l": 208.08,
+          "t": 28.529924,
+          "r": 256.03198,
+          "b": 33.109924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BILLING PERIOD",
+          "l": 318.96,
+          "t": 27.740007,
+          "r": 376.32794,
+          "b": 32.320007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PAGE 3 OF 3",
+          "l": 462.96,
+          "t": 27.643885,
+          "r": 508.56802,
+          "b": 32.319885,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JOHN SMITH",
+          "l": 208.08,
+          "t": 39.863876,
+          "r": 271.39603,
+          "b": 46.309875,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 14, 2014 to Feb 12, 2015",
+          "l": 318.96,
+          "t": 39.07402,
+          "r": 449.93698,
+          "b": 45.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UtilityBill",
+          "l": 36.04,
+          "t": 50.876812,
+          "r": 179.718,
+          "b": 73.61981,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "500 MAIN ST",
+          "l": 208.08,
+          "t": 53.06389,
+          "r": 272.06592,
+          "b": 59.509888,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT NUMBER",
+          "l": 318.96,
+          "t": 55.039993,
+          "r": 389.88,
+          "b": 59.619995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ALBANY NY 12000",
+          "l": 208.08,
+          "t": 66.2639,
+          "r": 299.138,
+          "b": 72.7099,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "00001-2345",
+          "l": 318.96,
+          "t": 66.37401,
+          "r": 377.13895,
+          "b": 72.82001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Charges",
+          "l": 208.08,
+          "t": 105.40342,
+          "r": 242.145,
+          "b": 110.78992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Basic Service: A charge to cover costs for",
+          "l": 208.08,
+          "t": 127.03939,
+          "r": 374.4809,
+          "b": 132.3899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "meter reading, billing, equipment and",
+          "l": 208.08,
+          "t": 137.88438,
+          "r": 359.84695,
+          "b": 143.18988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "maintenance. This charge is the same",
+          "l": 208.08,
+          "t": 148.68437,
+          "r": 358.74792,
+          "b": 153.98987,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "regardless of how much energy is used",
+          "l": 208.08,
+          "t": 159.48436,
+          "r": 365.19287,
+          "b": 164.78986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "during the billing period.",
+          "l": 208.08,
+          "t": 170.28435,
+          "r": 306.30597,
+          "b": 175.58984,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Energy Measurement Terms",
+          "l": 208.08,
+          "t": 202.60336,
+          "r": 321.95605,
+          "b": 207.98987,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "kWh: The unit of electricity usage meausred",
+          "l": 208.08,
+          "t": 224.23935,
+          "r": 383.08487,
+          "b": 229.58984,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "by your meter. One kilowatt-hour (kWh) is",
+          "l": 208.08,
+          "t": 235.08434,
+          "r": 371.8773,
+          "b": 240.38983,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1000 watts-hours, and will light a 100-watt",
+          "l": 208.08,
+          "t": 245.88432,
+          "r": 374.2739,
+          "b": 251.18982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "bulb for 10 hours. The number of kWhs is",
+          "l": 208.08,
+          "t": 256.6843,
+          "r": 370.82513,
+          "b": 261.9898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "used to determine the electricity charges",
+          "l": 208.08,
+          "t": 267.48428,
+          "r": 373.7878,
+          "b": 272.7898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "on your bill.",
+          "l": 208.08,
+          "t": 278.28427,
+          "r": 253.638,
+          "b": 283.58978,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electric Service",
+          "l": 208.08,
+          "t": 310.60327,
+          "r": 270.405,
+          "b": 315.98978,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delivery: UtilityBill’s charges for bringing",
+          "l": 208.08,
+          "t": 332.2393,
+          "r": 369.28702,
+          "b": 337.58978,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "electricity from your supplier to your",
+          "l": 208.08,
+          "t": 343.08426,
+          "r": 354.35703,
+          "b": 348.38977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "premise, regardless of supplier.",
+          "l": 208.08,
+          "t": 353.88425,
+          "r": 333.20517,
+          "b": 359.18976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electricity Supply: The price of electricity",
+          "l": 208.08,
+          "t": 375.43927,
+          "r": 371.11487,
+          "b": 380.78976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "supply used during the billing period. If you",
+          "l": 208.08,
+          "t": 386.28424,
+          "r": 380.0699,
+          "b": 391.58975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "choose an alternate supplier, the price will",
+          "l": 208.08,
+          "t": 397.08423,
+          "r": 375.74808,
+          "b": 402.38974,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be what you agree upon with that supplier.",
+          "l": 208.08,
+          "t": 407.88422,
+          "r": 377.70026,
+          "b": 413.18973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Electric Usage History: This will be",
+          "l": 208.08,
+          "t": 429.43924,
+          "r": 349.60486,
+          "b": 434.78973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "important information to share with your",
+          "l": 208.08,
+          "t": 440.2842,
+          "r": 367.46997,
+          "b": 445.58972,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "installer to help determine your system size.",
+          "l": 208.08,
+          "t": 451.0842,
+          "r": 383.01016,
+          "b": 456.3897,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SUN-GEN-ub-fs-1-v1   1/16",
+          "l": 36.0,
+          "t": 765.67804,
+          "r": 110.41699,
+          "b": 769.78,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

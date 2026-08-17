@@ -1,0 +1,85 @@
+{
+  "document": "bill-crwwd-sample.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 5,
+  "candidates": [
+    {
+      "title": "SERVICE PERIOD",
+      "start": "2017-12-01T00:00",
+      "end": "2017-12-02T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "BILLING DATE",
+      "start": "2017-12-29T00:00",
+      "end": "2017-12-30T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "CUSTOMER NAME BILLING DATE",
+      "start": "2017-12-29T00:00",
+      "end": "2017-12-30T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "DUE DATE",
+      "start": "2018-01-31T00:00",
+      "end": "2018-02-01T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "P.O. Box 3855 AMOUNT DUE",
+      "start": "2018-01-31T00:00",
+      "end": "2018-02-01T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

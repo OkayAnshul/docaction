@@ -1,0 +1,3396 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "RECREATION CENTER",
+          "l": 95.227,
+          "t": 20.348488,
+          "r": 249.60696,
+          "b": 30.075989,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Group Fitness Classes",
+          "l": 95.227,
+          "t": 37.34684,
+          "r": 371.66833,
+          "b": 54.19098,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Schedule is also online at www.rootedinfun.com/Schedules",
+          "l": 95.227,
+          "t": 65.237785,
+          "r": 387.87595,
+          "b": 71.953,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DAY/TIME",
+          "l": 35.2901,
+          "t": 88.69954,
+          "r": 79.24332,
+          "b": 94.51068,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MONDAY",
+          "l": 112.0185,
+          "t": 88.689926,
+          "r": 151.72649,
+          "b": 94.52643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TUESDAY",
+          "l": 182.3895,
+          "t": 88.689926,
+          "r": 222.76259,
+          "b": 94.52643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEDNESDAY",
+          "l": 245.1105,
+          "t": 88.689926,
+          "r": 300.68552,
+          "b": 94.52643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THURSDAY",
+          "l": 320.2875,
+          "t": 88.689926,
+          "r": 368.0676,
+          "b": 94.52643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FRIDAY",
+          "l": 399.89252,
+          "t": 88.689926,
+          "r": 431.8056,
+          "b": 94.52643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SATURDAY",
+          "l": 464.35052,
+          "t": 88.689926,
+          "r": 511.21262,
+          "b": 94.52643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SUNDAY",
+          "l": 544.6845,
+          "t": 88.689926,
+          "r": 581.07153,
+          "b": 94.52643,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Step",
+          "l": 263.7441,
+          "t": 111.02392,
+          "r": 281.81512,
+          "b": 117.14392,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 - 6 a.m.",
+          "l": 35.868,
+          "t": 120.62879,
+          "r": 79.021225,
+          "b": 127.03558,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5:45 - 6:35 a.m.",
+          "l": 248.7354,
+          "t": 120.827515,
+          "r": 301.82846,
+          "b": 126.14392,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 262.4861,
+          "t": 130.2022,
+          "r": 283.0731,
+          "b": 135.14392,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ore",
+          "l": 198.6757,
+          "t": 161.4599,
+          "r": 211.83371,
+          "b": 167.5799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New!",
+          "l": 405.4206,
+          "t": 161.4599,
+          "r": 426.0501,
+          "b": 167.5799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8 - 9",
+          "l": 38.0358,
+          "t": 171.0649,
+          "r": 61.123962,
+          "b": 177.47168,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mat Pilates",
+          "l": 110.1995,
+          "t": 165.9599,
+          "r": 153.29362,
+          "b": 172.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "C",
+          "l": 193.0742,
+          "t": 161.4599,
+          "r": 198.6757,
+          "b": 167.5799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a.m.",
+          "l": 61.1232,
+          "t": 172.5434,
+          "r": 76.77058,
+          "b": 177.47168,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Becky",
+          "l": 121.7923,
+          "t": 176.13817,
+          "r": 141.70056,
+          "b": 181.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8:30-8:55am",
+          "l": 180.5778,
+          "t": 171.26341,
+          "r": 224.33128,
+          "b": 176.5799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Barre",
+          "l": 261.9932,
+          "t": 165.9599,
+          "r": 283.5662,
+          "b": 172.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 334.6416,
+          "t": 165.9599,
+          "r": 353.4776,
+          "b": 172.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Matt Pilates",
+          "l": 392.0586,
+          "t": 170.46143,
+          "r": 439.4121,
+          "b": 176.58142,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga †",
+          "l": 474.6608,
+          "t": 165.9599,
+          "r": 500.6793,
+          "b": 172.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 192.1605,
+          "t": 180.63817,
+          "r": 212.74745,
+          "b": 185.5799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Becky",
+          "l": 262.8254,
+          "t": 176.13817,
+          "r": 282.73364,
+          "b": 181.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 333.7661,
+          "t": 176.13817,
+          "r": 354.35312,
+          "b": 181.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Begins 4/1/26)",
+          "l": 390.3805,
+          "t": 180.63817,
+          "r": 441.09155,
+          "b": 185.5799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adam",
+          "l": 477.532,
+          "t": 176.13817,
+          "r": 497.8079,
+          "b": 181.0799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SilverSneakers",
+          "l": 102.5155,
+          "t": 210.96002,
+          "r": 163.16214,
+          "b": 217.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SilverSneakers",
+          "l": 173.2229,
+          "t": 210.96002,
+          "r": 233.86954,
+          "b": 217.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SilverSneakers",
+          "l": 243.5486,
+          "t": 210.96002,
+          "r": 304.1953,
+          "b": 217.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SilverSneakers",
+          "l": 314.8286,
+          "t": 210.96002,
+          "r": 375.47534,
+          "b": 217.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SilverSneakers",
+          "l": 386.5044,
+          "t": 210.96002,
+          "r": 447.15112,
+          "b": 217.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuit* †",
+          "l": 113.3105,
+          "t": 219.96155,
+          "r": 150.1835,
+          "b": 226.08154,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuit* †",
+          "l": 184.0179,
+          "t": 219.96155,
+          "r": 220.8909,
+          "b": 226.08154,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuit* †",
+          "l": 254.3436,
+          "t": 219.96155,
+          "r": 291.21658,
+          "b": 226.08154,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuit* †",
+          "l": 325.62363,
+          "t": 219.96155,
+          "r": 362.4966,
+          "b": 226.08154,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuit* †",
+          "l": 397.2994,
+          "t": 219.96155,
+          "r": 434.1724,
+          "b": 226.08154,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9 - 10 a.m.",
+          "l": 33.6206,
+          "t": 234.0649,
+          "r": 81.26895,
+          "b": 240.47168,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 120.283,
+          "t": 230.13829,
+          "r": 143.21004,
+          "b": 235.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 190.9905,
+          "t": 230.13829,
+          "r": 213.91753,
+          "b": 235.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 261.3161,
+          "t": 230.13829,
+          "r": 284.24316,
+          "b": 235.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jennifer",
+          "l": 330.9736,
+          "t": 230.13829,
+          "r": 357.1456,
+          "b": 235.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 404.2719,
+          "t": 230.13829,
+          "r": 427.19897,
+          "b": 235.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cycling*†",
+          "l": 468.3199,
+          "t": 228.96002,
+          "r": 507.0204,
+          "b": 235.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jenny/Tiffany",
+          "l": 465.1071,
+          "t": 239.13829,
+          "r": 510.23297,
+          "b": 244.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Low Impact",
+          "l": 108.5461,
+          "t": 246.96002,
+          "r": 154.94762,
+          "b": 253.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Step",
+          "l": 193.4186,
+          "t": 246.96002,
+          "r": 211.48961,
+          "b": 253.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Low Impact",
+          "l": 249.5792,
+          "t": 246.96002,
+          "r": 295.97986,
+          "b": 253.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HIIT",
+          "l": 335.2282,
+          "t": 246.96002,
+          "r": 352.89124,
+          "b": 253.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Low Impact",
+          "l": 392.535,
+          "t": 246.96002,
+          "r": 438.93567,
+          "b": 253.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 121.4531,
+          "t": 257.1383,
+          "r": 142.04005,
+          "b": 262.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 192.1606,
+          "t": 257.1383,
+          "r": 212.74754,
+          "b": 262.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 262.4862,
+          "t": 257.1383,
+          "r": 283.0732,
+          "b": 262.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 332.5961,
+          "t": 257.1383,
+          "r": 355.52316,
+          "b": 262.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 405.442,
+          "t": 257.1383,
+          "r": 426.02896,
+          "b": 262.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SilverSneakers",
+          "l": 243.5486,
+          "t": 278.81992,
+          "r": 304.1953,
+          "b": 284.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Weights*",
+          "l": 114.122,
+          "t": 287.81992,
+          "r": 149.3715,
+          "b": 293.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classic*",
+          "l": 257.7011,
+          "t": 287.8214,
+          "r": 287.85913,
+          "b": 293.9414,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 120.283,
+          "t": 297.9982,
+          "r": 143.21004,
+          "b": 302.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kelli",
+          "l": 265.2539,
+          "t": 297.9982,
+          "r": 280.3053,
+          "b": 302.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SilverSneakers",
+          "l": 386.5044,
+          "t": 292.31992,
+          "r": 447.15112,
+          "b": 298.4399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 - 11",
+          "l": 35.2093,
+          "t": 306.4249,
+          "r": 62.278866,
+          "b": 312.8317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Super Sculpt",
+          "l": 318.3815,
+          "t": 301.31992,
+          "r": 369.73856,
+          "b": 307.4399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classic*",
+          "l": 400.6569,
+          "t": 301.3214,
+          "r": 430.8149,
+          "b": 307.4414,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Heart&Sole",
+          "l": 464.5205,
+          "t": 296.81992,
+          "r": 510.8192,
+          "b": 302.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Zumba",
+          "l": 548.5687,
+          "t": 296.81992,
+          "r": 576.96716,
+          "b": 302.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a.m.",
+          "l": 62.278,
+          "t": 307.9034,
+          "r": 79.59727,
+          "b": 312.8317,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:30 - 11:25 a.m.",
+          "l": 534.957,
+          "t": 306.6235,
+          "r": 593.1805,
+          "b": 311.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 122.3286,
+          "t": 314.81992,
+          "r": 141.1646,
+          "b": 320.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Heart&Sole",
+          "l": 249.6302,
+          "t": 314.81992,
+          "r": 295.92886,
+          "b": 320.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 332.5961,
+          "t": 311.4982,
+          "r": 355.52316,
+          "b": 316.4399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kelli",
+          "l": 408.2097,
+          "t": 311.4982,
+          "r": 423.26108,
+          "b": 316.4399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 - 11:05 a.m.",
+          "l": 465.688,
+          "t": 306.93466,
+          "r": 513.3905,
+          "b": 311.919,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aimee/Therese",
+          "l": 462.20102,
+          "t": 315.97708,
+          "r": 515.0132,
+          "b": 320.919,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jason",
+          "l": 553.351,
+          "t": 315.9982,
+          "r": 572.18475,
+          "b": 320.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 121.4531,
+          "t": 324.9982,
+          "r": 142.04005,
+          "b": 329.9399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 - 11:05 a.m.",
+          "l": 247.88,
+          "t": 325.0556,
+          "r": 298.76282,
+          "b": 330.372,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aimee",
+          "l": 261.654,
+          "t": 334.43008,
+          "r": 282.99832,
+          "b": 339.372,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Strength &",
+          "l": 181.0131,
+          "t": 372.0924,
+          "r": 226.07925,
+          "b": 378.2124,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ycling* †",
+          "l": 329.38892,
+          "t": 372.0924,
+          "r": 364.33237,
+          "b": 378.2124,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Zumba",
+          "l": 473.4707,
+          "t": 372.0924,
+          "r": 501.8692,
+          "b": 378.2124,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11 a.m. - 12 p.m.",
+          "l": 21.7357,
+          "t": 381.6974,
+          "r": 93.15291,
+          "b": 388.1042,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cycle* †",
+          "l": 185.96861,
+          "t": 381.0939,
+          "r": 218.94012,
+          "b": 387.2139,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cycling* †",
+          "l": 252.5074,
+          "t": 376.5924,
+          "r": 293.05234,
+          "b": 382.7124,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "C",
+          "l": 323.7874,
+          "t": 372.0924,
+          "r": 329.38892,
+          "b": 378.2124,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mariah",
+          "l": 332.133,
+          "t": 382.2707,
+          "r": 355.98618,
+          "b": 387.2124,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:15a.m. -",
+          "l": 471.384,
+          "t": 381.8736,
+          "r": 508.2398,
+          "b": 387.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alison",
+          "l": 192.1605,
+          "t": 391.2707,
+          "r": 212.74745,
+          "b": 396.2124,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 261.3161,
+          "t": 386.7707,
+          "r": 284.24316,
+          "b": 391.7124,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:05p.m.",
+          "l": 471.807,
+          "t": 391.2266,
+          "r": 507.81683,
+          "b": 396.543,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sheri",
+          "l": 480.502,
+          "t": 400.60107,
+          "r": 497.13068,
+          "b": 405.543,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12  - 1 p.m.",
+          "l": 33.6353,
+          "t": 450.8174,
+          "r": 81.25402,
+          "b": 457.2242,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gentle Yoga",
+          "l": 178.4731,
+          "t": 445.7088,
+          "r": 226.43549,
+          "b": 451.836,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sculpt/Interval",
+          "l": 384.9597,
+          "t": 441.2088,
+          "r": 446.51166,
+          "b": 447.336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Karen K.",
+          "l": 187.9118,
+          "t": 455.8943,
+          "r": 216.99655,
+          "b": 460.836,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 404.2719,
+          "t": 451.3943,
+          "r": 427.19897,
+          "b": 456.336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:45 - 12:45 p.m.",
+          "l": 391.8222,
+          "t": 460.35135,
+          "r": 445.71152,
+          "b": 465.3357,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Super Sculpt/",
+          "l": 244.9312,
+          "t": 495.99512,
+          "r": 300.62915,
+          "b": 502.1223,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4:30 - 5:30",
+          "l": 23.0708,
+          "t": 510.10358,
+          "r": 75.64897,
+          "b": 516.5104,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Super Sculpt",
+          "l": 106.0685,
+          "t": 504.99872,
+          "r": 157.4255,
+          "b": 511.1187,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cardio Yoga",
+          "l": 178.684,
+          "t": 504.99872,
+          "r": 226.2245,
+          "b": 511.1187,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aerobic",
+          "l": 257.22815,
+          "t": 504.9987,
+          "r": 290.5184,
+          "b": 511.1259,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Super Sculpt",
+          "l": 318.3816,
+          "t": 504.99872,
+          "r": 369.73865,
+          "b": 511.1187,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "p.m.",
+          "l": 75.6474,
+          "t": 511.5821,
+          "r": 91.73554,
+          "b": 516.5104,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 120.283,
+          "t": 515.177,
+          "r": 143.21004,
+          "b": 520.1187,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Deborah",
+          "l": 187.5865,
+          "t": 515.177,
+          "r": 217.32166,
+          "b": 520.1187,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Interval",
+          "l": 257.11752,
+          "t": 514.00226,
+          "r": 288.44284,
+          "b": 520.12946,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 332.5962,
+          "t": 515.177,
+          "r": 355.52325,
+          "b": 520.1187,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ali",
+          "l": 268.4141,
+          "t": 524.1806,
+          "r": 277.14517,
+          "b": 529.1223,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CLASS LOCATIONS:",
+          "l": 392.52,
+          "t": 547.7507,
+          "r": 478.75125,
+          "b": 553.875,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5:30 - 6:30",
+          "l": 23.4155,
+          "t": 564.4636,
+          "r": 73.63249,
+          "b": 570.8704,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Step Interval",
+          "l": 105.975,
+          "t": 559.3587,
+          "r": 157.51817,
+          "b": 565.4787,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cycling* †",
+          "l": 182.1818,
+          "t": 559.3587,
+          "r": 222.72679,
+          "b": 565.4787,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Boot Camp",
+          "l": 250.4419,
+          "t": 559.3587,
+          "r": 295.1179,
+          "b": 565.4787,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gymnasium*",
+          "l": 403.14,
+          "t": 560.5784,
+          "r": 454.23514,
+          "b": 565.875,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "p.m.",
+          "l": 73.631,
+          "t": 565.94214,
+          "r": 91.39103,
+          "b": 570.8704,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 120.283,
+          "t": 569.537,
+          "r": 143.21004,
+          "b": 574.4787,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jenny",
+          "l": 193.0406,
+          "t": 569.537,
+          "r": 211.8672,
+          "b": 574.4787,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tiffany",
+          "l": 261.3161,
+          "t": 569.537,
+          "r": 284.24316,
+          "b": 574.4787,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fitness Room",
+          "l": 404.14252,
+          "t": 572.5751,
+          "r": 458.84576,
+          "b": 577.87164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "† Pass Required To Particpate",
+          "l": 404.14,
+          "t": 583.755,
+          "r": 520.268,
+          "b": 589.875,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fitness Room is unavailable during these",
+          "l": 391.3334,
+          "t": 605.7302,
+          "r": 560.6043,
+          "b": 611.3237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6 - 7",
+          "l": 38.3143,
+          "t": 615.3049,
+          "r": 60.404644,
+          "b": 621.7117,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Zumba*",
+          "l": 327.9183,
+          "t": 610.1999,
+          "r": 360.2013,
+          "b": 616.3199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "p.m.",
+          "l": 60.4039,
+          "t": 616.7834,
+          "r": 76.49204,
+          "b": 621.7117,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sheri",
+          "l": 335.7457,
+          "t": 620.3782,
+          "r": 352.3736,
+          "b": 625.3199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "times:",
+          "l": 391.3334,
+          "t": 616.5302,
+          "r": 416.37137,
+          "b": 622.1237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 391.36,
+          "t": 624.82947,
+          "r": 394.50998,
+          "b": 630.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 12 - 1 p.m.",
+          "l": 396.81396,
+          "t": 624.82947,
+          "r": 471.72214,
+          "b": 630.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 391.3602,
+          "t": 635.6295,
+          "r": 394.5102,
+          "b": 641.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday 10 a.m. - 12 p.m. & 5:30 - 7:30 p.m.",
+          "l": 396.81418,
+          "t": 635.6295,
+          "r": 568.83,
+          "b": 641.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Intermediate",
+          "l": 246.5533,
+          "t": 647.9374,
+          "r": 301.1913,
+          "b": 654.0574,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 391.3332,
+          "t": 649.6045,
+          "r": 394.4832,
+          "b": 655.135,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday 6:45 - 7:55 a.m.",
+          "l": 396.49017,
+          "t": 649.604,
+          "r": 508.48837,
+          "b": 655.135,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6:30 - 7:30 p.m.",
+          "l": 21.1531,
+          "t": 662.0424,
+          "r": 93.73608,
+          "b": 668.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 122.3286,
+          "t": 656.9374,
+          "r": 141.1646,
+          "b": 663.0574,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Zumba*",
+          "l": 186.3127,
+          "t": 656.9374,
+          "r": 218.5957,
+          "b": 663.0574,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 263.3578,
+          "t": 656.9389,
+          "r": 282.1938,
+          "b": 663.0589,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 391.36,
+          "t": 660.4425,
+          "r": 394.50998,
+          "b": 665.973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 3 - 4 p.m. & 5:30 - 7:30 p.m.",
+          "l": 396.52597,
+          "t": 660.4425,
+          "r": 545.32306,
+          "b": 666.087,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Julia",
+          "l": 124.0371,
+          "t": 667.11566,
+          "r": 139.4561,
+          "b": 672.0574,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jason",
+          "l": 193.0372,
+          "t": 667.11566,
+          "r": 211.87086,
+          "b": 672.0574,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6:30 - 7:45 p.m.",
+          "l": 246.1866,
+          "t": 666.7409,
+          "r": 299.3732,
+          "b": 672.0574,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rina",
+          "l": 265.1903,
+          "t": 676.11566,
+          "r": 280.36896,
+          "b": 681.0574,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Recreation Center Hours:",
+          "l": 18.3038,
+          "t": 700.8692,
+          "r": 177.48619,
+          "b": 709.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Important Info:",
+          "l": 261.0,
+          "t": 700.8692,
+          "r": 360.9305,
+          "b": 709.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday-Thursday .",
+          "l": 18.1418,
+          "t": 716.5937,
+          "r": 97.3865,
+          "b": 722.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 99.501495,
+          "t": 716.5937,
+          "r": 101.6795,
+          "b": 722.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 103.794495,
+          "t": 716.5937,
+          "r": 105.972496,
+          "b": 722.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 108.087494,
+          "t": 716.5937,
+          "r": 110.265495,
+          "b": 722.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 112.38049,
+          "t": 716.5937,
+          "r": 114.558495,
+          "b": 722.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 116.67349,
+          "t": 716.5937,
+          "r": 118.851494,
+          "b": 722.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 120.96649,
+          "t": 716.5937,
+          "r": 123.14449,
+          "b": 722.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 - 9  p.m.",
+          "l": 125.9414,
+          "t": 716.5937,
+          "r": 167.2064,
+          "b": 722.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 261.0,
+          "t": 714.5062,
+          "r": 264.24,
+          "b": 720.09973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Come dressed/prepared for class.",
+          "l": 266.373,
+          "t": 714.5062,
+          "r": 401.92902,
+          "b": 720.09973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 18.247398,
+          "t": 729.5897,
+          "r": 44.455395,
+          "b": 735.2957,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 45.8759,
+          "t": 729.5937,
+          "r": 50.168903,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 52.2839,
+          "t": 729.5937,
+          "r": 54.461903,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 56.5769,
+          "t": 729.5937,
+          "r": 58.7549,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 60.8699,
+          "t": 729.5937,
+          "r": 63.0479,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 65.1629,
+          "t": 729.5937,
+          "r": 67.340904,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 69.4559,
+          "t": 729.5937,
+          "r": 71.6339,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 73.7489,
+          "t": 729.5937,
+          "r": 75.9269,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 78.0419,
+          "t": 729.5937,
+          "r": 80.2199,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 82.3349,
+          "t": 729.5937,
+          "r": 84.5129,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 86.6279,
+          "t": 729.5937,
+          "r": 88.8059,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 90.9209,
+          "t": 729.5937,
+          "r": 93.0989,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 95.2139,
+          "t": 729.5937,
+          "r": 97.3919,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 99.5069,
+          "t": 729.5937,
+          "r": 101.6849,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 103.7999,
+          "t": 729.5937,
+          "r": 105.9779,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 108.092896,
+          "t": 729.5937,
+          "r": 110.2709,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 112.385895,
+          "t": 729.5937,
+          "r": 114.563896,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 116.678894,
+          "t": 729.5937,
+          "r": 118.856895,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 120.97189,
+          "t": 729.5937,
+          "r": 123.149895,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 - 6:30 p.m.",
+          "l": 125.9414,
+          "t": 729.5937,
+          "r": 178.00641,
+          "b": 735.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 261.0,
+          "t": 725.3062,
+          "r": 264.24,
+          "b": 730.8997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bring your own mat for Yoga and Pilates classes or any other equipment if you prefer.",
+          "l": 266.373,
+          "t": 725.3062,
+          "r": 603.23016,
+          "b": 730.8997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 261.0,
+          "t": 736.1062,
+          "r": 264.24,
+          "b": 741.6997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bring plenty of water.",
+          "l": 266.373,
+          "t": 736.1062,
+          "r": 350.65704,
+          "b": 741.6997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday .",
+          "l": 18.157402,
+          "t": 742.5897,
+          "r": 58.7511,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 60.866096,
+          "t": 742.5937,
+          "r": 63.044098,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 65.159096,
+          "t": 742.5937,
+          "r": 67.3371,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 69.452095,
+          "t": 742.5937,
+          "r": 71.6301,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 73.745094,
+          "t": 742.5937,
+          "r": 75.923096,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 78.03809,
+          "t": 742.5937,
+          "r": 80.216095,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 82.33109,
+          "t": 742.5937,
+          "r": 84.509094,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 86.62409,
+          "t": 742.5937,
+          "r": 88.80209,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 90.91709,
+          "t": 742.5937,
+          "r": 93.09509,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 95.21009,
+          "t": 742.5937,
+          "r": 97.38809,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 99.50309,
+          "t": 742.5937,
+          "r": 101.68109,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 103.79609,
+          "t": 742.5937,
+          "r": 105.97409,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 108.08909,
+          "t": 742.5937,
+          "r": 110.26709,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 112.38209,
+          "t": 742.5937,
+          "r": 114.56009,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 116.67509,
+          "t": 742.5937,
+          "r": 118.85309,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 120.96809,
+          "t": 742.5937,
+          "r": 123.14609,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7  - 8 p.m.",
+          "l": 125.9414,
+          "t": 742.5937,
+          "r": 166.7294,
+          "b": 748.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• All drop-in fitness classes are 25 or 50 minute classes.",
+          "l": 261.0,
+          "t": 746.9062,
+          "r": 478.49908,
+          "b": 752.4997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday .",
+          "l": 18.157402,
+          "t": 755.5897,
+          "r": 54.461704,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 56.576702,
+          "t": 755.5937,
+          "r": 58.754704,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 60.8697,
+          "t": 755.5937,
+          "r": 63.047703,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 65.162704,
+          "t": 755.5937,
+          "r": 67.340706,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 69.4557,
+          "t": 755.5937,
+          "r": 71.633705,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 73.7487,
+          "t": 755.5937,
+          "r": 75.926704,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 78.0417,
+          "t": 755.5937,
+          "r": 80.2197,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 82.3347,
+          "t": 755.5937,
+          "r": 84.5127,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 86.6277,
+          "t": 755.5937,
+          "r": 88.8057,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 90.9207,
+          "t": 755.5937,
+          "r": 93.0987,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 95.2137,
+          "t": 755.5937,
+          "r": 97.3917,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 99.5067,
+          "t": 755.5937,
+          "r": 101.6847,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 103.7997,
+          "t": 755.5937,
+          "r": 105.9777,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 108.0927,
+          "t": 755.5937,
+          "r": 110.2707,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 112.3857,
+          "t": 755.5937,
+          "r": 114.5637,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 116.678696,
+          "t": 755.5937,
+          "r": 118.8567,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 120.971695,
+          "t": 755.5937,
+          "r": 123.1497,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 - 8  p.m.",
+          "l": 125.9414,
+          "t": 755.5937,
+          "r": 171.1754,
+          "b": 761.2997,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Group Fitness Class Descriptions",
+          "l": 36.0,
+          "t": 36.09017,
+          "r": 465.56647,
+          "b": 53.59967,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AEROBIC INTERVAL - Combines aerobic and anaerobic",
+          "l": 36.0,
+          "t": 83.74638,
+          "r": 288.79175,
+          "b": 90.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SUPER SCULPT/WEIGHTS - Weights, body bars, bands,",
+          "l": 320.4,
+          "t": 83.74638,
+          "r": 576.3126,
+          "b": 90.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "conditioning to maximize intensity, speed, and recovery.",
+          "l": 36.0,
+          "t": 94.53488,
+          "r": 274.92755,
+          "b": 100.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and balls are used to strengthen and tone.",
+          "l": 320.4,
+          "t": 94.53488,
+          "r": 499.20032,
+          "b": 100.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BARRE/YOGA - Balance based functional and strength",
+          "l": 36.0,
+          "t": 112.74638,
+          "r": 283.47565,
+          "b": 119.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "YOGA - Learn proper posture and breathing with funda-",
+          "l": 320.4,
+          "t": 112.74638,
+          "r": 558.9432,
+          "b": 119.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "training using the ballet barre, weights and balls followed",
+          "l": 36.0,
+          "t": 123.53488,
+          "r": 280.49948,
+          "b": 129.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "mental yoga postures that will build balance, strength, and",
+          "l": 320.4,
+          "t": 123.53488,
+          "r": 565.3064,
+          "b": 129.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with yoga.",
+          "l": 36.0,
+          "t": 133.53488,
+          "r": 78.1281,
+          "b": 139.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "flexibility.",
+          "l": 320.4,
+          "t": 133.53488,
+          "r": 360.44916,
+          "b": 139.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BOOT CAMP - A combination of aerobic sport and pro-",
+          "l": 36.0,
+          "t": 151.74638,
+          "r": 279.5862,
+          "b": 158.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ZUMBA™ - Ditch the workout, join the party! Zumba is a",
+          "l": 320.4,
+          "t": 151.74638,
+          "r": 562.10114,
+          "b": 158.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pulsion moves, strength conditioning, and interval training.",
+          "l": 36.0,
+          "t": 162.53488,
+          "r": 284.51355,
+          "b": 168.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Latin dance based cardio class that will have you wondering",
+          "l": 320.4,
+          "t": 162.53488,
+          "r": 569.9612,
+          "b": 168.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "where the time went.",
+          "l": 320.4,
+          "t": 172.53488,
+          "r": 408.12302,
+          "b": 178.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CARDIO YOGA - The ideal cardiovascular solution for",
+          "l": 36.0,
+          "t": 180.74638,
+          "r": 276.15723,
+          "b": 187.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "mind-body practitioners combining dance, Pilates, and plyo-",
+          "l": 36.0,
+          "t": 191.53488,
+          "r": 291.2808,
+          "b": 197.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "metrics into one barefoot class.",
+          "l": 36.0,
+          "t": 201.53488,
+          "r": 170.49513,
+          "b": 207.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CORE - Intense core workout for abs, glutes, and lower",
+          "l": 36.0,
+          "t": 219.74638,
+          "r": 273.40002,
+          "b": 226.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "back!",
+          "l": 36.0,
+          "t": 230.53488,
+          "r": 58.887,
+          "b": 236.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GENTLE YOGA - Learn proper posture and breathing with",
+          "l": 36.0,
+          "t": 248.74638,
+          "r": 289.29135,
+          "b": 255.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "fundamental yoga postures that will build balance, strength,",
+          "l": 36.0,
+          "t": 259.53488,
+          "r": 292.30658,
+          "b": 265.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and flexibility in a form that’s very gentle for your body.",
+          "l": 36.0,
+          "t": 269.53488,
+          "r": 270.30154,
+          "b": 275.87988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fitness Orientation Hours:",
+          "l": 318.4192,
+          "t": 264.0494,
+          "r": 484.20557,
+          "b": 272.47992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 318.2572,
+          "t": 279.7739,
+          "r": 352.7812,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 354.5768,
+          "t": 279.7739,
+          "r": 358.8698,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 360.9848,
+          "t": 279.7739,
+          "r": 363.1628,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 365.2778,
+          "t": 279.7739,
+          "r": 367.4558,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 369.5708,
+          "t": 279.7739,
+          "r": 371.7488,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 373.8638,
+          "t": 279.7739,
+          "r": 376.0418,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 378.1568,
+          "t": 279.7739,
+          "r": 380.3348,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 382.4498,
+          "t": 279.7739,
+          "r": 384.6278,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 386.7428,
+          "t": 279.7739,
+          "r": 388.9208,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.0358,
+          "t": 279.7739,
+          "r": 393.2138,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.3288,
+          "t": 279.7739,
+          "r": 397.5068,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.6218,
+          "t": 279.7739,
+          "r": 401.7998,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.9148,
+          "t": 279.7739,
+          "r": 406.0928,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.2078,
+          "t": 279.7739,
+          "r": 410.3858,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.5008,
+          "t": 279.7739,
+          "r": 414.6788,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.7938,
+          "t": 279.7739,
+          "r": 418.9718,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.0868,
+          "t": 279.7739,
+          "r": 423.2648,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3:30 - 5:30 p.m. (Drop-in)",
+          "l": 426.0568,
+          "t": 279.7739,
+          "r": 531.06793,
+          "b": 285.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HEART&SOLE - Join Aimee for this low impact dance",
+          "l": 36.0,
+          "t": 287.7464,
+          "r": 271.99356,
+          "b": 294.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesdays & Thursdays .",
+          "l": 317.8696,
+          "t": 292.7739,
+          "r": 414.6758,
+          "b": 298.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.7908,
+          "t": 292.7739,
+          "r": 418.9688,
+          "b": 298.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.0838,
+          "t": 292.7739,
+          "r": 423.2618,
+          "b": 298.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 - 2 p.m. (Drop-in)",
+          "l": 426.0568,
+          "t": 292.7739,
+          "r": 508.10074,
+          "b": 298.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "fusion class emphasizing cardiorespiratory endurance, func-",
+          "l": 36.0,
+          "t": 298.5349,
+          "r": 288.9676,
+          "b": 304.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "tional movement training, and flexibility.  The moves are",
+          "l": 36.0,
+          "t": 308.5349,
+          "r": 275.61337,
+          "b": 314.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*Other times available by appointment, email",
+          "l": 315.5392,
+          "t": 305.7739,
+          "r": 510.0722,
+          "b": 311.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "easy to follow; the music is varied and inspiring.  Come get",
+          "l": 36.0,
+          "t": 318.5349,
+          "r": 284.50357,
+          "b": 324.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "memmert@wheatridge.gov",
+          "l": 318.6496,
+          "t": 318.7739,
+          "r": 436.6747,
+          "b": 324.4799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your sweat and smiles on with us! Shoes optional.",
+          "l": 36.0,
+          "t": 328.5349,
+          "r": 245.31847,
+          "b": 334.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HIIT - High intensity interval training.",
+          "l": 36.0,
+          "t": 346.7464,
+          "r": 191.22551,
+          "b": 353.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*A Fitness Orientation is required for kids ages",
+          "l": 314.3296,
+          "t": 341.84637,
+          "r": 559.4734,
+          "b": 348.9799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12-17 before using the fitness floor.",
+          "l": 317.596,
+          "t": 353.84637,
+          "r": 498.4777,
+          "b": 360.9799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INTERMEDIATE YOGA - Get in shape as you stretch,",
+          "l": 36.0,
+          "t": 365.7464,
+          "r": 273.8129,
+          "b": 372.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "strengthen and tone in this lively intermediate class. If",
+          "l": 36.0,
+          "t": 376.5349,
+          "r": 266.6584,
+          "b": 382.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kids ages 8-11 may attend classes during Family Fitness on",
+          "l": 318.3988,
+          "t": 374.6349,
+          "r": 564.4282,
+          "b": 380.9799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you’ve done some yoga before, join us for a fun and chal-",
+          "l": 36.0,
+          "t": 386.5349,
+          "r": 276.7821,
+          "b": 392.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturdays from 8 a.m. - 5 p.m. after completing a Fitness",
+          "l": 318.4875,
+          "t": 385.6349,
+          "r": 556.156,
+          "b": 391.9799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "lenging workout that combines breathing and relaxation",
+          "l": 36.0,
+          "t": 396.5349,
+          "r": 276.42245,
+          "b": 402.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Orientation & must be accompanied by a parent.",
+          "l": 318.3472,
+          "t": 396.6349,
+          "r": 524.7497,
+          "b": 402.9799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "exercises with flowing Yoga poses.",
+          "l": 36.0,
+          "t": 406.5349,
+          "r": 179.2062,
+          "b": 412.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Call to schedule: 303-231-1306 or email",
+          "l": 318.1648,
+          "t": 417.6399,
+          "r": 491.64346,
+          "b": 423.9799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LOW IMPACT - Includes low impact aerobic combinations",
+          "l": 36.0,
+          "t": 424.7464,
+          "r": 290.49933,
+          "b": 431.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "memmert@wheatridge.gov",
+          "l": 318.6496,
+          "t": 429.2739,
+          "r": 436.6747,
+          "b": 434.9799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "followed by toning, abs, and stretching.",
+          "l": 36.0,
+          "t": 435.5349,
+          "r": 201.69637,
+          "b": 441.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MAT PILATES - Build and strengthen your core while",
+          "l": 36.0,
+          "t": 453.7464,
+          "r": 271.64938,
+          "b": 460.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "improving flexibility & proper body alignment.",
+          "l": 36.0,
+          "t": 464.5349,
+          "r": 231.80942,
+          "b": 470.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Holiday Hours:",
+          "l": 318.4192,
+          "t": 456.6092,
+          "r": 411.0571,
+          "b": 465.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Drop-in fitness classes may be cancelled)",
+          "l": 317.7724,
+          "t": 470.5722,
+          "r": 482.47058,
+          "b": 476.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SILVERSNEAKERSTM CIRCUIT - A blend of standing",
+          "l": 36.0,
+          "t": 482.05804,
+          "r": 276.94266,
+          "b": 489.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Easter  .",
+          "l": 318.3652,
+          "t": 483.3337,
+          "r": 350.28802,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 352.403,
+          "t": 483.3337,
+          "r": 354.58102,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 356.696,
+          "t": 483.3337,
+          "r": 358.87402,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 360.989,
+          "t": 483.3337,
+          "r": 363.16702,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 365.282,
+          "t": 483.3337,
+          "r": 367.46002,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 369.575,
+          "t": 483.3337,
+          "r": 371.75302,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 373.868,
+          "t": 483.3337,
+          "r": 376.04602,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 378.161,
+          "t": 483.3337,
+          "r": 380.33902,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 382.454,
+          "t": 483.3337,
+          "r": 384.63202,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 386.747,
+          "t": 483.3337,
+          "r": 388.92502,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.04,
+          "t": 483.3337,
+          "r": 393.21802,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.333,
+          "t": 483.3337,
+          "r": 397.51102,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.626,
+          "t": 483.3337,
+          "r": 401.80402,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.919,
+          "t": 483.3337,
+          "r": 406.09702,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.212,
+          "t": 483.3337,
+          "r": 410.39,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.505,
+          "t": 483.3337,
+          "r": 414.683,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.798,
+          "t": 483.3337,
+          "r": 418.976,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.091,
+          "t": 483.3337,
+          "r": 423.269,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CLOSED",
+          "l": 426.0568,
+          "t": 483.3337,
+          "r": 460.11282,
+          "b": 489.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "exercises to build muscular strength & cardiovascular",
+          "l": 36.0,
+          "t": 493.5349,
+          "r": 262.80545,
+          "b": 499.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Memorial Day  .",
+          "l": 318.2572,
+          "t": 496.3337,
+          "r": 384.6264,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 386.7414,
+          "t": 496.3337,
+          "r": 388.9194,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.0344,
+          "t": 496.3337,
+          "r": 393.2124,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.3274,
+          "t": 496.3337,
+          "r": 397.5054,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.6204,
+          "t": 496.3337,
+          "r": 401.7984,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.9134,
+          "t": 496.3337,
+          "r": 406.0914,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.2064,
+          "t": 496.3337,
+          "r": 410.3844,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.4994,
+          "t": 496.3337,
+          "r": 414.6774,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.7924,
+          "t": 496.3337,
+          "r": 418.9704,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.0854,
+          "t": 496.3337,
+          "r": 423.2634,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 a.m. - 5 p.m.",
+          "l": 426.0568,
+          "t": 496.3337,
+          "r": 488.5069,
+          "b": 502.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "endurance. Chairs provided for support.",
+          "l": 36.0,
+          "t": 503.5349,
+          "r": 204.52231,
+          "b": 509.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Labor Day",
+          "l": 318.3652,
+          "t": 509.33368,
+          "r": 361.29517,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 363.1624,
+          "t": 509.33368,
+          "r": 367.4554,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 369.5704,
+          "t": 509.33368,
+          "r": 371.7484,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 373.8634,
+          "t": 509.33368,
+          "r": 376.0414,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 378.1564,
+          "t": 509.33368,
+          "r": 380.3344,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 382.4494,
+          "t": 509.33368,
+          "r": 384.6274,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 386.7424,
+          "t": 509.33368,
+          "r": 388.9204,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.0354,
+          "t": 509.33368,
+          "r": 393.2134,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.3284,
+          "t": 509.33368,
+          "r": 397.5064,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.6214,
+          "t": 509.33368,
+          "r": 401.7994,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.9144,
+          "t": 509.33368,
+          "r": 406.0924,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.2074,
+          "t": 509.33368,
+          "r": 410.3854,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.5004,
+          "t": 509.33368,
+          "r": 414.6784,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.7934,
+          "t": 509.33368,
+          "r": 418.9714,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.0864,
+          "t": 509.33368,
+          "r": 423.2644,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 a.m. - 5 p.m.",
+          "l": 426.0568,
+          "t": 509.33368,
+          "r": 488.5069,
+          "b": 515.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SILVERSNEAKERSTM CLASSIC - Increases muscle",
+          "l": 36.0,
+          "t": 521.0581,
+          "r": 267.14062,
+          "b": 528.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thanksgiving",
+          "l": 317.8696,
+          "t": 522.3337,
+          "r": 374.01154,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 376.0407,
+          "t": 522.3337,
+          "r": 380.3337,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 382.4487,
+          "t": 522.3337,
+          "r": 384.6267,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 386.7417,
+          "t": 522.3337,
+          "r": 388.9197,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.0347,
+          "t": 522.3337,
+          "r": 393.2127,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.3277,
+          "t": 522.3337,
+          "r": 397.5057,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.6207,
+          "t": 522.3337,
+          "r": 401.7987,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.9137,
+          "t": 522.3337,
+          "r": 406.0917,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.2067,
+          "t": 522.3337,
+          "r": 410.3847,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.4997,
+          "t": 522.3337,
+          "r": 414.6777,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.7927,
+          "t": 522.3337,
+          "r": 418.9707,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.0857,
+          "t": 522.3337,
+          "r": 423.2637,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CLOSED",
+          "l": 426.0568,
+          "t": 522.3337,
+          "r": 460.11282,
+          "b": 528.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "strength and range of movement to improve daily living",
+          "l": 36.0,
+          "t": 532.5349,
+          "r": 273.74136,
+          "b": 538.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Christmas Eve .",
+          "l": 318.0592,
+          "t": 535.3337,
+          "r": 380.33322,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 382.4482,
+          "t": 535.3337,
+          "r": 384.62622,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 386.7412,
+          "t": 535.3337,
+          "r": 388.91922,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.0342,
+          "t": 535.3337,
+          "r": 393.21222,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.3272,
+          "t": 535.3337,
+          "r": 397.50522,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.6202,
+          "t": 535.3337,
+          "r": 401.79822,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.9132,
+          "t": 535.3337,
+          "r": 406.09122,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.2062,
+          "t": 535.3337,
+          "r": 410.38422,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.4992,
+          "t": 535.3337,
+          "r": 414.67722,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.7922,
+          "t": 535.3337,
+          "r": 418.9702,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.0852,
+          "t": 535.3337,
+          "r": 423.2632,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 a.m. - 12 p.m.",
+          "l": 426.0568,
+          "t": 535.3337,
+          "r": 487.6879,
+          "b": 541.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "activities. A chair is provided for seated or standing support.",
+          "l": 36.0,
+          "t": 542.5349,
+          "r": 288.93063,
+          "b": 548.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Christmas .",
+          "l": 318.0592,
+          "t": 548.3337,
+          "r": 363.16232,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 365.2773,
+          "t": 548.3337,
+          "r": 367.45532,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 369.5703,
+          "t": 548.3337,
+          "r": 371.74832,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 373.8633,
+          "t": 548.3337,
+          "r": 376.04132,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 378.1563,
+          "t": 548.3337,
+          "r": 380.33432,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 382.4493,
+          "t": 548.3337,
+          "r": 384.62732,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 386.7423,
+          "t": 548.3337,
+          "r": 388.92032,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.0353,
+          "t": 548.3337,
+          "r": 393.21332,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.3283,
+          "t": 548.3337,
+          "r": 397.50632,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.6213,
+          "t": 548.3337,
+          "r": 401.79932,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.9143,
+          "t": 548.3337,
+          "r": 406.09232,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.2073,
+          "t": 548.3337,
+          "r": 410.3853,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.5003,
+          "t": 548.3337,
+          "r": 414.6783,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.7933,
+          "t": 548.3337,
+          "r": 418.9713,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.0863,
+          "t": 548.3337,
+          "r": 423.2643,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CLOSED",
+          "l": 426.0568,
+          "t": 548.3337,
+          "r": 460.11282,
+          "b": 554.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STRENGTH & CYCLE -Pump it up! This combo workout",
+          "l": 36.0,
+          "t": 560.7464,
+          "r": 286.76685,
+          "b": 567.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Year’s Eve .",
+          "l": 318.3652,
+          "t": 561.3337,
+          "r": 384.6229,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 386.73788,
+          "t": 561.3337,
+          "r": 388.9159,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.03088,
+          "t": 561.3337,
+          "r": 393.2089,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.32388,
+          "t": 561.3337,
+          "r": 397.5019,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.61688,
+          "t": 561.3337,
+          "r": 401.7949,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.90988,
+          "t": 561.3337,
+          "r": 406.0879,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.20288,
+          "t": 561.3337,
+          "r": 410.3809,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.49588,
+          "t": 561.3337,
+          "r": 414.6739,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.78888,
+          "t": 561.3337,
+          "r": 418.9669,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.08188,
+          "t": 561.3337,
+          "r": 423.2599,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 a.m. - 4 p.m.",
+          "l": 426.0568,
+          "t": 561.3337,
+          "r": 484.87088,
+          "b": 567.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "incorporates a variety of methods to increase cardio and",
+          "l": 36.0,
+          "t": 571.5349,
+          "r": 277.23157,
+          "b": 577.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Year’s Day",
+          "l": 318.3652,
+          "t": 574.3337,
+          "r": 382.92212,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 384.6262,
+          "t": 574.3337,
+          "r": 388.9192,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 391.03418,
+          "t": 574.3337,
+          "r": 393.2122,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 395.32718,
+          "t": 574.3337,
+          "r": 397.5052,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 399.62018,
+          "t": 574.3337,
+          "r": 401.7982,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 403.91318,
+          "t": 574.3337,
+          "r": 406.0912,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 408.20618,
+          "t": 574.3337,
+          "r": 410.3842,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 412.49918,
+          "t": 574.3337,
+          "r": 414.6772,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 416.79218,
+          "t": 574.3337,
+          "r": 418.97018,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 421.08517,
+          "t": 574.3337,
+          "r": 423.26318,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CLOSED",
+          "l": 426.0568,
+          "t": 574.3337,
+          "r": 460.11282,
+          "b": 580.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "muscular endurance. Workout is both on and off the spin",
+          "l": 36.0,
+          "t": 581.5349,
+          "r": 278.8894,
+          "b": 587.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "bike. We recommend NOT wearing spin shoes.",
+          "l": 36.0,
+          "t": 591.5349,
+          "r": 232.02637,
+          "b": 597.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STEP - A high-energy class with 30-40 mins of aerobic step",
+          "l": 36.0,
+          "t": 609.7464,
+          "r": 291.1662,
+          "b": 616.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "combinations followed by toning, abs, and stretching. A",
+          "l": 36.0,
+          "t": 620.5349,
+          "r": 272.7865,
+          "b": 626.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "great fat burner.",
+          "l": 36.0,
+          "t": 630.5349,
+          "r": 103.57019,
+          "b": 636.8799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Recreation Center",
+          "l": 139.68,
+          "t": 690.5593,
+          "r": 228.339,
+          "b": 697.0443,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4005 Kipling St",
+          "l": 139.68,
+          "t": 702.5593,
+          "r": 215.32797,
+          "b": 709.0443,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wheat Ridge, CO 80033",
+          "l": 139.68,
+          "t": 714.5593,
+          "r": 253.929,
+          "b": 721.0443,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(303) 231-1300",
+          "l": 139.68,
+          "t": 736.0703,
+          "r": 214.25894,
+          "b": 743.0443,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.rootedinfun.com",
+          "l": 139.68,
+          "t": 756.5593,
+          "r": 248.99901,
+          "b": 763.0443,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Updated: 5/21/26",
+          "l": 502.9465,
+          "t": 762.1887,
+          "r": 568.00507,
+          "b": 767.9087,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

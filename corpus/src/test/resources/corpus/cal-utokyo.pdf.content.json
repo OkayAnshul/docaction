@@ -1,0 +1,764 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "Academic Calendar 2026- 2027",
+          "l": 198.89,
+          "t": 54.855244,
+          "r": 407.5331,
+          "b": 61.440002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dates",
+          "l": 373.03,
+          "t": 75.00875,
+          "r": 401.9589,
+          "b": 79.67999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Orientation for New Students (for",
+          "l": 69.264,
+          "t": 89.93314,
+          "r": 213.32948,
+          "b": 94.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "April 1 to 3, 2026 (subject to change) (by department)",
+          "l": 237.53,
+          "t": 95.69315,
+          "r": 461.71,
+          "b": 100.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "April entrants)",
+          "l": 69.264,
+          "t": 101.45316,
+          "r": 130.31,
+          "b": 105.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・April 6 to June 3 (includes exams)",
+          "l": 236.57,
+          "t": 115.27997,
+          "r": 371.92,
+          "b": 119.77997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Final exams: May 22 to May 26, May 28, and June 3",
+          "l": 236.57,
+          "t": 130.27997,
+          "r": 438.67,
+          "b": 134.77997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Class Registration (S1S2 Terms): April 6 to April 17",
+          "l": 236.57,
+          "t": 145.39996,
+          "r": 438.31,
+          "b": 149.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "S1 Term",
+          "l": 69.264,
+          "t": 158.45316,
+          "r": 106.43,
+          "b": 162.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Modification of Class Registration (S1 Term) :",
+          "l": 236.57,
+          "t": 160.39996,
+          "r": 419.08,
+          "b": 164.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "April 28 to May 7",
+          "l": 236.57,
+          "t": 173.64949,
+          "r": 303.86,
+          "b": 177.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・May 7 (Thu) will follow Monday class",
+          "l": 236.57,
+          "t": 185.83997,
+          "r": 387.76,
+          "b": 190.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Supplementary sessions: May 29, June 1, and June 2",
+          "l": 236.57,
+          "t": 200.93314,
+          "r": 437.71,
+          "b": 205.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Entrance Ceremony",
+          "l": 69.264,
+          "t": 215.57315,
+          "r": 151.43001,
+          "b": 220.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "April 13",
+          "l": 231.65,
+          "t": 215.21317,
+          "r": 278.18,
+          "b": 219.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・June 4 to July 30 (includes exams)",
+          "l": 236.57,
+          "t": 229.51996,
+          "r": 372.4,
+          "b": 234.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Final exams: July 16 to July 22, and July 27",
+          "l": 236.57,
+          "t": 244.51996,
+          "r": 406.36,
+          "b": 249.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "S2 Term",
+          "l": 69.264,
+          "t": 259.97318,
+          "r": 106.43,
+          "b": 264.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Class Registration (S1S2 Terms): April 6 to April 17",
+          "l": 236.57,
+          "t": 259.51996,
+          "r": 438.31,
+          "b": 264.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Modification of Class Registration (S2 Term) : June 4 to June 17",
+          "l": 236.57,
+          "t": 274.66998,
+          "r": 481.63,
+          "b": 279.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Supplementary sessions: July 23, July 24, and July 28 to July 30",
+          "l": 236.57,
+          "t": 289.64316,
+          "r": 479.94998,
+          "b": 294.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Vacation",
+          "l": 69.264,
+          "t": 304.40317,
+          "r": 144.23001,
+          "b": 308.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 31 to September 30",
+          "l": 246.53,
+          "t": 304.40317,
+          "r": 346.24,
+          "b": 308.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Commencement Ceremony –",
+          "l": 69.264,
+          "t": 319.76315,
+          "r": 189.14,
+          "b": 324.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・September 18 (subject to change)",
+          "l": 236.57,
+          "t": 325.66998,
+          "r": 370.6,
+          "b": 330.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UTokyo/Hongo",
+          "l": 69.264,
+          "t": 331.28317,
+          "r": 137.63,
+          "b": 335.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Commencement Ceremony – each",
+          "l": 69.264,
+          "t": 342.80316,
+          "r": 209.88632,
+          "b": 347.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note:",
+          "l": 236.57,
+          "t": 339.44315,
+          "r": 261.25998,
+          "b": 343.96997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "department",
+          "l": 69.264,
+          "t": 354.32315,
+          "r": 119.27,
+          "b": 358.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Graduates will receive their diplomas at the Commencement Ceremony",
+          "l": 245.57,
+          "t": 350.96317,
+          "r": 516.91,
+          "b": 355.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(for September graduates)",
+          "l": 69.264,
+          "t": 365.84317,
+          "r": 176.15001,
+          "b": 370.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "organized at each department.",
+          "l": 241.13,
+          "t": 361.95947,
+          "r": 351.4,
+          "b": 366.05,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Orientation for New Students (for",
+          "l": 69.264,
+          "t": 381.20316,
+          "r": 207.2797,
+          "b": 385.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・September 29 to October 2  (subject to change) (by department)",
+          "l": 236.57,
+          "t": 386.48315,
+          "r": 494.83,
+          "b": 391.00998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "October entrants)",
+          "l": 69.264,
+          "t": 392.72314,
+          "r": 141.47,
+          "b": 397.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Entrance Ceremony (for October",
+          "l": 69.264,
+          "t": 405.20316,
+          "r": 203.5746,
+          "b": 409.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・October 1 (subject to change)",
+          "l": 236.57,
+          "t": 410.50998,
+          "r": 354.28,
+          "b": 415.00998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "entrants)",
+          "l": 69.264,
+          "t": 416.72314,
+          "r": 106.79,
+          "b": 421.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・October 5 to December 2 (includes exams)",
+          "l": 236.57,
+          "t": 430.55,
+          "r": 402.28,
+          "b": 435.05,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Final exams: November 18 to November 20, and November 24 to November 25",
+          "l": 236.57,
+          "t": 445.66998,
+          "r": 535.99,
+          "b": 450.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Class Registration (A1A2 Terms) : October 2 to October 15",
+          "l": 236.57,
+          "t": 460.68997,
+          "r": 470.35,
+          "b": 465.18997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A1 Term",
+          "l": 69.264,
+          "t": 473.86316,
+          "r": 108.11,
+          "b": 478.38998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Modification of Class Registration (A1 Term) :",
+          "l": 236.57,
+          "t": 475.81,
+          "r": 418.36,
+          "b": 480.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "October 23 to October 29",
+          "l": 236.57,
+          "t": 488.93945,
+          "r": 330.88,
+          "b": 493.02997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・November 25 (Wed) follows Monday class.",
+          "l": 236.57,
+          "t": 501.12997,
+          "r": 405.76,
+          "b": 505.62997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Supplementary session: November 26 to December 2",
+          "l": 236.57,
+          "t": 516.2232,
+          "r": 440.11,
+          "b": 520.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・December 3, 2026 to February 4, 2027 (includes exams)",
+          "l": 236.57,
+          "t": 532.20996,
+          "r": 450.79,
+          "b": 536.70996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Final exams: January 21, January 26, January 27, January 29, and February 1,",
+          "l": 236.57,
+          "t": 547.32996,
+          "r": 527.82794,
+          "b": 551.82996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2027",
+          "l": 236.57,
+          "t": 560.4595,
+          "r": 256.82,
+          "b": 564.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A2 Term",
+          "l": 69.264,
+          "t": 573.1032,
+          "r": 108.11,
+          "b": 577.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Class Registration (A1A2 Terms): October 2 to October 15, 2026",
+          "l": 236.57,
+          "t": 572.77,
+          "r": 488.47,
+          "b": 577.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Modification of Class Registration (A2 Term) :",
+          "l": 236.57,
+          "t": 587.77,
+          "r": 418.36,
+          "b": 592.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "December 3 to December 16, 2026",
+          "l": 236.57,
+          "t": 601.0195,
+          "r": 364.84,
+          "b": 605.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Supplementary session: January 28, and February 2 to February 4, 2027",
+          "l": 236.57,
+          "t": 613.20996,
+          "r": 506.83,
+          "b": 617.70996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Winter Vacation",
+          "l": 69.264,
+          "t": 629.62317,
+          "r": 138.11,
+          "b": 634.14996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・December 26, 2026 to January 3, 2027",
+          "l": 237.53,
+          "t": 629.29,
+          "r": 388.24,
+          "b": 633.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Commencement Ceremony –",
+          "l": 69.264,
+          "t": 645.37317,
+          "r": 189.14,
+          "b": 649.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "・Late March, 2027 (TOB)",
+          "l": 236.57,
+          "t": 651.27997,
+          "r": 338.32,
+          "b": 655.77997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UTokyo/Hongo",
+          "l": 69.264,
+          "t": 656.8932,
+          "r": 137.63,
+          "b": 661.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Commencement Ceremony – each",
+          "l": 69.264,
+          "t": 668.4132,
+          "r": 209.88632,
+          "b": 672.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note:",
+          "l": 236.57,
+          "t": 664.93317,
+          "r": 263.78,
+          "b": 669.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "department",
+          "l": 69.264,
+          "t": 679.8132,
+          "r": 119.27,
+          "b": 684.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Graduates will receive their diplomas at the Commencement Ceremony",
+          "l": 245.57,
+          "t": 676.4532,
+          "r": 516.91,
+          "b": 680.98,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(for March graduates)",
+          "l": 69.264,
+          "t": 691.3332,
+          "r": 161.99,
+          "b": 695.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "organized at each department.",
+          "l": 241.13,
+          "t": 687.44946,
+          "r": 351.4,
+          "b": 691.54,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "✧  Courses offered in the W Term (Intensive Term) must be registered for during the A1/A2 Term (Common) course",
+          "l": 63.864,
+          "t": 705.6132,
+          "r": 541.08356,
+          "b": 710.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "registration period or the A2 Term course registration correction period.",
+          "l": 63.864,
+          "t": 715.5111,
+          "r": 355.42,
+          "b": 721.77997,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "Class Time Schedule",
+          "l": 231.17,
+          "t": 54.855244,
+          "r": 375.2531,
+          "b": 61.440002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1st period",
+          "l": 83.304,
+          "t": 71.5748,
+          "r": 135.71,
+          "b": 78.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8:30 ～ 10:15",
+          "l": 168.62,
+          "t": 73.13999,
+          "r": 264.25998,
+          "b": 78.119995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4th period",
+          "l": 289.25,
+          "t": 71.5748,
+          "r": 342.4,
+          "b": 78.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14:55 ～ 16:40",
+          "l": 406.15,
+          "t": 73.13999,
+          "r": 484.27,
+          "b": 78.119995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2nd period",
+          "l": 82.224,
+          "t": 85.634796,
+          "r": 136.79001,
+          "b": 92.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:25 ～ 12:10",
+          "l": 167.42,
+          "t": 87.079994,
+          "r": 265.46,
+          "b": 92.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5th period",
+          "l": 289.25,
+          "t": 85.634796,
+          "r": 342.4,
+          "b": 92.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16:50 ～ 18:35",
+          "l": 404.35,
+          "t": 87.079994,
+          "r": 502.38998,
+          "b": 92.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3rd period",
+          "l": 82.824,
+          "t": 99.55484,
+          "r": 136.31001,
+          "b": 105.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13:00 ～ 14:45",
+          "l": 167.42,
+          "t": 100.99998,
+          "r": 265.46,
+          "b": 105.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6th period",
+          "l": 289.25,
+          "t": 99.55484,
+          "r": 342.4,
+          "b": 105.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18:45 ～ 20:30",
+          "l": 404.35,
+          "t": 100.99998,
+          "r": 502.38998,
+          "b": 105.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note 1: In addition to the above 105-minute classes, 90-minute classes may be held for each department, major, or class.",
+          "l": 63.864,
+          "t": 126.173195,
+          "r": 541.0511,
+          "b": 130.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In addition, some classes are also offered at other time schedules. Refer to the UTAS syllabus.",
+          "l": 63.864,
+          "t": 137.69315,
+          "r": 444.19,
+          "b": 142.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note 2: Events will be held on April 13, 2026 and January 15, 2027 and there will be no classes.",
+          "l": 63.864,
+          "t": 160.73318,
+          "r": 451.99,
+          "b": 165.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note 3: There will be a supplementary session in each term as stated above.",
+          "l": 63.864,
+          "t": 183.77316,
+          "r": 371.56,
+          "b": 188.29999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "These sessions may follow a class schedule of a different day of the week.",
+          "l": 63.864,
+          "t": 195.17319,
+          "r": 366.03998,
+          "b": 199.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note 4: The period from February 5 to March 11, 2027, is to be used for intensives and is not, in principle, a regular",
+          "l": 63.864,
+          "t": 218.21317,
+          "r": 529.8712,
+          "b": 222.73999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "term per se. Some departments or programs, however, may use this time for supplementary sessions.",
+          "l": 63.864,
+          "t": 229.73318,
+          "r": 469.15,
+          "b": 234.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Information on irregular classes and its time schedules are available on the GSFS website and in the syllabuses in",
+          "l": 63.864,
+          "t": 241.25314,
+          "r": 519.7135,
+          "b": 245.77997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UTAS.",
+          "l": 63.864,
+          "t": 252.65317,
+          "r": 97.434,
+          "b": 257.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The GSFS Website ‘Classes and Courses’",
+          "l": 65.064,
+          "t": 275.19946,
+          "r": 218.66,
+          "b": 279.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "https://www.k.u-tokyo.ac.jp/en/campuslife/kougi/",
+          "l": 63.864,
+          "t": 285.63947,
+          "r": 245.66,
+          "b": 289.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UTAS ‘Log-in Screen’",
+          "l": 63.864,
+          "t": 386.7995,
+          "r": 149.15,
+          "b": 390.88998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "https://utas.adm.u-tokyo.ac.jp/campusweb",
+          "l": 63.864,
+          "t": 397.1195,
+          "r": 218.06,
+          "b": 401.21,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

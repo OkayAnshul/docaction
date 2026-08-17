@@ -1,0 +1,1204 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 792.0,
+      "heightPt": 612.0,
+      "runs": [
+        {
+          "text": "2025-2026 Academic Calendar",
+          "l": 236.55757,
+          "t": 132.43915,
+          "r": 570.94244,
+          "b": 149.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Semester 2025",
+          "l": 47.14461,
+          "t": 179.09814,
+          "r": 187.3554,
+          "b": 188.05322,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Semester 2025",
+          "l": 237.2696,
+          "t": 179.09814,
+          "r": 377.4804,
+          "b": 188.05322,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Semester 2025",
+          "l": 436.03445,
+          "t": 179.09814,
+          "r": 548.4656,
+          "b": 188.05322,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Semester 2025",
+          "l": 624.2845,
+          "t": 179.09814,
+          "r": 736.7156,
+          "b": 188.05322,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025 Summer I",
+          "l": 83.84488,
+          "t": 204.63492,
+          "r": 149.6551,
+          "b": 211.0314,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025 Summer II",
+          "l": 271.99066,
+          "t": 204.63492,
+          "r": 341.75934,
+          "b": 211.0314,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025 Fall I",
+          "l": 456.0,
+          "t": 204.63492,
+          "r": 501.96436,
+          "b": 211.0314,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025 Fall II",
+          "l": 655.03864,
+          "t": 204.63492,
+          "r": 704.96136,
+          "b": 211.0314,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "First Day of Classes:",
+          "l": 18.0,
+          "t": 224.53857,
+          "r": 99.91724,
+          "b": 231.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/06/2025 First Day of Classes:",
+          "l": 126.0,
+          "t": 223.2251,
+          "r": 298.66626,
+          "b": 231.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/01/2025 First Day of Classes:",
+          "l": 339.75,
+          "t": 223.2251,
+          "r": 480.16724,
+          "b": 231.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/02/2025 First Day of Classes:",
+          "l": 506.25,
+          "t": 224.53857,
+          "r": 667.91626,
+          "b": 231.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/28/2025",
+          "l": 722.1343,
+          "t": 224.81201,
+          "r": 772.1157,
+          "b": 231.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last Day to Drop a Course:",
+          "l": 18.0,
+          "t": 240.1001,
+          "r": 128.63376,
+          "b": 247.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/12/2025 Independence Day:",
+          "l": 156.0,
+          "t": 240.1001,
+          "r": 291.61124,
+          "b": 247.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/04/2025 Last Day to Drop a Course:",
+          "l": 339.75,
+          "t": 240.1001,
+          "r": 508.38376,
+          "b": 247.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/08/2025 Last Day to Drop a Course:",
+          "l": 526.63477,
+          "t": 241.41357,
+          "r": 696.499,
+          "b": 247.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/03/2025",
+          "l": 722.1343,
+          "t": 241.68701,
+          "r": 772.1157,
+          "b": 247.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Memorial Day:",
+          "l": 18.0,
+          "t": 256.9751,
+          "r": 78.760635,
+          "b": 264.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/26/2025 Last Day to Drop a Course:",
+          "l": 156.0,
+          "t": 256.9751,
+          "r": 324.38376,
+          "b": 264.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/07/2025  Session Closing Date:",
+          "l": 339.75,
+          "t": 256.9751,
+          "r": 484.76514,
+          "b": 264.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/27/2025 Veteran’s Day:",
+          "l": 506.25,
+          "t": 258.562,
+          "r": 641.01196,
+          "b": 264.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/11/2025",
+          "l": 722.1343,
+          "t": 258.562,
+          "r": 772.1157,
+          "b": 264.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session Closing Date:",
+          "l": 18.0,
+          "t": 275.16357,
+          "r": 104.51512,
+          "b": 281.73096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06/30/2025 Session Closing Date:",
+          "l": 126.0,
+          "t": 273.8501,
+          "r": 300.76514,
+          "b": 281.73096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/25/2025 Final Grades Due:",
+          "l": 339.75,
+          "t": 273.8501,
+          "r": 471.97223,
+          "b": 281.73096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/30/2025 Thanksgiving Holiday:",
+          "l": 506.25,
+          "t": 275.437,
+          "r": 673.1291,
+          "b": 281.73096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/27-28",
+          "l": 727.7571,
+          "t": 275.437,
+          "r": 766.4929,
+          "b": 281.73096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 19.255371,
+          "t": 292.03857,
+          "r": 92.9776,
+          "b": 298.60596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/02/2025 Final Grades Due:",
+          "l": 127.25537,
+          "t": 292.03857,
+          "r": 289.97125,
+          "b": 298.60596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/28/2025",
+          "l": 339.75,
+          "t": 290.7251,
+          "r": 392.73047,
+          "b": 298.60596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session Closing Date:",
+          "l": 582.75,
+          "t": 292.312,
+          "r": 670.01514,
+          "b": 298.60596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/22/2025",
+          "l": 722.1343,
+          "t": 292.312,
+          "r": 772.1157,
+          "b": 298.60596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 583.5,
+          "t": 308.91357,
+          "r": 659.72125,
+          "b": 315.48096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/25/2025",
+          "l": 722.1343,
+          "t": 309.187,
+          "r": 772.1157,
+          "b": 315.48096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025 Summer ID",
+          "l": 141.88031,
+          "t": 359.88495,
+          "r": 215.5,
+          "b": 366.28143,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025 Summer IID",
+          "l": 322.42188,
+          "t": 359.88495,
+          "r": 400.0,
+          "b": 366.28143,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025 Fall ID",
+          "l": 531.4762,
+          "t": 359.88495,
+          "r": 585.25,
+          "b": 366.28143,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025 Fall IID",
+          "l": 718.7678,
+          "t": 359.88495,
+          "r": 776.5,
+          "b": 366.28143,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "First Day of Classes:",
+          "l": 18.0,
+          "t": 379.78857,
+          "r": 99.91724,
+          "b": 386.35596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06/10/2025 First Day of Classes:",
+          "l": 126.0,
+          "t": 378.4751,
+          "r": 295.66724,
+          "b": 386.35596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/05/2025 First Day of Classes:",
+          "l": 321.75,
+          "t": 378.4751,
+          "r": 480.16724,
+          "b": 386.35596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/07/2025 First Day of Classes:",
+          "l": 506.25,
+          "t": 379.78857,
+          "r": 665.41724,
+          "b": 386.35596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/02/2025",
+          "l": 722.1343,
+          "t": 380.062,
+          "r": 774.61475,
+          "b": 386.35596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last Day to Drop a Course:",
+          "l": 18.0,
+          "t": 395.3501,
+          "r": 131.13278,
+          "b": 403.23096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06/16/2025 Last Day to Drop a Course:",
+          "l": 156.0,
+          "t": 395.3501,
+          "r": 324.38376,
+          "b": 403.23096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/11/2025 Last Day to Drop a Course:      10/13/2025 Last Day to Drop a Course:",
+          "l": 339.75,
+          "t": 395.3501,
+          "r": 693.6338,
+          "b": 403.23096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/08/2025",
+          "l": 722.1343,
+          "t": 396.937,
+          "r": 772.1157,
+          "b": 403.23096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Independence Day:",
+          "l": 18.0,
+          "t": 412.2251,
+          "r": 111.355385,
+          "b": 420.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/04/2025 Labor Day:",
+          "l": 156.0,
+          "t": 412.2251,
+          "r": 260.5561,
+          "b": 420.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/01/2025 Veteran’s Day:",
+          "l": 339.75,
+          "t": 412.2251,
+          "r": 455.76196,
+          "b": 420.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/11/2025 New Year’s Day:",
+          "l": 527.8843,
+          "t": 413.812,
+          "r": 652.4627,
+          "b": 420.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/01/2026",
+          "l": 722.1343,
+          "t": 413.812,
+          "r": 772.1157,
+          "b": 420.10596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session Closing Date:",
+          "l": 18.0,
+          "t": 430.41357,
+          "r": 104.51512,
+          "b": 436.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/04/2025 Session Closing Date",
+          "l": 156.0,
+          "t": 429.1001,
+          "r": 298.0785,
+          "b": 436.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/29/2025 Thanksgiving Holiday:",
+          "l": 339.75,
+          "t": 429.1001,
+          "r": 490.3781,
+          "b": 436.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/27-28 Martin Luther King Jr. Day:",
+          "l": 527.2595,
+          "t": 430.687,
+          "r": 694.0779,
+          "b": 436.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/19/2026",
+          "l": 722.1343,
+          "t": 430.687,
+          "r": 772.1157,
+          "b": 436.98096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 18.0,
+          "t": 445.9751,
+          "r": 110.493164,
+          "b": 453.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/07/2025 Final Grades Due:",
+          "l": 156.0,
+          "t": 445.9751,
+          "r": 308.7422,
+          "b": 453.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/02/2025 Session Closing Date:",
+          "l": 339.75,
+          "t": 447.562,
+          "r": 484.76514,
+          "b": 453.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/01/2025 Session Closing Date:",
+          "l": 527.8843,
+          "t": 447.28857,
+          "r": 670.01514,
+          "b": 453.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/09/2026",
+          "l": 691.5,
+          "t": 447.562,
+          "r": 772.1157,
+          "b": 453.85596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 398.25,
+          "t": 464.16357,
+          "r": 482.7461,
+          "b": 470.73096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/04/2025 Final Grades Due:",
+          "l": 527.8843,
+          "t": 464.16357,
+          "r": 662.99805,
+          "b": 470.73096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/05/2026",
+          "l": 722.1343,
+          "t": 464.437,
+          "r": 772.1157,
+          "b": 470.73096,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Term Break       08/26/2025 – 09/01/2025",
+          "l": 21.0,
+          "t": 515.13495,
+          "r": 236.0292,
+          "b": 521.53143,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Winter Term Break         12/23/2025 – 01/05/2026",
+          "l": 401.25,
+          "t": 515.13495,
+          "r": 613.375,
+          "b": 521.53143,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer D Term Break   09/30/2025 – 10/06/2025",
+          "l": 21.0,
+          "t": 525.63495,
+          "r": 236.34158,
+          "b": 532.03143,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Winter D Term Break     12/23/2025 – 01/05/2026",
+          "l": 401.25,
+          "t": 525.63495,
+          "r": 613.6874,
+          "b": 532.03143,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 792.0,
+      "heightPt": 612.0,
+      "runs": [
+        {
+          "text": "2025-2026 Academic Calendar",
+          "l": 236.55757,
+          "t": 128.43945,
+          "r": 570.94244,
+          "b": 145.07031,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Semester 2026",
+          "l": 52.61031,
+          "t": 169.27344,
+          "r": 181.8897,
+          "b": 178.22852,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Semester 2026",
+          "l": 242.7353,
+          "t": 169.27344,
+          "r": 372.0147,
+          "b": 178.22852,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Semester 2026",
+          "l": 422.14462,
+          "t": 169.27344,
+          "r": 562.3554,
+          "b": 178.22852,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Semester 2026",
+          "l": 610.3946,
+          "t": 169.27344,
+          "r": 750.6054,
+          "b": 178.22852,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 Spring I",
+          "l": 87.7496,
+          "t": 194.81021,
+          "r": 145.7504,
+          "b": 201.2067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 Spring II",
+          "l": 275.8954,
+          "t": 194.81021,
+          "r": 337.8546,
+          "b": 201.2067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 Summer I",
+          "l": 456.0,
+          "t": 194.81021,
+          "r": 521.81024,
+          "b": 201.2067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 Summer II",
+          "l": 645.11566,
+          "t": 194.81021,
+          "r": 714.88434,
+          "b": 201.2067,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "First Day of Classes:",
+          "l": 18.0,
+          "t": 214.9873,
+          "r": 102.41626,
+          "b": 221.28125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/06/2026 First Day of Classes:",
+          "l": 156.0,
+          "t": 214.71387,
+          "r": 295.66724,
+          "b": 221.28125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03/03/2026 First Day of Classes:",
+          "l": 321.75,
+          "t": 214.71387,
+          "r": 480.16724,
+          "b": 221.28125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/05/2026",
+          "l": 506.25,
+          "t": 214.9873,
+          "r": 572.98047,
+          "b": 221.28125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "First Day of Classes:",
+          "l": 583.5,
+          "t": 214.9873,
+          "r": 667.91626,
+          "b": 221.28125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06/30/2026",
+          "l": 717.75,
+          "t": 214.9873,
+          "r": 770.23047,
+          "b": 221.28125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last Day to Drop a Course:",
+          "l": 18.0,
+          "t": 231.58887,
+          "r": 130.99902,
+          "b": 238.15625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/12/2026 Last Day to Drop a Course:        03/09/2026 Last Day to Drop a Course:",
+          "l": 156.0,
+          "t": 231.8623,
+          "r": 508.38376,
+          "b": 238.15625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/11/2026",
+          "l": 520.5,
+          "t": 231.8623,
+          "r": 572.98047,
+          "b": 238.15625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Independence Day:",
+          "l": 583.5,
+          "t": 231.58887,
+          "r": 661.36127,
+          "b": 238.15625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/03-04",
+          "l": 717.75,
+          "t": 231.8623,
+          "r": 758.98486,
+          "b": 238.15625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Martin Luther King Jr. Day:",
+          "l": 18.0,
+          "t": 248.7373,
+          "r": 128.57787,
+          "b": 255.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/19/2026 Session Closing Date:",
+          "l": 156.0,
+          "t": 248.46387,
+          "r": 300.26514,
+          "b": 255.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/27/2026 Memorial Day:",
+          "l": 321.75,
+          "t": 248.7373,
+          "r": 458.51062,
+          "b": 255.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/25/2026",
+          "l": 520.5,
+          "t": 248.7373,
+          "r": 572.98047,
+          "b": 255.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last Day to Drop a Course:",
+          "l": 583.5,
+          "t": 248.7373,
+          "r": 693.6338,
+          "b": 255.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/06/2026",
+          "l": 717.75,
+          "t": 248.7373,
+          "r": 772.7295,
+          "b": 255.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Presidents Day:",
+          "l": 18.0,
+          "t": 265.6123,
+          "r": 80.86216,
+          "b": 271.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/16/2026 Final Grades Due:",
+          "l": 156.0,
+          "t": 265.33887,
+          "r": 287.47223,
+          "b": 271.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/30/2026 Session Closing Date:",
+          "l": 321.75,
+          "t": 265.33887,
+          "r": 484.76514,
+          "b": 271.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06/29/2026",
+          "l": 506.25,
+          "t": 265.6123,
+          "r": 572.98047,
+          "b": 271.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session Closing Date:",
+          "l": 583.5,
+          "t": 265.6123,
+          "r": 670.01514,
+          "b": 271.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/24/2026",
+          "l": 717.75,
+          "t": 265.6123,
+          "r": 770.23047,
+          "b": 271.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session Closing Date:",
+          "l": 18.0,
+          "t": 282.4873,
+          "r": 107.014145,
+          "b": 288.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03/02/2026",
+          "l": 156.0,
+          "t": 282.21387,
+          "r": 216.25,
+          "b": 288.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 398.25,
+          "t": 282.21387,
+          "r": 471.97223,
+          "b": 288.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/02/2026",
+          "l": 506.25,
+          "t": 282.4873,
+          "r": 572.98047,
+          "b": 288.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 583.5,
+          "t": 282.21387,
+          "r": 659.72125,
+          "b": 288.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/27/2026",
+          "l": 717.75,
+          "t": 282.4873,
+          "r": 770.23047,
+          "b": 288.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 18.0,
+          "t": 299.08887,
+          "r": 94.99902,
+          "b": 305.65625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03/05/2026",
+          "l": 156.0,
+          "t": 299.3623,
+          "r": 205.98145,
+          "b": 305.65625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 Spring ID",
+          "l": 83.84488,
+          "t": 350.06024,
+          "r": 149.65512,
+          "b": 356.45673,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 Spring IID",
+          "l": 271.99066,
+          "t": 350.06024,
+          "r": 341.75934,
+          "b": 356.45673,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 Summer ID",
+          "l": 456.0,
+          "t": 350.06024,
+          "r": 529.6197,
+          "b": 356.45673,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 Summer IID",
+          "l": 641.21094,
+          "t": 350.06024,
+          "r": 718.78906,
+          "b": 356.45673,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "First Day of Classes:",
+          "l": 18.0,
+          "t": 368.46387,
+          "r": 99.91724,
+          "b": 375.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/10/2026 First Day of Classes:",
+          "l": 156.0,
+          "t": 368.46387,
+          "r": 295.66724,
+          "b": 375.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/07/2026 First Day of Classes:",
+          "l": 321.75,
+          "t": 368.46387,
+          "r": 480.16724,
+          "b": 375.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06/09/2026",
+          "l": 506.25,
+          "t": 368.7373,
+          "r": 572.98047,
+          "b": 375.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "First Day of Classes:",
+          "l": 583.5,
+          "t": 368.46387,
+          "r": 665.41724,
+          "b": 375.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/04/2026",
+          "l": 691.5,
+          "t": 368.7373,
+          "r": 770.23047,
+          "b": 375.03125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last Day to Drop a Course:",
+          "l": 18.0,
+          "t": 385.6123,
+          "r": 128.13376,
+          "b": 391.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/16/2026 Last Day to Drop a Course:",
+          "l": 156.0,
+          "t": 385.6123,
+          "r": 323.88376,
+          "b": 391.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/13/2026 Last Day to Drop a Course:   06/15/2026",
+          "l": 339.75,
+          "t": 385.6123,
+          "r": 572.98047,
+          "b": 391.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last Day to Drop a Course:",
+          "l": 583.5,
+          "t": 385.6123,
+          "r": 693.6338,
+          "b": 391.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/10/2026",
+          "l": 717.75,
+          "t": 385.6123,
+          "r": 770.23047,
+          "b": 391.90625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Presidents Day:",
+          "l": 18.0,
+          "t": 402.4873,
+          "r": 80.86216,
+          "b": 408.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/16/2026 Session Closing Date:",
+          "l": 156.0,
+          "t": 402.21387,
+          "r": 300.26514,
+          "b": 408.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06/01/2026 Independence Day:",
+          "l": 321.75,
+          "t": 402.4873,
+          "r": 491.10538,
+          "b": 408.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07/03-04",
+          "l": 520.5,
+          "t": 402.4873,
+          "r": 561.73486,
+          "b": 408.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Labor Day:",
+          "l": 583.5,
+          "t": 402.4873,
+          "r": 629.8061,
+          "b": 408.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/07/2026",
+          "l": 717.75,
+          "t": 402.4873,
+          "r": 770.23047,
+          "b": 408.78125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session Closing Date:",
+          "l": 18.0,
+          "t": 419.08887,
+          "r": 104.51512,
+          "b": 425.65625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/06/2026 Memorial Day",
+          "l": 156.0,
+          "t": 419.3623,
+          "r": 271.82397,
+          "b": 425.65625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/25/2026  Session Closing Date:",
+          "l": 344.88428,
+          "t": 419.08887,
+          "r": 484.76514,
+          "b": 425.65625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/03/2026",
+          "l": 520.5,
+          "t": 419.3623,
+          "r": 572.98047,
+          "b": 425.65625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Session Closing Date:",
+          "l": 583.5,
+          "t": 419.08887,
+          "r": 670.01514,
+          "b": 425.65625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/28/2026",
+          "l": 691.5,
+          "t": 419.3623,
+          "r": 770.23047,
+          "b": 425.65625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 18.0,
+          "t": 435.96387,
+          "r": 91.72223,
+          "b": 442.53125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/09/2026 Final Grades Due:",
+          "l": 156.0,
+          "t": 435.96387,
+          "r": 308.2422,
+          "b": 442.53125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06/04/2026 Final Grades Due:",
+          "l": 344.88428,
+          "t": 435.96387,
+          "r": 490.24316,
+          "b": 442.53125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/06/2026",
+          "l": 520.5,
+          "t": 436.2373,
+          "r": 572.98047,
+          "b": 442.53125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Grades Due:",
+          "l": 583.5,
+          "t": 435.96387,
+          "r": 677.9922,
+          "b": 442.53125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/01/2026",
+          "l": 717.75,
+          "t": 436.2373,
+          "r": 770.23047,
+          "b": 442.53125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Term Break          04/28/2026 – 05/04/2026",
+          "l": 22.5,
+          "t": 470.06024,
+          "r": 237.94406,
+          "b": 476.45673,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Term Break       08/25/2025 – 08/31/2026",
+          "l": 401.25,
+          "t": 470.06024,
+          "r": 616.2792,
+          "b": 476.45673,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring D Term Break      06/02/2026 – 06/08/2026",
+          "l": 22.5,
+          "t": 480.5602,
+          "r": 238.25644,
+          "b": 486.9567,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer D Term Break   09/29/2025 – 10/05/2026",
+          "l": 401.25,
+          "t": 480.5602,
+          "r": 616.59155,
+          "b": 486.9567,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

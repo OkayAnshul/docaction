@@ -1,0 +1,11 @@
+{
+  "document": "syn-huge-rowcount.csv",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "DateOrder",
+      "example": "01/03/2026"
+    }
+  ],
+  "groups": 0
+}

@@ -1,0 +1,11 @@
+{
+  "document": "exam-ustm-ug2.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 10
+    }
+  ],
+  "groups": 10
+}

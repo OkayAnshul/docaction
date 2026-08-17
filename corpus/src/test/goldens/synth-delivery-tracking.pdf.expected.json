@@ -1,0 +1,25 @@
+{
+  "document": "synth-delivery-tracking.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 1,
+  "candidates": [
+    {
+      "title": "Intransit",
+      "start": "2026-09-15T00:00",
+      "end": "2026-09-16T00:00",
+      "zone": "Asia/Kolkata",
+      "location": "Hyderabad",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

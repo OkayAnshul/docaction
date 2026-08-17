@@ -1,0 +1,414 @@
+{
+  "document": "cal-universities-australia.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 27,
+  "candidates": [
+    {
+      "title": "University of Southern Queensland (aa) 08 Sep 25 20 Oct 25 24 Oct 25 28 Nov 25",
+      "start": "2025-05-11T00:00",
+      "end": "2025-05-12T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "University of South Australia * (nn) 28 Oct 24 N/A N/A 24 Jan 25",
+      "start": "2025-06-21T00:00",
+      "end": "2025-06-22T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "University of Canberra  *  (s) 24 Nov 25 24 Dec 25 02 Jan 26 23 Jan 26",
+      "start": "2026-05-18T00:00",
+      "end": "2026-05-19T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "01 Dec 25 29 Dec 25 04 Jan 26 13 Feb 26University of Technology Sydney * ^ (e)",
+      "start": "2026-05-25T00:00",
+      "end": "2026-05-26T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "University of Tasmania * ^ (w) 03 Nov 25 22 Dec 25 01 Jan 26 13 Feb 26",
+      "start": "2026-05-30T00:00",
+      "end": "2026-05-31T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "03 Nov 25 22 Dec 25 04 Jan 26 30 Jan 26Deakin University #",
+      "start": "2026-06-01T00:00",
+      "end": "2026-06-02T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "The University of Western Australia (q) 24 Nov 25 30 Jan 26",
+      "start": "2026-06-01T00:00",
+      "end": "2026-06-02T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "The University of Notre Dame Australia* ^ (u)",
+      "start": "2026-06-02T00:00",
+      "end": "2026-06-03T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Charles Darwin University * ^ (v) 17 Nov 25 22 Dec 25 04 Jan 26 06 Feb 26",
+      "start": "2026-06-03T00:00",
+      "end": "2026-06-04T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "University of the Sunshine Coast * ^ (n) 24 Nov 25 24 Dec 25 04 Jan 26 23 Jan 26",
+      "start": "2026-06-03T00:00",
+      "end": "2026-06-04T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Griffith University * #",
+      "start": "2026-06-04T00:00",
+      "end": "2026-06-05T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "La Trobe University * ^ (h) 05 Jan 26 13 Feb 26",
+      "start": "2026-06-05T00:00",
+      "end": "2026-06-06T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Swinburne University of Technology (j) 05 Jan 26 N/A N/A 15 Feb 26",
+      "start": "2026-06-05T00:00",
+      "end": "2026-06-06T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "James Cook University * ^ (m)",
+      "start": "2026-06-06T00:00",
+      "end": "2026-06-07T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Queensland University of Technology 17 Nov 25 25 Dec 25 02 Jan 26 06 Feb 26",
+      "start": "2026-06-06T00:00",
+      "end": "2026-06-07T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "The University of Queensland 01 Dec 25 25 Dec 25 01 Jan 26 30 Jan 26",
+      "start": "2026-06-06T00:00",
+      "end": "2026-06-07T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Australian Catholic University * ^ (t)",
+      "start": "2026-06-08T00:00",
+      "end": "2026-06-09T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "CQUniversity Australia # (l) 10 Nov 25 22 Dec 25 02 Jan 26 13 Feb 26",
+      "start": "2026-06-08T00:00",
+      "end": "2026-06-09T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Charles Sturt University 17 Nov 25 24 Dec 25 01 Jan 26 06 Feb 26",
+      "start": "2026-06-08T00:00",
+      "end": "2026-06-09T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Edith Cowan University 17 Nov 25 22 Dec 25 02 Jan 26 06 Feb 26",
+      "start": "2026-06-08T00:00",
+      "end": "2026-06-09T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Federation University Australia (g)",
+      "start": "2026-06-08T00:00",
+      "end": "2026-06-09T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Monash University (z)",
+      "start": "2026-06-08T00:00",
+      "end": "2026-06-09T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "The University of Melbourne (y) 24 Nov 25 25 Dec 25 01 Jan 26 13 Feb 26",
+      "start": "2026-06-08T00:00",
+      "end": "2026-06-09T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Macquarie University 15 Dec 25 22 Dec 25 04 Jan 26 25 Jan 26",
+      "start": "2026-06-09T00:00",
+      "end": "2026-06-10T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "The University of Newcastle (c) 12 Jan 26 09 Mar 26 15 Mar 26 24 Apr 26",
+      "start": "2026-06-09T00:00",
+      "end": "2026-06-10T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "University of Wollongong (f) 01 Dec 25 22 Dec 25 02 Jan 26 30 Jan 26",
+      "start": "2026-06-13T00:00",
+      "end": "2026-06-14T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Flinders University * 05 Jan 26 - - 20 Feb 26",
+      "start": "2026-06-22T00:00",
+      "end": "2026-06-23T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

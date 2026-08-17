@@ -1,0 +1,141 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Appointment Confirmation",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 227.44597,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "City Diagnostics — Department of Radiology",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 272.51004,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Patient: A. Sharma   UHID: 4471902",
+          "l": 74.8,
+          "t": 88.77077,
+          "r": 235.87003,
+          "b": 94.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Reporting",
+          "l": 261.45,
+          "t": 115.820755,
+          "r": 311.39,
+          "b": 121.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Test",
+          "l": 76.2,
+          "t": 121.570755,
+          "r": 96.72999,
+          "b": 127.15076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date",
+          "l": 189.5,
+          "t": 121.570755,
+          "r": 211.15,
+          "b": 127.15076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Location",
+          "l": 353.45,
+          "t": 121.570755,
+          "r": 395.08002,
+          "b": 127.15076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "time",
+          "l": 261.45,
+          "t": 127.320755,
+          "r": 281.99,
+          "b": 132.90076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MRI Brain",
+          "l": 76.2,
+          "t": 155.77077,
+          "r": 123.37998,
+          "b": 161.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22/09/",
+          "l": 189.5,
+          "t": 155.77077,
+          "r": 217.26003,
+          "b": 161.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Block B,",
+          "l": 353.45,
+          "t": 155.77077,
+          "r": 392.85,
+          "b": 161.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08:30 AM",
+          "l": 261.45,
+          "t": 161.52077,
+          "r": 304.2099,
+          "b": 167.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Contrast)",
+          "l": 76.2,
+          "t": 167.27077,
+          "r": 120.599976,
+          "b": 172.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026",
+          "l": 189.5,
+          "t": 167.27077,
+          "r": 211.71,
+          "b": 172.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Level 2",
+          "l": 353.45,
+          "t": 167.27077,
+          "r": 385.64996,
+          "b": 172.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please fast for 6 hours before the appointment. Reporting time is 08:30 AM on 22/09/2026.",
+          "l": 74.8,
+          "t": 194.32076,
+          "r": 475.79962,
+          "b": 199.90076,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

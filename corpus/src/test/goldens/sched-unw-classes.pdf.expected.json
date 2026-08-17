@@ -1,0 +1,11 @@
+{
+  "document": "sched-unw-classes.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 12
+    }
+  ],
+  "groups": 12
+}

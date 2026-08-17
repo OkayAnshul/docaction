@@ -1,0 +1,53 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "University Examination Board — Circular No. 44/2026",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 380.495,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Admit cards for the End Semester Examinations (Odd Semester 2026) will be available for download from",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 544.5997,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/11/2026.",
+          "l": 74.8,
+          "t": 74.62074,
+          "r": 127.54995,
+          "b": 80.200745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The examinations commence on 18/11/2026. Candidates must carry a printed admit card and a photo",
+          "l": 74.8,
+          "t": 100.27077,
+          "r": 526.9495,
+          "b": 105.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "identity document. The last date to report discrepancies is 15/11/2026.",
+          "l": 74.8,
+          "t": 111.77077,
+          "r": 385.8398,
+          "b": 117.35077,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

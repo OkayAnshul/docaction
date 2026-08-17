@@ -1,0 +1,1756 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.56,
+      "heightPt": 842.04,
+      "runs": [
+        {
+          "text": "Indian Institute of Technology Kanpur",
+          "l": 196.85,
+          "t": 28.799969,
+          "r": 404.54895,
+          "b": 35.27997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Calendar – 2025",
+          "l": 226.61,
+          "t": 46.31999,
+          "r": 371.75894,
+          "b": 52.799988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(2024-25-II, Summer Term 2025 & 2025-26-I Semesters)",
+          "l": 172.85,
+          "t": 61.19997,
+          "r": 425.11502,
+          "b": 66.71997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EVENTS/ACTIVITIES",
+          "l": 92.064,
+          "t": 83.47998,
+          "r": 165.254,
+          "b": 87.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SEMESTER 2024-25-II",
+          "l": 214.97,
+          "t": 83.47998,
+          "r": 295.14398,
+          "b": 87.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SUMMER TERM 2025",
+          "l": 328.27,
+          "t": 83.47998,
+          "r": 408.814,
+          "b": 87.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SEMESTER 2025-26-I",
+          "l": 443.02,
+          "t": 83.47998,
+          "r": 520.794,
+          "b": 87.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration",
+          "l": 73.824,
+          "t": 94.880005,
+          "r": 120.133995,
+          "b": 99.380005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 2, 2025 (Thu)",
+          "l": 223.01,
+          "t": 118.03998,
+          "r": 287.224,
+          "b": 122.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 17-18, 2025",
+          "l": 336.79,
+          "t": 118.03998,
+          "r": 400.174,
+          "b": 122.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 28, 2025 (Mon)",
+          "l": 444.94,
+          "t": 118.03998,
+          "r": 519.114,
+          "b": 122.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All New PG Students",
+          "l": 217.01,
+          "t": 128.95996,
+          "r": 293.104,
+          "b": 133.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Sat-Sun)",
+          "l": 351.55,
+          "t": 128.95996,
+          "r": 385.86398,
+          "b": 133.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All New UG & PG Students",
+          "l": 433.18,
+          "t": 128.95996,
+          "r": 530.874,
+          "b": 133.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Administrative Registration",
+          "l": 73.824,
+          "t": 140.0,
+          "r": 173.084,
+          "b": 144.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Submitting Course",
+          "l": 334.27,
+          "t": 140.0,
+          "r": 403.00894,
+          "b": 144.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "options online",
+          "l": 341.35,
+          "t": 150.91998,
+          "r": 395.854,
+          "b": 155.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 3, 2025 (Fri)",
+          "l": 225.17,
+          "t": 161.95996,
+          "r": 284.944,
+          "b": 166.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 30, 2025 (Wed)",
+          "l": 446.38,
+          "t": 161.95996,
+          "r": 521.154,
+          "b": 166.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All Continuing Students",
+          "l": 211.73,
+          "t": 172.88,
+          "r": 298.504,
+          "b": 177.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 19, 2025 (Mon)",
+          "l": 330.31,
+          "t": 172.88,
+          "r": 406.774,
+          "b": 177.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All Continuing Students",
+          "l": 438.1,
+          "t": 172.88,
+          "r": 524.75397,
+          "b": 177.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course allotment",
+          "l": 336.43,
+          "t": 183.91998,
+          "r": 400.534,
+          "b": 188.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 26-28, 2025",
+          "l": 336.79,
+          "t": 205.88,
+          "r": 400.174,
+          "b": 210.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Registration",
+          "l": 73.824,
+          "t": 211.51996,
+          "r": 156.374,
+          "b": 216.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 6, 2025 (Mon)",
+          "l": 221.57,
+          "t": 211.51996,
+          "r": 288.664,
+          "b": 216.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 31, 2025 (Thu)",
+          "l": 446.86,
+          "t": 211.51996,
+          "r": 517.074,
+          "b": 216.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Mon-Wed)",
+          "l": 346.75,
+          "t": 216.91998,
+          "r": 390.424,
+          "b": 221.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fee Payment",
+          "l": 344.11,
+          "t": 227.95996,
+          "r": 393.064,
+          "b": 232.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Late Registration",
+          "l": 73.824,
+          "t": 239.59998,
+          "r": 136.454,
+          "b": 244.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 10, 2025 (Fri)",
+          "l": 223.25,
+          "t": 244.88,
+          "r": 287.104,
+          "b": 249.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 23, 2025 (Fri)",
+          "l": 334.51,
+          "t": 244.88,
+          "r": 402.574,
+          "b": 249.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aug 6, 2025 (Wed)",
+          "l": 447.22,
+          "t": 244.88,
+          "r": 516.714,
+          "b": 249.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Administrative & Academic)",
+          "l": 73.824,
+          "t": 249.68,
+          "r": 179.68399,
+          "b": 254.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Release of FCH",
+          "l": 73.824,
+          "t": 261.11,
+          "r": 129.254,
+          "b": 265.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 5, 2025 (Sun)",
+          "l": 223.37,
+          "t": 261.11,
+          "r": 286.86398,
+          "b": 265.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 19, 2025 (Mon)",
+          "l": 330.55,
+          "t": 261.11,
+          "r": 406.534,
+          "b": 265.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jul 30, 2025 (Wed)",
+          "l": 447.22,
+          "t": 261.11,
+          "r": 516.834,
+          "b": 265.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classes Commence",
+          "l": 73.824,
+          "t": 272.63,
+          "r": 145.454,
+          "b": 277.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 6, 2025 (Mon)",
+          "l": 221.45,
+          "t": 272.63,
+          "r": 288.664,
+          "b": 277.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 20, 2025 (Tue)",
+          "l": 332.35,
+          "t": 272.63,
+          "r": 404.734,
+          "b": 277.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 31, 2025 (Thu)",
+          "l": 446.86,
+          "t": 272.63,
+          "r": 517.074,
+          "b": 277.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jan 6 – 13, 2025",
+          "l": 225.17,
+          "t": 284.75,
+          "r": 284.944,
+          "b": 289.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 20-21, 2025",
+          "l": 337.15,
+          "t": 284.75,
+          "r": 399.934,
+          "b": 289.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 31 – Aug 6, 2025",
+          "l": 442.66,
+          "t": 284.75,
+          "r": 519.334,
+          "b": 289.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adding a Course",
+          "l": 73.824,
+          "t": 290.14996,
+          "r": 134.534,
+          "b": 294.64996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Mon-Mon)",
+          "l": 233.45,
+          "t": 295.07,
+          "r": 276.764,
+          "b": 299.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Tue-Wed)",
+          "l": 348.43,
+          "t": 295.07,
+          "r": 388.744,
+          "b": 299.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Thu-Wed)",
+          "l": 461.38,
+          "t": 295.78998,
+          "r": 501.814,
+          "b": 300.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dropping/De-registering",
+          "l": 73.824,
+          "t": 307.19,
+          "r": 162.854,
+          "b": 311.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Modular Courses (1st",
+          "l": 73.824,
+          "t": 316.49,
+          "r": 149.74998,
+          "b": 322.00995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 5, 2025 (Wed)",
+          "l": 220.85,
+          "t": 312.70996,
+          "r": 289.384,
+          "b": 317.20996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "June 6, 2025 (Fri)",
+          "l": 336.43,
+          "t": 312.70996,
+          "r": 400.654,
+          "b": 317.20996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aug 29, 2025 (Fri)",
+          "l": 448.9,
+          "t": 312.70996,
+          "r": 515.034,
+          "b": 317.20996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Half)",
+          "l": 149.78,
+          "t": 317.50995,
+          "r": 170.804,
+          "b": 322.00995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classes for the Modular",
+          "l": 73.824,
+          "t": 329.74997,
+          "r": 160.81104,
+          "b": 334.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 19, 2025 (Wed)",
+          "l": 218.57,
+          "t": 335.14996,
+          "r": 291.664,
+          "b": 339.64996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "June 13, 2025 (Fri)",
+          "l": 334.15,
+          "t": 335.14996,
+          "r": 402.934,
+          "b": 339.64996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sep 12, 2025 (Fri)",
+          "l": 449.38,
+          "t": 335.14996,
+          "r": 514.674,
+          "b": 339.64996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Courses (1st half) End",
+          "l": 73.824,
+          "t": 339.64996,
+          "r": 153.01399,
+          "b": 345.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classes for Modular Courses (2nd",
+          "l": 73.824,
+          "t": 351.16998,
+          "r": 193.124,
+          "b": 356.68997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 3, 2025 (Mon)",
+          "l": 220.01,
+          "t": 357.58997,
+          "r": 290.344,
+          "b": 362.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "June 18, 2025 (Wed)",
+          "l": 330.19,
+          "t": 357.58997,
+          "r": 406.89398,
+          "b": 362.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sep 23, 2025 (Tue)",
+          "l": 447.22,
+          "t": 357.58997,
+          "r": 516.714,
+          "b": 362.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "half) Commence",
+          "l": 73.824,
+          "t": 363.22998,
+          "r": 135.854,
+          "b": 367.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last date for document",
+          "l": 73.824,
+          "t": 374.74997,
+          "r": 159.488,
+          "b": 379.24997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 5, 2025 (Wed)",
+          "l": 220.01,
+          "t": 380.14996,
+          "r": 290.344,
+          "b": 384.64996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-",
+          "l": 366.43,
+          "t": 380.14996,
+          "r": 370.744,
+          "b": 384.64996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct 7, 2025 (Tue)",
+          "l": 449.74,
+          "t": 380.14996,
+          "r": 514.194,
+          "b": 384.64996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "submission",
+          "l": 73.824,
+          "t": 385.66998,
+          "r": 115.694,
+          "b": 390.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last date for showing Mid-",
+          "l": 73.824,
+          "t": 397.30997,
+          "r": 172.364,
+          "b": 401.80997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 20, 2025 (Thu)",
+          "l": 219.29,
+          "t": 402.58997,
+          "r": 290.944,
+          "b": 407.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "June 24, 2025 (Tue)",
+          "l": 331.99,
+          "t": 402.58997,
+          "r": 404.974,
+          "b": 407.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct 10, 2025 (Fri)",
+          "l": 449.62,
+          "t": 402.58997,
+          "r": 514.314,
+          "b": 407.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Semester answer scripts",
+          "l": 73.824,
+          "t": 407.50998,
+          "r": 163.814,
+          "b": 412.00998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last date for Dropping/De-",
+          "l": 73.824,
+          "t": 419.62997,
+          "r": 173.804,
+          "b": 424.12997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "registration of Regular Courses",
+          "l": 73.824,
+          "t": 430.66998,
+          "r": 188.68399,
+          "b": 435.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 26, 2025 (Wed)",
+          "l": 217.61,
+          "t": 436.08997,
+          "r": 292.624,
+          "b": 440.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "June 27, 2025 (Fri)",
+          "l": 334.15,
+          "t": 436.08997,
+          "r": 402.934,
+          "b": 440.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct 17, 2025 (Fri)",
+          "l": 449.62,
+          "t": 436.08997,
+          "r": 514.314,
+          "b": 440.58997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and Modular Courses (2nd half)",
+          "l": 73.824,
+          "t": 440.58997,
+          "r": 187.244,
+          "b": 446.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classes End",
+          "l": 73.824,
+          "t": 463.33,
+          "r": 117.614,
+          "b": 467.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Apr 23, 2025 (Wed)",
+          "l": 218.57,
+          "t": 463.33,
+          "r": 291.544,
+          "b": 467.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 11, 2025 (Fri)",
+          "l": 335.59,
+          "t": 463.33,
+          "r": 401.374,
+          "b": 467.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nov 14, 2025 (Fri)",
+          "l": 448.66,
+          "t": 463.33,
+          "r": 515.394,
+          "b": 467.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Pre-registration",
+          "l": 73.824,
+          "t": 474.72998,
+          "r": 171.76399,
+          "b": 479.22998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DMC Report Submission*",
+          "l": 73.824,
+          "t": 485.22998,
+          "r": 166.094,
+          "b": 490.74997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "April 1, 2025 (Tue)",
+          "l": 220.73,
+          "t": 486.24997,
+          "r": 289.504,
+          "b": 490.74997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "--",
+          "l": 364.99,
+          "t": 486.24997,
+          "r": 372.064,
+          "b": 490.74997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct 21, 2025 (Tue)",
+          "l": 447.46,
+          "t": 486.24997,
+          "r": 516.474,
+          "b": 490.74997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HSS/EME Pre-registration",
+          "l": 73.824,
+          "t": 497.77,
+          "r": 167.65399,
+          "b": 502.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "April 1 – 5, 2025 (Tue-Sat)",
+          "l": 207.29,
+          "t": 497.77,
+          "r": 302.944,
+          "b": 502.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "--",
+          "l": 364.99,
+          "t": 497.77,
+          "r": 372.064,
+          "b": 502.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct 22-26, 2025 (Wed-Sun)",
+          "l": 431.74,
+          "t": 497.77,
+          "r": 532.194,
+          "b": 502.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Apr 9 – 21, 2025",
+          "l": 224.69,
+          "t": 509.89,
+          "r": 285.664,
+          "b": 514.39,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct 30 – Nov 11, 2025",
+          "l": 441.1,
+          "t": 509.89,
+          "r": 522.954,
+          "b": 514.39,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Pre-registration",
+          "l": 73.824,
+          "t": 515.29,
+          "r": 169.724,
+          "b": 519.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "--",
+          "l": 364.99,
+          "t": 515.29,
+          "r": 372.064,
+          "b": 519.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Wed-Mon)",
+          "l": 233.45,
+          "t": 520.32996,
+          "r": 276.764,
+          "b": 524.82996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Thu-Tue)",
+          "l": 463.78,
+          "t": 520.32996,
+          "r": 500.134,
+          "b": 524.82996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Examinations and Grade Submission",
+          "l": 73.824,
+          "t": 531.73,
+          "r": 210.524,
+          "b": 536.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mid Semester",
+          "l": 73.824,
+          "t": 543.85,
+          "r": 126.620995,
+          "b": 548.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Examination/End Semester",
+          "l": 73.824,
+          "t": 554.77,
+          "r": 174.644,
+          "b": 559.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Feb 21 – Mar 1, 2025#",
+          "l": 214.49,
+          "t": 553.75,
+          "r": 295.744,
+          "b": 559.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "June 16 – 17, 2025",
+          "l": 334.03,
+          "t": 554.77,
+          "r": 403.174,
+          "b": 559.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sep 16 – 22, 2025",
+          "l": 449.14,
+          "t": 554.77,
+          "r": 514.914,
+          "b": 559.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Examination for Modular Courses",
+          "l": 73.824,
+          "t": 565.80994,
+          "r": 197.26703,
+          "b": 570.30994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Fri- Sat)",
+          "l": 239.09,
+          "t": 565.80994,
+          "r": 271.124,
+          "b": 570.30994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Mon-Tue)",
+          "l": 348.67,
+          "t": 565.80994,
+          "r": 388.384,
+          "b": 570.30994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Tue-Mon)",
+          "l": 462.1,
+          "t": 565.80994,
+          "r": 501.814,
+          "b": 570.30994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(1st half)",
+          "l": 73.824,
+          "t": 575.82996,
+          "r": 106.093994,
+          "b": 581.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Make-up Examination for the",
+          "l": 73.824,
+          "t": 588.25,
+          "r": 182.564,
+          "b": 592.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 2, 2025",
+          "l": 232.05,
+          "t": 588.25,
+          "r": 278.391,
+          "b": 592.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "June 21, 2025 (Sat)",
+          "l": 332.59,
+          "t": 588.25,
+          "r": 404.134,
+          "b": 592.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sep 27-28, 2025",
+          "l": 451.3,
+          "t": 588.25,
+          "r": 512.274,
+          "b": 592.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "modular courses (1st half)",
+          "l": 73.824,
+          "t": 598.26996,
+          "r": 169.124,
+          "b": 603.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Sun )",
+          "l": 243.29001,
+          "t": 599.29,
+          "r": 262.178,
+          "b": 603.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Sat-Sun)",
+          "l": 464.14,
+          "t": 599.29,
+          "r": 499.414,
+          "b": 603.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last date for Modular Course",
+          "l": 73.824,
+          "t": 610.81,
+          "r": 180.719,
+          "b": 615.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "End Sem Grade Submission (1st",
+          "l": 73.824,
+          "t": 620.74,
+          "r": 189.04399,
+          "b": 626.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 21, 2025 (Fri)",
+          "l": 221.57,
+          "t": 621.76,
+          "r": 288.664,
+          "b": 626.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "June 25, 2025 (Wed)",
+          "l": 330.19,
+          "t": 621.76,
+          "r": 406.89398,
+          "b": 626.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Oct 14, 2025 (Tue)",
+          "l": 447.46,
+          "t": 621.76,
+          "r": 516.474,
+          "b": 626.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "half)",
+          "l": 73.824,
+          "t": 632.8,
+          "r": 92.418,
+          "b": 637.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Apr 26 – May 6, 2025",
+          "l": 215.57,
+          "t": 644.43994,
+          "r": 294.784,
+          "b": 648.93994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 14 – 15, 2025",
+          "l": 335.35,
+          "t": 644.43994,
+          "r": 401.61398,
+          "b": 648.93994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nov 17 – 26, 2025",
+          "l": 448.42,
+          "t": 644.43994,
+          "r": 515.634,
+          "b": 648.93994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "End Semester Examination",
+          "l": 73.824,
+          "t": 649.72,
+          "r": 172.484,
+          "b": 654.22,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Sat-Tue)",
+          "l": 237.77,
+          "t": 654.51996,
+          "r": 272.324,
+          "b": 659.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Mon-Tue)",
+          "l": 348.67,
+          "t": 654.51996,
+          "r": 388.384,
+          "b": 659.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Mon-Wed)",
+          "l": 460.3,
+          "t": 654.51996,
+          "r": 503.61398,
+          "b": 659.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Make-up Examination for the",
+          "l": 73.824,
+          "t": 666.64,
+          "r": 182.207,
+          "b": 671.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 9 - 11, 2025",
+          "l": 223.97,
+          "t": 666.64,
+          "r": 286.264,
+          "b": 671.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nov 29 – Dec 1, 2025",
+          "l": 442.78,
+          "t": 666.64,
+          "r": 521.274,
+          "b": 671.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 18, 2025 (Fri)",
+          "l": 335.59,
+          "t": 672.16,
+          "r": 401.374,
+          "b": 676.66,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "modular courses (2nd half) and the",
+          "l": 73.824,
+          "t": 676.66,
+          "r": 197.684,
+          "b": 682.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Fri-Sun)",
+          "l": 238.97,
+          "t": 677.07996,
+          "r": 271.36398,
+          "b": 681.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Sat-Mon)",
+          "l": 462.94,
+          "t": 677.07996,
+          "r": 500.974,
+          "b": 681.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "regular courses",
+          "l": 73.824,
+          "t": 688.72,
+          "r": 131.054,
+          "b": 693.22,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last date for End Semester Grade",
+          "l": 73.824,
+          "t": 700.24,
+          "r": 196.427,
+          "b": 704.74,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 11, 2025 (Sun)",
+          "l": 218.93,
+          "t": 705.64,
+          "r": 291.304,
+          "b": 710.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 18, 2025 (Fri)",
+          "l": 335.59,
+          "t": 705.64,
+          "r": 401.374,
+          "b": 710.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dec 1, 2025 (Mon)",
+          "l": 447.46,
+          "t": 705.64,
+          "r": 516.594,
+          "b": 710.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Submission",
+          "l": 73.824,
+          "t": 711.16,
+          "r": 117.254,
+          "b": 715.66,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last date for Make-up Grade",
+          "l": 73.824,
+          "t": 722.8,
+          "r": 180.04399,
+          "b": 727.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Submission and Conversion of I",
+          "l": 73.824,
+          "t": 733.6,
+          "r": 188.861,
+          "b": 738.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 12, 2025 (Mon)",
+          "l": 217.13,
+          "t": 733.6,
+          "r": 293.104,
+          "b": 738.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "July 19, 2025 (Sat)",
+          "l": 334.63,
+          "t": 733.6,
+          "r": 402.574,
+          "b": 738.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dec 2, 2025 (Tue)",
+          "l": 449.26,
+          "t": 733.6,
+          "r": 514.794,
+          "b": 738.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grades",
+          "l": 73.824,
+          "t": 744.636,
+          "r": 101.658,
+          "b": 749.136,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Vacation",
+          "l": 73.824,
+          "t": 755.436,
+          "r": 108.014,
+          "b": 759.936,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mar 8-16, 2025",
+          "l": 226.49,
+          "t": 767.67596,
+          "r": 283.744,
+          "b": 772.17596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sep 27 – Oct 5, 2025",
+          "l": 443.98,
+          "t": 767.67596,
+          "r": 519.954,
+          "b": 772.17596,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mid Semester Recess",
+          "l": 73.824,
+          "t": 773.076,
+          "r": 152.894,
+          "b": 777.576,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "--",
+          "l": 364.99,
+          "t": 773.076,
+          "r": 372.064,
+          "b": 777.576,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Sat-Sun)",
+          "l": 237.89,
+          "t": 777.876,
+          "r": 272.444,
+          "b": 782.376,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Sat-Sun)",
+          "l": 464.74,
+          "t": 777.876,
+          "r": 499.294,
+          "b": 782.376,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nov 28, 2025 (Fri)",
+          "l": 448.66,
+          "t": 790.13995,
+          "r": 515.274,
+          "b": 794.63995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May 8 – July 29, 2025",
+          "l": 214.73,
+          "t": 795.54,
+          "r": 293.564,
+          "b": 800.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "End Semester Recess",
+          "l": 73.824,
+          "t": 801.06,
+          "r": 152.174,
+          "b": 805.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "--",
+          "l": 364.99,
+          "t": 801.06,
+          "r": 372.064,
+          "b": 805.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "– Beginning of 2025-26-II",
+          "l": 435.94,
+          "t": 801.06,
+          "r": 528.1141,
+          "b": 805.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Thu-Tue)",
+          "l": 236.81,
+          "t": 806.57996,
+          "r": 273.64398,
+          "b": 811.07996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Semester",
+          "l": 464.26,
+          "t": 812.1,
+          "r": 499.89398,
+          "b": 816.6,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 595.56,
+      "heightPt": 842.04,
+      "runs": [
+        {
+          "text": "2024-25-II Semester:",
+          "l": 61.704,
+          "t": 44.879963,
+          "r": 157.07504,
+          "b": 50.399963,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "64 teaching days with the following distribution of weekdays:",
+          "l": 61.584,
+          "t": 71.39999,
+          "r": 336.50577,
+          "b": 76.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mondays:",
+          "l": 97.704,
+          "t": 97.939964,
+          "r": 146.15504,
+          "b": 103.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 169.73,
+          "t": 97.939964,
+          "r": 182.78503,
+          "b": 103.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesdays:",
+          "l": 97.704,
+          "t": 111.73995,
+          "r": 145.91504,
+          "b": 117.25995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 169.73,
+          "t": 111.73995,
+          "r": 182.90504,
+          "b": 117.25995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesdays:  14",
+          "l": 97.704,
+          "t": 125.05996,
+          "r": 182.90504,
+          "b": 130.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursdays:",
+          "l": 97.704,
+          "t": 138.13997,
+          "r": 149.99504,
+          "b": 143.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 (11 + 1 Saturday, April 5, 2025 – Thursday schedule will follow)",
+          "l": 169.73,
+          "t": 138.13997,
+          "r": 436.63095,
+          "b": 143.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fridays:",
+          "l": 97.704,
+          "t": 151.57997,
+          "r": 136.55504,
+          "b": 157.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12 (10 + 2 Saturdays, March 22 and April 12, 2025** – Friday schedule will follow)",
+          "l": 169.73,
+          "t": 150.37999,
+          "r": 495.91504,
+          "b": 157.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Term 2025:",
+          "l": 61.704,
+          "t": 178.45998,
+          "r": 155.27504,
+          "b": 183.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "37 teaching days with the following distribution of weekdays:",
+          "l": 61.584,
+          "t": 204.98,
+          "r": 336.2754,
+          "b": 210.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mondays:",
+          "l": 97.704,
+          "t": 231.37996,
+          "r": 143.63504,
+          "b": 236.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 169.73,
+          "t": 231.37996,
+          "r": 177.26505,
+          "b": 236.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesdays:",
+          "l": 97.704,
+          "t": 244.81996,
+          "r": 143.51505,
+          "b": 250.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7",
+          "l": 169.73,
+          "t": 244.81996,
+          "r": 177.26505,
+          "b": 250.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesdays:",
+          "l": 97.704,
+          "t": 258.29,
+          "r": 158.99504,
+          "b": 263.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 169.73,
+          "t": 258.29,
+          "r": 177.26505,
+          "b": 263.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursdays:",
+          "l": 97.704,
+          "t": 271.73,
+          "r": 147.47504,
+          "b": 277.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 169.73,
+          "t": 271.73,
+          "r": 177.26505,
+          "b": 277.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fridays:",
+          "l": 97.704,
+          "t": 285.17,
+          "r": 134.03503,
+          "b": 290.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 169.73,
+          "t": 285.17,
+          "r": 177.26505,
+          "b": 290.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025-26-I Semester:",
+          "l": 61.704,
+          "t": 312.05002,
+          "r": 154.19504,
+          "b": 317.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "65 teaching days with the following distribution of weekdays:",
+          "l": 61.704,
+          "t": 338.93,
+          "r": 335.08502,
+          "b": 344.44998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mondays:",
+          "l": 97.704,
+          "t": 352.61,
+          "r": 146.15504,
+          "b": 358.12997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 (11 + 2 Saturdays, August 9 and November 1, 2025 – Monday schedule will follow)",
+          "l": 169.73,
+          "t": 352.61,
+          "r": 511.17096,
+          "b": 358.12997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesdays:",
+          "l": 97.704,
+          "t": 366.05,
+          "r": 145.91504,
+          "b": 371.56998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 169.73,
+          "t": 366.05,
+          "r": 182.90504,
+          "b": 371.56998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesdays:  12",
+          "l": 97.704,
+          "t": 379.12997,
+          "r": 182.90504,
+          "b": 384.64996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursdays:",
+          "l": 97.704,
+          "t": 392.56998,
+          "r": 149.99504,
+          "b": 398.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 169.73,
+          "t": 392.56998,
+          "r": 182.90504,
+          "b": 398.08997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fridays:",
+          "l": 97.704,
+          "t": 406.00998,
+          "r": 136.55504,
+          "b": 411.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13 (11 + 2 Saturdays, August 23 and November 8, 2025** – Friday schedule will follow)",
+          "l": 169.73,
+          "t": 404.81,
+          "r": 515.131,
+          "b": 411.52997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Notes:",
+          "l": 61.704,
+          "t": 446.22998,
+          "r": 93.47904,
+          "b": 451.74997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1) If the requisite number of lectures cannot be scheduled, the instructors may, in consultation",
+          "l": 79.704,
+          "t": 459.66998,
+          "r": 526.0281,
+          "b": 465.18997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with the students in their respective courses, decide on a schedule of extra classes. The requisite",
+          "l": 97.704,
+          "t": 475.15,
+          "r": 526.17505,
+          "b": 480.66998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "number of lectures in a full semester course is 39 lectures of 50 minutes each for 3- lectures a",
+          "l": 97.704,
+          "t": 490.62997,
+          "r": 526.13007,
+          "b": 496.14996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "week schedule.",
+          "l": 97.704,
+          "t": 505.99,
+          "r": 169.10504,
+          "b": 511.50998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2) There will be no extra classes on Gazetted Holidays.",
+          "l": 79.704,
+          "t": 536.94995,
+          "r": 327.88504,
+          "b": 542.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3) No class, quiz, presentation or any other academic activity will be scheduled on February 20,",
+          "l": 79.704,
+          "t": 563.82996,
+          "r": 512.8646,
+          "b": 569.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "April 24-25, 2025, June 15, 2025, July 12-13, 2025, September 15, 2025, and November 15-16,",
+          "l": 97.704,
+          "t": 579.18994,
+          "r": 513.335,
+          "b": 584.70996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2025.",
+          "l": 97.704,
+          "t": 594.6699,
+          "r": 124.795044,
+          "b": 600.18994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4) Saturdays and Sundays falling within the examination period will be used for scheduling",
+          "l": 79.704,
+          "t": 621.57996,
+          "r": 525.5164,
+          "b": 627.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "examinations. Under extraordinary circumstances, examinations of some of the courses may be",
+          "l": 97.704,
+          "t": 636.93994,
+          "r": 525.7783,
+          "b": 642.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "scheduled on the days preceding/following the mid semester/end semester examinations.",
+          "l": 97.704,
+          "t": 652.4199,
+          "r": 503.83502,
+          "b": 657.93994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5) All make-up examinations permitted by the SUGC/SPGC will be conducted by the concerned",
+          "l": 79.704,
+          "t": 683.25995,
+          "r": 511.24283,
+          "b": 688.77997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "instructors in -charge as per the schedule detailed in the Academic Calendar.",
+          "l": 97.704,
+          "t": 698.74,
+          "r": 442.99503,
+          "b": 704.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "* DMC (Doctoral Monitoring Committee) Report should be submitted on the Pingala portal for",
+          "l": 97.704,
+          "t": 725.74,
+          "r": 519.49927,
+          "b": 733.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "all eligible PhD students.",
+          "l": 97.704,
+          "t": 743.016,
+          "r": 209.78503,
+          "b": 748.536,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "# Change date approved in 569th  Senate.",
+          "l": 97.704,
+          "t": 772.056,
+          "r": 274.34503,
+          "b": 779.496,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "** April 12, 2025 and November 8, 2025 are compensatory Fridays for the Gymkhana Holidays.",
+          "l": 97.704,
+          "t": 787.416,
+          "r": 504.31503,
+          "b": 794.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "***",
+          "l": 284.83,
+          "t": 818.27997,
+          "r": 303.045,
+          "b": 823.8,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

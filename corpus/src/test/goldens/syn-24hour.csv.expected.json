@@ -1,0 +1,11 @@
+{
+  "document": "syn-24hour.csv",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "DateOrder",
+      "example": "10/03/2026"
+    }
+  ],
+  "groups": 0
+}

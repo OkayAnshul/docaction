@@ -1,0 +1,109 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Visa Application Centre — Appointment Letter",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 339.97406,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Reference: VAC/2026/774120   Applicant: A. Sharma",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 310.3799,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appointment",
+          "l": 76.2,
+          "t": 90.17079,
+          "r": 140.58,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Reporting",
+          "l": 183.05,
+          "t": 90.17079,
+          "r": 232.99004,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Centre",
+          "l": 275.05,
+          "t": 95.92079,
+          "r": 306.69,
+          "b": 101.50079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "date",
+          "l": 76.2,
+          "t": 101.67079,
+          "r": 96.74999,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "time",
+          "l": 183.05,
+          "t": 101.67079,
+          "r": 203.59001,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Level 4, Prestige Tower,",
+          "l": 275.05,
+          "t": 130.12074,
+          "r": 385.53973,
+          "b": 135.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30/09/2026",
+          "l": 76.2,
+          "t": 135.87074,
+          "r": 126.18995,
+          "b": 141.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:15",
+          "l": 183.05,
+          "t": 135.87074,
+          "r": 208.05002,
+          "b": 141.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bengaluru",
+          "l": 275.05,
+          "t": 141.62074,
+          "r": 320.58994,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Applicants reporting more than 15 minutes late on 30/09/2026 will need a fresh appointment.",
+          "l": 74.8,
+          "t": 168.67079,
+          "r": 483.59958,
+          "b": 174.2508,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

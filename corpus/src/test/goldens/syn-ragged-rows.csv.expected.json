@@ -1,0 +1,24 @@
+{
+  "document": "syn-ragged-rows.csv",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 1,
+  "candidates": [
+    {
+      "title": "Three",
+      "start": "2026-03-03T00:00",
+      "end": "2026-03-04T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "SheetCell(syn-ragged-rows.csv)"
+      ]
+    }
+  ]
+}

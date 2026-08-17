@@ -1,0 +1,11 @@
+{
+  "document": "metrolink-timetable.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 7
+    }
+  ],
+  "groups": 7
+}

@@ -1,0 +1,5498 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 1067.95,
+      "heightPt": 671.952,
+      "runs": [
+        {
+          "text": "ROUTE 33_7-16  12/31/19  10:26 AM  Page 1",
+          "l": 3.0010014,
+          "t": -24.828012,
+          "r": 166.64896,
+          "b": -20.976013,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Welcome aboard the",
+          "l": 21.399698,
+          "t": 12.637295,
+          "r": 157.78769,
+          "b": 21.727295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WRTA!",
+          "l": 166.57999,
+          "t": 9.899795,
+          "r": 233.44669,
+          "b": 21.727295,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This route timetable shows the times of departure at major",
+          "l": 23.2488,
+          "t": 30.475332,
+          "r": 231.59515,
+          "b": 34.32733,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Route 33",
+          "l": 824.15204,
+          "t": 17.7287,
+          "r": 959.0944,
+          "b": 32.6687,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "stops along the route and contains route maps and other",
+          "l": 26.140799,
+          "t": 39.47533,
+          "r": 228.70233,
+          "b": 43.32733,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "important information. Additional information be can obtained",
+          "l": 19.045599,
+          "t": 48.47533,
+          "r": 235.79672,
+          "b": 52.32733,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OUTBOUND WEEKDAYS",
+          "l": 262.317,
+          "t": 39.383995,
+          "r": 654.36597,
+          "b": 48.721497,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UNION STATION HUB-LEICESTER –",
+          "l": 780.97705,
+          "t": 43.8212,
+          "r": 988.93317,
+          "b": 50.6687,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "by calling the WRTA Information Line",
+          "l": 61.698402,
+          "t": 57.47533,
+          "r": 195.37038,
+          "b": 61.32733,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "See the map for matching timepoint locations",
+          "l": 270.14398,
+          "t": 59.436836,
+          "r": 444.84644,
+          "b": 64.19684,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A",
+          "l": 653.658,
+          "t": 47.202137,
+          "r": 735.418,
+          "b": 60.002136,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SPENCER",
+          "l": 786.7399,
+          "t": 57.820896,
+          "r": 843.46686,
+          "b": 64.668396,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "– EAST BROOKFIELD –",
+          "l": 848.1562,
+          "t": 57.820896,
+          "r": 983.16925,
+          "b": 64.668396,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "at (508) 791-WRTA (9782),",
+          "l": 78.8448,
+          "t": 66.475334,
+          "r": 178.22319,
+          "b": 70.32733,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or visit our website at www.TheRTA.com.",
+          "l": 54.615196,
+          "t": 75.475334,
+          "r": 200.22797,
+          "b": 79.32733,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BROOKFIELD via MAIN ST. & ROUTE 9",
+          "l": 770.47864,
+          "t": 71.821686,
+          "r": 995.97656,
+          "b": 78.66919,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 282.651,
+          "t": 83.312,
+          "r": 289.323,
+          "b": 88.922,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1C",
+          "l": 318.318,
+          "t": 83.325,
+          "r": 333.6528,
+          "b": 88.935,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 365.104,
+          "t": 83.80998,
+          "r": 371.776,
+          "b": 89.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 411.651,
+          "t": 83.30998,
+          "r": 418.323,
+          "b": 88.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 456.10498,
+          "t": 83.30998,
+          "r": 462.77698,
+          "b": 88.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5",
+          "l": 502.558,
+          "t": 83.30998,
+          "r": 509.23,
+          "b": 88.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 549.651,
+          "t": 83.312,
+          "r": 556.323,
+          "b": 88.922,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7",
+          "l": 594.651,
+          "t": 83.312,
+          "r": 601.323,
+          "b": 88.922,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 640.651,
+          "t": 83.312,
+          "r": 647.323,
+          "b": 88.922,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9",
+          "l": 681.603,
+          "t": 83.80998,
+          "r": 688.275,
+          "b": 89.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 715.98114,
+          "t": 83.7719,
+          "r": 729.32513,
+          "b": 89.3819,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WRTA FARE INFORMATION",
+          "l": 62.592003,
+          "t": 101.65049,
+          "r": 191.43599,
+          "b": 107.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS               BUS                BUS",
+          "l": 279.936,
+          "t": 99.94349,
+          "r": 374.86047,
+          "b": 105.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS                  BUS                   BUS",
+          "l": 375.9412,
+          "t": 99.94349,
+          "r": 512.5209,
+          "b": 105.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS                  BUS                  BUS                BUS              BUS",
+          "l": 513.8118,
+          "t": 99.94349,
+          "r": 729.15375,
+          "b": 105.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Effective Date: January 25, 2020",
+          "l": 783.176,
+          "t": 99.32443,
+          "r": 980.8258,
+          "b": 106.171936,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Effective July 1, 2017",
+          "l": 81.03,
+          "t": 111.27299,
+          "r": 172.99551,
+          "b": 116.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STARTS",
+          "l": 274.59573,
+          "t": 108.94349,
+          "r": 297.6811,
+          "b": 114.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves            Leaves",
+          "l": 299.2586,
+          "t": 108.94349,
+          "r": 379.0546,
+          "b": 114.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 380.74805,
+          "t": 108.94349,
+          "r": 424.94153,
+          "b": 114.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves              Leaves               ENDS               Leaves",
+          "l": 425.86386,
+          "t": 108.94349,
+          "r": 608.4912,
+          "b": 114.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves           Leaves",
+          "l": 609.79944,
+          "t": 108.94349,
+          "r": 695.2535,
+          "b": 114.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ENDS",
+          "l": 696.7525,
+          "t": 108.94349,
+          "r": 731.1539,
+          "b": 114.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Full Cash Fare (Adults age 14 and up)",
+          "l": 25.770498,
+          "t": 122.40099,
+          "r": 144.54317,
+          "b": 126.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ". . . . . . . . . . . . . . . . . $1.75",
+          "l": 146.13293,
+          "t": 122.40099,
+          "r": 227.64493,
+          "b": 126.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Union Station      City Hall                Clark",
+          "l": 267.966,
+          "t": 117.75899,
+          "r": 374.9671,
+          "b": 123.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Webster Square",
+          "l": 375.77982,
+          "t": 117.75899,
+          "r": 434.4349,
+          "b": 123.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leicester",
+          "l": 435.88138,
+          "t": 117.75899,
+          "r": 470.86542,
+          "b": 123.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leicester",
+          "l": 471.51556,
+          "t": 117.75899,
+          "r": 517.5246,
+          "b": 123.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spencer                Spencer",
+          "l": 518.65796,
+          "t": 117.75899,
+          "r": 608.25476,
+          "b": 123.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "East Brookfield",
+          "l": 609.14996,
+          "t": 117.75899,
+          "r": 662.32153,
+          "b": 123.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "East Brookfield    Brookfield",
+          "l": 663.0095,
+          "t": 117.75899,
+          "r": 748.1638,
+          "b": 123.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Senior/Disabled Cash Fare . . . . . . . . . . . . . . . . . . . . . . . . . . $0.85",
+          "l": 25.770498,
+          "t": 130.40099,
+          "r": 227.6485,
+          "b": 134.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Hub",
+          "l": 281.07483,
+          "t": 126.75899,
+          "r": 291.22412,
+          "b": 132.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Franklin St",
+          "l": 292.10486,
+          "t": 126.75899,
+          "r": 339.1528,
+          "b": 132.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "University                 Plaza",
+          "l": 340.50162,
+          "t": 126.75899,
+          "r": 421.03113,
+          "b": 132.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Center                 Wal-Mart",
+          "l": 421.7008,
+          "t": 126.75899,
+          "r": 517.8223,
+          "b": 132.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Center",
+          "l": 519.1819,
+          "t": 126.75899,
+          "r": 560.4775,
+          "b": 132.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DPW Garage",
+          "l": 561.72174,
+          "t": 126.75899,
+          "r": 614.0176,
+          "b": 132.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Courthouse                                   Center",
+          "l": 615.08545,
+          "t": 126.75899,
+          "r": 731.013,
+          "b": 132.33899,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Worcester Regional Transit Authority",
+          "l": 779.19104,
+          "t": 123.52253,
+          "r": 984.8122,
+          "b": 131.77103,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Children 5-13 years of age accompanied by an adult . . . . . $0.85",
+          "l": 25.770498,
+          "t": 138.40099,
+          "r": 227.6348,
+          "b": 142.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "450a",
+          "l": 275.90698,
+          "t": 141.88553,
+          "r": 295.92297,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "453a",
+          "l": 315.46378,
+          "t": 141.88553,
+          "r": 335.47977,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "458a",
+          "l": 357.79797,
+          "t": 141.88553,
+          "r": 377.81396,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "505a",
+          "l": 404.41797,
+          "t": 141.88553,
+          "r": 424.43396,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "511a",
+          "l": 448.89505,
+          "t": 141.88553,
+          "r": 468.91104,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "516a",
+          "l": 471.03143,
+          "t": 141.88553,
+          "r": 516.0677,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "521a",
+          "l": 518.18896,
+          "t": 141.88553,
+          "r": 563.2252,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....             .....",
+          "l": 565.70294,
+          "t": 141.88553,
+          "r": 653.7855,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "528a     *535a",
+          "l": 655.0158,
+          "t": 141.88553,
+          "r": 732.0229,
+          "b": 146.21902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Children 9 years of age not accompanied by an adult**. . . . $1.75",
+          "l": 25.770498,
+          "t": 146.40099,
+          "r": 227.63046,
+          "b": 150.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Children under 5 accompanied by an adult",
+          "l": 25.770498,
+          "t": 154.40099,
+          "r": 157.41028,
+          "b": 158.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ". . . . . . . . . . . . . FREE",
+          "l": 159.87556,
+          "t": 154.40099,
+          "r": 227.65134,
+          "b": 158.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "600a",
+          "l": 275.90698,
+          "t": 151.08533,
+          "r": 295.92297,
+          "b": 155.41882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "603a",
+          "l": 315.46466,
+          "t": 151.08533,
+          "r": 335.48065,
+          "b": 155.41882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "613a",
+          "l": 357.79794,
+          "t": 151.08533,
+          "r": 377.81393,
+          "b": 155.41882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "620a",
+          "l": 404.41794,
+          "t": 151.08533,
+          "r": 424.43393,
+          "b": 155.41882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "629a",
+          "l": 448.89502,
+          "t": 151.08533,
+          "r": 468.911,
+          "b": 155.41882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "632a",
+          "l": 471.03232,
+          "t": 151.08533,
+          "r": 516.0686,
+          "b": 155.41882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "642a",
+          "l": 518.189,
+          "t": 151.08533,
+          "r": 563.2253,
+          "b": 155.41882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*646a             .....                          .....",
+          "l": 564.7049,
+          "t": 151.08533,
+          "r": 732.02386,
+          "b": 155.41882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "635a",
+          "l": 275.90787,
+          "t": 160.28513,
+          "r": 295.92386,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "638a",
+          "l": 315.46466,
+          "t": 160.28513,
+          "r": 335.48065,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "648a",
+          "l": 357.79794,
+          "t": 160.28513,
+          "r": 377.81393,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "655a",
+          "l": 404.41882,
+          "t": 160.28513,
+          "r": 424.4348,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "704a",
+          "l": 448.8959,
+          "t": 160.28513,
+          "r": 468.9119,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "707a",
+          "l": 471.0323,
+          "t": 160.28513,
+          "r": 516.06854,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "717a",
+          "l": 518.18896,
+          "t": 160.28513,
+          "r": 563.2252,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....             .....",
+          "l": 565.70294,
+          "t": 160.28513,
+          "r": 653.7855,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "724a     *731a",
+          "l": 655.0158,
+          "t": 160.28513,
+          "r": 732.0229,
+          "b": 164.61862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "One Day 8 Ride Pass (Adults age 14 & up)",
+          "l": 25.770498,
+          "t": 166.40099,
+          "r": 159.2499,
+          "b": 170.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ". . . . . . . . . . . . . $4.50",
+          "l": 161.18309,
+          "t": 166.40099,
+          "r": 227.65063,
+          "b": 170.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "740a",
+          "l": 275.90787,
+          "t": 169.48492,
+          "r": 295.92386,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "743a",
+          "l": 315.46466,
+          "t": 169.48492,
+          "r": 335.48065,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "753a",
+          "l": 357.79886,
+          "t": 169.48492,
+          "r": 377.81485,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "800a",
+          "l": 404.41885,
+          "t": 169.48492,
+          "r": 424.43484,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "809a",
+          "l": 448.89594,
+          "t": 169.48492,
+          "r": 468.91193,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "812a",
+          "l": 471.03232,
+          "t": 169.48492,
+          "r": 516.0686,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "822a",
+          "l": 518.189,
+          "t": 169.48492,
+          "r": 563.2253,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 565.7048,
+          "t": 169.48492,
+          "r": 608.239,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*826a                          .....",
+          "l": 610.255,
+          "t": 169.48492,
+          "r": 732.0247,
+          "b": 173.81842,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Senior/Disabled*/Child One Day 8 Ride Pass. . . . . . . . . . . . $2.25",
+          "l": 25.770498,
+          "t": 174.40099,
+          "r": 227.6413,
+          "b": 178.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "920a",
+          "l": 275.90787,
+          "t": 178.68472,
+          "r": 295.92386,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "923a",
+          "l": 315.46555,
+          "t": 178.68472,
+          "r": 335.48154,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "933a",
+          "l": 357.79883,
+          "t": 178.68472,
+          "r": 377.81482,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "940a",
+          "l": 404.4197,
+          "t": 178.68472,
+          "r": 424.4357,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "949a",
+          "l": 448.8968,
+          "t": 178.68472,
+          "r": 468.91278,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "952a",
+          "l": 471.03317,
+          "t": 178.68472,
+          "r": 516.06946,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1002a",
+          "l": 518.1899,
+          "t": 178.68472,
+          "r": 563.22614,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 565.7056,
+          "t": 178.68472,
+          "r": 608.23987,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*1006a                          .....",
+          "l": 610.25586,
+          "t": 178.68472,
+          "r": 732.0265,
+          "b": 183.01822,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31 Day Pass",
+          "l": 25.770498,
+          "t": 187.40099,
+          "r": 65.28554,
+          "b": 191.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $57.00",
+          "l": 66.98978,
+          "t": 187.40099,
+          "r": 227.65356,
+          "b": 191.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1100a",
+          "l": 270.90475,
+          "t": 187.88452,
+          "r": 295.92474,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1104a",
+          "l": 310.46155,
+          "t": 187.88452,
+          "r": 335.48154,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1114a",
+          "l": 352.79483,
+          "t": 187.88452,
+          "r": 377.81482,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1121a",
+          "l": 399.4157,
+          "t": 187.88452,
+          "r": 424.4357,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1130a",
+          "l": 443.8928,
+          "t": 187.88452,
+          "r": 468.91278,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1133a",
+          "l": 471.03317,
+          "t": 187.88452,
+          "r": 516.06946,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1144a",
+          "l": 518.1899,
+          "t": 187.88452,
+          "r": 563.22614,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 565.70386,
+          "t": 187.88452,
+          "r": 608.2381,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*1156a                          .....",
+          "l": 610.2541,
+          "t": 187.88452,
+          "r": 732.0247,
+          "b": 192.21802,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Senior/Disabled*31 Day Pass",
+          "l": 25.770498,
+          "t": 195.40099,
+          "r": 116.8397,
+          "b": 199.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ". . . . . . . . . . . . . . . . . . . . . . . $28.50",
+          "l": 119.671455,
+          "t": 195.40099,
+          "r": 227.64706,
+          "b": 199.25299,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1210p",
+          "l": 270.40616,
+          "t": 197.21031,
+          "r": 295.92114,
+          "b": 201.41782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1214p",
+          "l": 309.95844,
+          "t": 197.21031,
+          "r": 335.47342,
+          "b": 201.41782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1224p",
+          "l": 352.28723,
+          "t": 197.21031,
+          "r": 377.80133,
+          "b": 201.41782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1231p",
+          "l": 398.90274,
+          "t": 197.21031,
+          "r": 424.41772,
+          "b": 201.41782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1240p",
+          "l": 443.37534,
+          "t": 197.21031,
+          "r": 468.89032,
+          "b": 201.41782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1243p",
+          "l": 470.52383,
+          "t": 197.21031,
+          "r": 516.0551,
+          "b": 201.41782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1254p             .....",
+          "l": 517.6886,
+          "t": 197.21031,
+          "r": 608.2561,
+          "b": 201.41782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*106p                          .....",
+          "l": 609.7843,
+          "t": 197.21031,
+          "r": 732.0958,
+          "b": 201.41782,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Serving:",
+          "l": 855.45605,
+          "t": 196.54202,
+          "r": 908.9977,
+          "b": 204.01202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*Valid ID Required for Senior/Disabled Fare",
+          "l": 25.770498,
+          "t": 207.0879,
+          "r": 151.41516,
+          "b": 211.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "110p",
+          "l": 275.90427,
+          "t": 206.41011,
+          "r": 295.92294,
+          "b": 210.61761,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "114p",
+          "l": 315.45834,
+          "t": 206.41011,
+          "r": 335.47794,
+          "b": 210.61761,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "124p",
+          "l": 357.29843,
+          "t": 206.41011,
+          "r": 377.80942,
+          "b": 210.61761,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "131p",
+          "l": 403.9157,
+          "t": 206.41011,
+          "r": 424.4267,
+          "b": 210.61761,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "140p",
+          "l": 448.3892,
+          "t": 206.41011,
+          "r": 468.90018,
+          "b": 210.61761,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "143p",
+          "l": 470.53726,
+          "t": 206.41011,
+          "r": 516.06854,
+          "b": 210.61761,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "154p             .....",
+          "l": 517.7056,
+          "t": 206.41011,
+          "r": 608.27313,
+          "b": 210.61761,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*206p                          .....",
+          "l": 609.80133,
+          "t": 206.41011,
+          "r": 732.11285,
+          "b": 210.61761,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "210p",
+          "l": 275.41196,
+          "t": 215.60991,
+          "r": 295.92294,
+          "b": 219.81741,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "214p",
+          "l": 314.96603,
+          "t": 215.60991,
+          "r": 335.47702,
+          "b": 219.81741,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "224p",
+          "l": 357.29663,
+          "t": 215.60991,
+          "r": 377.80762,
+          "b": 219.81741,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "231p",
+          "l": 403.91483,
+          "t": 215.60991,
+          "r": 424.4258,
+          "b": 219.81741,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "240p",
+          "l": 448.38922,
+          "t": 215.60991,
+          "r": 468.9002,
+          "b": 219.81741,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "243p",
+          "l": 470.5373,
+          "t": 215.60991,
+          "r": 516.06854,
+          "b": 219.81741,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "254p             .....",
+          "l": 517.70654,
+          "t": 215.60991,
+          "r": 608.27405,
+          "b": 219.81741,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*306p                          .....",
+          "l": 609.80225,
+          "t": 215.60991,
+          "r": 732.1138,
+          "b": 219.81741,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Union Station",
+          "l": 850.14124,
+          "t": 209.87163,
+          "r": 914.3234,
+          "b": 217.01163,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please have exact fare ready when boarding the bus.",
+          "l": 38.787003,
+          "t": 220.4929,
+          "r": 217.12881,
+          "b": 225.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "310p",
+          "l": 275.41284,
+          "t": 224.80971,
+          "r": 295.92383,
+          "b": 229.01721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "314p",
+          "l": 314.96692,
+          "t": 224.80971,
+          "r": 335.4779,
+          "b": 229.01721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "324p",
+          "l": 357.2984,
+          "t": 224.80971,
+          "r": 377.8094,
+          "b": 229.01721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "331p",
+          "l": 403.91568,
+          "t": 224.80971,
+          "r": 424.42667,
+          "b": 229.01721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "340p",
+          "l": 448.38916,
+          "t": 224.80971,
+          "r": 468.90015,
+          "b": 229.01721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "343p",
+          "l": 470.53723,
+          "t": 224.80971,
+          "r": 516.0685,
+          "b": 229.01721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "354p             .....",
+          "l": 517.70557,
+          "t": 224.80971,
+          "r": 608.2731,
+          "b": 229.01721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*406p                          .....",
+          "l": 609.8013,
+          "t": 224.80971,
+          "r": 732.1128,
+          "b": 229.01721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The farebox does not accept pennies or half dollars.",
+          "l": 40.057083,
+          "t": 229.4929,
+          "r": 215.8595,
+          "b": 234.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Federal Building / U.S. Courthouse",
+          "l": 800.898,
+          "t": 222.87123,
+          "r": 963.5481,
+          "b": 230.01123,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "410p",
+          "l": 275.41284,
+          "t": 234.0095,
+          "r": 295.92383,
+          "b": 238.21701,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "414p",
+          "l": 314.96692,
+          "t": 234.0095,
+          "r": 335.4779,
+          "b": 238.21701,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "424p",
+          "l": 357.29752,
+          "t": 234.0095,
+          "r": 377.8085,
+          "b": 238.21701,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "431p",
+          "l": 403.9157,
+          "t": 234.0095,
+          "r": 424.4267,
+          "b": 238.21701,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "440p",
+          "l": 448.3901,
+          "t": 234.0095,
+          "r": 468.9011,
+          "b": 238.21701,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "443p",
+          "l": 470.53818,
+          "t": 234.0095,
+          "r": 516.06946,
+          "b": 238.21701,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "454p             .....",
+          "l": 517.70746,
+          "t": 234.0095,
+          "r": 608.27496,
+          "b": 238.21701,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*506p                          .....",
+          "l": 609.80316,
+          "t": 234.0095,
+          "r": 732.1147,
+          "b": 238.21701,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Charlie Card",
+          "l": 25.770842,
+          "t": 242.4929,
+          "r": 83.78555,
+          "b": 247.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "is available to either purchase a monthly",
+          "l": 85.98588,
+          "t": 241.5169,
+          "r": 215.64218,
+          "b": 247.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "YMCA Central Branch",
+          "l": 830.9544,
+          "t": 235.87083,
+          "r": 933.4945,
+          "b": 243.01083,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "510p",
+          "l": 275.41373,
+          "t": 243.2093,
+          "r": 295.9247,
+          "b": 247.41681,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "513p",
+          "l": 314.9678,
+          "t": 243.2093,
+          "r": 335.4788,
+          "b": 247.41681,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "523p",
+          "l": 357.2993,
+          "t": 243.2093,
+          "r": 377.81027,
+          "b": 247.41681,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "530p",
+          "l": 403.91656,
+          "t": 243.2093,
+          "r": 424.42755,
+          "b": 247.41681,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "539p",
+          "l": 448.39005,
+          "t": 243.2093,
+          "r": 468.90103,
+          "b": 247.41681,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "542p",
+          "l": 470.53812,
+          "t": 243.2093,
+          "r": 516.0694,
+          "b": 247.41681,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "552p             .....             .....        559p     *606p",
+          "l": 517.7065,
+          "t": 243.2093,
+          "r": 732.09845,
+          "b": 247.41681,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pass or add stored value (cash).  The stored value gives you",
+          "l": 25.770838,
+          "t": 249.5169,
+          "r": 220.73616,
+          "b": 255.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "610p",
+          "l": 275.41373,
+          "t": 252.4091,
+          "r": 295.9247,
+          "b": 256.6166,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "613p",
+          "l": 314.9678,
+          "t": 252.4091,
+          "r": 335.4788,
+          "b": 256.6166,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "623p",
+          "l": 357.2984,
+          "t": 252.4091,
+          "r": 377.8094,
+          "b": 256.6166,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "630p",
+          "l": 403.9166,
+          "t": 252.4091,
+          "r": 424.42758,
+          "b": 256.6166,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "639p",
+          "l": 448.391,
+          "t": 252.4091,
+          "r": 468.90198,
+          "b": 256.6166,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "642p",
+          "l": 470.53906,
+          "t": 252.4091,
+          "r": 516.0703,
+          "b": 256.6166,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "652p             .....             .....        659p     *706p",
+          "l": 517.7083,
+          "t": 252.4091,
+          "r": 732.10297,
+          "b": 256.6166,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Clark University",
+          "l": 844.7904,
+          "t": 248.87044,
+          "r": 919.68,
+          "b": 256.01044,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discounted fare with the WRTA.  They can b e used on the",
+          "l": 25.770838,
+          "t": 257.5169,
+          "r": 211.68497,
+          "b": 263.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WRTA, MBTA and other participating RTAʼs in Massachusetts.",
+          "l": 25.770834,
+          "t": 265.5169,
+          "r": 224.59895,
+          "b": 271.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "710p",
+          "l": 275.4146,
+          "t": 261.60892,
+          "r": 295.9256,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "713p",
+          "l": 314.9687,
+          "t": 261.60892,
+          "r": 335.4788,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "723p",
+          "l": 357.2984,
+          "t": 261.60892,
+          "r": 377.8094,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "730p",
+          "l": 403.91568,
+          "t": 261.60892,
+          "r": 424.42667,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "739p",
+          "l": 448.39008,
+          "t": 261.60892,
+          "r": 468.90106,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "742p",
+          "l": 470.53906,
+          "t": 261.60892,
+          "r": 516.0703,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "749p        *753p             .....",
+          "l": 517.7074,
+          "t": 261.4829,
+          "r": 653.7909,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 655.0212,
+          "t": 261.4829,
+          "r": 695.0534,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 697.0001,
+          "t": 261.4829,
+          "r": 732.0283,
+          "b": 265.8164,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Webster Square",
+          "l": 844.8984,
+          "t": 261.87003,
+          "r": 919.56,
+          "b": 269.01004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You can obtain a Charlie Card at the Customer Service Center",
+          "l": 25.770834,
+          "t": 273.5169,
+          "r": 226.39389,
+          "b": 279.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "located at 60 Foster Street, Worcester, MA",
+          "l": 25.770834,
+          "t": 281.5169,
+          "r": 162.90564,
+          "b": 287.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Webster Square Plaza",
+          "l": 830.8476,
+          "t": 274.86963,
+          "r": 933.6277,
+          "b": 282.00964,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "* Trips end here",
+          "l": 649.36804,
+          "t": 282.4824,
+          "r": 708.39716,
+          "b": 287.8779,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Route schedules and the purchase of passes are available at",
+          "l": 25.770834,
+          "t": 293.0169,
+          "r": 222.4764,
+          "b": 298.7529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Becker College (Leicester campus)",
+          "l": 800.2572,
+          "t": 287.86923,
+          "r": 964.2015,
+          "b": 295.00925,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the Customer Service Center at 60 Foster Street, Worcester.",
+          "l": 25.770834,
+          "t": 300.5169,
+          "r": 220.12338,
+          "b": 306.2529,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leicester Housing Authority",
+          "l": 816.3336,
+          "t": 300.86884,
+          "r": 948.1367,
+          "b": 308.00885,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INBOUND WEEKDAYS",
+          "l": 290.223,
+          "t": 308.93753,
+          "r": 647.292,
+          "b": 318.27502,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leicester Wal-Mart",
+          "l": 839.01843,
+          "t": 313.86844,
+          "r": 925.44257,
+          "b": 321.00845,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCESSIBILITY:",
+          "l": 14.1471,
+          "t": 329.92902,
+          "r": 85.1151,
+          "b": 334.90903,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All WRTA buses are wheelchair accessible",
+          "l": 87.2423,
+          "t": 331.05704,
+          "r": 239.1463,
+          "b": 334.90903,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "See the map for matching timepoint locations",
+          "l": 270.7992,
+          "t": 328.94803,
+          "r": 445.50165,
+          "b": 333.70804,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Western Worcester District Court",
+          "l": 805.34283,
+          "t": 326.86804,
+          "r": 959.14813,
+          "b": 334.00806,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and feature bicycle racks for two bicycles. For TTY service call",
+          "l": 14.1471,
+          "t": 339.05704,
+          "r": 239.14548,
+          "b": 342.90903,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Massachusetts Relay TTY (800) 439-2370. For information,",
+          "l": 14.1471,
+          "t": 347.05704,
+          "r": 239.14148,
+          "b": 350.90903,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 278.676,
+          "t": 348.38403,
+          "r": 292.02,
+          "b": 353.99402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9",
+          "l": 320.475,
+          "t": 348.80493,
+          "r": 327.147,
+          "b": 354.41492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 364.013,
+          "t": 348.38403,
+          "r": 370.685,
+          "b": 353.99402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7",
+          "l": 411.975,
+          "t": 348.38403,
+          "r": 418.647,
+          "b": 353.99402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 457.013,
+          "t": 348.80493,
+          "r": 463.685,
+          "b": 354.41492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5",
+          "l": 502.975,
+          "t": 348.38403,
+          "r": 509.647,
+          "b": 353.99402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 548.013,
+          "t": 348.38403,
+          "r": 554.685,
+          "b": 353.99402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 590.013,
+          "t": 348.38403,
+          "r": 596.685,
+          "b": 353.99402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 636.013,
+          "t": 348.38403,
+          "r": 642.685,
+          "b": 353.99402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1A",
+          "l": 674.60205,
+          "t": 348.80493,
+          "r": 689.93805,
+          "b": 354.41492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 720.289,
+          "t": 348.429,
+          "r": 726.961,
+          "b": 354.039,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "accommodations and or to provide feedback call 508-791-9782",
+          "l": 14.1471,
+          "t": 355.057,
+          "r": 239.1423,
+          "b": 358.909,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Translation",
+          "l": 774.00104,
+          "t": 352.32703,
+          "r": 801.22314,
+          "b": 355.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "option 2.",
+          "l": 14.1471,
+          "t": 363.057,
+          "r": 45.057495,
+          "b": 366.909,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 279.608,
+          "t": 364.5465,
+          "r": 292.0136,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 317.80978,
+          "t": 364.5465,
+          "r": 332.0161,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 361.42883,
+          "t": 364.5465,
+          "r": 373.83444,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 409.56155,
+          "t": 364.5465,
+          "r": 423.76715,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 454.46002,
+          "t": 364.5465,
+          "r": 466.86563,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 500.10873,
+          "t": 364.5465,
+          "r": 512.5143,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 545.108,
+          "t": 364.5465,
+          "r": 557.5142,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 586.3243,
+          "t": 364.5465,
+          "r": 598.7298,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 633.6937,
+          "t": 364.5465,
+          "r": 646.09924,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 675.9418,
+          "t": 364.5465,
+          "r": 688.3473,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BUS",
+          "l": 716.4827,
+          "t": 364.5465,
+          "r": 728.88824,
+          "b": 369.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "English:",
+          "l": 774.00104,
+          "t": 364.32703,
+          "r": 793.6691,
+          "b": 367.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If this information is needed in another language, please visit www.therta.com",
+          "l": 795.31903,
+          "t": 364.204,
+          "r": 980.71454,
+          "b": 367.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PROPER IDENTIFICATION:",
+          "l": 14.1471,
+          "t": 372.929,
+          "r": 131.41031,
+          "b": 377.909,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STARTS",
+          "l": 274.26776,
+          "t": 373.5465,
+          "r": 297.35385,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 313.70578,
+          "t": 373.5465,
+          "r": 334.49942,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 357.23343,
+          "t": 373.5465,
+          "r": 378.02707,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 405.45547,
+          "t": 373.5465,
+          "r": 426.2491,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 450.264,
+          "t": 373.5465,
+          "r": 471.05765,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 495.91202,
+          "t": 373.5465,
+          "r": 516.7055,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 540.9119,
+          "t": 373.5465,
+          "r": 561.7054,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 582.1289,
+          "t": 373.5465,
+          "r": 602.92236,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 629.49756,
+          "t": 373.5465,
+          "r": 650.291,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leaves",
+          "l": 671.7456,
+          "t": 373.5465,
+          "r": 692.53906,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ENDS",
+          "l": 714.4825,
+          "t": 373.5465,
+          "r": 730.884,
+          "b": 378.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and use the Google Translate feature.",
+          "l": 774.00104,
+          "t": 370.204,
+          "r": 862.27203,
+          "b": 373.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "One of the following valid iden-",
+          "l": 131.1991,
+          "t": 374.057,
+          "r": 239.14551,
+          "b": 377.909,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "tification cards must be shown to the driver each time you board:",
+          "l": 14.147902,
+          "t": 382.057,
+          "r": 241.37024,
+          "b": 385.909,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Brookfield",
+          "l": 273.225,
+          "t": 383.36203,
+          "r": 298.4187,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "East Brookfield",
+          "l": 305.4035,
+          "t": 383.36203,
+          "r": 342.82553,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "East Brookfield",
+          "l": 348.9315,
+          "t": 383.36203,
+          "r": 386.35352,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spencer",
+          "l": 405.71973,
+          "t": 383.36203,
+          "r": 426.01205,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spencer",
+          "l": 450.52914,
+          "t": 383.36203,
+          "r": 470.82147,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leicester",
+          "l": 495.13254,
+          "t": 383.36203,
+          "r": 517.5164,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leicester",
+          "l": 540.13214,
+          "t": 383.36203,
+          "r": 562.516,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Webster Square",
+          "l": 572.6628,
+          "t": 383.36203,
+          "r": 612.41705,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Clark Univ.",
+          "l": 626.5341,
+          "t": 383.36203,
+          "r": 653.2852,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "City Hall",
+          "l": 671.84436,
+          "t": 383.36203,
+          "r": 692.4706,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Union Station",
+          "l": 705.7327,
+          "t": 383.36203,
+          "r": 739.6647,
+          "b": 388.94202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Portuguese:",
+          "l": 774.00104,
+          "t": 382.32703,
+          "r": 803.3351,
+          "b": 385.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Se esta informação é necessária em outro idioma, por favor visite",
+          "l": 804.98505,
+          "t": 382.204,
+          "r": 962.7553,
+          "b": 385.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.therta.com e use o Google Translate.",
+          "l": 774.00104,
+          "t": 388.204,
+          "r": 874.3933,
+          "b": 391.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SENIOR",
+          "l": 14.147902,
+          "t": 394.169,
+          "r": 44.8199,
+          "b": 397.909,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ". . . . . . . . . . . . . . . . . . . . . . . . . WRTA Senior I.D. card",
+          "l": 47.295906,
+          "t": 394.057,
+          "r": 240.50385,
+          "b": 397.909,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Center",
+          "l": 277.77298,
+          "t": 393.3619,
+          "r": 293.8695,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Courthouse",
+          "l": 353.29364,
+          "t": 393.3619,
+          "r": 381.99014,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DPW Garage",
+          "l": 399.9527,
+          "t": 393.3619,
+          "r": 431.7747,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Center",
+          "l": 452.62454,
+          "t": 393.3619,
+          "r": 468.72107,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wal-Mart",
+          "l": 494.83328,
+          "t": 393.3619,
+          "r": 517.8107,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Center",
+          "l": 543.27344,
+          "t": 393.3619,
+          "r": 559.36993,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plaza",
+          "l": 586.06494,
+          "t": 393.3619,
+          "r": 599.0114,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Main St.)",
+          "l": 669.6533,
+          "t": 393.3619,
+          "r": 694.6581,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Hub",
+          "l": 717.6222,
+          "t": 393.3619,
+          "r": 727.77155,
+          "b": 398.9419,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spanish:",
+          "l": 774.00226,
+          "t": 400.32703,
+          "r": 795.3383,
+          "b": 403.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Si necesita esta información en otro idioma, por favor visite www.therta.com y",
+          "l": 796.9883,
+          "t": 400.204,
+          "r": 983.6978,
+          "b": 403.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DISABLED",
+          "l": 14.147905,
+          "t": 405.76904,
+          "r": 55.035904,
+          "b": 409.50903,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ". . . Statewide Access Pass / WRTA ADA Photo I.D.",
+          "l": 56.18711,
+          "t": 405.65704,
+          "r": 242.2503,
+          "b": 409.50903,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "539a",
+          "l": 275.23898,
+          "t": 408.2884,
+          "r": 295.25497,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "546a",
+          "l": 312.75006,
+          "t": 408.2884,
+          "r": 332.76605,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 364.73315,
+          "t": 408.2884,
+          "r": 377.24323,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.49612,
+          "t": 408.2884,
+          "r": 426.0062,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "553a",
+          "l": 449.9309,
+          "t": 408.2884,
+          "r": 469.9469,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "600a",
+          "l": 496.55087,
+          "t": 408.2884,
+          "r": 516.567,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "603a",
+          "l": 541.5636,
+          "t": 408.2884,
+          "r": 561.5797,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "613a",
+          "l": 583.89703,
+          "t": 408.2884,
+          "r": 603.91315,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "620a",
+          "l": 629.44525,
+          "t": 408.2884,
+          "r": 649.46136,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "630a",
+          "l": 672.31506,
+          "t": 408.2884,
+          "r": 692.3312,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "635a",
+          "l": 714.11206,
+          "t": 408.2884,
+          "r": 734.1282,
+          "b": 412.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "utilice Google Translate.",
+          "l": 774.00226,
+          "t": 406.204,
+          "r": 830.66626,
+          "b": 409.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MCB ID and PCA-ride free",
+          "l": 143.8903,
+          "t": 413.65704,
+          "r": 241.36871,
+          "b": 417.50903,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.745,
+          "t": 417.2884,
+          "r": 295.25507,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.25616,
+          "t": 417.2884,
+          "r": 332.76624,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 364.73334,
+          "t": 417.2884,
+          "r": 377.2434,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "650a",
+          "l": 405.9912,
+          "t": 417.2884,
+          "r": 426.0072,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "654a",
+          "l": 449.93192,
+          "t": 417.2884,
+          "r": 469.9479,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "701a",
+          "l": 496.5519,
+          "t": 417.2884,
+          "r": 516.56805,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "705a",
+          "l": 541.5638,
+          "t": 417.2884,
+          "r": 561.5799,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "715a",
+          "l": 583.8981,
+          "t": 417.2884,
+          "r": 603.9142,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "725a",
+          "l": 629.4472,
+          "t": 417.2884,
+          "r": 649.4633,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "735a",
+          "l": 672.3161,
+          "t": 417.2884,
+          "r": 692.3322,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "740a",
+          "l": 714.114,
+          "t": 417.2884,
+          "r": 734.1301,
+          "b": 421.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "French: Si vous désirez ces renseignements dans une autre langue, prière de vous server",
+          "l": 774.00226,
+          "t": 418.204,
+          "r": 986.6304,
+          "b": 421.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MEDICARE",
+          "l": 14.148718,
+          "t": 424.36902,
+          "r": 56.81272,
+          "b": 428.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ". . . . . . . . . . . . . . . . . Medicare card with Photo I.D.",
+          "l": 57.629524,
+          "t": 424.25702,
+          "r": 238.50629,
+          "b": 428.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "735a",
+          "l": 275.2399,
+          "t": 426.2884,
+          "r": 295.2559,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "744a",
+          "l": 312.75098,
+          "t": 426.2884,
+          "r": 332.76697,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 364.73315,
+          "t": 426.2884,
+          "r": 377.24323,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.49612,
+          "t": 426.2884,
+          "r": 426.0062,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "751a",
+          "l": 449.9318,
+          "t": 426.2884,
+          "r": 469.94778,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "758a",
+          "l": 496.5518,
+          "t": 426.2884,
+          "r": 516.56793,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "801a",
+          "l": 541.5654,
+          "t": 426.2884,
+          "r": 561.58154,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "813a",
+          "l": 583.89886,
+          "t": 426.2884,
+          "r": 603.915,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "820a",
+          "l": 629.4471,
+          "t": 426.2884,
+          "r": 649.4632,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "830a",
+          "l": 672.3169,
+          "t": 426.2884,
+          "r": 692.333,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "835a",
+          "l": 714.1139,
+          "t": 426.2884,
+          "r": 734.13,
+          "b": 430.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "de Google Translate qui se trouve à l'adresse suivante: www.therta.com.",
+          "l": 774.00226,
+          "t": 424.204,
+          "r": 946.7912,
+          "b": 427.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HOLIDAY SERVICE:",
+          "l": 14.149523,
+          "t": 434.129,
+          "r": 98.19431,
+          "b": 439.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday* Service",
+          "l": 99.96473,
+          "t": 435.36902,
+          "r": 165.76782,
+          "b": 439.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "is provided on Martin",
+          "l": 167.64713,
+          "t": 435.25702,
+          "r": 239.14703,
+          "b": 439.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.7459,
+          "t": 435.2884,
+          "r": 295.25598,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.25708,
+          "t": 435.2884,
+          "r": 332.76715,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "830a",
+          "l": 357.22824,
+          "t": 435.2884,
+          "r": 377.24423,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.49802,
+          "t": 435.2884,
+          "r": 426.0081,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "834a",
+          "l": 449.9328,
+          "t": 435.2884,
+          "r": 469.9488,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "841a",
+          "l": 496.55276,
+          "t": 435.2884,
+          "r": 516.5689,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "845a",
+          "l": 541.56464,
+          "t": 435.2884,
+          "r": 561.58075,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "855a",
+          "l": 583.8989,
+          "t": 435.2884,
+          "r": 603.91504,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "905a",
+          "l": 629.44806,
+          "t": 435.2884,
+          "r": 649.4642,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "915a",
+          "l": 672.31696,
+          "t": 435.2884,
+          "r": 692.33307,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "920a",
+          "l": 714.11487,
+          "t": 435.2884,
+          "r": 734.131,
+          "b": 439.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Polish: Jeśli ta informacja jest potrzebna w innym języku, proszę",
+          "l": 774.00226,
+          "t": 434.224,
+          "r": 929.8444,
+          "b": 439.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "odwiedzić",
+          "l": 931.49567,
+          "t": 434.224,
+          "r": 955.2317,
+          "b": 439.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Luther King, Jr. Day, Presidents’ Day, Patriots’ Day, Columbus Day,",
+          "l": 14.149527,
+          "t": 443.25702,
+          "r": 239.203,
+          "b": 447.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.7468,
+          "t": 444.2884,
+          "r": 295.25687,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.25708,
+          "t": 444.2884,
+          "r": 332.76715,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1010a",
+          "l": 352.22336,
+          "t": 444.2884,
+          "r": 377.24335,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.49716,
+          "t": 444.2884,
+          "r": 426.00723,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1014a",
+          "l": 444.92795,
+          "t": 444.2884,
+          "r": 469.94794,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1021a",
+          "l": 491.54886,
+          "t": 444.2884,
+          "r": 516.56903,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1025a",
+          "l": 536.56165,
+          "t": 444.2884,
+          "r": 561.5818,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1035a",
+          "l": 578.8951,
+          "t": 444.2884,
+          "r": 603.9152,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1045a",
+          "l": 624.4442,
+          "t": 444.2884,
+          "r": 649.46436,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1055a",
+          "l": 667.3132,
+          "t": 444.2884,
+          "r": 692.3333,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1100a",
+          "l": 709.1102,
+          "t": 444.2884,
+          "r": 734.1304,
+          "b": 448.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.therta.com i korzystać",
+          "l": 774.00287,
+          "t": 440.224,
+          "r": 840.2597,
+          "b": 445.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "z Google Translate funkcji.",
+          "l": 841.9115,
+          "t": 442.204,
+          "r": 904.22754,
+          "b": 445.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and the day after Thanksgiving.",
+          "l": 14.144728,
+          "t": 451.25702,
+          "r": 122.0055,
+          "b": 455.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.7468,
+          "t": 453.2884,
+          "r": 295.25687,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.25797,
+          "t": 453.2884,
+          "r": 332.76804,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1200p",
+          "l": 351.7255,
+          "t": 453.4144,
+          "r": 377.23694,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.49704,
+          "t": 453.4144,
+          "r": 426.00433,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1205p",
+          "l": 444.42642,
+          "t": 453.4144,
+          "r": 469.93787,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1215p",
+          "l": 491.03928,
+          "t": 453.4144,
+          "r": 516.5508,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1220p",
+          "l": 536.0439,
+          "t": 453.4144,
+          "r": 561.55536,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1235p",
+          "l": 578.37006,
+          "t": 453.4144,
+          "r": 603.88153,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1243p",
+          "l": 623.911,
+          "t": 453.4144,
+          "r": 649.4225,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1255p",
+          "l": 666.77264,
+          "t": 453.4144,
+          "r": 692.2841,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100p",
+          "l": 713.5682,
+          "t": 453.4144,
+          "r": 734.07654,
+          "b": 457.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Vietnamese:",
+          "l": 774.0029,
+          "t": 454.32703,
+          "r": 804.67505,
+          "b": 457.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nếu thông tin này là cần thiết trong một ngôn ngữ",
+          "l": 806.32495,
+          "t": 452.224,
+          "r": 929.55176,
+          "b": 457.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "khác, vui lòng truy cập",
+          "l": 931.20056,
+          "t": 452.224,
+          "r": 985.92596,
+          "b": 457.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Weekday Service",
+          "l": 14.139128,
+          "t": 461.36902,
+          "r": 79.588715,
+          "b": 465.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "is provided on Veterans’ Day.",
+          "l": 82.04393,
+          "t": 461.25702,
+          "r": 184.5935,
+          "b": 465.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.75488,
+          "t": 462.4144,
+          "r": 295.2613,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.26868,
+          "t": 462.4144,
+          "r": 332.77597,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "110p",
+          "l": 357.23166,
+          "t": 462.4144,
+          "r": 377.24948,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.5105,
+          "t": 462.4144,
+          "r": 426.0169,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "115p",
+          "l": 449.9362,
+          "t": 462.4144,
+          "r": 469.95312,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "125p",
+          "l": 496.05942,
+          "t": 462.4144,
+          "r": 516.5687,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "130p",
+          "l": 541.0676,
+          "t": 462.4144,
+          "r": 561.576,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "145p",
+          "l": 583.3965,
+          "t": 462.4144,
+          "r": 603.90485,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "153p",
+          "l": 628.9392,
+          "t": 462.4144,
+          "r": 649.4485,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "205p",
+          "l": 671.8036,
+          "t": 462.4144,
+          "r": 692.31195,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "210p",
+          "l": 713.59515,
+          "t": 462.4144,
+          "r": 734.10443,
+          "b": 466.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.therta.com và sử",
+          "l": 774.0029,
+          "t": 458.224,
+          "r": 828.1241,
+          "b": 463.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "dụng các tính năng của Google Translate.",
+          "l": 829.7729,
+          "t": 458.224,
+          "r": 930.1265,
+          "b": 463.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Routes 29, 33, 42 and community shuttles operate on a weekday schedule on",
+          "l": 14.141531,
+          "t": 470.25302,
+          "r": 232.11752,
+          "b": 475.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.754,
+          "t": 471.4144,
+          "r": 295.2604,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.2687,
+          "t": 471.4144,
+          "r": 332.776,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "210p",
+          "l": 356.73938,
+          "t": 471.4144,
+          "r": 377.2477,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.50873,
+          "t": 471.4144,
+          "r": 426.01514,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "215p",
+          "l": 449.44122,
+          "t": 471.4144,
+          "r": 469.94955,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "225p",
+          "l": 496.05588,
+          "t": 471.4144,
+          "r": 516.5643,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "230p",
+          "l": 541.0632,
+          "t": 471.4144,
+          "r": 561.57153,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "245p",
+          "l": 583.3911,
+          "t": 471.4144,
+          "r": 603.8995,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "253p",
+          "l": 628.93475,
+          "t": 471.4144,
+          "r": 649.4431,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "305p",
+          "l": 671.7982,
+          "t": 471.4144,
+          "r": 692.3066,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "310p",
+          "l": 713.59064,
+          "t": 471.4144,
+          "r": 734.099,
+          "b": 475.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chinese (Traditional):",
+          "l": 774.0035,
+          "t": 472.32703,
+          "r": 827.2117,
+          "b": 475.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.therta.com",
+          "l": 930.86145,
+          "t": 472.204,
+          "r": 969.64075,
+          "b": 475.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "these holidays. Routes 19 and 30 operate on a modified Saturday schedule on",
+          "l": 14.141531,
+          "t": 478.25302,
+          "r": 232.4216,
+          "b": 483.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.754,
+          "t": 480.4144,
+          "r": 295.26407,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.27237,
+          "t": 480.4144,
+          "r": 332.78156,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "310p",
+          "l": 356.74405,
+          "t": 480.4144,
+          "r": 377.25504,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.51514,
+          "t": 480.4144,
+          "r": 426.0252,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "315p",
+          "l": 449.4522,
+          "t": 480.4144,
+          "r": 469.9632,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "325p",
+          "l": 496.0704,
+          "t": 480.4144,
+          "r": 516.58154,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "330p",
+          "l": 541.0795,
+          "t": 480.4144,
+          "r": 561.59064,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "345p",
+          "l": 583.4102,
+          "t": 480.4144,
+          "r": 603.9204,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "353p",
+          "l": 628.9557,
+          "t": 480.4144,
+          "r": 649.4668,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "405p",
+          "l": 671.8219,
+          "t": 480.4144,
+          "r": 692.3321,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "410p",
+          "l": 713.6162,
+          "t": 480.4144,
+          "r": 734.1273,
+          "b": 484.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "these holidays.",
+          "l": 14.141531,
+          "t": 486.25302,
+          "r": 55.82953,
+          "b": 491.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.754,
+          "t": 489.4144,
+          "r": 295.2604,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.2678,
+          "t": 489.4144,
+          "r": 332.7751,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "410p",
+          "l": 356.73846,
+          "t": 489.4144,
+          "r": 377.2468,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.5078,
+          "t": 489.4144,
+          "r": 426.01422,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "415p",
+          "l": 449.4412,
+          "t": 489.4144,
+          "r": 469.94952,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "425p",
+          "l": 496.05582,
+          "t": 489.4144,
+          "r": 516.5651,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "430p",
+          "l": 541.064,
+          "t": 489.4144,
+          "r": 561.5724,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "445p",
+          "l": 583.3929,
+          "t": 489.4144,
+          "r": 603.90125,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "453p",
+          "l": 628.9356,
+          "t": 489.4144,
+          "r": 649.4449,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "505p",
+          "l": 671.80084,
+          "t": 489.4144,
+          "r": 692.3092,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "510p",
+          "l": 713.5924,
+          "t": 489.4144,
+          "r": 734.10254,
+          "b": 493.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Swahili:",
+          "l": 774.0034,
+          "t": 490.32703,
+          "r": 794.01355,
+          "b": 493.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kama unahitaji habari hii katika nyingine lugha, unaweza kubonyeza mahali",
+          "l": 795.6634,
+          "t": 490.204,
+          "r": 973.2814,
+          "b": 493.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NO SERVICE ON:",
+          "l": 14.141531,
+          "t": 499.129,
+          "r": 84.43673,
+          "b": 504.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.7531,
+          "t": 498.4144,
+          "r": 295.25952,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.2678,
+          "t": 498.4144,
+          "r": 332.7742,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "510p",
+          "l": 356.7367,
+          "t": 498.4144,
+          "r": 377.24503,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.50604,
+          "t": 498.4144,
+          "r": 426.01245,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "515p",
+          "l": 449.43854,
+          "t": 498.4144,
+          "r": 469.94775,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "525p",
+          "l": 496.05405,
+          "t": 498.4144,
+          "r": 516.56244,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "530p",
+          "l": 541.06134,
+          "t": 498.4144,
+          "r": 561.5697,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "545p",
+          "l": 583.38837,
+          "t": 498.4144,
+          "r": 603.8985,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "553p",
+          "l": 628.9338,
+          "t": 498.4144,
+          "r": 649.44214,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "605p",
+          "l": 671.79724,
+          "t": 498.4144,
+          "r": 692.3056,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "610p",
+          "l": 713.58966,
+          "t": 498.4144,
+          "r": 734.098,
+          "b": 502.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "panaandikwa \"Google Translate\" hapa juu.",
+          "l": 774.0034,
+          "t": 496.204,
+          "r": 872.2895,
+          "b": 499.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Years Day; Memorial Day; Independence",
+          "l": 86.03993,
+          "t": 500.25702,
+          "r": 239.14795,
+          "b": 504.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day; Labor Day; Thanksgiving Day; Christmas Day",
+          "l": 14.150328,
+          "t": 508.25702,
+          "r": 189.46709,
+          "b": 512.109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "610p",
+          "l": 274.74222,
+          "t": 507.4144,
+          "r": 295.2532,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "619p",
+          "l": 312.2506,
+          "t": 507.4144,
+          "r": 332.7616,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 364.7359,
+          "t": 507.4144,
+          "r": 377.2451,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.5052,
+          "t": 507.4144,
+          "r": 426.01526,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "626p",
+          "l": 449.44226,
+          "t": 507.4144,
+          "r": 469.95325,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "633p",
+          "l": 496.06046,
+          "t": 507.4144,
+          "r": 516.5716,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "636p",
+          "l": 541.0696,
+          "t": 507.4144,
+          "r": 561.5807,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "648p",
+          "l": 583.3994,
+          "t": 507.4144,
+          "r": 603.9096,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "655p",
+          "l": 628.9449,
+          "t": 507.4144,
+          "r": 649.456,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "705p",
+          "l": 671.8111,
+          "t": 507.4144,
+          "r": 692.3213,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "710p",
+          "l": 713.6054,
+          "t": 507.4144,
+          "r": 734.1165,
+          "b": 511.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note:",
+          "l": 774.0034,
+          "t": 508.32703,
+          "r": 787.0055,
+          "b": 511.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "French, Spanish, Polish and Portuguese translations were created by human",
+          "l": 788.6554,
+          "t": 508.204,
+          "r": 971.6136,
+          "b": 511.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "710p",
+          "l": 274.74222,
+          "t": 516.41437,
+          "r": 295.25055,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "719p",
+          "l": 312.24707,
+          "t": 516.41437,
+          "r": 332.7563,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 364.7297,
+          "t": 516.41437,
+          "r": 377.237,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 413.498,
+          "t": 516.41437,
+          "r": 426.0044,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "726p",
+          "l": 449.43137,
+          "t": 516.41437,
+          "r": 469.9397,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "733p",
+          "l": 496.046,
+          "t": 516.41437,
+          "r": 516.55615,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "736p",
+          "l": 541.05414,
+          "t": 516.41437,
+          "r": 561.5634,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "748p",
+          "l": 583.3839,
+          "t": 516.41437,
+          "r": 603.8923,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "755p",
+          "l": 628.92664,
+          "t": 516.41437,
+          "r": 649.4359,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "805p",
+          "l": 671.791,
+          "t": 516.41437,
+          "r": 692.2994,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "810p",
+          "l": 713.5826,
+          "t": 516.41437,
+          "r": 734.0927,
+          "b": 520.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "translation from the English version. Vietnamese, Chinese and Swahili translations were",
+          "l": 774.0034,
+          "t": 514.20404,
+          "r": 982.43756,
+          "b": 517.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "created from the English version using Google Translate. There are likely grammatical",
+          "l": 774.0034,
+          "t": 520.20404,
+          "r": 977.1216,
+          "b": 523.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please…NO Smoking, Eating, Drinking or Music",
+          "l": 13.371698,
+          "t": 527.1957,
+          "r": 231.09924,
+          "b": 531.6369,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 282.7531,
+          "t": 525.41437,
+          "r": 295.25952,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 320.2678,
+          "t": 525.41437,
+          "r": 332.7742,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".....",
+          "l": 364.74847,
+          "t": 525.41437,
+          "r": 377.25488,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "757p",
+          "l": 405.50406,
+          "t": 525.41437,
+          "r": 426.0124,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "801p",
+          "l": 449.4394,
+          "t": 525.41437,
+          "r": 469.94772,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "808p",
+          "l": 496.05405,
+          "t": 525.41437,
+          "r": 516.5642,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "811p",
+          "l": 541.5554,
+          "t": 525.41437,
+          "r": 561.5724,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "823p",
+          "l": 583.39197,
+          "t": 525.41437,
+          "r": 603.9003,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "830p",
+          "l": 628.9356,
+          "t": 525.41437,
+          "r": 649.444,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "840p",
+          "l": 671.7991,
+          "t": 525.41437,
+          "r": 692.30743,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "845p",
+          "l": 713.59064,
+          "t": 525.41437,
+          "r": 734.099,
+          "b": 529.6219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "errors in these translations, however time constraints required use of Google Translate for",
+          "l": 774.0034,
+          "t": 526.20404,
+          "r": 988.1077,
+          "b": 529.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "bus schedule printing within necessary timeframe (June 2017)",
+          "l": 774.0034,
+          "t": 532.20404,
+          "r": 922.94037,
+          "b": 535.924,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "**The Federal Transit Administration permits transit systems to set a",
+          "l": 13.371698,
+          "t": 540.5265,
+          "r": 218.74193,
+          "b": 543.897,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "minimum age limit for children riding without a parent or guardian. The",
+          "l": 13.366098,
+          "t": 548.5268,
+          "r": 223.45992,
+          "b": 551.8973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WRTA has set this age limit at Nine (9) years old. In order to ensure",
+          "l": 13.359098,
+          "t": 556.5271,
+          "r": 218.43391,
+          "b": 559.8976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SATURDAY SERVICE: TO SPENCER USE ROUTE 19",
+          "l": 258.81598,
+          "t": 555.372,
+          "r": 630.59705,
+          "b": 560.982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "For Transit Information Call",
+          "l": 777.00104,
+          "t": 555.686,
+          "r": 938.69,
+          "b": 562.826,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "compliance with this age limit, operators may question a child seeking to",
+          "l": 13.351397,
+          "t": 564.5281,
+          "r": 230.49841,
+          "b": 567.89856,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "board a bus who appears, in the operator’s opinion, to be Eight (8) years",
+          "l": 13.344397,
+          "t": 572.5284,
+          "r": 231.16199,
+          "b": 575.89886,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "508.791.",
+          "l": 777.00104,
+          "t": 561.5469,
+          "r": 850.393,
+          "b": 580.826,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "old or younger. If an operator is not satisfied with a child’s answer, the",
+          "l": 13.336695,
+          "t": 580.5287,
+          "r": 223.53622,
+          "b": 583.8992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9782",
+          "l": 850.393,
+          "t": 570.11597,
+          "r": 890.425,
+          "b": 580.826,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or visit",
+          "l": 895.926,
+          "t": 572.222,
+          "r": 930.9264,
+          "b": 580.826,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "operator may call for assistance from a WRTA supervisor and/or public safe-",
+          "l": 13.329695,
+          "t": 588.5297,
+          "r": 241.781,
+          "b": 591.9002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ty personnel. This policy applies to Paratransit Service as well.",
+          "l": 13.321993,
+          "t": 596.53,
+          "r": 199.8993,
+          "b": 599.9005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.therta.com",
+          "l": 777.00104,
+          "t": 586.331,
+          "r": 939.20514,
+          "b": 598.826,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 4096.0,
+      "heightPt": 2489.0,
+      "runs": [
+        {
+          "text": "MOst Routes Serve:",
+          "l": 545.0,
+          "t": 395.0,
+          "r": 816.0,
+          "b": 422.0,
+          "conf": 0.7294922,
+          "origin": "Ocr"
+        },
+        {
+          "text": "WRTA Customer",
+          "l": 570.0,
+          "t": 467.0,
+          "r": 788.0,
+          "b": 489.0,
+          "conf": 0.85791016,
+          "origin": "Ocr"
+        },
+        {
+          "text": "wolice Center/Hub",
+          "l": 569.0,
+          "t": 489.0,
+          "r": 825.0,
+          "b": 543.0,
+          "conf": 0.2154948,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ation",
+          "l": 688.0,
+          "t": 536.0,
+          "r": 744.0,
+          "b": 556.0,
+          "conf": 0.84296876,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Route 33 Serving:",
+          "l": 545.0,
+          "t": 598.0,
+          "r": 792.0,
+          "b": 630.0,
+          "conf": 0.8618164,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~ Worcester City",
+          "l": 545.0,
+          "t": 668.0,
+          "r": 759.0,
+          "b": 695.0,
+          "conf": 0.296875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Hal",
+          "l": 583.0,
+          "t": 702.0,
+          "r": 613.0,
+          "b": 724.0,
+          "conf": 0.6692708,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~ Federal Building/",
+          "l": 546.0,
+          "t": 736.0,
+          "r": 784.0,
+          "b": 765.0,
+          "conf": 0.31640625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "U.S. Courthouse",
+          "l": 571.0,
+          "t": 774.0,
+          "r": 786.0,
+          "b": 796.0,
+          "conf": 0.5996094,
+          "origin": "Ocr"
+        },
+        {
+          "text": "YMCA Central",
+          "l": 568.0,
+          "t": 803.0,
+          "r": 755.0,
+          "b": 833.0,
+          "conf": 0.7705078,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Branch",
+          "l": 571.0,
+          "t": 843.0,
+          "r": 660.0,
+          "b": 862.0,
+          "conf": 0.828125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Jacob Hiatt",
+          "l": 570.0,
+          "t": 877.0,
+          "r": 718.0,
+          "b": 899.0,
+          "conf": 0.82109374,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Magnet School",
+          "l": 570.0,
+          "t": 909.0,
+          "r": 758.0,
+          "b": 936.0,
+          "conf": 0.8177083,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Clark University",
+          "l": 571.0,
+          "t": 945.0,
+          "r": 769.0,
+          "b": 970.0,
+          "conf": 0.8882812,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Webster Square",
+          "l": 570.0,
+          "t": 979.0,
+          "r": 776.0,
+          "b": 1004.0,
+          "conf": 0.8639323,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~ Webster Square",
+          "l": 546.0,
+          "t": 1013.0,
+          "r": 777.0,
+          "b": 1038.0,
+          "conf": 0.32421875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Plaza",
+          "l": 571.0,
+          "t": 1048.0,
+          "r": 641.0,
+          "b": 1070.0,
+          "conf": 0.8726562,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~Gates Lane",
+          "l": 547.0,
+          "t": 1077.0,
+          "r": 721.0,
+          "b": 1103.0,
+          "conf": 0.75065106,
+          "origin": "Ocr"
+        },
+        {
+          "text": "School",
+          "l": 570.0,
+          "t": 1115.0,
+          "r": 657.0,
+          "b": 1137.0,
+          "conf": 0.8652344,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~ Leicester Center",
+          "l": 548.0,
+          "t": 1149.0,
+          "r": 786.0,
+          "b": 1171.0,
+          "conf": 0.33203125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~Leicester",
+          "l": 548.0,
+          "t": 1184.0,
+          "r": 686.0,
+          "b": 1205.0,
+          "conf": 0.77617186,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Wal-Mart",
+          "l": 569.0,
+          "t": 1218.0,
+          "r": 687.0,
+          "b": 1239.0,
+          "conf": 0.8364258,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~Spencer Center",
+          "l": 548.0,
+          "t": 1247.0,
+          "r": 767.0,
+          "b": 1276.0,
+          "conf": 0.80859375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~Western",
+          "l": 545.0,
+          "t": 1286.0,
+          "r": 677.0,
+          "b": 1306.0,
+          "conf": 0.8041992,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Worcester District",
+          "l": 569.0,
+          "t": 1320.0,
+          "r": 801.0,
+          "b": 1342.0,
+          "conf": 0.87353516,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Court",
+          "l": 570.0,
+          "t": 1354.0,
+          "r": 641.0,
+          "b": 1376.0,
+          "conf": 0.815625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~ East Brookfield",
+          "l": 544.0,
+          "t": 1385.0,
+          "r": 763.0,
+          "b": 1411.0,
+          "conf": 0.296875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Elementary",
+          "l": 571.0,
+          "t": 1423.0,
+          "r": 716.0,
+          "b": 1450.0,
+          "conf": 0.8652344,
+          "origin": "Ocr"
+        },
+        {
+          "text": "School",
+          "l": 570.0,
+          "t": 1457.0,
+          "r": 657.0,
+          "b": 1478.0,
+          "conf": 0.85286456,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~ Lake Lashaway",
+          "l": 546.0,
+          "t": 1491.0,
+          "r": 773.0,
+          "b": 1514.0,
+          "conf": 0.34375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~East Brookfield",
+          "l": 552.0,
+          "t": 1515.0,
+          "r": 770.0,
+          "b": 1549.0,
+          "conf": 0.7609375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Center",
+          "l": 566.0,
+          "t": 1542.0,
+          "r": 658.0,
+          "b": 1588.0,
+          "conf": 0.72526044,
+          "origin": "Ocr"
+        },
+        {
+          "text": "~Brookfield Center",
+          "l": 553.0,
+          "t": 1586.0,
+          "r": 804.0,
+          "b": 1616.0,
+          "conf": 0.7056108,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Connecting Routes:",
+          "l": 546.0,
+          "t": 1661.0,
+          "r": 822.0,
+          "b": 1686.0,
+          "conf": 0.8828125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Route",
+          "l": 546.0,
+          "t": 1730.0,
+          "r": 627.0,
+          "b": 1752.0,
+          "conf": 0.9164063,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Route 19",
+          "l": 546.0,
+          "t": 1764.0,
+          "r": 662.0,
+          "b": 1786.0,
+          "conf": 0.8929688,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Route 25",
+          "l": 546.0,
+          "t": 1798.0,
+          "r": 665.0,
+          "b": 1820.0,
+          "conf": 0.9007813,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Route 27",
+          "l": 546.0,
+          "t": 1833.0,
+          "r": 665.0,
+          "b": 1854.0,
+          "conf": 0.8652344,
+          "origin": "Ocr"
+        },
+        {
+          "text": "33",
+          "l": 855.0,
+          "t": 279.0,
+          "r": 930.0,
+          "b": 333.0,
+          "conf": 0.93359375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "9",
+          "l": 942.0,
+          "t": 671.0,
+          "r": 960.0,
+          "b": 700.0,
+          "conf": 0.5234375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Brookfield Insert",
+          "l": 966.0,
+          "t": 441.0,
+          "r": 1395.0,
+          "b": 485.0,
+          "conf": 0.7864583,
+          "origin": "Ocr"
+        },
+        {
+          "text": "CENTRAL ST",
+          "l": 971.0,
+          "t": 708.0,
+          "r": 1215.0,
+          "b": 764.0,
+          "conf": 0.78404015,
+          "origin": "Ocr"
+        },
+        {
+          "text": "o",
+          "l": 1152.0,
+          "t": 726.0,
+          "r": 1196.0,
+          "b": 739.0,
+          "conf": 0.2421875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Brookfield",
+          "l": 883.0,
+          "t": 1479.0,
+          "r": 1008.0,
+          "b": 1509.0,
+          "conf": 0.8539063,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Center",
+          "l": 918.0,
+          "t": 1516.0,
+          "r": 991.0,
+          "b": 1546.0,
+          "conf": 0.7395833,
+          "origin": "Ocr"
+        },
+        {
+          "text": "10",
+          "l": 939.0,
+          "t": 1557.0,
+          "r": 979.0,
+          "b": 1586.0,
+          "conf": 0.7714844,
+          "origin": "Ocr"
+        },
+        {
+          "text": "UNION STATION HUB- Leicester",
+          "l": 1283.0,
+          "t": 228.0,
+          "r": 2373.0,
+          "b": 303.0,
+          "conf": 0.7451172,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Spencer",
+          "l": 2463.0,
+          "t": 228.0,
+          "r": 2718.0,
+          "b": 303.0,
+          "conf": 0.84598213,
+          "origin": "Ocr"
+        },
+        {
+          "text": "East Brookfield",
+          "l": 1282.0,
+          "t": 316.0,
+          "r": 1737.0,
+          "b": 385.0,
+          "conf": 0.8625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Brookfield via Main St & Route",
+          "l": 1812.0,
+          "t": 316.0,
+          "r": 2721.0,
+          "b": 385.0,
+          "conf": 0.78515625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ROUTE9",
+          "l": 985.0,
+          "t": 1621.0,
+          "r": 1139.0,
+          "b": 1666.0,
+          "conf": 0.7858073,
+          "origin": "Ocr"
+        },
+        {
+          "text": "(POST ST)",
+          "l": 988.0,
+          "t": 1663.0,
+          "r": 1154.0,
+          "b": 1710.0,
+          "conf": 0.65755206,
+          "origin": "Ocr"
+        },
+        {
+          "text": "For additional service along Main Street",
+          "l": 898.0,
+          "t": 1036.0,
+          "r": 1607.0,
+          "b": 1072.0,
+          "conf": 0.87890625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "in Worcester and Leicester, use Route 19.",
+          "l": 898.0,
+          "t": 1083.0,
+          "r": 1643.0,
+          "b": 1117.0,
+          "conf": 0.8411458,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Brookfield,",
+          "l": 967.0,
+          "t": 1878.0,
+          "r": 1156.0,
+          "b": 1924.0,
+          "conf": 0.859375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "East",
+          "l": 1261.0,
+          "t": 1391.0,
+          "r": 1317.0,
+          "b": 1412.0,
+          "conf": 0.83691406,
+          "origin": "Ocr"
+        },
+        {
+          "text": "9",
+          "l": 1318.0,
+          "t": 1452.0,
+          "r": 1349.0,
+          "b": 1492.0,
+          "conf": 0.56640625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "(MAIN ST)",
+          "l": 1176.0,
+          "t": 1526.0,
+          "r": 1328.0,
+          "b": 1621.0,
+          "conf": 0.6276042,
+          "origin": "Ocr"
+        },
+        {
+          "text": "-Breekíield",
+          "l": 1209.0,
+          "t": 1421.0,
+          "r": 1351.0,
+          "b": 1456.0,
+          "conf": 0.54083806,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Leicester Center",
+          "l": 1595.0,
+          "t": 441.0,
+          "r": 2024.0,
+          "b": 485.0,
+          "conf": 0.81901044,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ROUTE9",
+          "l": 1164.0,
+          "t": 1493.0,
+          "r": 1305.0,
+          "b": 1581.0,
+          "conf": 0.8014323,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Leicester Z",
+          "l": 1521.0,
+          "t": 773.0,
+          "r": 1704.0,
+          "b": 813.0,
+          "conf": 0.22265625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Housing",
+          "l": 1529.0,
+          "t": 821.0,
+          "r": 1650.0,
+          "b": 852.0,
+          "conf": 0.8688616,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Authority",
+          "l": 1522.0,
+          "t": 856.0,
+          "r": 1655.0,
+          "b": 892.0,
+          "conf": 0.8602431,
+          "origin": "Ocr"
+        },
+        {
+          "text": "East",
+          "l": 1290.0,
+          "t": 1847.0,
+          "r": 1375.0,
+          "b": 1876.0,
+          "conf": 0.859375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Brookfield",
+          "l": 1234.0,
+          "t": 1889.0,
+          "r": 1428.0,
+          "b": 1923.0,
+          "conf": 0.87539065,
+          "origin": "Ocr"
+        },
+        {
+          "text": "OLD MAIN ST",
+          "l": 1646.0,
+          "t": 634.0,
+          "r": 1862.0,
+          "b": 679.0,
+          "conf": 0.5644531,
+          "origin": "Ocr"
+        },
+        {
+          "text": "8|",
+          "l": 1441.0,
+          "t": 1380.0,
+          "r": 1479.0,
+          "b": 1424.0,
+          "conf": 0.64453125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "33",
+          "l": 1397.0,
+          "t": 1436.0,
+          "r": 1435.0,
+          "b": 1480.0,
+          "conf": 0.8828125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ROUTE",
+          "l": 1485.0,
+          "t": 1424.0,
+          "r": 1596.0,
+          "b": 1474.0,
+          "conf": 0.47109374,
+          "origin": "Ocr"
+        },
+        {
+          "text": "(WMAIN ST)",
+          "l": 1452.0,
+          "t": 1454.0,
+          "r": 1654.0,
+          "b": 1536.0,
+          "conf": 0.62434894,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Spencer",
+          "l": 1531.0,
+          "t": 1220.0,
+          "r": 1639.0,
+          "b": 1244.0,
+          "conf": 0.84933037,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Western",
+          "l": 1343.0,
+          "t": 1244.0,
+          "r": 1449.0,
+          "b": 1274.0,
+          "conf": 0.7873884,
+          "origin": "Ocr"
+        },
+        {
+          "text": "DPWS",
+          "l": 1562.0,
+          "t": 1248.0,
+          "r": 1650.0,
+          "b": 1280.0,
+          "conf": 0.75390625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Worcester",
+          "l": 1328.0,
+          "t": 1275.0,
+          "r": 1463.0,
+          "b": 1310.0,
+          "conf": 0.78125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Garage",
+          "l": 1537.0,
+          "t": 1289.0,
+          "r": 1632.0,
+          "b": 1316.0,
+          "conf": 0.83658856,
+          "origin": "Ocr"
+        },
+        {
+          "text": "District",
+          "l": 1354.0,
+          "t": 1310.0,
+          "r": 1435.0,
+          "b": 1336.0,
+          "conf": 0.7763672,
+          "origin": "Ocr"
+        },
+        {
+          "text": "TJ7Spencer",
+          "l": 1451.0,
+          "t": 1319.0,
+          "r": 1813.0,
+          "b": 1374.0,
+          "conf": 0.59648436,
+          "origin": "Ocr"
+        },
+        {
+          "text": "dourt",
+          "l": 1353.0,
+          "t": 1334.0,
+          "r": 1432.0,
+          "b": 1376.0,
+          "conf": 0.57421875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "La",
+          "l": 1685.0,
+          "t": 898.0,
+          "r": 1711.0,
+          "b": 932.0,
+          "conf": 0.390625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "NORTH",
+          "l": 1590.0,
+          "t": 1578.0,
+          "r": 1676.0,
+          "b": 1607.0,
+          "conf": 0.89375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ST",
+          "l": 1716.0,
+          "t": 826.0,
+          "r": 1749.0,
+          "b": 845.0,
+          "conf": 0.5566406,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Spencer",
+          "l": 1691.0,
+          "t": 1127.0,
+          "r": 1847.0,
+          "b": 1164.0,
+          "conf": 0.87946427,
+          "origin": "Ocr"
+        },
+        {
+          "text": "6",
+          "l": 1717.0,
+          "t": 1288.0,
+          "r": 1737.0,
+          "b": 1318.0,
+          "conf": 0.83203125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ROUTE9",
+          "l": 1801.0,
+          "t": 797.0,
+          "r": 1944.0,
+          "b": 827.0,
+          "conf": 0.7779948,
+          "origin": "Ocr"
+        },
+        {
+          "text": "(MAIN ST)",
+          "l": 1789.0,
+          "t": 835.0,
+          "r": 1948.0,
+          "b": 871.0,
+          "conf": 0.7786458,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Center",
+          "l": 1720.0,
+          "t": 1359.0,
+          "r": 1807.0,
+          "b": 1406.0,
+          "conf": 0.7845052,
+          "origin": "Ocr"
+        },
+        {
+          "text": "PLEASANT",
+          "l": 1569.0,
+          "t": 1675.0,
+          "r": 1794.0,
+          "b": 1734.0,
+          "conf": 0.8017578,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ST",
+          "l": 1574.0,
+          "t": 1722.0,
+          "r": 1622.0,
+          "b": 1754.0,
+          "conf": 0.5371094,
+          "origin": "Ocr"
+        },
+        {
+          "text": "IAIN ST",
+          "l": 1643.0,
+          "t": 1740.0,
+          "r": 1716.0,
+          "b": 1892.0,
+          "conf": 0.51660156,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ROUTE9",
+          "l": 1817.0,
+          "t": 1219.0,
+          "r": 1958.0,
+          "b": 1306.0,
+          "conf": 0.8313802,
+          "origin": "Ocr"
+        },
+        {
+          "text": "(MAIN ST)",
+          "l": 1828.0,
+          "t": 1248.0,
+          "r": 1984.0,
+          "b": 1351.0,
+          "conf": 0.75130206,
+          "origin": "Ocr"
+        },
+        {
+          "text": "CITY",
+          "l": 1725.0,
+          "t": 1832.0,
+          "r": 1801.0,
+          "b": 1879.0,
+          "conf": 0.5722656,
+          "origin": "Ocr"
+        },
+        {
+          "text": "HALL",
+          "l": 1723.0,
+          "t": 1870.0,
+          "r": 1812.0,
+          "b": 1917.0,
+          "conf": 0.69140625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "FRONT ST",
+          "l": 1752.0,
+          "t": 1791.0,
+          "r": 1939.0,
+          "b": 1897.0,
+          "conf": 0.80078125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Becker",
+          "l": 1904.0,
+          "t": 549.0,
+          "r": 2006.0,
+          "b": 574.0,
+          "conf": 0.91341144,
+          "origin": "Ocr"
+        },
+        {
+          "text": "College",
+          "l": 1899.0,
+          "t": 588.0,
+          "r": 2009.0,
+          "b": 620.0,
+          "conf": 0.88671875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "OUTBOUND",
+          "l": 1609.0,
+          "t": 2069.0,
+          "r": 1827.0,
+          "b": 2144.0,
+          "conf": 0.71435547,
+          "origin": "Ocr"
+        },
+        {
+          "text": "FRANKLIN ST",
+          "l": 1729.0,
+          "t": 1950.0,
+          "r": 1967.0,
+          "b": 2102.0,
+          "conf": 0.7246094,
+          "origin": "Ocr"
+        },
+        {
+          "text": "MYRTLE ST",
+          "l": 1563.0,
+          "t": 2181.0,
+          "r": 1780.0,
+          "b": 2330.0,
+          "conf": 0.51171875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "DALEN",
+          "l": 1787.0,
+          "t": 2143.0,
+          "r": 1848.0,
+          "b": 2243.0,
+          "conf": 0.45078126,
+          "origin": "Ocr"
+        },
+        {
+          "text": ".EM S",
+          "l": 1809.0,
+          "t": 2113.0,
+          "r": 1870.0,
+          "b": 2205.0,
+          "conf": 0.359375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "TLeicester",
+          "l": 2075.0,
+          "t": 1170.0,
+          "r": 2191.0,
+          "b": 1197.0,
+          "conf": 0.78867185,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Wal",
+          "l": 2075.0,
+          "t": 1199.0,
+          "r": 2125.0,
+          "b": 1228.0,
+          "conf": 0.42447916,
+          "origin": "Ocr"
+        },
+        {
+          "text": "5",
+          "l": 2107.0,
+          "t": 1246.0,
+          "r": 2126.0,
+          "b": 1272.0,
+          "conf": 0.90234375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "33",
+          "l": 2218.0,
+          "t": 651.0,
+          "r": 2261.0,
+          "b": 679.0,
+          "conf": 0.8886719,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Downtown Insert",
+          "l": 1862.0,
+          "t": 1542.0,
+          "r": 2279.0,
+          "b": 1583.0,
+          "conf": 0.8404948,
+          "origin": "Ocr"
+        },
+        {
+          "text": "ROUTE9",
+          "l": 2111.0,
+          "t": 1315.0,
+          "r": 2260.0,
+          "b": 1368.0,
+          "conf": 0.65625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "(MAIN SD",
+          "l": 2096.0,
+          "t": 1355.0,
+          "r": 2259.0,
+          "b": 1412.0,
+          "conf": 0.46679688,
+          "origin": "Ocr"
+        },
+        {
+          "text": "in =2 miles",
+          "l": 2252.0,
+          "t": 798.0,
+          "r": 2454.0,
+          "b": 836.0,
+          "conf": 0.6503906,
+          "origin": "Ocr"
+        },
+        {
+          "text": "'INBOUND",
+          "l": 1919.0,
+          "t": 1796.0,
+          "r": 2217.0,
+          "b": 1933.0,
+          "conf": 0.62109375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Route 33",
+          "l": 2318.0,
+          "t": 570.0,
+          "r": 2457.0,
+          "b": 596.0,
+          "conf": 0.89375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Route Number",
+          "l": 2317.0,
+          "t": 653.0,
+          "r": 2547.0,
+          "b": 683.0,
+          "conf": 0.8639323,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Secester",
+          "l": 2270.0,
+          "t": 1323.0,
+          "r": 2405.0,
+          "b": 1362.0,
+          "conf": 0.5566406,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Becker",
+          "l": 2351.0,
+          "t": 1206.0,
+          "r": 2440.0,
+          "b": 1230.0,
+          "conf": 0.8782552,
+          "origin": "Ocr"
+        },
+        {
+          "text": "eoHege",
+          "l": 2329.0,
+          "t": 1242.0,
+          "r": 2441.0,
+          "b": 1272.0,
+          "conf": 0.41471353,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Housing",
+          "l": 2296.0,
+          "t": 1372.0,
+          "r": 2399.0,
+          "b": 1396.0,
+          "conf": 0.8655134,
+          "origin": "Ocr"
+        },
+        {
+          "text": "South High",
+          "l": 2436.0,
+          "t": 989.0,
+          "r": 2577.0,
+          "b": 1027.0,
+          "conf": 0.81933594,
+          "origin": "Ocr"
+        },
+        {
+          "text": "DR",
+          "l": 2663.0,
+          "t": 985.0,
+          "r": 2701.0,
+          "b": 1019.0,
+          "conf": 0.79296875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Community School",
+          "l": 2386.0,
+          "t": 1027.0,
+          "r": 2629.0,
+          "b": 1062.0,
+          "conf": 0.74609375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "STATION",
+          "l": 2187.0,
+          "t": 2154.0,
+          "r": 2347.0,
+          "b": 2181.0,
+          "conf": 0.73939735,
+          "origin": "Ocr"
+        },
+        {
+          "text": "HUB",
+          "l": 2230.0,
+          "t": 2196.0,
+          "r": 2307.0,
+          "b": 2223.0,
+          "conf": 0.85546875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Legend",
+          "l": 2574.0,
+          "t": 474.0,
+          "r": 2737.0,
+          "b": 516.0,
+          "conf": 0.91015625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "UNJON",
+          "l": 2351.0,
+          "t": 2055.0,
+          "r": 2458.0,
+          "b": 2096.0,
+          "conf": 0.6304687,
+          "origin": "Ocr"
+        },
+        {
+          "text": "UNIONSTATION2",
+          "l": 2208.0,
+          "t": 2091.0,
+          "r": 2511.0,
+          "b": 2137.0,
+          "conf": 0.62319714,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Data provided by the WRTA, CMRPC, massDOT and EOEA/MassGIS. Produced by the Central MassachusettsRegional Planning Commission (CMRPC) Date: 6/4/2019",
+          "l": 842.0,
+          "t": 2359.0,
+          "r": 2368.0,
+          "b": 2382.0,
+          "conf": 0.7385817,
+          "origin": "Ocr"
+        },
+        {
+          "text": "and",
+          "l": 2484.0,
+          "t": 1065.0,
+          "r": 2523.0,
+          "b": 1089.0,
+          "conf": 0.70703125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Sullivan Middle",
+          "l": 2410.0,
+          "t": 1091.0,
+          "r": 2603.0,
+          "b": 1129.0,
+          "conf": 0.55078125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Schoo,",
+          "l": 2476.0,
+          "t": 1128.0,
+          "r": 2563.0,
+          "b": 1160.0,
+          "conf": 0.7063802,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Authority",
+          "l": 2289.0,
+          "t": 1395.0,
+          "r": 2402.0,
+          "b": 1433.0,
+          "conf": 0.8142361,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Leicester",
+          "l": 2443.0,
+          "t": 1389.0,
+          "r": 2616.0,
+          "b": 1429.0,
+          "conf": 0.86154515,
+          "origin": "Ocr"
+        },
+        {
+          "text": "GODDARD",
+          "l": 2609.0,
+          "t": 922.0,
+          "r": 2755.0,
+          "b": 951.0,
+          "conf": 0.8108259,
+          "origin": "Ocr"
+        },
+        {
+          "text": "SMEMORIAEO",
+          "l": 2542.0,
+          "t": 950.0,
+          "r": 2780.0,
+          "b": 987.0,
+          "conf": 0.58125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Point of Interest",
+          "l": 2712.0,
+          "t": 570.0,
+          "r": 2959.0,
+          "b": 596.0,
+          "conf": 0.875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Connecting Route",
+          "l": 2710.0,
+          "t": 649.0,
+          "r": 2993.0,
+          "b": 683.0,
+          "conf": 0.9121094,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Gates",
+          "l": 2648.0,
+          "t": 1164.0,
+          "r": 2723.0,
+          "b": 1186.0,
+          "conf": 0.82421875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Lane",
+          "l": 2655.0,
+          "t": 1198.0,
+          "r": 2716.0,
+          "b": 1220.0,
+          "conf": 0.8125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Connecting Route Number",
+          "l": 2712.0,
+          "t": 733.0,
+          "r": 3133.0,
+          "b": 765.0,
+          "conf": 0.86445314,
+          "origin": "Ocr"
+        },
+        {
+          "text": "See Schedules for Time",
+          "l": 2711.0,
+          "t": 814.0,
+          "r": 3087.0,
+          "b": 840.0,
+          "conf": 0.8741319,
+          "origin": "Ocr"
+        },
+        {
+          "text": "STAFFO",
+          "l": 2524.0,
+          "t": 1451.0,
+          "r": 2631.0,
+          "b": 1481.0,
+          "conf": 0.64973956,
+          "origin": "Ocr"
+        },
+        {
+          "text": "FORO",
+          "l": 2610.0,
+          "t": 1454.0,
+          "r": 2686.0,
+          "b": 1486.0,
+          "conf": 0.5,
+          "origin": "Ocr"
+        },
+        {
+          "text": "19",
+          "l": 2633.0,
+          "t": 1248.0,
+          "r": 2715.0,
+          "b": 1282.0,
+          "conf": 0.640625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "333",
+          "l": 2613.0,
+          "t": 1320.0,
+          "r": 2821.0,
+          "b": 1389.0,
+          "conf": 0.39322916,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Clark",
+          "l": 2799.0,
+          "t": 1184.0,
+          "r": 2865.0,
+          "b": 1206.0,
+          "conf": 0.7601563,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Sehool.University",
+          "l": 2658.0,
+          "t": 1210.0,
+          "r": 2893.0,
+          "b": 1256.0,
+          "conf": 0.6681985,
+          "origin": "Ocr"
+        },
+        {
+          "text": "27",
+          "l": 2687.0,
+          "t": 1499.0,
+          "r": 2726.0,
+          "b": 1522.0,
+          "conf": 0.72265625,
+          "origin": "Ocr"
+        },
+        {
+          "text": "JacobHall",
+          "l": 2897.0,
+          "t": 1046.0,
+          "r": 3097.0,
+          "b": 1084.0,
+          "conf": 0.7630208,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Hiatt1A",
+          "l": 2920.0,
+          "t": 1082.0,
+          "r": 3052.0,
+          "b": 1121.0,
+          "conf": 0.70703125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Magnet",
+          "l": 2889.0,
+          "t": 1127.0,
+          "r": 2984.0,
+          "b": 1154.0,
+          "conf": 0.8255208,
+          "origin": "Ocr"
+        },
+        {
+          "text": "N",
+          "l": 3068.0,
+          "t": 464.0,
+          "r": 3105.0,
+          "b": 501.0,
+          "conf": 0.61328125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "SchoolG",
+          "l": 2890.0,
+          "t": 1126.0,
+          "r": 3154.0,
+          "b": 1192.0,
+          "conf": 0.51785713,
+          "origin": "Ocr"
+        },
+        {
+          "text": "NST",
+          "l": 2928.0,
+          "t": 1220.0,
+          "r": 3015.0,
+          "b": 1293.0,
+          "conf": 0.44921875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "MAM",
+          "l": 2870.0,
+          "t": 1263.0,
+          "r": 2975.0,
+          "b": 1335.0,
+          "conf": 0.58203125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "City",
+          "l": 3051.0,
+          "t": 1016.0,
+          "r": 3099.0,
+          "b": 1042.0,
+          "conf": 0.7998047,
+          "origin": "Ocr"
+        },
+        {
+          "text": "FLAG STOPS:",
+          "l": 2607.0,
+          "t": 1696.0,
+          "r": 2890.0,
+          "b": 1728.0,
+          "conf": 0.7936198,
+          "origin": "Ocr"
+        },
+        {
+          "text": "33",
+          "l": 3123.0,
+          "t": 279.0,
+          "r": 3197.0,
+          "b": 333.0,
+          "conf": 0.9277344,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Union",
+          "l": 3104.0,
+          "t": 1207.0,
+          "r": 3176.0,
+          "b": 1228.0,
+          "conf": 0.79609376,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Webster Webster",
+          "l": 2722.0,
+          "t": 1393.0,
+          "r": 2952.0,
+          "b": 1445.0,
+          "conf": 0.7957589,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Sauae Square.--Worcester",
+          "l": 2752.0,
+          "t": 1432.0,
+          "r": 3170.0,
+          "b": 1468.0,
+          "conf": 0.23046875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Plaza",
+          "l": 2760.0,
+          "t": 1478.0,
+          "r": 2824.0,
+          "b": 1508.0,
+          "conf": 0.828125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "HUB",
+          "l": 3111.0,
+          "t": 1276.0,
+          "r": 3169.0,
+          "b": 1297.0,
+          "conf": 0.79036456,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Outside of Worcester, buses",
+          "l": 2605.0,
+          "t": 1747.0,
+          "r": 3160.0,
+          "b": 1784.0,
+          "conf": 0.828683,
+          "origin": "Ocr"
+        },
+        {
+          "text": "will stop at any safe location",
+          "l": 2604.0,
+          "t": 1798.0,
+          "r": 3154.0,
+          "b": 1835.0,
+          "conf": 0.85839844,
+          "origin": "Ocr"
+        },
+        {
+          "text": "along the route. Simply wave",
+          "l": 2605.0,
+          "t": 1850.0,
+          "r": 3173.0,
+          "b": 1888.0,
+          "conf": 0.8697917,
+          "origin": "Ocr"
+        },
+        {
+          "text": "to the driver.",
+          "l": 2605.0,
+          "t": 1902.0,
+          "r": 2844.0,
+          "b": 1934.0,
+          "conf": 0.85602677,
+          "origin": "Ocr"
+        },
+        {
+          "text": "To exit. let the driver know",
+          "l": 2605.0,
+          "t": 1953.0,
+          "r": 3117.0,
+          "b": 1986.0,
+          "conf": 0.73828125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "where you would like to get",
+          "l": 2604.0,
+          "t": 2004.0,
+          "r": 3140.0,
+          "b": 2043.0,
+          "conf": 0.86328125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "off.",
+          "l": 2605.0,
+          "t": 2056.0,
+          "r": 2661.0,
+          "b": 2088.0,
+          "conf": 0.76660156,
+          "origin": "Ocr"
+        },
+        {
+          "text": "NaTA he for lou",
+          "l": 3775.0,
+          "t": 411.0,
+          "r": 3915.0,
+          "b": 1664.0,
+          "conf": 0.15234375,
+          "origin": "Ocr"
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "kind": "NoTextOnPage",
+      "detail": "Page 2 was read from the image"
+    }
+  ]
+}

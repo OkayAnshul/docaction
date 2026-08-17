@@ -1,0 +1,53 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Leave and Licence Agreement",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 242.50002,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This agreement is executed on 01/09/2026 between the Licensor and the Licensee.",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 443.67978,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The licence shall commence on 01/10/2026 and expire on 30/09/2027 unless renewed. Monthly rent of INR",
+          "l": 74.8,
+          "t": 88.77077,
+          "r": 551.17004,
+          "b": 94.35077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28,000 is payable on or before the 5th of each month.",
+          "l": 74.8,
+          "t": 100.27077,
+          "r": 311.98993,
+          "b": 105.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The security deposit shall be refunded within 30 days of 30/09/2027.",
+          "l": 74.8,
+          "t": 125.92079,
+          "r": 376.40982,
+          "b": 131.5008,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

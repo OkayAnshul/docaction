@@ -1,0 +1,841 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "EMPLOYMENT APPEAL",
+          "l": 140.9,
+          "t": 146.74396,
+          "r": 459.9319,
+          "b": 157.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TRIBUNAL",
+          "l": 226.37,
+          "t": 174.344,
+          "r": 366.88992,
+          "b": 185.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7 Rolls Buildings, Fetter Lane, LONDON, EC4A 1NL",
+          "l": 185.69,
+          "t": 195.13281,
+          "r": 412.27,
+          "b": 199.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CAUSE LIST",
+          "l": 244.85,
+          "t": 222.023,
+          "r": 354.97,
+          "b": 230.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MONDAY 16 FEBRUARY 2026",
+          "l": 201.41,
+          "t": 240.74115,
+          "r": 397.45,
+          "b": 247.01001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Before: HIS HONOUR JUDGE TAYLER",
+          "l": 72.024,
+          "t": 268.88315,
+          "r": 399.91,
+          "b": 273.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At 10:30 am",
+          "l": 252.05,
+          "t": 291.8828,
+          "r": 306.75998,
+          "b": 296.32996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2024-000980-TH",
+          "l": 72.024,
+          "t": 314.84317,
+          "r": 161.15001,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mr F Ngole v Touchstone Leeds",
+          "l": 252.05,
+          "t": 314.84317,
+          "r": 384.78998,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This judgment will be handed down by the Judge remotely by circulation to the parties or their representatives",
+          "l": 72.024,
+          "t": 337.88315,
+          "r": 515.85,
+          "b": 342.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "by email and release to The National Archives (find case law (nationalarchives.gov.uk)). The date and time for",
+          "l": 72.024,
+          "t": 349.40317,
+          "r": 518.13,
+          "b": 353.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "hand-down will be deemed to be 10:30 am 16th February 2026.",
+          "l": 72.024,
+          "t": 358.90482,
+          "r": 326.44,
+          "b": 365.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Observation Guidance(PDF)",
+          "l": 72.024,
+          "t": 785.1423,
+          "r": 255.54297,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Hearing Protocol (PDF)",
+          "l": 360.07,
+          "t": 785.1423,
+          "r": 517.57294,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "EMPLOYMENT APPEAL",
+          "l": 140.9,
+          "t": 146.74396,
+          "r": 459.9319,
+          "b": 157.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TRIBUNAL",
+          "l": 226.37,
+          "t": 174.344,
+          "r": 366.88992,
+          "b": 185.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7 Rolls Buildings, Fetter Lane, LONDON, EC4A 1NL",
+          "l": 185.69,
+          "t": 195.13281,
+          "r": 412.27,
+          "b": 199.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CAUSE LIST",
+          "l": 244.85,
+          "t": 222.023,
+          "r": 354.97,
+          "b": 230.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TUESDAY 17 FEBRUARY 2026",
+          "l": 200.33,
+          "t": 240.74115,
+          "r": 398.65002,
+          "b": 247.01001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Court 31",
+          "l": 72.024,
+          "t": 257.36313,
+          "r": 112.549995,
+          "b": 261.88995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Before: THE HONOURABLE MRS JUSTICE HEATHER",
+          "l": 72.024,
+          "t": 268.88315,
+          "r": 471.25677,
+          "b": 273.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WILLIAMS",
+          "l": 256.37,
+          "t": 280.48285,
+          "r": 312.28,
+          "b": 284.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(SITTING ALONE)",
+          "l": 252.05,
+          "t": 291.8828,
+          "r": 340.96,
+          "b": 296.32996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At 10:30 am",
+          "l": 252.05,
+          "t": 314.92285,
+          "r": 306.75998,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2023-001460-NK",
+          "l": 72.024,
+          "t": 337.88315,
+          "r": 162.26001,
+          "b": 342.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mr S Khakimov v Nikko Asset Management Europe Limited",
+          "l": 252.05,
+          "t": 337.88315,
+          "r": 499.65,
+          "b": 342.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Day 1 of 2)",
+          "l": 252.05,
+          "t": 349.40317,
+          "r": 303.75998,
+          "b": 353.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(In Person)",
+          "l": 252.05,
+          "t": 360.80316,
+          "r": 299.31998,
+          "b": 365.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Court 13",
+          "l": 72.024,
+          "t": 383.84317,
+          "r": 112.549995,
+          "b": 388.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Before: HIS HONOUR JUDGE TAYLER",
+          "l": 72.024,
+          "t": 395.38315,
+          "r": 399.06998,
+          "b": 399.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(SITTING ALONE)",
+          "l": 252.05,
+          "t": 406.98285,
+          "r": 340.96,
+          "b": 411.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At 10:30 am",
+          "l": 252.05,
+          "t": 429.90283,
+          "r": 306.75998,
+          "b": 434.34998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2025-000401-BA",
+          "l": 72.024,
+          "t": 452.86316,
+          "r": 161.78,
+          "b": 457.38998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mr N Bennett v 1. Homeease Care Solutions Limited 2. Moira",
+          "l": 252.05,
+          "t": 452.86316,
+          "r": 504.29718,
+          "b": 457.38998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pratt-Bennett",
+          "l": 252.05,
+          "t": 464.38315,
+          "r": 307.84,
+          "b": 468.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Preliminary Hearing - Appellant Only)",
+          "l": 252.05,
+          "t": 475.98285,
+          "r": 434.59,
+          "b": 480.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(In Person)",
+          "l": 252.05,
+          "t": 487.30316,
+          "r": 299.31998,
+          "b": 491.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Observation Guidance(PDF)",
+          "l": 72.024,
+          "t": 785.1423,
+          "r": 255.54297,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Hearing Protocol (PDF)",
+          "l": 360.07,
+          "t": 785.1423,
+          "r": 517.57294,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "EMPLOYMENT APPEAL",
+          "l": 140.9,
+          "t": 146.74396,
+          "r": 459.9319,
+          "b": 157.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TRIBUNAL",
+          "l": 226.37,
+          "t": 174.344,
+          "r": 366.88992,
+          "b": 185.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7 Rolls Buildings, Fetter Lane, LONDON, EC4A 1NL",
+          "l": 185.69,
+          "t": 195.13281,
+          "r": 412.27,
+          "b": 199.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CAUSE LIST",
+          "l": 244.85,
+          "t": 222.023,
+          "r": 354.97,
+          "b": 230.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEDNESDAY 18 FEBRUARY 2026",
+          "l": 188.33,
+          "t": 240.74115,
+          "r": 410.53,
+          "b": 247.01001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Court 16",
+          "l": 72.024,
+          "t": 257.36313,
+          "r": 112.549995,
+          "b": 261.88995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Before: THE HONOURABLE LORD FAIRLEY (PRESIDENT)",
+          "l": 216.77,
+          "t": 268.88315,
+          "r": 497.13,
+          "b": 273.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(SITTING ALONE)",
+          "l": 252.05,
+          "t": 280.48285,
+          "r": 340.96,
+          "b": 284.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At 10:30 am",
+          "l": 252.05,
+          "t": 303.40283,
+          "r": 306.75998,
+          "b": 307.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2024-001299-NK",
+          "l": 72.024,
+          "t": 326.36316,
+          "r": 162.26001,
+          "b": 330.88998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mr R Fatihi v The Government of the State of Kuwait",
+          "l": 252.05,
+          "t": 326.36316,
+          "r": 473.22998,
+          "b": 330.88998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Rule 3(10) Application - Appellant Only)",
+          "l": 252.05,
+          "t": 337.88315,
+          "r": 434.59,
+          "b": 342.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(In Person)",
+          "l": 252.05,
+          "t": 349.40317,
+          "r": 299.31998,
+          "b": 353.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Court 31",
+          "l": 72.024,
+          "t": 372.32315,
+          "r": 112.549995,
+          "b": 376.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Before: THE HONOURABLE MRS JUSTICE HEATHER",
+          "l": 216.05,
+          "t": 383.92285,
+          "r": 473.11,
+          "b": 388.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WILLIAMS",
+          "l": 252.05,
+          "t": 395.46283,
+          "r": 307.96,
+          "b": 399.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(SITTING ALONE)",
+          "l": 252.05,
+          "t": 406.98285,
+          "r": 340.96,
+          "b": 411.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At 10:30 am",
+          "l": 252.05,
+          "t": 429.90283,
+          "r": 306.75998,
+          "b": 434.34998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2023-001460-NK",
+          "l": 72.024,
+          "t": 452.86316,
+          "r": 162.26001,
+          "b": 457.38998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mr S Khakimov v Nikko Asset Management Europe Limited",
+          "l": 252.05,
+          "t": 452.86316,
+          "r": 499.65,
+          "b": 457.38998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Day 2 of 2)",
+          "l": 252.05,
+          "t": 464.38315,
+          "r": 303.75998,
+          "b": 468.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(In Person)",
+          "l": 252.05,
+          "t": 475.90317,
+          "r": 299.31998,
+          "b": 480.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Court 13",
+          "l": 72.024,
+          "t": 498.82315,
+          "r": 112.549995,
+          "b": 503.34998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Before: HIS HONOUR JUDGE TAYLER",
+          "l": 72.024,
+          "t": 510.34317,
+          "r": 399.06998,
+          "b": 514.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(SITTING ALONE)",
+          "l": 252.05,
+          "t": 521.9429,
+          "r": 340.96,
+          "b": 526.39,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At 10:30 am",
+          "l": 252.05,
+          "t": 544.98285,
+          "r": 306.75998,
+          "b": 549.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2024-000701-OO",
+          "l": 72.024,
+          "t": 567.8532,
+          "r": 162.26001,
+          "b": 572.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Clifton Diocese v Miss Janet Parker",
+          "l": 252.05,
+          "t": 567.8532,
+          "r": 398.83,
+          "b": 572.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Hybrid Hearing)",
+          "l": 252.05,
+          "t": 579.3732,
+          "r": 324.28,
+          "b": 583.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Observation Guidance(PDF)",
+          "l": 72.024,
+          "t": 785.1423,
+          "r": 255.54297,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Hearing Protocol (PDF)",
+          "l": 360.07,
+          "t": 785.1423,
+          "r": 517.57294,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "EMPLOYMENT APPEAL",
+          "l": 140.9,
+          "t": 146.74396,
+          "r": 459.9319,
+          "b": 157.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TRIBUNAL",
+          "l": 226.37,
+          "t": 174.344,
+          "r": 366.88992,
+          "b": 185.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7 Rolls Buildings, Fetter Lane, LONDON, EC4A 1NL",
+          "l": 185.69,
+          "t": 195.13281,
+          "r": 412.27,
+          "b": 199.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CAUSE LIST",
+          "l": 244.85,
+          "t": 222.023,
+          "r": 354.97,
+          "b": 230.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THURSDAY 19 FEBRUARY 2026",
+          "l": 194.57,
+          "t": 240.74115,
+          "r": 404.41,
+          "b": 247.01001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Court 31",
+          "l": 72.024,
+          "t": 257.36313,
+          "r": 112.549995,
+          "b": 261.88995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Before: THE HONOURABLE LORD FAIRLEY (PRESIDENT)",
+          "l": 216.77,
+          "t": 268.96283,
+          "r": 494.61,
+          "b": 273.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MISS GLORIA MILLS CBE",
+          "l": 252.05,
+          "t": 280.48285,
+          "r": 379.99,
+          "b": 284.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EDWARD LORD OBE JP",
+          "l": 252.05,
+          "t": 291.8828,
+          "r": 368.8,
+          "b": 296.32996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At 10:30 am",
+          "l": 252.05,
+          "t": 314.92285,
+          "r": 306.75998,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2023-001012-RN",
+          "l": 72.024,
+          "t": 337.88315,
+          "r": 161.78,
+          "b": 342.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mr Justin Griffiths v Gloucestershire County Council",
+          "l": 252.05,
+          "t": 337.88315,
+          "r": 468.55,
+          "b": 342.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(In Person)",
+          "l": 252.05,
+          "t": 349.40317,
+          "r": 299.31998,
+          "b": 353.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Observation Guidance(PDF)",
+          "l": 72.024,
+          "t": 785.1423,
+          "r": 255.54297,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Hearing Protocol (PDF)",
+          "l": 360.07,
+          "t": 785.1423,
+          "r": 517.57294,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "EMPLOYMENT APPEAL",
+          "l": 140.9,
+          "t": 146.74396,
+          "r": 459.9319,
+          "b": 157.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TRIBUNAL",
+          "l": 226.37,
+          "t": 174.344,
+          "r": 366.88992,
+          "b": 185.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7 Rolls Buildings, Fetter Lane, LONDON, EC4A 1NL",
+          "l": 185.69,
+          "t": 195.13281,
+          "r": 412.27,
+          "b": 199.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CAUSE LIST",
+          "l": 244.85,
+          "t": 222.023,
+          "r": 354.97,
+          "b": 230.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FRIDAY 20 FEBRUARY 2026",
+          "l": 206.45,
+          "t": 240.74115,
+          "r": 392.53,
+          "b": 247.01001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Before: HIS HONOUR JUDGE TAYLER",
+          "l": 216.77,
+          "t": 268.96283,
+          "r": 398.83,
+          "b": 273.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At 10:30 am",
+          "l": 252.05,
+          "t": 291.8828,
+          "r": 306.75998,
+          "b": 296.32996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2022-001290-NK",
+          "l": 72.024,
+          "t": 314.84317,
+          "r": 162.26001,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mr H Fullah v Medical Research Council & Others",
+          "l": 252.05,
+          "t": 314.84317,
+          "r": 460.15,
+          "b": 319.37,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EA-2023-001272-NK",
+          "l": 72.024,
+          "t": 326.36316,
+          "r": 162.26001,
+          "b": 330.88998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This judgment will be handed down by the Judge remotely by circulation to the parties or their representatives",
+          "l": 72.024,
+          "t": 349.40317,
+          "r": 515.3538,
+          "b": 353.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "by email and release to The National Archives (find case law (nationalarchives.gov.uk)). The date and time for",
+          "l": 72.024,
+          "t": 360.80316,
+          "r": 517.6147,
+          "b": 365.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "hand-down will be deemed to be 10:30 am 20th February 2026.",
+          "l": 72.024,
+          "t": 370.42484,
+          "r": 326.44,
+          "b": 376.84998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Observation Guidance(PDF)",
+          "l": 72.024,
+          "t": 785.1423,
+          "r": 255.54297,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Remote Hearing Protocol (PDF)",
+          "l": 360.07,
+          "t": 785.1423,
+          "r": 517.57294,
+          "b": 790.32,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

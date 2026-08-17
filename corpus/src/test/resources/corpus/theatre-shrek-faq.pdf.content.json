@@ -1,0 +1,562 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Magical Starlight Theatre",
+          "l": 163.08,
+          "t": 37.677723,
+          "r": 455.4402,
+          "b": 50.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Frequently Asked Questions",
+          "l": 173.16,
+          "t": 68.78626,
+          "r": 444.3198,
+          "b": 79.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1. What are the dates and times of the shows?",
+          "l": 39.6,
+          "t": 238.72801,
+          "r": 297.03598,
+          "b": 247.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Friday, January 9, 2026 at 7:30 pm",
+          "l": 57.599976,
+          "t": 254.60999,
+          "r": 255.15598,
+          "b": 262.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Saturday, January 10, 2026 at 1:30 pm",
+          "l": 57.599976,
+          "t": 269.96997,
+          "r": 276.03598,
+          "b": 278.15997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Saturday, January 10, 2026 at 6:30 pm",
+          "l": 57.599976,
+          "t": 285.44998,
+          "r": 276.03598,
+          "b": 293.63998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Sunday, January 11, 2026 at 1:30 pm",
+          "l": 57.599976,
+          "t": 300.93,
+          "r": 268.47598,
+          "b": 309.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 57.599976,
+          "t": 316.28998,
+          "r": 78.03597,
+          "b": 324.47998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Friday, January 16, 2026 at 7:30 pm",
+          "l": 57.599976,
+          "t": 331.77,
+          "r": 261.39597,
+          "b": 339.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Saturday, January 17, 2026 at 1:30 pm",
+          "l": 57.599945,
+          "t": 347.25,
+          "r": 276.03595,
+          "b": 355.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Saturday, January 17, 2026 at 6:30 pm",
+          "l": 57.599945,
+          "t": 362.73,
+          "r": 276.03595,
+          "b": 370.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Sunday, January 18, 2026 at 1:30 pm",
+          "l": 57.599945,
+          "t": 378.09,
+          "r": 250.23601,
+          "b": 386.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2. When and where can we buy tickets?",
+          "l": 39.59999,
+          "t": 406.728,
+          "r": 263.196,
+          "b": 415.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tickets are available for purchase for residents and nonresidents beginning Monday, December 8, 2025",
+          "l": 57.600006,
+          "t": 422.25003,
+          "r": 590.5595,
+          "b": 429.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "at 8:30am.",
+          "l": 57.600006,
+          "t": 438.09003,
+          "r": 117.876,
+          "b": 445.80002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tickets may be purchased via phone at 630-848-5000, online at napervilleparks.org or during regular",
+          "l": 57.6,
+          "t": 461.85004,
+          "r": 574.4736,
+          "b": 469.56003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "business hours at the Alfred Rubin Riverwalk Community Center, 305 West Jackson Avenue Street or",
+          "l": 57.600006,
+          "t": 477.69003,
+          "r": 576.28204,
+          "b": 485.40002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fort Hill Activity Center, 20 Fort Hill Drive. Tickets purchased in advance are $20. You will receive an e-",
+          "l": 57.600006,
+          "t": 493.53003,
+          "r": 581.88,
+          "b": 501.24002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "mail confirmation of your purchase. Your tickets will be available at check-in at the Auditorium lobby",
+          "l": 57.600037,
+          "t": 509.25003,
+          "r": 576.0372,
+          "b": 516.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "prior to the performance. Advanced tickets can be purchased until 4:00 p.m. on the Friday of the",
+          "l": 57.600006,
+          "t": 525.09,
+          "r": 554.2008,
+          "b": 532.80005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "performance weekends. After that time, tickets must be purchased at the performance for the",
+          "l": 57.600006,
+          "t": 540.93,
+          "r": 542.916,
+          "b": 548.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "remainder of the weekend. Tickets purchased at the door are $23. Cash and credit card are accepted.",
+          "l": 57.600006,
+          "t": 556.76996,
+          "r": 584.6771,
+          "b": 564.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You can purchase tickets at the box office for all performances in the same weekend. You cannot",
+          "l": 57.599976,
+          "t": 580.52997,
+          "r": 585.996,
+          "b": 588.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "purchase tickets at the box office during the first weekend (January 9-11) for the second weekend",
+          "l": 57.6,
+          "t": 595.17,
+          "r": 585.517,
+          "b": 602.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of shows (January 16-18).",
+          "l": 57.600037,
+          "t": 609.81,
+          "r": 198.27605,
+          "b": 617.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3. How do I register for a performance online?",
+          "l": 39.600037,
+          "t": 638.208,
+          "r": 294.756,
+          "b": 646.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Visit napervilleparks.org and click the green Online Registration banner at the top of the page. Search",
+          "l": 57.600006,
+          "t": 653.73,
+          "r": 578.6773,
+          "b": 661.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for the performance by typing Shrek. Select the performance and add it to your cart. Login or Create a",
+          "l": 57.59999,
+          "t": 668.37,
+          "r": 578.91614,
+          "b": 676.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Account. Everyone, regardless of Naperville residency, you will need an account in order to",
+          "l": 57.599976,
+          "t": 683.13,
+          "r": 552.51825,
+          "b": 690.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "register. Multiple seats can be purchased for this performance during check out on the fee page.",
+          "l": 57.599976,
+          "t": 697.76996,
+          "r": 578.55597,
+          "b": 705.48,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "4. Where is the Auditorium located?",
+          "l": 39.6,
+          "t": 75.40806,
+          "r": 242.07602,
+          "b": 84.00006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Auditorium is located at Naperville Central High School, 440 Aurora Ave. Please use Door #24,",
+          "l": 57.600006,
+          "t": 90.93008,
+          "r": 564.27466,
+          "b": 98.640076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "which is on the northwest side of the school. The door faces West Street and Hillside Rd. Please enter",
+          "l": 57.599976,
+          "t": 105.57009,
+          "r": 580.95483,
+          "b": 113.28009,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the parking lot from West Street or Hillside Rd.",
+          "l": 57.600006,
+          "t": 120.210106,
+          "r": 298.116,
+          "b": 127.920105,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5. Is there overflow parking available?",
+          "l": 39.59999,
+          "t": 149.13013,
+          "r": 252.756,
+          "b": 157.32013,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Overflow parking is available at St. John's Episcopal Church, 750 Aurora Ave. in Naperville.",
+          "l": 57.59999,
+          "t": 164.25014,
+          "r": 526.11597,
+          "b": 171.96014,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6. When does the box office and house open?",
+          "l": 39.599976,
+          "t": 192.64818,
+          "r": 292.95596,
+          "b": 201.24017,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The box office and lobby open one hour before the show begins and the house (theater) opens 30",
+          "l": 57.59996,
+          "t": 208.17018,
+          "r": 556.59595,
+          "b": 215.88019,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "minutes before the show begins. Seats cannot be saved prior to the house opening.",
+          "l": 57.599976,
+          "t": 222.8102,
+          "r": 490.35962,
+          "b": 230.5202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7. Do we have reserved seats?",
+          "l": 39.599976,
+          "t": 251.20824,
+          "r": 211.35597,
+          "b": 259.80023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All shows are general seating.",
+          "l": 57.599976,
+          "t": 266.73026,
+          "r": 213.03598,
+          "b": 274.44025,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8. Can I request a refund for the performance or transfer to another performance?",
+          "l": 39.599976,
+          "t": 295.12827,
+          "r": 489.996,
+          "b": 303.72028,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This program follows the Park District refund policy, which states withdrawal requests received more",
+          "l": 57.599976,
+          "t": 310.6503,
+          "r": 577.96204,
+          "b": 318.3603,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "than 72 hours before the performance will receive a refund. Requests received less than 72 hours in",
+          "l": 57.599976,
+          "t": 325.2903,
+          "r": 571.842,
+          "b": 333.0003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "advance will not receive a refund.",
+          "l": 57.599976,
+          "t": 339.93033,
+          "r": 232.59598,
+          "b": 347.64032,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You can transfer to another performance if another performance is available and the performance you",
+          "l": 57.599976,
+          "t": 369.33035,
+          "r": 584.0807,
+          "b": 377.04034,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "purchased tickets for hasn’t taken place.",
+          "l": 57.599976,
+          "t": 383.97037,
+          "r": 270.87598,
+          "b": 391.68036,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9. How do I pick-up my pre-purchased ticket?",
+          "l": 39.599976,
+          "t": 412.36838,
+          "r": 293.19595,
+          "b": 420.9604,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "When you arrive in the lobby of the auditorium you will give your name at the Will Call tables. You do not",
+          "l": 57.599945,
+          "t": 427.8904,
+          "r": 591.15594,
+          "b": 435.6004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "need your confirmation email.",
+          "l": 57.6,
+          "t": 442.53,
+          "r": 217.4784,
+          "b": 450.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10. It says the minimum age is 4, can a younger child attend?",
+          "l": 39.6,
+          "t": 470.928,
+          "r": 368.79602,
+          "b": 479.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The show is recommended for ages 4 and up; however, you are able to bring a younger child if they are",
+          "l": 57.600006,
+          "t": 486.45004,
+          "r": 582.756,
+          "b": 494.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "able to sit through the performance. Each child needs a ticket. Please be respectful to the audience",
+          "l": 57.600037,
+          "t": 501.09006,
+          "r": 571.11597,
+          "b": 508.80005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and actors and exit the theater if needed.",
+          "l": 57.600037,
+          "t": 515.73004,
+          "r": 273.63605,
+          "b": 523.44006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11. How long does the show run?",
+          "l": 39.60005,
+          "t": 544.1281,
+          "r": 218.91606,
+          "b": 552.7201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The approximate show time is 2 ½ hours, which includes a 20-minute intermission.",
+          "l": 57.60005,
+          "t": 559.77,
+          "r": 485.196,
+          "b": 567.48004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12. Are there concessions?",
+          "l": 39.600006,
+          "t": 588.1681,
+          "r": 187.95601,
+          "b": 596.7601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Concessions will be sold at intermission. No food or drink is allowed in the theater.",
+          "l": 57.600006,
+          "t": 603.69,
+          "r": 487.72208,
+          "b": 611.4,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13. Is handicap accessible seating available?",
+          "l": 39.600006,
+          "t": 632.0881,
+          "r": 285.876,
+          "b": 640.68005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yes, handicap accessible seating is available. For large groups that need accessible seating, please",
+          "l": 57.600006,
+          "t": 647.61005,
+          "r": 571.9596,
+          "b": 655.32007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "contact Brittany Malatt, Program Manager at bmalatt@napervilleparks.org or 630-848-3619.",
+          "l": 57.600006,
+          "t": 662.25006,
+          "r": 532.716,
+          "b": 669.9601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14. Are there group rates?",
+          "l": 39.6,
+          "t": 690.648,
+          "r": 180.75601,
+          "b": 699.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "We do not offer group rates.",
+          "l": 57.600006,
+          "t": 706.17,
+          "r": 206.07597,
+          "b": 713.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15. Is a sign language interpreter available?",
+          "l": 39.600006,
+          "t": 734.568,
+          "r": 275.79602,
+          "b": 743.16,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 2550.0,
+      "heightPt": 3299.0,
+      "runs": [
+        {
+          "text": "A sign language interpreter will be present at the Saturday, January 10, 1:30pm and Friday, January 16,",
+          "l": 242.0,
+          "t": 131.0,
+          "r": 2413.0,
+          "b": 177.0,
+          "conf": 0.68359375,
+          "origin": "Ocr"
+        },
+        {
+          "text": "7:30pm performances.",
+          "l": 244.0,
+          "t": 195.0,
+          "r": 729.0,
+          "b": 236.0,
+          "conf": 0.85286456,
+          "origin": "Ocr"
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "kind": "NoTextOnPage",
+      "detail": "Page 3 was read from the image"
+    }
+  ]
+}

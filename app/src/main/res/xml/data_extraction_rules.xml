@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  API 31+. Two audiences, deliberately treated differently.
+
+  **Cloud backup** takes nothing from the database. See `backup_rules.xml` for why: extracted
+  titles are personal data, and the events are already in the user's calendar anyway.
+
+  **Device transfer** — phone to new phone, over a cable or a direct link, with the user
+  watching it happen — keeps the timetable. Losing "My Timetable" when someone upgrades their
+  phone would be a real and avoidable annoyance, and this path never touches a server.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="database" path="docaction.db" />
+        <exclude domain="database" path="docaction.db-wal" />
+        <exclude domain="database" path="docaction.db-shm" />
+        <exclude domain="file" path="imports" />
+        <exclude domain="file" path="datastore/import_journal.preferences_pb" />
+    </cloud-backup>
+    <device-transfer>
+        <!-- A half-finished import does not survive the move; it would resume into a
+             document that is not there. -->
+        <exclude domain="file" path="imports" />
+        <exclude domain="file" path="datastore/import_journal.preferences_pb" />
+    </device-transfer>
+</data-extraction-rules>

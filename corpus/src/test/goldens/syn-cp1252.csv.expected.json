@@ -1,0 +1,11 @@
+{
+  "document": "syn-cp1252.csv",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "DateOrder",
+      "example": "06/03/2026"
+    }
+  ],
+  "groups": 0
+}

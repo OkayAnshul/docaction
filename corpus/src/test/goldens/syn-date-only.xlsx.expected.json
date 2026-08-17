@@ -1,0 +1,39 @@
+{
+  "document": "syn-date-only.xlsx",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 2,
+  "candidates": [
+    {
+      "title": "Submit thesis",
+      "start": "2026-04-30T00:00",
+      "end": "2026-05-01T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "SheetCell(syn-date-only)"
+      ]
+    },
+    {
+      "title": "Pay tuition",
+      "start": "2026-05-15T00:00",
+      "end": "2026-05-16T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "SheetCell(syn-date-only)"
+      ]
+    }
+  ]
+}

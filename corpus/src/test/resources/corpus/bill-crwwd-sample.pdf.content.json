@@ -1,0 +1,1420 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "P.O. Box 3855",
+          "l": 148.08,
+          "t": 23.79599,
+          "r": 209.51404,
+          "b": 30.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Seattle, WA 98124-3855",
+          "l": 148.08002,
+          "t": 34.235992,
+          "r": 249.60007,
+          "b": 40.679993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(360) 750-5876",
+          "l": 148.08002,
+          "t": 44.199005,
+          "r": 211.43103,
+          "b": 50.643005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Billing Statement",
+          "l": 320.76,
+          "t": 28.808632,
+          "r": 531.9466,
+          "b": 46.679993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(360) 993-8800 SelfPay",
+          "l": 148.08002,
+          "t": 54.162018,
+          "r": 249.45602,
+          "b": 60.606018,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(360) 750-7570 Fax",
+          "l": 148.08002,
+          "t": 64.242035,
+          "r": 232.779,
+          "b": 70.686035,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.crwwd.com",
+          "l": 148.08002,
+          "t": 74.20505,
+          "r": 225.70502,
+          "b": 80.64905,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT INFORMATION",
+          "l": 317.04,
+          "t": 84.8658,
+          "r": 432.1175,
+          "b": 90.599976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT:",
+          "l": 321.36,
+          "t": 104.05538,
+          "r": 383.10672,
+          "b": 111.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "000000-000",
+          "l": 513.8424,
+          "t": 104.06106,
+          "r": 575.5891,
+          "b": 111.9657,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SERVICE ADDRESS:",
+          "l": 321.36,
+          "t": 117.62908,
+          "r": 431.93665,
+          "b": 125.16388,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "123 MAIN STREET",
+          "l": 477.84097,
+          "t": 118.70562,
+          "r": 576.3067,
+          "b": 126.24042,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SERVICE PERIOD:",
+          "l": 321.36,
+          "t": 130.59001,
+          "r": 421.0291,
+          "b": 138.12482,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/1/2017 To 1/31/2018",
+          "l": 452.16193,
+          "t": 132.74852,
+          "r": 575.1144,
+          "b": 140.28333,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CUSTOMER NAME",
+          "l": 35.16288,
+          "t": 141.99704,
+          "r": 126.854645,
+          "b": 148.79474,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BILLING DATE:",
+          "l": 321.36,
+          "t": 143.67241,
+          "r": 402.07343,
+          "b": 151.20721,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "123 MAIN STREET",
+          "l": 35.16288,
+          "t": 152.43509,
+          "r": 124.57381,
+          "b": 159.23279,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/29/2017",
+          "l": 517.44147,
+          "t": 145.95238,
+          "r": 575.5891,
+          "b": 153.48718,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "VANCOUVER, WA 98661",
+          "l": 35.16288,
+          "t": 162.75363,
+          "r": 153.48767,
+          "b": 169.55133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DUE DATE:",
+          "l": 321.36,
+          "t": 169.71043,
+          "r": 384.31006,
+          "b": 177.71997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1/31/2018",
+          "l": 523.56,
+          "t": 171.87047,
+          "r": 575.5915,
+          "b": 179.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SPECIAL MESSAGE",
+          "l": 30.24,
+          "t": 233.90578,
+          "r": 118.43748,
+          "b": 239.15997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CURRENT CHARGES",
+          "l": 317.04,
+          "t": 233.90578,
+          "r": 410.3975,
+          "b": 239.15997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PLEASE TAKE NOTE, P.O. BOX 3855,",
+          "l": 34.559998,
+          "t": 256.65002,
+          "r": 248.85597,
+          "b": 264.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SEWER SERVICE",
+          "l": 321.36,
+          "t": 251.7852,
+          "r": 416.10526,
+          "b": 259.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "76.00",
+          "l": 545.0414,
+          "t": 251.7852,
+          "r": 575.58905,
+          "b": 259.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Seattle, WA 98124 is the District's new mailing",
+          "l": 34.559998,
+          "t": 271.05005,
+          "r": 284.85608,
+          "b": 279.24005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "address. Payments received by mail or online",
+          "l": 34.559998,
+          "t": 285.33005,
+          "r": 280.1761,
+          "b": 293.52005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "banking must be sent to the new address!",
+          "l": 34.559998,
+          "t": 299.73004,
+          "r": 260.13608,
+          "b": 307.92004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please allow additional time for processing",
+          "l": 34.559998,
+          "t": 314.13004,
+          "r": 264.81604,
+          "b": 322.32004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOTAL CURRENT CHARGES",
+          "l": 321.36,
+          "t": 313.21536,
+          "r": 475.98624,
+          "b": 321.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "76.00",
+          "l": 544.08093,
+          "t": 313.21536,
+          "r": 574.6286,
+          "b": 321.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payments.",
+          "l": 34.559998,
+          "t": 328.53003,
+          "r": 93.215996,
+          "b": 336.72003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BILL SUMMARY",
+          "l": 317.04,
+          "t": 337.22568,
+          "r": 388.91748,
+          "b": 342.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PREVIOUS BALANCE",
+          "l": 321.36,
+          "t": 357.1452,
+          "r": 435.66913,
+          "b": 364.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "76.00",
+          "l": 544.56,
+          "t": 357.0252,
+          "r": 575.1091,
+          "b": 364.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PAYMENTS",
+          "l": 321.36,
+          "t": 369.1452,
+          "r": 384.90912,
+          "b": 376.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-76.00",
+          "l": 540.84,
+          "t": 369.1452,
+          "r": 575.1091,
+          "b": 376.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ADJUSTMENTS",
+          "l": 321.36,
+          "t": 381.1452,
+          "r": 405.66913,
+          "b": 388.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.00",
+          "l": 551.76,
+          "t": 381.1452,
+          "r": 576.1891,
+          "b": 388.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MISCELLANEOUS",
+          "l": 321.36,
+          "t": 393.1452,
+          "r": 417.90912,
+          "b": 400.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.00",
+          "l": 551.76,
+          "t": 393.1452,
+          "r": 576.1891,
+          "b": 400.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FINANCE CHARGE",
+          "l": 321.36,
+          "t": 405.1452,
+          "r": 422.82913,
+          "b": 412.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.00",
+          "l": 551.76,
+          "t": 405.1452,
+          "r": 576.1891,
+          "b": 412.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LIEN INTEREST",
+          "l": 321.36,
+          "t": 417.1452,
+          "r": 406.38913,
+          "b": 424.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0.00",
+          "l": 551.76,
+          "t": 417.1452,
+          "r": 576.1891,
+          "b": 424.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CURRENT CHARGES",
+          "l": 321.36,
+          "t": 429.1452,
+          "r": 435.66913,
+          "b": 436.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "76.00",
+          "l": 544.56,
+          "t": 429.1452,
+          "r": 575.1091,
+          "b": 436.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOTAL AMOUNT DUE",
+          "l": 321.36,
+          "t": 450.13525,
+          "r": 438.67102,
+          "b": 458.0399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "76.00",
+          "l": 544.56,
+          "t": 450.13525,
+          "r": 575.1091,
+          "b": 458.0399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/18/17_v2",
+          "l": 24.72,
+          "t": 528.741,
+          "r": 53.207996,
+          "b": 532.92004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "P.O. Box 3855",
+          "l": 23.76,
+          "t": 545.4975,
+          "r": 83.636986,
+          "b": 551.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AMOUNT DUE",
+          "l": 317.04,
+          "t": 550.1058,
+          "r": 381.1175,
+          "b": 555.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Seattle, WA 98124-3855",
+          "l": 23.769001,
+          "t": 555.57745,
+          "r": 123.11998,
+          "b": 561.72,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(360) 750-5876",
+          "l": 23.768997,
+          "t": 565.6575,
+          "r": 87.83099,
+          "b": 571.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(360) 993-8800 SelfPay",
+          "l": 23.768993,
+          "t": 575.6205,
+          "r": 123.948,
+          "b": 581.763,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TOTAL AMOUNT DUE BY  1/31/2018",
+          "l": 321.36,
+          "t": 570.73535,
+          "r": 515.2334,
+          "b": 578.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "76.00",
+          "l": 543.8491,
+          "t": 570.73535,
+          "r": 574.3968,
+          "b": 578.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(360) 750-7570 Fax",
+          "l": 23.76899,
+          "t": 585.5835,
+          "r": 107.747986,
+          "b": 591.726,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.crwwd.com",
+          "l": 23.76899,
+          "t": 595.6635,
+          "r": 92.62799,
+          "b": 601.806,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AMOUNT ENCLOSED",
+          "l": 317.04,
+          "t": 595.1058,
+          "r": 411.35748,
+          "b": 600.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Clark Regional Wastewater District",
+          "l": 101.64,
+          "t": 606.93604,
+          "r": 288.6,
+          "b": 615.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please return stub with payment. Make check payable to CRWWD.",
+          "l": 314.88,
+          "t": 608.7699,
+          "r": 590.2739,
+          "b": 615.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ACCOUNT:",
+          "l": 35.16,
+          "t": 635.31604,
+          "r": 85.659,
+          "b": 641.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "000000-000",
+          "l": 227.4,
+          "t": 635.31604,
+          "r": 277.908,
+          "b": 641.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$",
+          "l": 411.24,
+          "t": 630.768,
+          "r": 421.296,
+          "b": 639.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ",",
+          "l": 441.48,
+          "t": 628.30273,
+          "r": 450.33502,
+          "b": 639.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": ".",
+          "l": 504.12,
+          "t": 628.30273,
+          "r": 513.335,
+          "b": 639.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SERVICE ADDRESS:",
+          "l": 35.159996,
+          "t": 646.77747,
+          "r": 125.64599,
+          "b": 652.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "123 MAIN STREET",
+          "l": 195.47699,
+          "t": 646.8945,
+          "r": 275.982,
+          "b": 653.037,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SERVICE PERIOD:",
+          "l": 35.159996,
+          "t": 657.8205,
+          "r": 116.636986,
+          "b": 663.963,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/1/2017  To 1/31/2018",
+          "l": 176.88298,
+          "t": 657.93744,
+          "r": 277.422,
+          "b": 664.07996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BILLING DATE:",
+          "l": 35.159996,
+          "t": 668.86346,
+          "r": 101.13899,
+          "b": 675.006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/29/2017",
+          "l": 230.39699,
+          "t": 663.6653,
+          "r": 289.77094,
+          "b": 675.123,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DUE DATE:",
+          "l": 35.159992,
+          "t": 679.479,
+          "r": 86.621994,
+          "b": 685.923,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1/31/2018",
+          "l": 235.43698,
+          "t": 674.84924,
+          "r": 290.44894,
+          "b": 685.923,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2*1**G50**0.74**1/1*********AUTOALL FOR AADC 990",
+          "l": 287.52,
+          "t": 687.43243,
+          "r": 467.70047,
+          "b": 692.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CUSTOMER NAME",
+          "l": 287.52,
+          "t": 694.7575,
+          "r": 358.64987,
+          "b": 700.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "123 MAIN STREET",
+          "l": 287.52,
+          "t": 704.47784,
+          "r": 356.25397,
+          "b": 709.80035,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please check box to indicate change of ownership VANCOUVER WA  98661",
+          "l": 73.8,
+          "t": 712.89746,
+          "r": 379.0554,
+          "b": 719.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or mailing address for owner (see other side)",
+          "l": 73.78197,
+          "t": 722.6175,
+          "r": 257.00397,
+          "b": 728.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "00778500000000076006",
+          "l": 374.76,
+          "t": 766.89,
+          "r": 522.216,
+          "b": 775.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2  1/1",
+          "l": 43.8,
+          "t": 587.4725,
+          "r": 61.5,
+          "b": 592.08,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 616.8,
+      "heightPt": 793.68,
+      "runs": [
+        {
+          "text": "CLARK REGIONAL WASTEWATER DISTRICT",
+          "l": 27.95001,
+          "t": 35.636986,
+          "r": 225.58293,
+          "b": 40.549988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ABOUT YOUR BILL",
+          "l": 288.49002,
+          "t": 35.481228,
+          "r": 387.76733,
+          "b": 41.03003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Residential: The monthly rate reflects operating and capital costs",
+          "l": 288.74002,
+          "t": 45.858974,
+          "r": 556.8572,
+          "b": 51.349976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CUSTOMER SERVICE:",
+          "l": 63.96001,
+          "t": 53.407005,
+          "r": 162.62817,
+          "b": 58.320007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "360-750-5876",
+          "l": 203.17001,
+          "t": 52.216377,
+          "r": 266.44165,
+          "b": 57.349976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Email: finance@crwwd.com",
+          "l": 64.12001,
+          "t": 61.79702,
+          "r": 187.39828,
+          "b": 66.71002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of pumping, transmitting and treatment of wastewater. The bill is",
+          "l": 288.39,
+          "t": 56.650173,
+          "r": 556.6723,
+          "b": 61.909973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "charged to the property owner (customer) whether the property is",
+          "l": 288.6209,
+          "t": 67.20614,
+          "r": 556.6814,
+          "b": 72.46594,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SELFPAY PAYMENTS:",
+          "l": 63.730007,
+          "t": 80.04702,
+          "r": 165.21387,
+          "b": 84.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "360-993-8800",
+          "l": 203.41,
+          "t": 79.33637,
+          "r": 266.4289,
+          "b": 84.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "occupied or vacant.",
+          "l": 288.6391,
+          "t": 77.76217,
+          "r": 373.54477,
+          "b": 83.03003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Commercial: The amount charged is based upon several factors",
+          "l": 288.58002,
+          "t": 88.09903,
+          "r": 556.73975,
+          "b": 93.59003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 46.43001,
+          "t": 98.04702,
+          "r": 51.76801,
+          "b": 102.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24 HOUR EMERGENCY:",
+          "l": 64.01001,
+          "t": 98.04702,
+          "r": 168.43347,
+          "b": 102.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "360-750-5876",
+          "l": 203.41,
+          "t": 97.33637,
+          "r": 266.68164,
+          "b": 102.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "relating to use, i.e., number of people, activities, number/type of",
+          "l": 288.79,
+          "t": 98.65017,
+          "r": 558.44135,
+          "b": 103.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "facilities, etc., that can affect the sewer system, and is charged to",
+          "l": 288.46,
+          "t": 109.21017,
+          "r": 556.88763,
+          "b": 114.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FAX NUMBER:",
+          "l": 64.110016,
+          "t": 115.087,
+          "r": 129.28313,
+          "b": 120.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "360-750-7570",
+          "l": 203.41,
+          "t": 114.14643,
+          "r": 266.4289,
+          "b": 119.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the tenant/owner whether the unit is occupied or vacant.",
+          "l": 288.4303,
+          "t": 119.7662,
+          "r": 527.34454,
+          "b": 125.03003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEB SITE: www.crwwd.com",
+          "l": 27.810009,
+          "t": 132.36703,
+          "r": 154.17351,
+          "b": 137.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WHEN YOUR BILL IS DUE",
+          "l": 288.45,
+          "t": 138.92117,
+          "r": 420.2407,
+          "b": 144.46997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A billing is due and payable on the last day of the month in which",
+          "l": 288.25,
+          "t": 149.77023,
+          "r": 556.9697,
+          "b": 155.03003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PAYMENT OPTIONS",
+          "l": 28.13001,
+          "t": 155.87698,
+          "r": 116.68446,
+          "b": 160.78998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the billing is mailed. A billing becomes delinquent on the first day",
+          "l": 288.4424,
+          "t": 160.32626,
+          "r": 557.5014,
+          "b": 165.59003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All customers:",
+          "l": 28.09001,
+          "t": 168.52158,
+          "r": 85.94121,
+          "b": 173.03003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of the month following the month in which the billing is due and",
+          "l": 288.87,
+          "t": 170.65018,
+          "r": 556.8852,
+          "b": 175.90997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payable.",
+          "l": 288.79,
+          "t": 181.45023,
+          "r": 327.8563,
+          "b": 186.71002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "};>",
+          "l": 28.53001,
+          "t": 192.56294,
+          "r": 35.648808,
+          "b": 196.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mailing address: PO Box 3855; Seattle, WA",
+          "l": 46.37001,
+          "t": 191.40701,
+          "r": 267.14612,
+          "b": 196.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "98124-3855",
+          "l": 45.74001,
+          "t": 203.40701,
+          "r": 96.10252,
+          "b": 208.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DELINQUENT BILLINGS",
+          "l": 289.22,
+          "t": 201.09122,
+          "r": 410.23563,
+          "b": 206.64001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "};>",
+          "l": 28.77001,
+          "t": 217.03291,
+          "r": 35.592148,
+          "b": 220.78998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AutoPay: Direct Debit authorization form available at",
+          "l": 45.85001,
+          "t": 215.87698,
+          "r": 267.2795,
+          "b": 220.78998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "On the last day of the month following the billing due date, the",
+          "l": 288.83002,
+          "t": 211.94022,
+          "r": 557.5206,
+          "b": 217.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "District shall add a penalty equal to 10% ofthe current month's",
+          "l": 288.9933,
+          "t": 222.02902,
+          "r": 558.03314,
+          "b": 227.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "www.crwwd.com or Customer Service at 360-750-5876",
+          "l": 45.599506,
+          "t": 227.637,
+          "r": 265.9976,
+          "b": 232.55396,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "past due billing for monthly service. This amount will show on",
+          "l": 289.01,
+          "t": 232.58902,
+          "r": 556.9439,
+          "b": 238.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "};>",
+          "l": 28.77001,
+          "t": 241.27296,
+          "r": 35.592148,
+          "b": 245.03003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In person (business hours) or drop box (2417) with check",
+          "l": 46.57001,
+          "t": 240.11703,
+          "r": 267.23654,
+          "b": 245.03003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the customer's next regular billing as a finance charge.",
+          "l": 288.4448,
+          "t": 243.37619,
+          "r": 521.7763,
+          "b": 248.64001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "at 8000 NE 52nd Court; Vancouver, WA 98665",
+          "l": 46.228016,
+          "t": 251.16702,
+          "r": 232.19223,
+          "b": 256.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LIENS",
+          "l": 289.23,
+          "t": 262.7712,
+          "r": 322.80295,
+          "b": 268.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Additional residential customer options:",
+          "l": 28.09001,
+          "t": 276.5316,
+          "r": 184.16447,
+          "b": 281.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "On or after the day the third billing becomes delinquent, the District",
+          "l": 288.83002,
+          "t": 273.38025,
+          "r": 557.6952,
+          "b": 278.64005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will send a Notice of Intent to Lien, advising that a lien will be filed",
+          "l": 288.72,
+          "t": 283.94025,
+          "r": 556.9835,
+          "b": 289.20004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(against the property)with the CountyA uditor if the past due billing",
+          "l": 289.28,
+          "t": 294.50024,
+          "r": 557.1025,
+          "b": 299.76004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "};>",
+          "l": 28.77001,
+          "t": 301.033,
+          "r": 35.592148,
+          "b": 304.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SelfPay: VISa/MasterCard credit/debit card or electronic",
+          "l": 45.97001,
+          "t": 299.87704,
+          "r": 267.02502,
+          "b": 304.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "amounts, finance charges and returned payment fees, ifa ny, are",
+          "l": 288.87,
+          "t": 304.77124,
+          "r": 557.9022,
+          "b": 310.32004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "check payments (24/7) at 360-993-8800",
+          "l": 46.47001,
+          "t": 311.87704,
+          "r": 207.89241,
+          "b": 316.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "not paid within 15 days ofthe date of notice. ltthe customer fails to",
+          "l": 289.26392,
+          "t": 315.37964,
+          "r": 557.9758,
+          "b": 320.64005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "};>",
+          "l": 28.77001,
+          "t": 325.033,
+          "r": 35.592148,
+          "b": 328.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WebPay: Visa/MasterCard credit/debit card or electronic",
+          "l": 45.81001,
+          "t": 323.87704,
+          "r": 267.2885,
+          "b": 328.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pay within 15 days, the District will add the lien recording fee,",
+          "l": 289.27002,
+          "t": 325.94025,
+          "r": 556.5808,
+          "b": 331.20004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "check payments at www.crwwd.com",
+          "l": 46.47001,
+          "t": 335.87704,
+          "r": 198.31369,
+          "b": 340.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "record a lien with the County Auditor, and begin charging interest",
+          "l": 289.26828,
+          "t": 336.49625,
+          "r": 558.0357,
+          "b": 341.76004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "};>",
+          "l": 28.77001,
+          "t": 349.033,
+          "r": 35.592148,
+          "b": 352.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PhonePay: Visa/MasterCard credit/debit card by phoning",
+          "l": 46.13001,
+          "t": 347.87704,
+          "r": 266.6043,
+          "b": 352.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "as authorized by District Code. The customer will receive a lien",
+          "l": 289.1108,
+          "t": 347.05624,
+          "r": 557.40686,
+          "b": 352.32004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Customer Service (business hours) at 360-750-5876",
+          "l": 46.4475,
+          "t": 359.87704,
+          "r": 258.09262,
+          "b": 364.79205,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "letter listing these charges.",
+          "l": 289.02603,
+          "t": 357.60715,
+          "r": 404.26672,
+          "b": 362.87003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "};>",
+          "l": 29.01001,
+          "t": 373.283,
+          "r": 35.832146,
+          "b": 377.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In person (business hours) with Visa/MasterCard credit/",
+          "l": 46.82001,
+          "t": 372.12704,
+          "r": 267.09253,
+          "b": 377.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "COLLECTIONS",
+          "l": 289.30002,
+          "t": 376.28122,
+          "r": 367.52228,
+          "b": 381.83002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "debit card at 8000 NE 52nd Court; Vancouver, WA 98665",
+          "l": 46.22852,
+          "t": 383.40656,
+          "r": 258.0525,
+          "b": 388.32004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "After filing the lien, the District will send a notice advising that the",
+          "l": 288.97,
+          "t": 387.13025,
+          "r": 558.0007,
+          "b": 392.39005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "total amount due as ofthe date offiling, if not paid within 30 days of",
+          "l": 288.92,
+          "t": 396.851,
+          "r": 558.9213,
+          "b": 402.71002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DISTRICT BUSINESS HOURS:",
+          "l": 68.16,
+          "t": 406.97104,
+          "r": 227.66551,
+          "b": 413.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the lien letter, will be turned over to a collection agency.",
+          "l": 288.92,
+          "t": 408.01022,
+          "r": 523.7021,
+          "b": 413.27002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday through Friday, BAM to SPM",
+          "l": 56.65001,
+          "t": 421.60104,
+          "r": 237.90771,
+          "b": 427.67004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FORECLOSURES",
+          "l": 289.44,
+          "t": 427.40125,
+          "r": 379.76294,
+          "b": 432.95004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Except District Holidays",
+          "l": 88.8,
+          "t": 436.48102,
+          "r": 207.1616,
+          "b": 442.55002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "After filing the lien, the District may bring a foreclosure suit against",
+          "l": 288.97,
+          "t": 438.25024,
+          "r": 558.2514,
+          "b": 443.51004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the property to collect all amounts due, plus attorneys' fees and",
+          "l": 289.1643,
+          "t": 448.56964,
+          "r": 557.73096,
+          "b": 453.83002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MOVING?",
+          "l": 28.85001,
+          "t": 462.59705,
+          "r": 75.6579,
+          "b": 467.51004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "costs.",
+          "l": 289.3437,
+          "t": 459.381,
+          "r": 316.68008,
+          "b": 464.6408,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please contact Customer Service at 360-750-5876 to",
+          "l": 28.61001,
+          "t": 471.47705,
+          "r": 267.29752,
+          "b": 476.39005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "transfer service and make arrangements for a final bilL",
+          "l": 28.277515,
+          "t": 480.59705,
+          "r": 248.39972,
+          "b": 485.51056,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BILLING DISPUTE",
+          "l": 289.7,
+          "t": 482.37125,
+          "r": 383.31845,
+          "b": 487.92004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "RETURNED PAYMENT FEE",
+          "l": 28.84001,
+          "t": 497.40704,
+          "r": 152.82405,
+          "b": 502.32004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Unless a written notice is received by the Finance Department",
+          "l": 289.71,
+          "t": 493.22025,
+          "r": 558.55347,
+          "b": 498.48004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "There will be a bank chargeback fee assessed for any",
+          "l": 28.27001,
+          "t": 506.23386,
+          "r": 267.99588,
+          "b": 511.20004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "within 20 days of the billing date, the bill is considered correct and",
+          "l": 289.20267,
+          "t": 503.23685,
+          "r": 557.97205,
+          "b": 509.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "returned payment.",
+          "l": 28.635029,
+          "t": 515.40753,
+          "r": 104.29524,
+          "b": 520.32056,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payable.",
+          "l": 289.51,
+          "t": 514.3402,
+          "r": 328.0613,
+          "b": 519.60004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Own r s Name",
+          "l": 76.58002,
+          "t": 565.2102,
+          "r": 172.5364,
+          "b": 570.47003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "-~---------",
+          "l": 240.49,
+          "t": 566.36005,
+          "r": 377.2901,
+          "b": 571.91003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Effect1v Date:---------",
+          "l": 383.06,
+          "t": 566.419,
+          "r": 564.4121,
+          "b": 571.91003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N",
+          "l": 76.83002,
+          "t": 589.1612,
+          "r": 86.43001,
+          "b": 594.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ma1hng Addre s for Owner",
+          "l": 100.350006,
+          "t": 589.1612,
+          "r": 230.89824,
+          "b": 594.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Telepl one umber.",
+          "l": 76.500015,
+          "t": 613.4502,
+          "r": 173.34926,
+          "b": 618.71,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,7849 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AUGUST 2024",
+          "l": 352.4306,
+          "t": 84.48615,
+          "r": 439.5399,
+          "b": 94.04199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 108.54658,
+          "r": 125.10151,
+          "b": 112.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 108.54658,
+          "r": 219.9016,
+          "b": 112.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 108.54658,
+          "r": 313.4994,
+          "b": 112.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 108.54658,
+          "r": 411.777,
+          "b": 112.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 108.54658,
+          "r": 502.01367,
+          "b": 112.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 108.54658,
+          "r": 591.41565,
+          "b": 112.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 108.54658,
+          "r": 688.85077,
+          "b": 112.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 69.2306,
+          "t": 117.30659,
+          "r": 75.75596,
+          "b": 121.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 162.82773,
+          "t": 117.30659,
+          "r": 169.35309,
+          "b": 121.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 256.42484,
+          "t": 117.30659,
+          "r": 262.9502,
+          "b": 121.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 350.02197,
+          "t": 117.30659,
+          "r": 356.54733,
+          "b": 121.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 443.61908,
+          "t": 117.30659,
+          "r": 450.14444,
+          "b": 121.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 537.2162,
+          "t": 117.30659,
+          "r": 543.7415,
+          "b": 121.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 630.8133,
+          "t": 117.30659,
+          "r": 637.3386,
+          "b": 121.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 537.2306,
+          "t": 125.586586,
+          "r": 576.2726,
+          "b": 129.68195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 69.2306,
+          "t": 180.42657,
+          "r": 75.75596,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 162.82773,
+          "t": 180.42657,
+          "r": 169.35309,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 256.42484,
+          "t": 180.42657,
+          "r": 262.9502,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 350.02197,
+          "t": 180.42657,
+          "r": 356.54733,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 443.61908,
+          "t": 180.42657,
+          "r": 450.14444,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 537.2162,
+          "t": 180.42657,
+          "r": 543.7415,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 630.8133,
+          "t": 180.42657,
+          "r": 637.3386,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) Final",
+          "l": 256.4306,
+          "t": 188.70657,
+          "r": 335.02972,
+          "b": 192.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Academic Suspension",
+          "l": 443.6306,
+          "t": 188.70657,
+          "r": 525.24023,
+          "b": 192.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exams",
+          "l": 256.4306,
+          "t": 197.10657,
+          "r": 273.1218,
+          "b": 201.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeal Opens 8 am",
+          "l": 443.6306,
+          "t": 197.10657,
+          "r": 494.51282,
+          "b": 201.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Week (Summer III) Final Exams",
+          "l": 210.7106,
+          "t": 246.66656,
+          "r": 299.74194,
+          "b": 250.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) & 10 Week (Summer III) Weekend College",
+          "l": 542.0306,
+          "t": 242.58658,
+          "r": 718.53436,
+          "b": 246.68195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exams",
+          "l": 614.39276,
+          "t": 250.98465,
+          "r": 644.8759,
+          "b": 255.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 69.2306,
+          "t": 259.26657,
+          "r": 75.75596,
+          "b": 263.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 162.82773,
+          "t": 259.26657,
+          "r": 169.35309,
+          "b": 263.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 256.42484,
+          "t": 259.26657,
+          "r": 262.9502,
+          "b": 263.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 350.02197,
+          "t": 259.26657,
+          "r": 356.54733,
+          "b": 263.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 443.61908,
+          "t": 259.26657,
+          "r": 450.14444,
+          "b": 263.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 537.2162,
+          "t": 259.26657,
+          "r": 543.7415,
+          "b": 263.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 630.8133,
+          "t": 259.26657,
+          "r": 637.3386,
+          "b": 263.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) & 10",
+          "l": 69.2306,
+          "t": 267.54657,
+          "r": 147.8343,
+          "b": 271.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) & 10",
+          "l": 162.8306,
+          "t": 267.54657,
+          "r": 241.43425,
+          "b": 271.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Faculty Report to Work",
+          "l": 256.4306,
+          "t": 267.54657,
+          "r": 330.77567,
+          "b": 271.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Faculty Report to Work",
+          "l": 350.0306,
+          "t": 267.54657,
+          "r": 410.81564,
+          "b": 271.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Faculty Development Conference Academic Deans Division Meetings",
+          "l": 443.6306,
+          "t": 267.54657,
+          "r": 629.6295,
+          "b": 271.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week (Summer III) Weekend",
+          "l": 69.2306,
+          "t": 275.94656,
+          "r": 146.53117,
+          "b": 280.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week (Summer III) Grades Due in",
+          "l": 162.8306,
+          "t": 275.94464,
+          "r": 251.75235,
+          "b": 280.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8:30 am-1 pm (TBA)*",
+          "l": 443.6306,
+          "t": 275.94656,
+          "r": 498.80984,
+          "b": 280.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(TBA)*",
+          "l": 537.2306,
+          "t": 275.94656,
+          "r": 554.61383,
+          "b": 280.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "College Final Exams",
+          "l": 69.2306,
+          "t": 284.34464,
+          "r": 120.35069,
+          "b": 288.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Banner by 11 pm",
+          "l": 162.8306,
+          "t": 284.3427,
+          "r": 207.23352,
+          "b": 288.43808,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Full-Time Faculty Orientation All College Day - All Campuses",
+          "l": 256.4306,
+          "t": 284.34012,
+          "r": 429.83688,
+          "b": 288.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "& HR Orientation for New Faculty Closed",
+          "l": 256.4306,
+          "t": 292.7382,
+          "r": 367.15982,
+          "b": 296.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Workforce/FOS and Transfer",
+          "l": 443.6306,
+          "t": 292.7492,
+          "r": 520.4557,
+          "b": 296.84457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Dept Meetings",
+          "l": 537.2306,
+          "t": 292.7492,
+          "r": 604.3199,
+          "b": 296.84457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8:30 am-3 pm Frisco Campus",
+          "l": 256.4306,
+          "t": 301.14273,
+          "r": 332.02692,
+          "b": 305.2381,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Programs/Core Discipline Leads",
+          "l": 443.6306,
+          "t": 301.14728,
+          "r": 527.8809,
+          "b": 305.24265,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1:30 pm",
+          "l": 537.2306,
+          "t": 301.14728,
+          "r": 558.6035,
+          "b": 305.24265,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Meeting 2-3 pm - McKinney",
+          "l": 443.6306,
+          "t": 309.54535,
+          "r": 517.7973,
+          "b": 313.64072,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campus",
+          "l": 443.6306,
+          "t": 317.94342,
+          "r": 464.64136,
+          "b": 322.0388,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB Credit State Reports Due",
+          "l": 443.6306,
+          "t": 334.74606,
+          "r": 527.23737,
+          "b": 338.84143,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*Days/locations of meetings may change. Please check with division",
+          "l": 447.1106,
+          "t": 357.06662,
+          "r": 626.36786,
+          "b": 361.162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for final schedule.",
+          "l": 512.753,
+          "t": 365.4647,
+          "r": 559.3694,
+          "b": 369.56006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 69.2306,
+          "t": 373.7466,
+          "r": 75.75596,
+          "b": 377.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 162.82773,
+          "t": 373.7466,
+          "r": 169.35309,
+          "b": 377.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 256.42484,
+          "t": 373.7466,
+          "r": 262.9502,
+          "b": 377.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 350.02197,
+          "t": 373.7466,
+          "r": 356.54733,
+          "b": 377.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 443.61908,
+          "t": 373.7466,
+          "r": 450.14444,
+          "b": 377.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 537.2162,
+          "t": 373.7466,
+          "r": 543.7415,
+          "b": 377.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 630.8133,
+          "t": 373.7466,
+          "r": 637.3386,
+          "b": 377.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting -",
+          "l": 162.8306,
+          "t": 382.02658,
+          "r": 231.59958,
+          "b": 386.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting -",
+          "l": 256.4306,
+          "t": 382.02658,
+          "r": 325.19943,
+          "b": 386.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting - Plano",
+          "l": 350.0306,
+          "t": 382.02658,
+          "r": 434.87054,
+          "b": 386.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Housing Move-In",
+          "l": 537.2306,
+          "t": 382.02658,
+          "r": 592.3391,
+          "b": 386.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Services All Campuses",
+          "l": 630.8306,
+          "t": 382.02658,
+          "r": 711.9551,
+          "b": 386.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "McKinney Campus",
+          "l": 162.8306,
+          "t": 390.42468,
+          "r": 211.19147,
+          "b": 394.52005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Frisco/Celina Campus (@Frisco)",
+          "l": 256.4306,
+          "t": 390.4266,
+          "r": 339.2579,
+          "b": 394.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campus",
+          "l": 350.0306,
+          "t": 390.4266,
+          "r": 371.04135,
+          "b": 394.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open 9 am-12 pm",
+          "l": 630.8306,
+          "t": 390.4266,
+          "r": 677.99384,
+          "b": 394.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting -",
+          "l": 162.8306,
+          "t": 407.22733,
+          "r": 231.59958,
+          "b": 411.3227,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting -",
+          "l": 256.4306,
+          "t": 407.22922,
+          "r": 325.19943,
+          "b": 411.3246,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Academic Suspension",
+          "l": 630.8306,
+          "t": 407.22922,
+          "r": 712.43726,
+          "b": 411.3246,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Technical Campus",
+          "l": 162.8306,
+          "t": 415.6254,
+          "r": 209.87083,
+          "b": 419.72076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Farmersville/Wylie Campus",
+          "l": 256.4306,
+          "t": 415.62732,
+          "r": 329.64352,
+          "b": 419.7227,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeals Due 5 pm",
+          "l": 630.8306,
+          "t": 415.62732,
+          "r": 678.23303,
+          "b": 419.7227,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(@Wylie)",
+          "l": 256.4306,
+          "t": 424.02542,
+          "r": 280.8291,
+          "b": 428.1208,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*Days/locations of meetings may change. Please check with division for final schedule.",
+          "l": 235.7906,
+          "t": 437.3466,
+          "r": 461.6344,
+          "b": 441.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Faculty: Scholarly Activities, Preparation, Research, & Skills Development",
+          "l": 300.8306,
+          "t": 447.5466,
+          "r": 491.11627,
+          "b": 451.64197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 69.2306,
+          "t": 457.7466,
+          "r": 75.75596,
+          "b": 461.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 162.82773,
+          "t": 457.7466,
+          "r": 169.35309,
+          "b": 461.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 256.42484,
+          "t": 457.7466,
+          "r": 262.9502,
+          "b": 461.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 350.02197,
+          "t": 457.7466,
+          "r": 356.54733,
+          "b": 461.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 443.61908,
+          "t": 457.7466,
+          "r": 450.14444,
+          "b": 461.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 537.2162,
+          "t": 457.7466,
+          "r": 543.7415,
+          "b": 461.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 630.8133,
+          "t": 457.7466,
+          "r": 637.3386,
+          "b": 461.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Classes Begin",
+          "l": 162.8306,
+          "t": 466.02658,
+          "r": 208.10439,
+          "b": 470.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 256.4306,
+          "t": 466.02658,
+          "r": 295.47256,
+          "b": 470.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Academic Suspension",
+          "l": 350.0306,
+          "t": 466.02658,
+          "r": 431.64023,
+          "b": 470.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration Hard Stop Deadline",
+          "l": 443.6306,
+          "t": 466.02658,
+          "r": 528.82825,
+          "b": 470.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Weekend College Student",
+          "l": 630.8306,
+          "t": 466.02658,
+          "r": 700.19727,
+          "b": 470.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeal Decision Notifications",
+          "l": 350.0305,
+          "t": 474.4266,
+          "r": 427.91086,
+          "b": 478.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for 16 Week Courses",
+          "l": 443.6306,
+          "t": 474.4266,
+          "r": 497.99533,
+          "b": 478.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Engagement Welcome 9 am-12",
+          "l": 630.8306,
+          "t": 474.42468,
+          "r": 714.3638,
+          "b": 478.52005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delivered",
+          "l": 350.0305,
+          "t": 482.82468,
+          "r": 375.14957,
+          "b": 486.92004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pm",
+          "l": 630.8306,
+          "t": 482.82278,
+          "r": 639.36475,
+          "b": 486.91815,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Engagement Welcome Week",
+          "l": 346.6706,
+          "t": 521.3466,
+          "r": 444.51385,
+          "b": 525.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Weekend College Begins",
+          "l": 592.1906,
+          "t": 521.3466,
+          "r": 666.9421,
+          "b": 525.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SEPTEMBER 2024",
+          "l": 341.5106,
+          "t": 140.1661,
+          "r": 450.45468,
+          "b": 149.72195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 164.22656,
+          "r": 125.10151,
+          "b": 168.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 164.22656,
+          "r": 219.9016,
+          "b": 168.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 164.22656,
+          "r": 313.4994,
+          "b": 168.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 164.22656,
+          "r": 411.777,
+          "b": 168.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 164.22656,
+          "r": 502.01367,
+          "b": 168.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 164.22656,
+          "r": 591.41565,
+          "b": 168.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 164.22656,
+          "r": 688.85077,
+          "b": 168.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 69.2306,
+          "t": 172.98657,
+          "r": 75.75596,
+          "b": 177.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 162.82773,
+          "t": 172.98657,
+          "r": 169.35309,
+          "b": 177.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 256.42484,
+          "t": 172.98657,
+          "r": 262.9502,
+          "b": 177.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 350.02197,
+          "t": 172.98657,
+          "r": 356.54733,
+          "b": 177.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 443.61908,
+          "t": 172.98657,
+          "r": 450.14444,
+          "b": 177.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 537.2162,
+          "t": 172.98657,
+          "r": 543.7415,
+          "b": 177.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 630.8133,
+          "t": 172.98657,
+          "r": 637.3386,
+          "b": 177.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Weekend College Begins",
+          "l": 69.2306,
+          "t": 181.26657,
+          "r": 143.98256,
+          "b": 185.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Labor Day Holiday - All Campuses",
+          "l": 162.8306,
+          "t": 181.2601,
+          "r": 252.10431,
+          "b": 185.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Closed",
+          "l": 162.8306,
+          "t": 189.65817,
+          "r": 179.96046,
+          "b": 193.76001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 69.2306,
+          "t": 236.10657,
+          "r": 75.75596,
+          "b": 240.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 162.82773,
+          "t": 236.10657,
+          "r": 169.35309,
+          "b": 240.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 256.42484,
+          "t": 236.10657,
+          "r": 262.9502,
+          "b": 240.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 350.02197,
+          "t": 236.10657,
+          "r": 356.54733,
+          "b": 240.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 443.61908,
+          "t": 236.10657,
+          "r": 450.14444,
+          "b": 240.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 537.2162,
+          "t": 236.10657,
+          "r": 543.7415,
+          "b": 240.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 630.8133,
+          "t": 236.10657,
+          "r": 637.3386,
+          "b": 240.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall 16 Week Census",
+          "l": 162.8306,
+          "t": 244.38657,
+          "r": 216.35023,
+          "b": 248.48193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Tuition 1st Installment",
+          "l": 443.6306,
+          "t": 244.38657,
+          "r": 514.18994,
+          "b": 248.48193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Due",
+          "l": 443.6306,
+          "t": 252.78659,
+          "r": 478.89343,
+          "b": 256.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 69.2306,
+          "t": 299.22656,
+          "r": 75.75596,
+          "b": 303.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 162.82773,
+          "t": 299.22656,
+          "r": 169.35309,
+          "b": 303.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 256.42484,
+          "t": 299.22656,
+          "r": 262.9502,
+          "b": 303.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 350.02197,
+          "t": 299.22656,
+          "r": 356.54733,
+          "b": 303.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 443.61908,
+          "t": 299.22656,
+          "r": 450.14444,
+          "b": 303.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 537.2162,
+          "t": 299.22656,
+          "r": 543.7415,
+          "b": 303.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 630.8133,
+          "t": 299.22656,
+          "r": 637.3386,
+          "b": 303.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB CE State Reports Due",
+          "l": 69.2306,
+          "t": 307.5066,
+          "r": 143.4804,
+          "b": 311.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plano Balloon Festival - Plano",
+          "l": 537.2306,
+          "t": 307.5066,
+          "r": 615.11743,
+          "b": 311.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plano Balloon Festival - Plano",
+          "l": 630.8306,
+          "t": 307.5066,
+          "r": 708.71747,
+          "b": 311.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campus Close at 3 pm",
+          "l": 537.2306,
+          "t": 315.9066,
+          "r": 595.07434,
+          "b": 320.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campus Closed",
+          "l": 630.8306,
+          "t": 315.90466,
+          "r": 670.7067,
+          "b": 320.00003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 69.2306,
+          "t": 362.3466,
+          "r": 75.75596,
+          "b": 366.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 162.82773,
+          "t": 362.3466,
+          "r": 169.35309,
+          "b": 366.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 256.42484,
+          "t": 362.3466,
+          "r": 262.9502,
+          "b": 366.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 350.02197,
+          "t": 362.3466,
+          "r": 356.54733,
+          "b": 366.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 443.61908,
+          "t": 362.3466,
+          "r": 450.14444,
+          "b": 366.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 537.2162,
+          "t": 362.3466,
+          "r": 543.7415,
+          "b": 366.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 630.8133,
+          "t": 362.3466,
+          "r": 637.3386,
+          "b": 366.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plano Balloon Festival - Plano",
+          "l": 69.2306,
+          "t": 370.6266,
+          "r": 147.11697,
+          "b": 374.72195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 256.4306,
+          "t": 370.6266,
+          "r": 295.47256,
+          "b": 374.72195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campus Closed",
+          "l": 69.2306,
+          "t": 379.02658,
+          "r": 109.106575,
+          "b": 383.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 69.2306,
+          "t": 425.46658,
+          "r": 75.75596,
+          "b": 429.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 162.82773,
+          "t": 425.46658,
+          "r": 169.35309,
+          "b": 429.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 256.42484,
+          "t": 425.46658,
+          "r": 262.9502,
+          "b": 429.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 350.02197,
+          "t": 425.46658,
+          "r": 356.54733,
+          "b": 429.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 443.61908,
+          "t": 425.46658,
+          "r": 450.14444,
+          "b": 429.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 537.2162,
+          "t": 425.46658,
+          "r": 543.7415,
+          "b": 429.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 630.8133,
+          "t": 425.46658,
+          "r": 637.3386,
+          "b": 429.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "OCTOBER 2024",
+          "l": 348.8306,
+          "t": 138.8461,
+          "r": 443.13553,
+          "b": 148.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 162.90659,
+          "r": 125.10151,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 162.90659,
+          "r": 219.9016,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 162.90659,
+          "r": 313.4994,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 162.90659,
+          "r": 411.777,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 162.90659,
+          "r": 502.01367,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 162.90659,
+          "r": 591.41565,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 162.90659,
+          "r": 688.85077,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 69.2306,
+          "t": 171.66656,
+          "r": 75.75596,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 162.82773,
+          "t": 171.66656,
+          "r": 169.35309,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 256.42484,
+          "t": 171.66656,
+          "r": 262.9502,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 350.02197,
+          "t": 171.66656,
+          "r": 356.54733,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 443.61908,
+          "t": 171.66656,
+          "r": 450.14444,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 537.2162,
+          "t": 171.66656,
+          "r": 543.7415,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 630.8133,
+          "t": 171.66656,
+          "r": 637.3386,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB Credit State Reports Due",
+          "l": 256.4306,
+          "t": 179.94656,
+          "r": 340.03735,
+          "b": 184.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 69.2306,
+          "t": 234.78659,
+          "r": 75.75596,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 162.82773,
+          "t": 234.78659,
+          "r": 169.35309,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 256.42484,
+          "t": 234.78659,
+          "r": 262.9502,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 350.02197,
+          "t": 234.78659,
+          "r": 356.54733,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 443.61908,
+          "t": 234.78659,
+          "r": 450.14444,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 537.2162,
+          "t": 234.78659,
+          "r": 543.7415,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 630.8133,
+          "t": 234.78659,
+          "r": 637.3386,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Veteran Registration -",
+          "l": 256.4306,
+          "t": 243.06659,
+          "r": 333.35648,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Veteran Registration - Tech Spring Veteran Registration -",
+          "l": 350.0306,
+          "t": 243.06659,
+          "r": 520.5565,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plano Campus",
+          "l": 256.4306,
+          "t": 251.46658,
+          "r": 293.51886,
+          "b": 255.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campus",
+          "l": 350.0306,
+          "t": 251.46658,
+          "r": 371.04135,
+          "b": 255.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Frisco Campus",
+          "l": 443.6306,
+          "t": 251.46658,
+          "r": 481.43878,
+          "b": 255.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rockin' the Ridge - Frisco Campus",
+          "l": 350.0306,
+          "t": 268.26923,
+          "r": 437.73602,
+          "b": 272.3646,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Tuition 2nd Final Installment",
+          "l": 443.6306,
+          "t": 268.26923,
+          "r": 530.0174,
+          "b": 272.3646,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Due",
+          "l": 443.6306,
+          "t": 276.6673,
+          "r": 478.8902,
+          "b": 280.76266,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 69.2306,
+          "t": 297.9066,
+          "r": 75.75596,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 162.82773,
+          "t": 297.9066,
+          "r": 169.35309,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 256.42484,
+          "t": 297.9066,
+          "r": 262.9502,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 350.02197,
+          "t": 297.9066,
+          "r": 356.54733,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 443.61908,
+          "t": 297.9066,
+          "r": 450.14444,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 537.2162,
+          "t": 297.9066,
+          "r": 543.7415,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 630.8133,
+          "t": 297.9066,
+          "r": 637.3386,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Veteran Registration -",
+          "l": 162.8306,
+          "t": 306.18658,
+          "r": 239.75659,
+          "b": 310.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB Credit State Reports Due",
+          "l": 256.4306,
+          "t": 306.18658,
+          "r": 340.03735,
+          "b": 310.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Veteran Registration -",
+          "l": 350.0306,
+          "t": 306.18658,
+          "r": 426.9565,
+          "b": 310.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wylie Campus",
+          "l": 162.8306,
+          "t": 314.58466,
+          "r": 200.03357,
+          "b": 318.68002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "McKinney Campus",
+          "l": 350.0305,
+          "t": 314.58658,
+          "r": 398.39133,
+          "b": 318.68195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 69.2306,
+          "t": 361.02658,
+          "r": 75.75596,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 162.82773,
+          "t": 361.02658,
+          "r": 169.35309,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 256.42484,
+          "t": 361.02658,
+          "r": 262.9502,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 350.02197,
+          "t": 361.02658,
+          "r": 356.54733,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 443.61908,
+          "t": 361.02658,
+          "r": 450.14444,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 537.2162,
+          "t": 361.02658,
+          "r": 543.7415,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 630.8133,
+          "t": 361.02658,
+          "r": 637.3386,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WM/Spring Priority Online",
+          "l": 162.8306,
+          "t": 369.3066,
+          "r": 233.75282,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WM/Spring Priority Online",
+          "l": 256.4306,
+          "t": 369.3066,
+          "r": 327.35284,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WM/Spring Priority Online",
+          "l": 350.0306,
+          "t": 369.3066,
+          "r": 420.95288,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WM/Spring Registration Open for Board Meeting",
+          "l": 443.6306,
+          "t": 369.3066,
+          "r": 576.2726,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration Begins",
+          "l": 162.8306,
+          "t": 377.70468,
+          "r": 212.87111,
+          "b": 381.80005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration",
+          "l": 256.4306,
+          "t": 377.70657,
+          "r": 288.02905,
+          "b": 381.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration",
+          "l": 350.0306,
+          "t": 377.70657,
+          "r": 381.62906,
+          "b": 381.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All",
+          "l": 443.6306,
+          "t": 377.70657,
+          "r": 450.2733,
+          "b": 381.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50+ Hours",
+          "l": 162.8306,
+          "t": 386.10275,
+          "r": 189.60013,
+          "b": 390.19812,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30+ Hours",
+          "l": 256.4306,
+          "t": 386.10468,
+          "r": 283.2001,
+          "b": 390.20004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1+ Hours",
+          "l": 350.0306,
+          "t": 386.10468,
+          "r": 373.5601,
+          "b": 390.20004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 69.2306,
+          "t": 424.14658,
+          "r": 75.75596,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 162.82773,
+          "t": 424.14658,
+          "r": 169.35309,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 256.42484,
+          "t": 424.14658,
+          "r": 262.9502,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 350.02197,
+          "t": 424.14658,
+          "r": 356.54733,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 443.61908,
+          "t": 424.14658,
+          "r": 450.14444,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 537.2162,
+          "t": 424.14658,
+          "r": 543.7415,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 630.8133,
+          "t": 424.14658,
+          "r": 637.3386,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NOVEMBER 2024",
+          "l": 341.8706,
+          "t": 138.8461,
+          "r": 449.97556,
+          "b": 148.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 162.90659,
+          "r": 125.10151,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 162.90659,
+          "r": 219.9016,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 162.90659,
+          "r": 313.4994,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 162.90659,
+          "r": 411.777,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 162.90659,
+          "r": 502.01367,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 162.90659,
+          "r": 591.41565,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 162.90659,
+          "r": 688.85077,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 69.2306,
+          "t": 171.66656,
+          "r": 75.75596,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 162.82773,
+          "t": 171.66656,
+          "r": 169.35309,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 256.42484,
+          "t": 171.66656,
+          "r": 262.9502,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 350.02197,
+          "t": 171.66656,
+          "r": 356.54733,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 443.61908,
+          "t": 171.66656,
+          "r": 450.14444,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 537.2162,
+          "t": 171.66656,
+          "r": 543.7415,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 630.8133,
+          "t": 171.66656,
+          "r": 637.3386,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall 16 Week Last Day to",
+          "l": 537.2306,
+          "t": 179.94656,
+          "r": 602.6448,
+          "b": 184.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Withdraw",
+          "l": 537.2306,
+          "t": 188.34659,
+          "r": 563.3391,
+          "b": 192.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 69.2306,
+          "t": 234.78659,
+          "r": 75.75596,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 162.82773,
+          "t": 234.78659,
+          "r": 169.35309,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 256.42484,
+          "t": 234.78659,
+          "r": 262.9502,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 350.02197,
+          "t": 234.78659,
+          "r": 356.54733,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 443.61908,
+          "t": 234.78659,
+          "r": 450.14444,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 537.2162,
+          "t": 234.78659,
+          "r": 543.7415,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 630.8133,
+          "t": 234.78659,
+          "r": 637.3386,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All Services Military Appreciation",
+          "l": 630.8306,
+          "t": 243.06659,
+          "r": 718.42975,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ball - McKinney Campus",
+          "l": 630.8306,
+          "t": 251.46466,
+          "r": 693.58606,
+          "b": 255.56003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 69.2306,
+          "t": 297.9066,
+          "r": 75.75596,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 162.82773,
+          "t": 297.9066,
+          "r": 169.35309,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 256.42484,
+          "t": 297.9066,
+          "r": 262.9502,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 350.02197,
+          "t": 297.9066,
+          "r": 356.54733,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 443.61908,
+          "t": 297.9066,
+          "r": 450.14444,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 537.2162,
+          "t": 297.9066,
+          "r": 543.7415,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 630.8133,
+          "t": 297.9066,
+          "r": 637.3386,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 69.21112,
+          "t": 361.0283,
+          "r": 75.73648,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 162.80824,
+          "t": 361.0283,
+          "r": 169.3336,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 256.40536,
+          "t": 361.0283,
+          "r": 262.93073,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 350.0025,
+          "t": 361.0283,
+          "r": 356.52786,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 443.5996,
+          "t": 361.0283,
+          "r": 450.12497,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 537.1967,
+          "t": 361.0283,
+          "r": 543.72205,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 630.7938,
+          "t": 361.0283,
+          "r": 637.31915,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WM/Spring Installment Plan",
+          "l": 256.4306,
+          "t": 369.3066,
+          "r": 331.9102,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Available Online",
+          "l": 256.4306,
+          "t": 377.70657,
+          "r": 298.75922,
+          "b": 381.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 69.2306,
+          "t": 424.14658,
+          "r": 75.75596,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 162.82773,
+          "t": 424.14658,
+          "r": 169.35309,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 256.42484,
+          "t": 424.14658,
+          "r": 262.9502,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 350.02197,
+          "t": 424.14658,
+          "r": 356.54733,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 443.61908,
+          "t": 424.14658,
+          "r": 450.14444,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 537.2162,
+          "t": 424.14658,
+          "r": 543.7415,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 630.8133,
+          "t": 424.14658,
+          "r": 637.3386,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thanksgiving Holiday - All Campuses Closed",
+          "l": 478.3106,
+          "t": 455.10013,
+          "r": 592.4885,
+          "b": 459.20197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DECEMBER 2024",
+          "l": 344.0306,
+          "t": 123.2461,
+          "r": 447.8158,
+          "b": 132.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 147.30658,
+          "r": 125.10151,
+          "b": 151.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 147.30658,
+          "r": 219.9016,
+          "b": 151.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 147.30658,
+          "r": 313.4994,
+          "b": 151.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 147.30658,
+          "r": 411.777,
+          "b": 151.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 147.30658,
+          "r": 502.01367,
+          "b": 151.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 147.30658,
+          "r": 591.41565,
+          "b": 151.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 147.30658,
+          "r": 688.85077,
+          "b": 151.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 69.2306,
+          "t": 156.06659,
+          "r": 75.75596,
+          "b": 160.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 162.82773,
+          "t": 156.06659,
+          "r": 169.35309,
+          "b": 160.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 256.42484,
+          "t": 156.06659,
+          "r": 262.9502,
+          "b": 160.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 350.02197,
+          "t": 156.06659,
+          "r": 356.54733,
+          "b": 160.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 443.61908,
+          "t": 156.06659,
+          "r": 450.14444,
+          "b": 160.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 537.2162,
+          "t": 156.06659,
+          "r": 543.7415,
+          "b": 160.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 630.8133,
+          "t": 156.06659,
+          "r": 637.3386,
+          "b": 160.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thanksgiving Holiday - All",
+          "l": 69.2306,
+          "t": 164.34012,
+          "r": 138.11238,
+          "b": 168.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WM/Spring Tuition Payment",
+          "l": 350.0306,
+          "t": 164.34659,
+          "r": 426.11545,
+          "b": 168.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campuses Closed",
+          "l": 69.2306,
+          "t": 172.74011,
+          "r": 114.553024,
+          "b": 176.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Deadline",
+          "l": 350.0305,
+          "t": 172.74658,
+          "r": 373.16797,
+          "b": 176.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 69.2306,
+          "t": 219.18658,
+          "r": 75.75596,
+          "b": 223.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 162.82773,
+          "t": 219.18658,
+          "r": 169.35309,
+          "b": 223.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 256.42484,
+          "t": 219.18658,
+          "r": 262.9502,
+          "b": 223.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 350.02197,
+          "t": 219.18658,
+          "r": 356.54733,
+          "b": 223.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 443.61908,
+          "t": 219.18658,
+          "r": 450.14444,
+          "b": 223.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 537.2162,
+          "t": 219.18658,
+          "r": 543.7415,
+          "b": 223.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 630.8133,
+          "t": 219.18658,
+          "r": 637.3386,
+          "b": 223.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 256.4306,
+          "t": 227.46658,
+          "r": 295.47256,
+          "b": 231.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Academic Suspension Appeal Fall Commencement",
+          "l": 443.6306,
+          "t": 227.46658,
+          "r": 591.3509,
+          "b": 231.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Opens 8 am",
+          "l": 443.6306,
+          "t": 235.86658,
+          "r": 474.83823,
+          "b": 239.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Weekend College Final Exams",
+          "l": 585.4706,
+          "t": 282.7866,
+          "r": 673.6563,
+          "b": 286.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Final Exam Week",
+          "l": 368.0306,
+          "t": 293.22656,
+          "r": 423.04324,
+          "b": 297.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 69.2306,
+          "t": 303.18658,
+          "r": 75.75596,
+          "b": 307.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 162.82773,
+          "t": 303.18658,
+          "r": 169.35309,
+          "b": 307.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 256.42484,
+          "t": 303.18658,
+          "r": 262.9502,
+          "b": 307.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 350.02197,
+          "t": 303.18658,
+          "r": 356.54733,
+          "b": 307.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 443.61908,
+          "t": 303.18658,
+          "r": 450.14444,
+          "b": 307.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 537.2162,
+          "t": 303.18658,
+          "r": 543.7415,
+          "b": 307.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 630.8133,
+          "t": 303.18658,
+          "r": 637.3386,
+          "b": 307.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Weekend College Final Exams",
+          "l": 69.2306,
+          "t": 311.46658,
+          "r": 157.4169,
+          "b": 315.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Grades Due in Workday by 11 Wintermester Census",
+          "l": 162.8306,
+          "t": 311.46658,
+          "r": 313.19922,
+          "b": 315.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wintermester Last Day to",
+          "l": 537.2306,
+          "t": 311.46658,
+          "r": 605.8833,
+          "b": 315.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Winter Break - All Campuses",
+          "l": 630.8306,
+          "t": 311.4601,
+          "r": 706.79675,
+          "b": 315.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pm",
+          "l": 162.8306,
+          "t": 319.86465,
+          "r": 171.36476,
+          "b": 323.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Withdraw",
+          "l": 537.2306,
+          "t": 319.86658,
+          "r": 563.3391,
+          "b": 323.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Closed",
+          "l": 630.8306,
+          "t": 319.8582,
+          "r": 647.9606,
+          "b": 323.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB CE State Reports Due",
+          "l": 69.2306,
+          "t": 328.26657,
+          "r": 143.4804,
+          "b": 332.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Housing Move-Out",
+          "l": 162.8306,
+          "t": 336.6673,
+          "r": 222.70901,
+          "b": 340.76266,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wintermester Classes Begin",
+          "l": 162.8306,
+          "t": 353.46994,
+          "r": 235.94772,
+          "b": 357.5653,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wintermester Classes Meet",
+          "l": 406.0706,
+          "t": 366.7866,
+          "r": 478.79684,
+          "b": 370.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 69.2306,
+          "t": 376.7466,
+          "r": 75.75596,
+          "b": 380.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 162.82773,
+          "t": 376.7466,
+          "r": 169.35309,
+          "b": 380.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 256.42484,
+          "t": 376.7466,
+          "r": 262.9502,
+          "b": 380.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 350.02197,
+          "t": 376.7466,
+          "r": 356.54733,
+          "b": 380.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 443.61908,
+          "t": 376.7466,
+          "r": 450.14444,
+          "b": 380.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 537.2162,
+          "t": 376.7466,
+          "r": 543.7415,
+          "b": 380.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 630.8133,
+          "t": 376.7466,
+          "r": 637.3386,
+          "b": 380.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Winter Break - All Campuses Closed",
+          "l": 348.46988,
+          "t": 407.70132,
+          "r": 441.54065,
+          "b": 411.80316,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 69.21112,
+          "t": 439.86826,
+          "r": 75.73648,
+          "b": 443.96362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 162.80824,
+          "t": 439.86826,
+          "r": 169.3336,
+          "b": 443.96362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 256.40536,
+          "t": 439.86826,
+          "r": 262.93073,
+          "b": 443.96362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 350.0025,
+          "t": 439.86826,
+          "r": 356.52786,
+          "b": 443.96362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 443.5996,
+          "t": 439.86826,
+          "r": 450.12497,
+          "b": 443.96362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 537.1967,
+          "t": 439.86826,
+          "r": 543.72205,
+          "b": 443.96362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 630.7938,
+          "t": 439.86826,
+          "r": 637.31915,
+          "b": 443.96362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Winter Break - All Campuses Closed",
+          "l": 208.06772,
+          "t": 470.82303,
+          "r": 301.13858,
+          "b": 474.92487,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JANUARY 2025",
+          "l": 349.1906,
+          "t": 98.886086,
+          "r": 442.65488,
+          "b": 108.441925,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 122.94657,
+          "r": 125.10151,
+          "b": 127.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 122.94657,
+          "r": 219.9016,
+          "b": 127.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 122.94657,
+          "r": 313.4994,
+          "b": 127.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 122.94657,
+          "r": 411.777,
+          "b": 127.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 122.94657,
+          "r": 502.01367,
+          "b": 127.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 122.94657,
+          "r": 591.41565,
+          "b": 127.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 122.94657,
+          "r": 688.85077,
+          "b": 127.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 69.2306,
+          "t": 131.70657,
+          "r": 75.75596,
+          "b": 135.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 162.82773,
+          "t": 131.70657,
+          "r": 169.35309,
+          "b": 135.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 256.42484,
+          "t": 131.70657,
+          "r": 262.9502,
+          "b": 135.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 350.02197,
+          "t": 131.70657,
+          "r": 356.54733,
+          "b": 135.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 443.61908,
+          "t": 131.70657,
+          "r": 450.14444,
+          "b": 135.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 537.2162,
+          "t": 131.70657,
+          "r": 543.7415,
+          "b": 135.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 630.8133,
+          "t": 131.70657,
+          "r": 637.3386,
+          "b": 135.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Winter Break - All Campuses Closed",
+          "l": 208.0706,
+          "t": 162.6601,
+          "r": 301.14148,
+          "b": 166.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wintermester Classes Meet",
+          "l": 499.6706,
+          "t": 162.66656,
+          "r": 572.39655,
+          "b": 166.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 69.21112,
+          "t": 194.82825,
+          "r": 75.73648,
+          "b": 198.92361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 162.80824,
+          "t": 194.82825,
+          "r": 169.3336,
+          "b": 198.92361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 256.40536,
+          "t": 194.82825,
+          "r": 262.93073,
+          "b": 198.92361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 350.0025,
+          "t": 194.82825,
+          "r": 356.52786,
+          "b": 198.92361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 443.5996,
+          "t": 194.82825,
+          "r": 450.12497,
+          "b": 198.92361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 537.1967,
+          "t": 194.82825,
+          "r": 543.72205,
+          "b": 198.92361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 630.7938,
+          "t": 194.82825,
+          "r": 637.31915,
+          "b": 198.92361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Faculty Report to Work",
+          "l": 350.0306,
+          "t": 203.10657,
+          "r": 410.81564,
+          "b": 207.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wintermester Final Exams",
+          "l": 443.6306,
+          "t": 203.10657,
+          "r": 512.39246,
+          "b": 207.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All College Day - Campuses Open",
+          "l": 537.2306,
+          "t": 203.10657,
+          "r": 623.29016,
+          "b": 207.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Deans Division Meetings Academic Dept Meetings 2:30 pm -",
+          "l": 350.0306,
+          "t": 219.90921,
+          "r": 536.99304,
+          "b": 224.00458,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(TBA)*",
+          "l": 350.0306,
+          "t": 228.30658,
+          "r": 367.41394,
+          "b": 232.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Frisco Campus*",
+          "l": 443.6306,
+          "t": 228.30658,
+          "r": 484.6522,
+          "b": 232.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discipline Leads Meeting 2:30-3:30",
+          "l": 350.0306,
+          "t": 245.10657,
+          "r": 442.55127,
+          "b": 249.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pm - McKinney Campus",
+          "l": 350.0306,
+          "t": 253.50659,
+          "r": 411.82645,
+          "b": 257.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*Days/locations of meetings may change. Please check with division",
+          "l": 353.5106,
+          "t": 290.94656,
+          "r": 532.7678,
+          "b": 295.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for final schedule.",
+          "l": 419.15298,
+          "t": 299.34464,
+          "r": 465.77258,
+          "b": 303.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wintermester Classes Meet",
+          "l": 312.4706,
+          "t": 307.14658,
+          "r": 385.19687,
+          "b": 311.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 69.2306,
+          "t": 317.10657,
+          "r": 75.75596,
+          "b": 321.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 162.82773,
+          "t": 317.10657,
+          "r": 169.35309,
+          "b": 321.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 256.42484,
+          "t": 317.10657,
+          "r": 262.9502,
+          "b": 321.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 350.02197,
+          "t": 317.10657,
+          "r": 356.54733,
+          "b": 321.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 443.61908,
+          "t": 317.10657,
+          "r": 450.14444,
+          "b": 321.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 537.2162,
+          "t": 317.10657,
+          "r": 543.7415,
+          "b": 321.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 630.8133,
+          "t": 317.10657,
+          "r": 637.3386,
+          "b": 321.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WM Grades Due in Workday by 11",
+          "l": 162.8306,
+          "t": 325.38657,
+          "r": 254.63533,
+          "b": 329.48193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Academic Suspension Appeals Faculty Development Conference Spring Housing Move-In",
+          "l": 350.0306,
+          "t": 325.38657,
+          "r": 599.7742,
+          "b": 329.48193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Services All Campuses",
+          "l": 630.8306,
+          "t": 325.38657,
+          "r": 711.9551,
+          "b": 329.48193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pm",
+          "l": 162.8306,
+          "t": 333.78464,
+          "r": 171.36476,
+          "b": 337.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Due 5 pm",
+          "l": 350.0305,
+          "t": 333.7866,
+          "r": 375.2383,
+          "b": 337.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8 am-1 pm - Frisco Campus",
+          "l": 443.6306,
+          "t": 333.7866,
+          "r": 514.5458,
+          "b": 337.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open 9 am-12 pm",
+          "l": 630.8306,
+          "t": 333.78464,
+          "r": 677.99384,
+          "b": 337.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Academic Suspension Appeal",
+          "l": 537.2306,
+          "t": 342.18658,
+          "r": 625.3034,
+          "b": 346.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Decision Notifications Delivered",
+          "l": 537.2306,
+          "t": 350.58466,
+          "r": 620.53296,
+          "b": 354.68002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Faculty: Scholarly Activities, Preparation, Research, & Skills Development",
+          "l": 300.8306,
+          "t": 380.46658,
+          "r": 491.11627,
+          "b": 384.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 69.2306,
+          "t": 390.6666,
+          "r": 75.75596,
+          "b": 394.76196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 162.82773,
+          "t": 390.6666,
+          "r": 169.35309,
+          "b": 394.76196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 256.42484,
+          "t": 390.6666,
+          "r": 262.9502,
+          "b": 394.76196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 350.02197,
+          "t": 390.6666,
+          "r": 356.54733,
+          "b": 394.76196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 443.61908,
+          "t": 390.6666,
+          "r": 450.14444,
+          "b": 394.76196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 537.2162,
+          "t": 390.6666,
+          "r": 543.7415,
+          "b": 394.76196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 630.8133,
+          "t": 390.6666,
+          "r": 637.3386,
+          "b": 394.76196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Martin Luther King Jr Holiday - All Spring Classes Begin",
+          "l": 162.8306,
+          "t": 398.94012,
+          "r": 309.13757,
+          "b": 403.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration Hard Stop Deadline",
+          "l": 537.2306,
+          "t": 398.9466,
+          "r": 622.4283,
+          "b": 403.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Weekend College Student",
+          "l": 630.8306,
+          "t": 398.9466,
+          "r": 700.19727,
+          "b": 403.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campuses Closed",
+          "l": 162.8306,
+          "t": 407.33823,
+          "r": 208.15306,
+          "b": 411.44006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for 16 Week Courses",
+          "l": 537.2306,
+          "t": 407.3466,
+          "r": 591.59503,
+          "b": 411.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Engagement Welcome 9 am-12",
+          "l": 630.8306,
+          "t": 407.3447,
+          "r": 714.3638,
+          "b": 411.44006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pm",
+          "l": 630.8306,
+          "t": 415.74277,
+          "r": 639.36475,
+          "b": 419.83813,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Engagement Welcome Week",
+          "l": 346.6706,
+          "t": 454.26657,
+          "r": 444.51385,
+          "b": 458.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Weekend College Begins",
+          "l": 588.4706,
+          "t": 454.26657,
+          "r": 670.6578,
+          "b": 458.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 69.2306,
+          "t": 464.2266,
+          "r": 75.75596,
+          "b": 468.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 162.82773,
+          "t": 464.2266,
+          "r": 169.35309,
+          "b": 468.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 256.42484,
+          "t": 464.2266,
+          "r": 262.9502,
+          "b": 468.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 350.02197,
+          "t": 464.2266,
+          "r": 356.54733,
+          "b": 468.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 443.61908,
+          "t": 464.2266,
+          "r": 450.14444,
+          "b": 468.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 537.2162,
+          "t": 464.2266,
+          "r": 543.7415,
+          "b": 468.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 630.8133,
+          "t": 464.2266,
+          "r": 637.3386,
+          "b": 468.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Weekend College Begins",
+          "l": 69.2306,
+          "t": 472.5066,
+          "r": 151.41771,
+          "b": 476.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 537.2306,
+          "t": 472.5066,
+          "r": 576.2726,
+          "b": 476.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FEBRUARY 2025",
+          "l": 345.5906,
+          "t": 138.8461,
+          "r": 446.2505,
+          "b": 148.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 162.90659,
+          "r": 125.10151,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 162.90659,
+          "r": 219.9016,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 162.90659,
+          "r": 313.4994,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 162.90659,
+          "r": 411.777,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 162.90659,
+          "r": 502.01367,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 162.90659,
+          "r": 591.41565,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 162.90659,
+          "r": 688.85077,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 69.2306,
+          "t": 171.66656,
+          "r": 75.75596,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 162.82773,
+          "t": 171.66656,
+          "r": 169.35309,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 256.42484,
+          "t": 171.66656,
+          "r": 262.9502,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 350.02197,
+          "t": 171.66656,
+          "r": 356.54733,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 443.61908,
+          "t": 171.66656,
+          "r": 450.14444,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 537.2162,
+          "t": 171.66656,
+          "r": 543.7415,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 630.8133,
+          "t": 171.66656,
+          "r": 637.3386,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB Credit State Reports Due",
+          "l": 630.8306,
+          "t": 179.94656,
+          "r": 714.43695,
+          "b": 184.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 69.2306,
+          "t": 234.78659,
+          "r": 75.75596,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 162.82773,
+          "t": 234.78659,
+          "r": 169.35309,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 256.42484,
+          "t": 234.78659,
+          "r": 262.9502,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 350.02197,
+          "t": 234.78659,
+          "r": 356.54733,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 443.61908,
+          "t": 234.78659,
+          "r": 450.14444,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 537.2162,
+          "t": 234.78659,
+          "r": 543.7415,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 630.8133,
+          "t": 234.78659,
+          "r": 637.3386,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Tuition 2nd Installment",
+          "l": 162.8306,
+          "t": 243.06659,
+          "r": 242.86116,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring 16 Week Census",
+          "l": 256.4306,
+          "t": 243.06659,
+          "r": 317.39243,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Due",
+          "l": 162.8306,
+          "t": 251.46466,
+          "r": 198.09021,
+          "b": 255.56003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 69.2306,
+          "t": 297.9066,
+          "r": 75.75596,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 162.82773,
+          "t": 297.9066,
+          "r": 169.35309,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 256.42484,
+          "t": 297.9066,
+          "r": 262.9502,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 350.02197,
+          "t": 297.9066,
+          "r": 356.54733,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 443.61908,
+          "t": 297.9066,
+          "r": 450.14444,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 537.2162,
+          "t": 297.9066,
+          "r": 543.7415,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 630.8133,
+          "t": 297.9066,
+          "r": 637.3386,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 69.21112,
+          "t": 361.0283,
+          "r": 75.73648,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 162.80824,
+          "t": 361.0283,
+          "r": 169.3336,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 256.40536,
+          "t": 361.0283,
+          "r": 262.93073,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 350.0025,
+          "t": 361.0283,
+          "r": 356.52786,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 443.5996,
+          "t": 361.0283,
+          "r": 450.12497,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 537.1967,
+          "t": 361.0283,
+          "r": 543.72205,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 630.7938,
+          "t": 361.0283,
+          "r": 637.31915,
+          "b": 365.12366,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Veteran Registration -",
+          "l": 256.4306,
+          "t": 369.3066,
+          "r": 339.12576,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Veteran Registration -",
+          "l": 443.6306,
+          "t": 369.3066,
+          "r": 526.32446,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plano Campus",
+          "l": 256.4306,
+          "t": 377.70657,
+          "r": 293.51886,
+          "b": 381.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Frisco Campus",
+          "l": 443.6306,
+          "t": 377.70657,
+          "r": 481.43878,
+          "b": 381.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 69.2306,
+          "t": 424.14658,
+          "r": 75.75596,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 162.82773,
+          "t": 424.14658,
+          "r": 169.35309,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 256.42484,
+          "t": 424.14658,
+          "r": 262.9502,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 350.02197,
+          "t": 424.14658,
+          "r": 356.54733,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 443.61908,
+          "t": 424.14658,
+          "r": 450.14444,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 537.2162,
+          "t": 424.14658,
+          "r": 543.7415,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 630.8133,
+          "t": 424.14658,
+          "r": 637.3386,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 256.4306,
+          "t": 432.4266,
+          "r": 295.47256,
+          "b": 436.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Veteran Registration -",
+          "l": 350.0306,
+          "t": 432.4266,
+          "r": 432.72443,
+          "b": 436.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "McKinney Campus",
+          "l": 350.0306,
+          "t": 440.8266,
+          "r": 398.39145,
+          "b": 444.92197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MARCH 2025",
+          "l": 354.7106,
+          "t": 107.28611,
+          "r": 437.13577,
+          "b": 116.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 131.34659,
+          "r": 125.10151,
+          "b": 135.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 131.34659,
+          "r": 219.9016,
+          "b": 135.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 131.34659,
+          "r": 313.4994,
+          "b": 135.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 131.34659,
+          "r": 411.777,
+          "b": 135.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 131.34659,
+          "r": 502.01367,
+          "b": 135.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 131.34659,
+          "r": 591.41565,
+          "b": 135.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 131.34659,
+          "r": 688.85077,
+          "b": 135.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 69.2306,
+          "t": 140.10657,
+          "r": 75.75596,
+          "b": 144.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 162.82773,
+          "t": 140.10657,
+          "r": 169.35309,
+          "b": 144.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 256.42484,
+          "t": 140.10657,
+          "r": 262.9502,
+          "b": 144.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 350.02197,
+          "t": 140.10657,
+          "r": 356.54733,
+          "b": 144.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 443.61908,
+          "t": 140.10657,
+          "r": 450.14444,
+          "b": 144.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 537.2162,
+          "t": 140.10657,
+          "r": 543.7415,
+          "b": 144.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 630.8133,
+          "t": 140.10657,
+          "r": 637.3386,
+          "b": 144.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 69.21112,
+          "t": 203.22824,
+          "r": 75.73648,
+          "b": 207.32361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 162.80824,
+          "t": 203.22824,
+          "r": 169.3336,
+          "b": 207.32361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 256.40536,
+          "t": 203.22824,
+          "r": 262.93073,
+          "b": 207.32361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 350.0025,
+          "t": 203.22824,
+          "r": 356.52786,
+          "b": 207.32361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 443.5996,
+          "t": 203.22824,
+          "r": 450.12497,
+          "b": 207.32361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 537.1967,
+          "t": 203.22824,
+          "r": 543.72205,
+          "b": 207.32361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 630.7938,
+          "t": 203.22824,
+          "r": 637.31915,
+          "b": 207.32361,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Tuition 3rd Installment",
+          "l": 162.8306,
+          "t": 211.50659,
+          "r": 241.78157,
+          "b": 215.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Priority Online",
+          "l": 256.4306,
+          "t": 211.50659,
+          "r": 319.3176,
+          "b": 215.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Priority Online",
+          "l": 350.0306,
+          "t": 211.50659,
+          "r": 412.91763,
+          "b": 215.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Registration Open for All",
+          "l": 443.6306,
+          "t": 211.50659,
+          "r": 531.6127,
+          "b": 215.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Due",
+          "l": 162.8306,
+          "t": 219.90466,
+          "r": 198.09023,
+          "b": 224.00003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration",
+          "l": 256.4306,
+          "t": 219.90659,
+          "r": 288.02905,
+          "b": 224.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration",
+          "l": 350.0306,
+          "t": 219.90659,
+          "r": 381.62906,
+          "b": 224.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30+ Hours",
+          "l": 256.4306,
+          "t": 228.30466,
+          "r": 283.2001,
+          "b": 232.40002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1+ Hours",
+          "l": 350.0306,
+          "t": 228.30466,
+          "r": 373.5601,
+          "b": 232.40002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Priority Online",
+          "l": 162.8306,
+          "t": 236.7073,
+          "r": 225.71765,
+          "b": 240.80267,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration Begins",
+          "l": 162.8306,
+          "t": 245.10538,
+          "r": 212.87111,
+          "b": 249.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50+ Hours",
+          "l": 162.8306,
+          "t": 253.50345,
+          "r": 189.60013,
+          "b": 257.59882,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 69.2306,
+          "t": 266.3466,
+          "r": 75.75596,
+          "b": 270.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 162.82773,
+          "t": 266.3466,
+          "r": 169.35309,
+          "b": 270.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 256.42484,
+          "t": 266.3466,
+          "r": 262.9502,
+          "b": 270.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 350.02197,
+          "t": 266.3466,
+          "r": 356.54733,
+          "b": 270.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 443.61908,
+          "t": 266.3466,
+          "r": 450.14444,
+          "b": 270.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 537.2162,
+          "t": 266.3466,
+          "r": 543.7415,
+          "b": 270.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 630.8133,
+          "t": 266.3466,
+          "r": 637.3386,
+          "b": 270.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB Credit State Reports Due",
+          "l": 630.8306,
+          "t": 274.6266,
+          "r": 714.43695,
+          "b": 278.72195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB CE State Reports Due",
+          "l": 630.8306,
+          "t": 291.42923,
+          "r": 705.0804,
+          "b": 295.5246,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 69.2306,
+          "t": 329.46658,
+          "r": 75.75596,
+          "b": 333.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 162.82773,
+          "t": 329.46658,
+          "r": 169.35309,
+          "b": 333.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 256.42484,
+          "t": 329.46658,
+          "r": 262.9502,
+          "b": 333.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 350.02197,
+          "t": 329.46658,
+          "r": 356.54733,
+          "b": 333.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 443.61908,
+          "t": 329.46658,
+          "r": 450.14444,
+          "b": 333.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 537.2162,
+          "t": 329.46658,
+          "r": 543.7415,
+          "b": 333.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 630.8133,
+          "t": 329.46658,
+          "r": 637.3386,
+          "b": 333.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Break - All Campuses Closed",
+          "l": 395.9906,
+          "t": 360.42014,
+          "r": 487.62213,
+          "b": 364.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 69.21112,
+          "t": 392.5883,
+          "r": 75.73648,
+          "b": 396.68365,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 162.80824,
+          "t": 392.5883,
+          "r": 169.3336,
+          "b": 396.68365,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 256.40536,
+          "t": 392.5883,
+          "r": 262.93073,
+          "b": 396.68365,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 350.0025,
+          "t": 392.5883,
+          "r": 356.52786,
+          "b": 396.68365,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 443.5996,
+          "t": 392.5883,
+          "r": 450.12497,
+          "b": 396.68365,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 537.1967,
+          "t": 392.5883,
+          "r": 543.72205,
+          "b": 396.68365,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 630.7938,
+          "t": 392.5883,
+          "r": 637.31915,
+          "b": 396.68365,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Break - All Campuses",
+          "l": 69.2306,
+          "t": 400.86014,
+          "r": 143.75711,
+          "b": 404.96198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Veteran Registration - Plano",
+          "l": 256.4306,
+          "t": 400.8666,
+          "r": 341.99884,
+          "b": 404.96198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Veteran Registration - Frisco",
+          "l": 443.6306,
+          "t": 400.8666,
+          "r": 529.9157,
+          "b": 404.96198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Closed",
+          "l": 69.2306,
+          "t": 409.2601,
+          "r": 86.36047,
+          "b": 413.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campus",
+          "l": 256.4306,
+          "t": 409.26657,
+          "r": 277.4413,
+          "b": 413.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campus",
+          "l": 443.6306,
+          "t": 409.26657,
+          "r": 464.64136,
+          "b": 413.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 256.4306,
+          "t": 426.06924,
+          "r": 295.47256,
+          "b": 430.1646,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 69.2306,
+          "t": 455.70657,
+          "r": 75.75596,
+          "b": 459.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 162.82773,
+          "t": 455.70657,
+          "r": 169.35309,
+          "b": 459.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 256.42484,
+          "t": 455.70657,
+          "r": 262.9502,
+          "b": 459.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 350.02197,
+          "t": 455.70657,
+          "r": 356.54733,
+          "b": 459.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 443.61908,
+          "t": 455.70657,
+          "r": 450.14444,
+          "b": 459.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 537.2162,
+          "t": 455.70657,
+          "r": 543.7415,
+          "b": 459.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 630.8133,
+          "t": 455.70657,
+          "r": 637.3386,
+          "b": 459.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "APRIL 2025",
+          "l": 360.8306,
+          "t": 138.8461,
+          "r": 431.0146,
+          "b": 148.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 162.90659,
+          "r": 125.10151,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 162.90659,
+          "r": 219.9016,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 162.90659,
+          "r": 313.4994,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 162.90659,
+          "r": 411.777,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 162.90659,
+          "r": 502.01367,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 162.90659,
+          "r": 591.41565,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 162.90659,
+          "r": 688.85077,
+          "b": 167.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 69.2306,
+          "t": 171.66656,
+          "r": 75.75596,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 162.82773,
+          "t": 171.66656,
+          "r": 169.35309,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 256.42484,
+          "t": 171.66656,
+          "r": 262.9502,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 350.02197,
+          "t": 171.66656,
+          "r": 356.54733,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 443.61908,
+          "t": 171.66656,
+          "r": 450.14444,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 537.2162,
+          "t": 171.66656,
+          "r": 543.7415,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 630.8133,
+          "t": 171.66656,
+          "r": 637.3386,
+          "b": 175.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Veteran Registration -",
+          "l": 350.0306,
+          "t": 179.94656,
+          "r": 419.51816,
+          "b": 184.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Tuition 4th Final Installment Spring 16 Week Last Day to",
+          "l": 443.6306,
+          "t": 179.94656,
+          "r": 610.08,
+          "b": 184.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "McKinney Campus",
+          "l": 350.0305,
+          "t": 188.34659,
+          "r": 398.39133,
+          "b": 192.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Due",
+          "l": 443.6306,
+          "t": 188.34659,
+          "r": 478.89343,
+          "b": 192.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Withdraw",
+          "l": 537.2306,
+          "t": 188.34659,
+          "r": 563.3391,
+          "b": 192.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 69.2306,
+          "t": 234.78659,
+          "r": 75.75596,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 162.82773,
+          "t": 234.78659,
+          "r": 169.35309,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 256.42484,
+          "t": 234.78659,
+          "r": 262.9502,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 350.02197,
+          "t": 234.78659,
+          "r": 356.54733,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 443.61908,
+          "t": 234.78659,
+          "r": 450.14444,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 537.2162,
+          "t": 234.78659,
+          "r": 543.7415,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 630.8133,
+          "t": 234.78659,
+          "r": 637.3386,
+          "b": 238.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Priority Online Registration",
+          "l": 162.8306,
+          "t": 243.06659,
+          "r": 245.50949,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Priority Online Registration",
+          "l": 256.4306,
+          "t": 243.06659,
+          "r": 339.10944,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Priority Online Registration",
+          "l": 350.0306,
+          "t": 243.06659,
+          "r": 432.70953,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Registration Open for All",
+          "l": 443.6306,
+          "t": 243.06659,
+          "r": 518.4116,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open House - Technical Campus",
+          "l": 630.8306,
+          "t": 243.06659,
+          "r": 715.05634,
+          "b": 247.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Begins",
+          "l": 162.8306,
+          "t": 251.46466,
+          "r": 179.88338,
+          "b": 255.56003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Begins",
+          "l": 256.4306,
+          "t": 251.46658,
+          "r": 273.48337,
+          "b": 255.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Begins",
+          "l": 350.0306,
+          "t": 251.46658,
+          "r": 367.08334,
+          "b": 255.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50+ Hours",
+          "l": 162.8306,
+          "t": 259.86273,
+          "r": 189.60013,
+          "b": 263.9581,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30+ Hours",
+          "l": 256.4306,
+          "t": 259.86465,
+          "r": 283.2001,
+          "b": 263.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1+ Hours",
+          "l": 350.0306,
+          "t": 259.86465,
+          "r": 373.5601,
+          "b": 263.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Carnival - Celina Campus",
+          "l": 350.0306,
+          "t": 276.6673,
+          "r": 414.58957,
+          "b": 280.76266,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 69.2306,
+          "t": 297.9066,
+          "r": 75.75596,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 162.82773,
+          "t": 297.9066,
+          "r": 169.35309,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 256.42484,
+          "t": 297.9066,
+          "r": 262.9502,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 350.02197,
+          "t": 297.9066,
+          "r": 356.54733,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 443.61908,
+          "t": 297.9066,
+          "r": 450.14444,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 537.2162,
+          "t": 297.9066,
+          "r": 543.7415,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 630.8133,
+          "t": 297.9066,
+          "r": 637.3386,
+          "b": 302.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MM/Summer Installment Plan",
+          "l": 256.4306,
+          "t": 306.18658,
+          "r": 337.4416,
+          "b": 310.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Celebrating Cultural Diversity",
+          "l": 350.0306,
+          "t": 306.18658,
+          "r": 427.91556,
+          "b": 310.28195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Available Online",
+          "l": 256.4306,
+          "t": 314.58658,
+          "r": 298.75922,
+          "b": 318.68195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Event - All Campuses",
+          "l": 350.0305,
+          "t": 314.58658,
+          "r": 404.51044,
+          "b": 318.68195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Celebrating Cultural Diversity",
+          "l": 256.4306,
+          "t": 331.38922,
+          "r": 334.31558,
+          "b": 335.4846,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Holiday - All Campuses Closed",
+          "l": 580.7906,
+          "t": 328.8601,
+          "r": 677.0987,
+          "b": 332.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Event - All Campuses",
+          "l": 256.4306,
+          "t": 339.7873,
+          "r": 310.91055,
+          "b": 343.88266,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 69.2306,
+          "t": 361.02658,
+          "r": 75.75596,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 162.82773,
+          "t": 361.02658,
+          "r": 169.35309,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 256.42484,
+          "t": 361.02658,
+          "r": 262.9502,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 350.02197,
+          "t": 361.02658,
+          "r": 356.54733,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 443.61908,
+          "t": 361.02658,
+          "r": 450.14444,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 537.2162,
+          "t": 361.02658,
+          "r": 543.7415,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 630.8133,
+          "t": 361.02658,
+          "r": 637.3386,
+          "b": 365.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Holiday - All Campuses",
+          "l": 69.2306,
+          "t": 369.30014,
+          "r": 148.43762,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SpringFest - Plano Campus",
+          "l": 350.0306,
+          "t": 369.3066,
+          "r": 419.38083,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 537.2306,
+          "t": 369.3066,
+          "r": 576.2726,
+          "b": 373.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Closed",
+          "l": 69.2306,
+          "t": 377.7001,
+          "r": 86.36047,
+          "b": 381.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 69.2306,
+          "t": 424.14658,
+          "r": 75.75596,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 162.82773,
+          "t": 424.14658,
+          "r": 169.35309,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 256.42484,
+          "t": 424.14658,
+          "r": 262.9502,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 350.02197,
+          "t": 424.14658,
+          "r": 356.54733,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 443.61908,
+          "t": 424.14658,
+          "r": 450.14444,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 537.2162,
+          "t": 424.14658,
+          "r": 543.7415,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 630.8133,
+          "t": 424.14658,
+          "r": 637.3386,
+          "b": 428.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MM/Summer Tuition Payment",
+          "l": 350.0306,
+          "t": 432.4266,
+          "r": 431.63577,
+          "b": 436.52197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Deadline",
+          "l": 350.0306,
+          "t": 440.8266,
+          "r": 373.1681,
+          "b": 444.92197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MAY 2025",
+          "l": 363.8306,
+          "t": 116.646095,
+          "r": 428.015,
+          "b": 126.201935,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 140.70657,
+          "r": 125.10151,
+          "b": 144.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 140.70657,
+          "r": 219.9016,
+          "b": 144.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 140.70657,
+          "r": 313.4994,
+          "b": 144.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 140.70657,
+          "r": 411.777,
+          "b": 144.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 140.70657,
+          "r": 502.01367,
+          "b": 144.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 140.70657,
+          "r": 591.41565,
+          "b": 144.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 140.70657,
+          "r": 688.85077,
+          "b": 144.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 69.2306,
+          "t": 149.46658,
+          "r": 75.75596,
+          "b": 153.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 162.82773,
+          "t": 149.46658,
+          "r": 169.35309,
+          "b": 153.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 256.42484,
+          "t": 149.46658,
+          "r": 262.9502,
+          "b": 153.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 350.02197,
+          "t": 149.46658,
+          "r": 356.54733,
+          "b": 153.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 443.61908,
+          "t": 149.46658,
+          "r": 450.14444,
+          "b": 153.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 537.2162,
+          "t": 149.46658,
+          "r": 543.7415,
+          "b": 153.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 630.8133,
+          "t": 149.46658,
+          "r": 637.3386,
+          "b": 153.56195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 69.21112,
+          "t": 212.58826,
+          "r": 75.73648,
+          "b": 216.68362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 162.80824,
+          "t": 212.58826,
+          "r": 169.3336,
+          "b": 216.68362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 256.40536,
+          "t": 212.58826,
+          "r": 262.93073,
+          "b": 216.68362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 350.0025,
+          "t": 212.58826,
+          "r": 356.52786,
+          "b": 216.68362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 443.5996,
+          "t": 212.58826,
+          "r": 450.12497,
+          "b": 216.68362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 537.1967,
+          "t": 212.58826,
+          "r": 543.72205,
+          "b": 216.68362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 630.7938,
+          "t": 212.58826,
+          "r": 637.31915,
+          "b": 216.68362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 69.19165,
+          "t": 275.70993,
+          "r": 75.71701,
+          "b": 279.8053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 162.78877,
+          "t": 275.70993,
+          "r": 169.31413,
+          "b": 279.8053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 256.3859,
+          "t": 275.70993,
+          "r": 262.91125,
+          "b": 279.8053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 349.98303,
+          "t": 275.70993,
+          "r": 356.5084,
+          "b": 279.8053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 443.58014,
+          "t": 275.70993,
+          "r": 450.1055,
+          "b": 279.8053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 537.17725,
+          "t": 275.70993,
+          "r": 543.7026,
+          "b": 279.8053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 630.77435,
+          "t": 275.70993,
+          "r": 637.2997,
+          "b": 279.8053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Academic Suspension",
+          "l": 443.6306,
+          "t": 283.98657,
+          "r": 519.47235,
+          "b": 288.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Commencement",
+          "l": 537.2306,
+          "t": 283.98657,
+          "r": 598.7888,
+          "b": 288.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeal Opens 8 am",
+          "l": 443.6306,
+          "t": 292.38657,
+          "r": 494.51282,
+          "b": 296.48193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Weekend College Final Exams",
+          "l": 581.7506,
+          "t": 339.30658,
+          "r": 677.3734,
+          "b": 343.40195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Final Exam Week",
+          "l": 364.3106,
+          "t": 349.74658,
+          "r": 426.7577,
+          "b": 353.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 69.2306,
+          "t": 359.70657,
+          "r": 75.75596,
+          "b": 363.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 162.82773,
+          "t": 359.70657,
+          "r": 169.35309,
+          "b": 363.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 256.42484,
+          "t": 359.70657,
+          "r": 262.9502,
+          "b": 363.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 350.02197,
+          "t": 359.70657,
+          "r": 356.54733,
+          "b": 363.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 443.61908,
+          "t": 359.70657,
+          "r": 450.14444,
+          "b": 363.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 537.2162,
+          "t": 359.70657,
+          "r": 543.7415,
+          "b": 363.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 630.8133,
+          "t": 359.70657,
+          "r": 637.3386,
+          "b": 363.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Weekend College Final",
+          "l": 69.2306,
+          "t": 367.9866,
+          "r": 148.18808,
+          "b": 372.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Grades Due in Workday by Maymester Census Date",
+          "l": 162.8306,
+          "t": 367.9866,
+          "r": 320.37198,
+          "b": 372.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Maymester Last Day to Withdraw",
+          "l": 537.2306,
+          "t": 367.9866,
+          "r": 625.2494,
+          "b": 372.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exams",
+          "l": 69.2306,
+          "t": 376.3866,
+          "r": 85.92178,
+          "b": 380.48196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11 pm",
+          "l": 162.8306,
+          "t": 376.38467,
+          "r": 179.28722,
+          "b": 380.48004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Housing Move-Out",
+          "l": 162.8306,
+          "t": 393.18732,
+          "r": 230.14288,
+          "b": 397.28268,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Maymester Classes Begin",
+          "l": 162.8306,
+          "t": 409.98996,
+          "r": 229.22992,
+          "b": 414.08533,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Maymester Classes Meet",
+          "l": 409.4306,
+          "t": 423.3066,
+          "r": 475.43845,
+          "b": 427.40198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 69.2306,
+          "t": 433.26657,
+          "r": 75.75596,
+          "b": 437.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 162.82773,
+          "t": 433.26657,
+          "r": 169.35309,
+          "b": 437.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 256.42484,
+          "t": 433.26657,
+          "r": 262.9502,
+          "b": 437.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 350.02197,
+          "t": 433.26657,
+          "r": 356.54733,
+          "b": 437.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 443.61908,
+          "t": 433.26657,
+          "r": 450.14444,
+          "b": 437.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 537.2162,
+          "t": 433.26657,
+          "r": 543.7415,
+          "b": 437.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 630.8133,
+          "t": 433.26657,
+          "r": 637.3386,
+          "b": 437.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Memorial Day Holiday - All",
+          "l": 162.8306,
+          "t": 441.54013,
+          "r": 234.48244,
+          "b": 445.64197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Tuition 2nd Installment",
+          "l": 256.4306,
+          "t": 441.5466,
+          "r": 342.22946,
+          "b": 445.64197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Academic Suspension",
+          "l": 537.2306,
+          "t": 441.5466,
+          "r": 613.0725,
+          "b": 445.64197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campuses Closed",
+          "l": 162.8306,
+          "t": 449.9382,
+          "r": 208.15306,
+          "b": 454.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Due",
+          "l": 256.4306,
+          "t": 449.9466,
+          "r": 291.6902,
+          "b": 454.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeals Due 5 pm",
+          "l": 537.2305,
+          "t": 449.9466,
+          "r": 584.63293,
+          "b": 454.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 256.4306,
+          "t": 466.74924,
+          "r": 295.47256,
+          "b": 470.8446,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Maymester Classes Meet",
+          "l": 409.43085,
+          "t": 496.8685,
+          "r": 475.4387,
+          "b": 500.96387,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JUNE 2025",
+          "l": 362.8706,
+          "t": 130.92609,
+          "r": 429.09622,
+          "b": 140.48193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 154.98657,
+          "r": 125.10151,
+          "b": 159.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 154.98657,
+          "r": 219.9016,
+          "b": 159.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 154.98657,
+          "r": 313.4994,
+          "b": 159.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 154.98657,
+          "r": 411.777,
+          "b": 159.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 154.98657,
+          "r": 502.01367,
+          "b": 159.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 154.98657,
+          "r": 591.41565,
+          "b": 159.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 154.98657,
+          "r": 688.85077,
+          "b": 159.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 69.2306,
+          "t": 163.74658,
+          "r": 75.75596,
+          "b": 167.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 162.82773,
+          "t": 163.74658,
+          "r": 169.35309,
+          "b": 167.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 256.42484,
+          "t": 163.74658,
+          "r": 262.9502,
+          "b": 167.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 350.02197,
+          "t": 163.74658,
+          "r": 356.54733,
+          "b": 167.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 443.61908,
+          "t": 163.74658,
+          "r": 450.14444,
+          "b": 167.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 537.2162,
+          "t": 163.74658,
+          "r": 543.7415,
+          "b": 167.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 630.8133,
+          "t": 163.74658,
+          "r": 637.3386,
+          "b": 167.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Maymester Classes Meet",
+          "l": 162.8306,
+          "t": 172.02658,
+          "r": 228.83852,
+          "b": 176.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Maymester Final Exams",
+          "l": 256.4306,
+          "t": 172.02658,
+          "r": 318.47333,
+          "b": 176.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Academic Suspension",
+          "l": 350.0306,
+          "t": 172.02658,
+          "r": 425.87238,
+          "b": 176.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Maymester Grades Due in",
+          "l": 443.6306,
+          "t": 172.02658,
+          "r": 513.4803,
+          "b": 176.12195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeal Decision Notifications",
+          "l": 350.0305,
+          "t": 180.42657,
+          "r": 427.91086,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Workday by 11 pm",
+          "l": 443.6306,
+          "t": 180.42657,
+          "r": 492.96146,
+          "b": 184.52194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delivered",
+          "l": 350.0305,
+          "t": 188.82465,
+          "r": 375.14957,
+          "b": 192.92001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 69.2306,
+          "t": 226.86658,
+          "r": 75.75596,
+          "b": 230.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 162.82773,
+          "t": 226.86658,
+          "r": 169.35309,
+          "b": 230.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 256.42484,
+          "t": 226.86658,
+          "r": 262.9502,
+          "b": 230.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 350.02197,
+          "t": 226.86658,
+          "r": 356.54733,
+          "b": 230.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 443.61908,
+          "t": 226.86658,
+          "r": 450.14444,
+          "b": 230.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 537.2162,
+          "t": 226.86658,
+          "r": 543.7415,
+          "b": 230.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 630.8133,
+          "t": 226.86658,
+          "r": 637.3386,
+          "b": 230.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) & 10",
+          "l": 162.8306,
+          "t": 235.14658,
+          "r": 242.03625,
+          "b": 239.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) Census",
+          "l": 443.6306,
+          "t": 235.14658,
+          "r": 528.9514,
+          "b": 239.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week (Summer III) Classes Begin",
+          "l": 162.8306,
+          "t": 243.54465,
+          "r": 248.29593,
+          "b": 247.64001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date",
+          "l": 443.6306,
+          "t": 243.54657,
+          "r": 456.09683,
+          "b": 247.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) & 10 Week (Summer III) Weekend Classes",
+          "l": 541.8947,
+          "t": 253.62683,
+          "r": 718.64417,
+          "b": 257.7222,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Begin",
+          "l": 622.29205,
+          "t": 262.0249,
+          "r": 636.8526,
+          "b": 266.12027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 69.2306,
+          "t": 289.98657,
+          "r": 75.75596,
+          "b": 294.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 162.82773,
+          "t": 289.98657,
+          "r": 169.35309,
+          "b": 294.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 256.42484,
+          "t": 289.98657,
+          "r": 262.9502,
+          "b": 294.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 350.02197,
+          "t": 289.98657,
+          "r": 356.54733,
+          "b": 294.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 443.61908,
+          "t": 289.98657,
+          "r": 450.14444,
+          "b": 294.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 537.2162,
+          "t": 289.98657,
+          "r": 543.7415,
+          "b": 294.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 630.8133,
+          "t": 289.98657,
+          "r": 637.3386,
+          "b": 294.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) & 10",
+          "l": 69.2306,
+          "t": 298.26657,
+          "r": 148.43628,
+          "b": 302.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Week (Summer III) Census Date",
+          "l": 256.4306,
+          "t": 298.26657,
+          "r": 347.36432,
+          "b": 302.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week (Summer III) Weekend",
+          "l": 69.2306,
+          "t": 306.66656,
+          "r": 146.53117,
+          "b": 310.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classes Begin",
+          "l": 69.2306,
+          "t": 315.06464,
+          "r": 104.06774,
+          "b": 319.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB Credit State Report Due",
+          "l": 69.2306,
+          "t": 331.86728,
+          "r": 150.31746,
+          "b": 335.96265,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB CE State Reports Due",
+          "l": 69.2306,
+          "t": 348.66992,
+          "r": 143.4804,
+          "b": 352.7653,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 69.2306,
+          "t": 361.50662,
+          "r": 75.75596,
+          "b": 365.602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 162.82773,
+          "t": 361.50662,
+          "r": 169.35309,
+          "b": 365.602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 256.42484,
+          "t": 361.50662,
+          "r": 262.9502,
+          "b": 365.602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 350.02197,
+          "t": 361.50662,
+          "r": 356.54733,
+          "b": 365.602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 443.61908,
+          "t": 361.50662,
+          "r": 450.14444,
+          "b": 365.602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 537.2162,
+          "t": 361.50662,
+          "r": 543.7415,
+          "b": 365.602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 630.8133,
+          "t": 361.50662,
+          "r": 637.3386,
+          "b": 365.602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) Last Day",
+          "l": 256.4306,
+          "t": 369.7866,
+          "r": 345.23697,
+          "b": 373.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to Withdraw",
+          "l": 256.4306,
+          "t": 378.1866,
+          "r": 289.498,
+          "b": 382.28198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Tuition 3rd Installment",
+          "l": 256.4306,
+          "t": 394.98923,
+          "r": 341.14798,
+          "b": 399.0846,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Payment Due",
+          "l": 256.4306,
+          "t": 403.38733,
+          "r": 291.69342,
+          "b": 407.4827,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 256.4306,
+          "t": 420.18997,
+          "r": 295.47256,
+          "b": 424.28534,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 69.2306,
+          "t": 432.0666,
+          "r": 75.75596,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 162.82773,
+          "t": 432.0666,
+          "r": 169.35309,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 256.42484,
+          "t": 432.0666,
+          "r": 262.9502,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 350.02197,
+          "t": 432.0666,
+          "r": 356.54733,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 443.61908,
+          "t": 432.0666,
+          "r": 450.14444,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 537.2162,
+          "t": 432.0666,
+          "r": 543.7415,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 630.8133,
+          "t": 432.0666,
+          "r": 637.3386,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 296.0306,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "JULY 2025",
+          "l": 364.4306,
+          "t": 131.04611,
+          "r": 427.53546,
+          "b": 140.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 155.10657,
+          "r": 125.10151,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 155.10657,
+          "r": 219.9016,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 155.10657,
+          "r": 313.4994,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 155.10657,
+          "r": 411.777,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 155.10657,
+          "r": 502.01367,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 155.10657,
+          "r": 591.41565,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 155.10657,
+          "r": 688.85077,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 69.2306,
+          "t": 163.86658,
+          "r": 75.75596,
+          "b": 167.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 162.82773,
+          "t": 163.86658,
+          "r": 169.35309,
+          "b": 167.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 256.42484,
+          "t": 163.86658,
+          "r": 262.9502,
+          "b": 167.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 350.02197,
+          "t": 163.86658,
+          "r": 356.54733,
+          "b": 167.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 443.61908,
+          "t": 163.86658,
+          "r": 450.14444,
+          "b": 167.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 537.2162,
+          "t": 163.86658,
+          "r": 543.7415,
+          "b": 167.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 630.8133,
+          "t": 163.86658,
+          "r": 637.3386,
+          "b": 167.96194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Independence Day Holiday - All",
+          "l": 537.2306,
+          "t": 172.1401,
+          "r": 620.13855,
+          "b": 176.24194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Campuses Closed",
+          "l": 537.2306,
+          "t": 180.5401,
+          "r": 582.55304,
+          "b": 184.64194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 69.2306,
+          "t": 226.98657,
+          "r": 75.75596,
+          "b": 231.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 162.82773,
+          "t": 226.98657,
+          "r": 169.35309,
+          "b": 231.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 256.42484,
+          "t": 226.98657,
+          "r": 262.9502,
+          "b": 231.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 350.02197,
+          "t": 226.98657,
+          "r": 356.54733,
+          "b": 231.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 443.61908,
+          "t": 226.98657,
+          "r": 450.14444,
+          "b": 231.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 537.2162,
+          "t": 226.98657,
+          "r": 543.7415,
+          "b": 231.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 630.8133,
+          "t": 226.98657,
+          "r": 637.3386,
+          "b": 231.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Week (Summer III) Last Day to",
+          "l": 443.6306,
+          "t": 235.26657,
+          "r": 532.56006,
+          "b": 239.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Withdraw",
+          "l": 443.6306,
+          "t": 243.66656,
+          "r": 469.73978,
+          "b": 247.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) Final",
+          "l": 443.6306,
+          "t": 260.4692,
+          "r": 522.83496,
+          "b": 264.56458,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exams",
+          "l": 443.6306,
+          "t": 268.86728,
+          "r": 460.3218,
+          "b": 272.96265,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) Weekend College Final Exams",
+          "l": 557.98944,
+          "t": 293.22803,
+          "r": 701.1271,
+          "b": 297.3234,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 69.2306,
+          "t": 305.82657,
+          "r": 75.75596,
+          "b": 309.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 162.82773,
+          "t": 305.82657,
+          "r": 169.35309,
+          "b": 309.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 256.42484,
+          "t": 305.82657,
+          "r": 262.9502,
+          "b": 309.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 350.02197,
+          "t": 305.82657,
+          "r": 356.54733,
+          "b": 309.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 443.61908,
+          "t": 305.82657,
+          "r": 450.14444,
+          "b": 309.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 537.2162,
+          "t": 305.82657,
+          "r": 543.7415,
+          "b": 309.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 630.8133,
+          "t": 305.82657,
+          "r": 637.3386,
+          "b": 309.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) Weekend 5 Week July (Summer II) Classes",
+          "l": 69.2306,
+          "t": 314.10657,
+          "r": 247.91426,
+          "b": 318.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Installment Plan Available",
+          "l": 256.4306,
+          "t": 314.10657,
+          "r": 335.8656,
+          "b": 318.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) Census",
+          "l": 443.6306,
+          "t": 314.10657,
+          "r": 528.34875,
+          "b": 318.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "College Final Exams",
+          "l": 69.2306,
+          "t": 322.5066,
+          "r": 120.35069,
+          "b": 326.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Begin",
+          "l": 162.8306,
+          "t": 322.50464,
+          "r": 177.39116,
+          "b": 326.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Online",
+          "l": 256.4306,
+          "t": 322.5066,
+          "r": 273.57214,
+          "b": 326.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date",
+          "l": 443.6306,
+          "t": 322.5066,
+          "r": 456.09683,
+          "b": 326.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week June (Summer I) Grades",
+          "l": 162.8306,
+          "t": 339.30728,
+          "r": 248.27846,
+          "b": 343.40265,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) Weekend Classes Begin",
+          "l": 566.5106,
+          "t": 336.7866,
+          "r": 692.7639,
+          "b": 340.88196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Due in Workday by 11 pm",
+          "l": 162.8306,
+          "t": 347.70535,
+          "r": 230.38264,
+          "b": 351.80072,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 69.2306,
+          "t": 368.9466,
+          "r": 75.75596,
+          "b": 373.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 162.82773,
+          "t": 368.9466,
+          "r": 169.35309,
+          "b": 373.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 256.42484,
+          "t": 368.9466,
+          "r": 262.9502,
+          "b": 373.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 350.02197,
+          "t": 368.9466,
+          "r": 356.54733,
+          "b": 373.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 443.61908,
+          "t": 368.9466,
+          "r": 450.14444,
+          "b": 373.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 537.2162,
+          "t": 368.9466,
+          "r": 543.7415,
+          "b": 373.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 630.8133,
+          "t": 368.9466,
+          "r": 637.3386,
+          "b": 373.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) Weekend",
+          "l": 69.2306,
+          "t": 377.2266,
+          "r": 160.6725,
+          "b": 381.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Tuition Payment Deadline",
+          "l": 350.0306,
+          "t": 377.2266,
+          "r": 427.99213,
+          "b": 381.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Required Class Day for 5 Week July",
+          "l": 537.2306,
+          "t": 377.2266,
+          "r": 629.87317,
+          "b": 381.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Classes Begin",
+          "l": 69.2306,
+          "t": 385.6266,
+          "r": 104.06774,
+          "b": 389.72195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Summer II) & 10 Week (Summer",
+          "l": 537.2306,
+          "t": 385.6266,
+          "r": 625.5564,
+          "b": 389.72195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "III) MW Classes",
+          "l": 537.2306,
+          "t": 394.0247,
+          "r": 577.196,
+          "b": 398.12006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 69.2306,
+          "t": 432.0666,
+          "r": 75.75596,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 162.82773,
+          "t": 432.0666,
+          "r": 169.35309,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 256.42484,
+          "t": 432.0666,
+          "r": 262.9502,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 350.02197,
+          "t": 432.0666,
+          "r": 356.54733,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 443.61908,
+          "t": 432.0666,
+          "r": 450.14444,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 537.2162,
+          "t": 432.0666,
+          "r": 543.7415,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 630.8133,
+          "t": 432.0666,
+          "r": 637.3386,
+          "b": 436.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) Last Day",
+          "l": 256.4306,
+          "t": 440.3466,
+          "r": 344.63498,
+          "b": 444.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to Withdraw",
+          "l": 256.4306,
+          "t": 448.7466,
+          "r": 289.498,
+          "b": 452.84198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "widthPt": 791.9996,
+      "heightPt": 611.99976,
+      "runs": [
+        {
+          "text": "2024-2025 MASTER CALENDAR",
+          "l": 298.9106,
+          "t": 26.406136,
+          "r": 495.81985,
+          "b": 35.961975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AUGUST 2025",
+          "l": 352.4306,
+          "t": 59.166145,
+          "r": 439.5399,
+          "b": 68.721985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sunday",
+          "l": 105.2306,
+          "t": 83.2266,
+          "r": 125.10151,
+          "b": 87.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday",
+          "l": 197.5106,
+          "t": 83.2266,
+          "r": 219.9016,
+          "b": 87.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday",
+          "l": 291.10773,
+          "t": 83.2266,
+          "r": 313.4994,
+          "b": 87.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday",
+          "l": 380.0263,
+          "t": 83.2266,
+          "r": 411.777,
+          "b": 87.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday",
+          "l": 477.10318,
+          "t": 83.2266,
+          "r": 502.01367,
+          "b": 87.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday",
+          "l": 574.7827,
+          "t": 83.2266,
+          "r": 591.41565,
+          "b": 87.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Saturday",
+          "l": 664.66034,
+          "t": 83.2266,
+          "r": 688.85077,
+          "b": 87.32196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 69.2306,
+          "t": 91.98661,
+          "r": 75.75596,
+          "b": 96.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 162.82773,
+          "t": 91.98661,
+          "r": 169.35309,
+          "b": 96.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 256.42484,
+          "t": 91.98661,
+          "r": 262.9502,
+          "b": 96.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 350.02197,
+          "t": 91.98661,
+          "r": 356.54733,
+          "b": 96.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 443.61908,
+          "t": 91.98661,
+          "r": 450.14444,
+          "b": 96.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 537.2162,
+          "t": 91.98661,
+          "r": 543.7415,
+          "b": 96.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 630.8133,
+          "t": 91.98661,
+          "r": 637.3386,
+          "b": 96.08197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Required Class Day for 5 Week July",
+          "l": 537.2306,
+          "t": 100.26661,
+          "r": 631.3117,
+          "b": 104.36197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Summer II) & 10 Week (Summer",
+          "l": 537.2307,
+          "t": 108.66648,
+          "r": 625.5565,
+          "b": 112.76184,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "III) TR Classes",
+          "l": 537.2307,
+          "t": 117.06455,
+          "r": 572.5163,
+          "b": 121.15991,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 69.2306,
+          "t": 155.10657,
+          "r": 75.75596,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 162.82773,
+          "t": 155.10657,
+          "r": 169.35309,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 256.42484,
+          "t": 155.10657,
+          "r": 262.9502,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 350.02197,
+          "t": 155.10657,
+          "r": 356.54733,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07",
+          "l": 443.61908,
+          "t": 155.10657,
+          "r": 450.14444,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08",
+          "l": 537.2162,
+          "t": 155.10657,
+          "r": 543.7415,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09",
+          "l": 630.8133,
+          "t": 155.10657,
+          "r": 637.3386,
+          "b": 159.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 537.2306,
+          "t": 163.38657,
+          "r": 576.2726,
+          "b": 167.48193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10",
+          "l": 69.2306,
+          "t": 218.22656,
+          "r": 75.75596,
+          "b": 222.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11",
+          "l": 162.82773,
+          "t": 218.22656,
+          "r": 169.35309,
+          "b": 222.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12",
+          "l": 256.42484,
+          "t": 218.22656,
+          "r": 262.9502,
+          "b": 222.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13",
+          "l": 350.02197,
+          "t": 218.22656,
+          "r": 356.54733,
+          "b": 222.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14",
+          "l": 443.61908,
+          "t": 218.22656,
+          "r": 450.14444,
+          "b": 222.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 537.2162,
+          "t": 218.22656,
+          "r": 543.7415,
+          "b": 222.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "16",
+          "l": 630.8133,
+          "t": 218.22656,
+          "r": 637.3386,
+          "b": 222.32193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Academic Suspension",
+          "l": 162.8306,
+          "t": 226.50659,
+          "r": 244.4371,
+          "b": 230.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) Final",
+          "l": 256.4306,
+          "t": 226.50659,
+          "r": 335.02972,
+          "b": 230.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Faculty Report to Work",
+          "l": 350.0306,
+          "t": 226.50659,
+          "r": 410.81564,
+          "b": 230.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Faculty Development Conference All College Day - All Campuses",
+          "l": 443.6306,
+          "t": 226.50012,
+          "r": 617.0368,
+          "b": 230.60196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeal Opens 8 am",
+          "l": 162.8306,
+          "t": 234.90466,
+          "r": 213.71286,
+          "b": 239.00003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exams",
+          "l": 256.4306,
+          "t": 234.90659,
+          "r": 273.1218,
+          "b": 239.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8:30 am-2:30 pm -  McKinney",
+          "l": 443.6306,
+          "t": 234.90659,
+          "r": 521.8811,
+          "b": 239.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Closed",
+          "l": 537.2306,
+          "t": 234.90012,
+          "r": 554.36053,
+          "b": 239.00195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Deans Division Meetings Campus",
+          "l": 350.0306,
+          "t": 243.30466,
+          "r": 464.64136,
+          "b": 247.4046,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Faculty Report to Work",
+          "l": 256.4306,
+          "t": 251.70923,
+          "r": 330.77567,
+          "b": 255.8046,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(TBA)*",
+          "l": 350.0306,
+          "t": 251.70657,
+          "r": 367.41394,
+          "b": 255.80194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THECB Credit State Reports Due",
+          "l": 537.2306,
+          "t": 251.70923,
+          "r": 620.8369,
+          "b": 255.8046,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Dept Meetings 1:30 pm -",
+          "l": 443.6306,
+          "t": 260.1067,
+          "r": 536.9924,
+          "b": 264.20206,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Full-Time Faculty Orientation Transfer Discipline Leads Meeting McKinney Campus*",
+          "l": 256.4306,
+          "t": 268.5066,
+          "r": 495.20486,
+          "b": 272.60724,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "& HR Orientation for New Faculty 2-3 pm - McKinney Campus",
+          "l": 256.4306,
+          "t": 276.9073,
+          "r": 421.78427,
+          "b": 281.0053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8:30 am-3 pm Tech Campus",
+          "l": 256.4306,
+          "t": 285.308,
+          "r": 329.1492,
+          "b": 289.40338,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Workforce and FOS Discipline",
+          "l": 350.0306,
+          "t": 293.70993,
+          "r": 428.87137,
+          "b": 297.8053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "L",
+          "l": 350.0305,
+          "t": 302.10657,
+          "r": 352.75208,
+          "b": 306.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "d",
+          "l": 359.15045,
+          "t": 302.10657,
+          "r": 362.55246,
+          "b": 306.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "M",
+          "l": 365.0304,
+          "t": 302.10657,
+          "r": 372.00937,
+          "b": 306.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ti",
+          "l": 378.46863,
+          "t": 302.10657,
+          "r": 382.1123,
+          "b": 306.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 388.42838,
+          "t": 302.10657,
+          "r": 393.1523,
+          "b": 306.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 394.78656,
+          "t": 302.10657,
+          "r": 401.31192,
+          "b": 306.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 403.30646,
+          "t": 302.10657,
+          "r": 406.59183,
+          "b": 306.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 408.2267,
+          "t": 302.10657,
+          "r": 416.17117,
+          "b": 306.20193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 Week (Summer III) Final Exams",
+          "l": 210.7106,
+          "t": 309.0666,
+          "r": 299.74194,
+          "b": 313.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*Days/locations of meetings may change. Please check with division",
+          "l": 353.5106,
+          "t": 304.98657,
+          "r": 532.7678,
+          "b": 309.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) & 10 Week (Summer III) Weekend College",
+          "l": 542.0306,
+          "t": 304.98657,
+          "r": 718.53436,
+          "b": 309.08194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for final schedule.",
+          "l": 419.15298,
+          "t": 313.38464,
+          "r": 465.77258,
+          "b": 317.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exams",
+          "l": 614.39276,
+          "t": 313.38464,
+          "r": 644.8759,
+          "b": 317.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17",
+          "l": 69.2306,
+          "t": 321.66656,
+          "r": 75.75596,
+          "b": 325.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18",
+          "l": 162.82773,
+          "t": 321.66656,
+          "r": 169.35309,
+          "b": 325.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19",
+          "l": 256.42484,
+          "t": 321.66656,
+          "r": 262.9502,
+          "b": 325.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20",
+          "l": 350.02197,
+          "t": 321.66656,
+          "r": 356.54733,
+          "b": 325.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "21",
+          "l": 443.61908,
+          "t": 321.66656,
+          "r": 450.14444,
+          "b": 325.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "22",
+          "l": 537.2162,
+          "t": 321.66656,
+          "r": 543.7415,
+          "b": 325.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "23",
+          "l": 630.8133,
+          "t": 321.66656,
+          "r": 637.3386,
+          "b": 325.76193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 Week July (Summer II) & 10",
+          "l": 69.2306,
+          "t": 329.94656,
+          "r": 147.8343,
+          "b": 334.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting 5:30 pm - 5 Week July (Summer II) & 10",
+          "l": 162.8306,
+          "t": 329.94656,
+          "r": 335.0349,
+          "b": 334.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting 5:30 pm - Adjunct Faculty Resource Fair 5",
+          "l": 350.0306,
+          "t": 329.94656,
+          "r": 527.1506,
+          "b": 334.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Housing Move-In",
+          "l": 537.2306,
+          "t": 329.94656,
+          "r": 592.3391,
+          "b": 334.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Services All Campuses",
+          "l": 630.8306,
+          "t": 329.94656,
+          "r": 711.9551,
+          "b": 334.04193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week (Summer III) Weekend",
+          "l": 69.2306,
+          "t": 338.3466,
+          "r": 146.53117,
+          "b": 342.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "McKinney Campus",
+          "l": 162.8306,
+          "t": 338.34464,
+          "r": 211.19147,
+          "b": 342.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week (Summer III) Grades Due in Plano Campus",
+          "l": 256.4306,
+          "t": 338.3466,
+          "r": 387.11874,
+          "b": 342.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pm - Frisco Campus",
+          "l": 443.6306,
+          "t": 338.3466,
+          "r": 494.87314,
+          "b": 342.44196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open 9 am-12 pm",
+          "l": 630.8306,
+          "t": 338.34464,
+          "r": 677.99384,
+          "b": 342.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "College Final Exams",
+          "l": 69.2306,
+          "t": 346.74466,
+          "r": 120.35069,
+          "b": 350.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Workday by 11 pm",
+          "l": 256.4306,
+          "t": 346.74466,
+          "r": 305.75757,
+          "b": 350.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration Deadline for Fall 16",
+          "l": 537.2306,
+          "t": 346.74658,
+          "r": 622.19434,
+          "b": 350.84195,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting 6 pm -",
+          "l": 162.8306,
+          "t": 355.1473,
+          "r": 246.23271,
+          "b": 359.24268,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting 6 pm -",
+          "l": 443.6306,
+          "t": 355.14926,
+          "r": 527.02936,
+          "b": 359.24463,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week Courses",
+          "l": 537.2306,
+          "t": 355.14468,
+          "r": 574.683,
+          "b": 359.24005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer 2025 Graduation",
+          "l": 69.2306,
+          "t": 363.54733,
+          "r": 138.35794,
+          "b": 367.6427,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Technical Campus",
+          "l": 162.8306,
+          "t": 363.54538,
+          "r": 209.87083,
+          "b": 367.64075,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adjunct Faculty Meeting 5:30 pm -",
+          "l": 256.4306,
+          "t": 363.54733,
+          "r": 347.99606,
+          "b": 367.6427,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Frisco/Celina Campus (@Frisco)",
+          "l": 443.6306,
+          "t": 363.54733,
+          "r": 526.45795,
+          "b": 367.6427,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Application Deadline",
+          "l": 69.2306,
+          "t": 371.9454,
+          "r": 123.312035,
+          "b": 376.04077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Farmersville/Wylie Campus",
+          "l": 256.4306,
+          "t": 371.9454,
+          "r": 329.64352,
+          "b": 376.04077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Academic Suspension",
+          "l": 537.2306,
+          "t": 371.9473,
+          "r": 618.8372,
+          "b": 376.04266,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(@Wylie)",
+          "l": 256.4306,
+          "t": 380.34348,
+          "r": 280.8291,
+          "b": 384.43884,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeals Due 5 pm",
+          "l": 537.2306,
+          "t": 380.3454,
+          "r": 584.633,
+          "b": 384.44077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*Days/locations of meetings may change. Please check with division for final schedule.",
+          "l": 235.7906,
+          "t": 409.8666,
+          "r": 461.6344,
+          "b": 413.96198,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Faculty: Scholarly Activities, Preparation, Research, & Skills Development",
+          "l": 300.8306,
+          "t": 420.0666,
+          "r": 491.11627,
+          "b": 424.16196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24",
+          "l": 69.2306,
+          "t": 430.26657,
+          "r": 75.75596,
+          "b": 434.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25",
+          "l": 162.82773,
+          "t": 430.26657,
+          "r": 169.35309,
+          "b": 434.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "26",
+          "l": 256.42484,
+          "t": 430.26657,
+          "r": 262.9502,
+          "b": 434.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "27",
+          "l": 350.02197,
+          "t": 430.26657,
+          "r": 356.54733,
+          "b": 434.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "28",
+          "l": 443.61908,
+          "t": 430.26657,
+          "r": 450.14444,
+          "b": 434.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29",
+          "l": 537.2162,
+          "t": 430.26657,
+          "r": 543.7415,
+          "b": 434.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30",
+          "l": 630.8133,
+          "t": 430.26657,
+          "r": 637.3386,
+          "b": 434.36194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Classes Begin",
+          "l": 162.8306,
+          "t": 438.5466,
+          "r": 208.10439,
+          "b": 442.64197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Board Meeting",
+          "l": 256.4306,
+          "t": 438.5466,
+          "r": 295.47256,
+          "b": 442.64197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Academic Suspension",
+          "l": 350.0306,
+          "t": 438.5466,
+          "r": 431.64023,
+          "b": 442.64197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Weekend College Student",
+          "l": 630.8306,
+          "t": 438.5466,
+          "r": 700.19727,
+          "b": 442.64197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appeal Decision Notifications",
+          "l": 350.0306,
+          "t": 446.9466,
+          "r": 427.91098,
+          "b": 451.04196,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Engagement Welcome 9 am-12",
+          "l": 630.8306,
+          "t": 446.94467,
+          "r": 714.3638,
+          "b": 451.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delivered",
+          "l": 350.0306,
+          "t": 455.3447,
+          "r": 375.1497,
+          "b": 459.44006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pm",
+          "l": 630.8306,
+          "t": 455.34274,
+          "r": 639.36475,
+          "b": 459.4381,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Registration Deadline for Fall",
+          "l": 350.0306,
+          "t": 472.1473,
+          "r": 427.07574,
+          "b": 476.24268,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Weekend College Courses",
+          "l": 350.0306,
+          "t": 480.5454,
+          "r": 418.0815,
+          "b": 484.64078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Engagement Welcome Week",
+          "l": 346.66748,
+          "t": 493.86972,
+          "r": 444.51074,
+          "b": 497.9651,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Weekend College Begins",
+          "l": 592.18823,
+          "t": 493.86972,
+          "r": 666.9397,
+          "b": 497.9651,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "31",
+          "l": 69.2306,
+          "t": 503.82657,
+          "r": 75.75596,
+          "b": 507.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01",
+          "l": 162.82773,
+          "t": 503.82657,
+          "r": 169.35309,
+          "b": 507.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02",
+          "l": 256.42484,
+          "t": 503.82657,
+          "r": 262.9502,
+          "b": 507.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03",
+          "l": 350.02197,
+          "t": 503.82657,
+          "r": 356.54733,
+          "b": 507.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04",
+          "l": 443.61908,
+          "t": 503.82657,
+          "r": 450.14444,
+          "b": 507.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05",
+          "l": 537.2162,
+          "t": 503.82657,
+          "r": 543.7415,
+          "b": 507.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06",
+          "l": 630.8133,
+          "t": 503.82657,
+          "r": 637.3386,
+          "b": 507.92194,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fall Weekend College Begins",
+          "l": 69.2306,
+          "t": 512.1066,
+          "r": 143.98256,
+          "b": 516.20197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rev. 08/12/2025",
+          "l": 675.9675,
+          "t": 577.2418,
+          "r": 719.99554,
+          "b": 581.3368,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

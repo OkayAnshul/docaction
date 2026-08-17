@@ -1,0 +1,381 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "School Term and Holiday Dates",
+          "l": 177.6,
+          "t": 123.21259,
+          "r": 420.09503,
+          "b": 134.63995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2026 – 2027",
+          "l": 253.08,
+          "t": 141.57263,
+          "r": 346.5577,
+          "b": 153.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Autumn Term 2026",
+          "l": 77.88,
+          "t": 175.70518,
+          "r": 175.15344,
+          "b": 183.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INSET Day",
+          "l": 77.88,
+          "t": 193.33536,
+          "r": 136.62912,
+          "b": 201.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday 1 September 2026",
+          "l": 267.6,
+          "t": 193.70518,
+          "r": 406.3949,
+          "b": 201.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Term Starts: Y7 Only",
+          "l": 77.88,
+          "t": 211.33536,
+          "r": 192.78912,
+          "b": 219.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday 2 September 2026",
+          "l": 267.6,
+          "t": 211.70518,
+          "r": 422.35873,
+          "b": 219.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Term Starts: Y7-11 Return",
+          "l": 77.88,
+          "t": 229.33536,
+          "r": 216.66913,
+          "b": 237.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 3 September 2026",
+          "l": 267.6,
+          "t": 229.70518,
+          "r": 410.10434,
+          "b": 237.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Half Term:",
+          "l": 77.88,
+          "t": 247.33536,
+          "r": 135.30913,
+          "b": 255.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 19 October to Friday 30 October 2026",
+          "l": 267.6,
+          "t": 247.70518,
+          "r": 498.19247,
+          "b": 255.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Term Ends: Early Finish 12:30pm",
+          "l": 77.88,
+          "t": 265.33536,
+          "r": 254.46912,
+          "b": 273.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 18 December 2026",
+          "l": 267.6,
+          "t": 265.7052,
+          "r": 397.872,
+          "b": 273.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Term 2027",
+          "l": 77.88,
+          "t": 307.8252,
+          "r": 169.02913,
+          "b": 315.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Term Starts: Students Return",
+          "l": 77.88,
+          "t": 325.45535,
+          "r": 234.30913,
+          "b": 333.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 4 January 2027 (Late Start 9:30am)",
+          "l": 267.6,
+          "t": 325.8252,
+          "r": 486.54913,
+          "b": 333.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Half Term:",
+          "l": 77.88,
+          "t": 343.45535,
+          "r": 135.30913,
+          "b": 351.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 15 February to Friday 19 February 2027",
+          "l": 267.6,
+          "t": 343.8252,
+          "r": 507.90912,
+          "b": 351.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Term Ends: Early Finish 12:30pm",
+          "l": 77.88,
+          "t": 361.45535,
+          "r": 254.46912,
+          "b": 369.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 25 March 2027",
+          "l": 267.6,
+          "t": 361.8252,
+          "r": 392.94913,
+          "b": 369.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Term 2027",
+          "l": 77.88,
+          "t": 404.0652,
+          "r": 178.75247,
+          "b": 411.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Term Starts: Students Return",
+          "l": 77.88,
+          "t": 421.69534,
+          "r": 234.30576,
+          "b": 429.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 12 April 2027 (Late Start 9:30am)",
+          "l": 264.2352,
+          "t": 422.0652,
+          "r": 472.15155,
+          "b": 429.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Half Term:",
+          "l": 77.88,
+          "t": 439.69534,
+          "r": 135.31007,
+          "b": 447.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 31 May to Friday 4 June 2027",
+          "l": 264.24622,
+          "t": 440.0652,
+          "r": 455.01743,
+          "b": 447.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GLF INSET Day",
+          "l": 77.88,
+          "t": 457.69534,
+          "r": 161.58528,
+          "b": 465.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 25 June 2027",
+          "l": 264.2352,
+          "t": 458.0652,
+          "r": 367.6248,
+          "b": 465.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Term Ends: Early Finish 12:30pm Wednesday 21 July 2027",
+          "l": 77.88,
+          "t": 475.69534,
+          "r": 390.76242,
+          "b": 483.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The remaining INSET Days are disaggregated across",
+          "l": 264.24,
+          "t": 491.90518,
+          "r": 528.3989,
+          "b": 499.43997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INSET Days",
+          "l": 77.88,
+          "t": 504.13535,
+          "r": 142.74,
+          "b": 512.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the year for staff training and professional",
+          "l": 264.24,
+          "t": 504.5052,
+          "r": 469.69083,
+          "b": 512.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "development that takes place after school.",
+          "l": 264.24,
+          "t": 517.2252,
+          "r": 476.34912,
+          "b": 524.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GLF Collaborates",
+          "l": 72.0,
+          "t": 553.6953,
+          "r": 169.8696,
+          "b": 561.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "On five selected dates, students will finish early (1.30pm) to allow for extra professional",
+          "l": 72.0,
+          "t": 579.3799,
+          "r": 526.34766,
+          "b": 586.9147,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "development and cross-school collaboration to the benefit of all colleagues, and to further",
+          "l": 72.0,
+          "t": 591.97656,
+          "r": 526.2439,
+          "b": 599.51135,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "exploit opportunities for collaboration across our trust, GLF Schools.",
+          "l": 72.0,
+          "t": 604.5732,
+          "r": 408.90768,
+          "b": 612.108,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 72.0,
+          "t": 629.8879,
+          "r": 78.91104,
+          "b": 637.42267,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday 30 September 2026",
+          "l": 108.001434,
+          "t": 629.8879,
+          "r": 271.86813,
+          "b": 637.42267,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 71.99997,
+          "t": 642.60596,
+          "r": 78.91101,
+          "b": 650.14075,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 7 December 2026",
+          "l": 108.0014,
+          "t": 642.60596,
+          "r": 243.67197,
+          "b": 650.14075,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 71.999954,
+          "t": 655.20264,
+          "r": 78.910995,
+          "b": 662.7374,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday 16 March 2027",
+          "l": 108.00139,
+          "t": 655.20264,
+          "r": 232.75339,
+          "b": 662.7374,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 71.99994,
+          "t": 667.79926,
+          "r": 78.91098,
+          "b": 675.33405,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 17 June 2027",
+          "l": 108.00137,
+          "t": 667.79926,
+          "r": 226.62617,
+          "b": 675.33405,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 71.99994,
+          "t": 680.51733,
+          "r": 78.91098,
+          "b": 688.0521,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 5 July 2027",
+          "l": 108.00137,
+          "t": 680.51733,
+          "r": 209.47002,
+          "b": 688.0521,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

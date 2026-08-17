@@ -1,0 +1,41 @@
+{
+  "document": "syn-ticket-fields.txt",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 2,
+  "candidates": [
+    {
+      "title": "Flight: 6E-233",
+      "start": "2026-09-18T14:35",
+      "end": "2026-09-18T15:35",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": false,
+      "assumed": [
+        "assumed-duration"
+      ],
+      "sources": [
+        "Assumed(assumed-duration)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Flight: 6E-233",
+      "start": "2026-09-18T16:50",
+      "end": "2026-09-18T17:50",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": false,
+      "assumed": [
+        "assumed-duration"
+      ],
+      "sources": [
+        "Assumed(assumed-duration)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "document": "synth-rent-agreement.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 3,
+  "candidates": [
+    {
+      "title": "Leave and Licence Agreement",
+      "start": "2026-09-01T00:00",
+      "end": "2026-09-02T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Leave and Licence Agreement",
+      "start": "2026-10-01T00:00",
+      "end": "2026-10-02T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Leave and Licence Agreement",
+      "start": "2027-09-30T00:00",
+      "end": "2027-10-01T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

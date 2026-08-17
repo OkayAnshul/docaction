@@ -1,0 +1,381 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Group Class Timetable",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 203.981,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Mon",
+          "l": 152.05,
+          "t": 64.52077,
+          "r": 172.55002,
+          "b": 70.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tues",
+          "l": 212.15,
+          "t": 64.52077,
+          "r": 235.46,
+          "b": 70.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednes",
+          "l": 275.0,
+          "t": 64.52077,
+          "r": 313.3,
+          "b": 70.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thurs",
+          "l": 352.45,
+          "t": 64.52077,
+          "r": 380.20004,
+          "b": 70.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Frid",
+          "l": 419.6,
+          "t": 64.52077,
+          "r": 438.44003,
+          "b": 70.10077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Time",
+          "l": 76.2,
+          "t": 70.27077,
+          "r": 99.49999,
+          "b": 75.85077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "day",
+          "l": 152.05,
+          "t": 76.02077,
+          "r": 169.26001,
+          "b": 81.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "day",
+          "l": 212.15,
+          "t": 76.02077,
+          "r": 229.36,
+          "b": 81.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "day",
+          "l": 275.0,
+          "t": 76.02077,
+          "r": 292.21,
+          "b": 81.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "day",
+          "l": 352.45,
+          "t": 76.02077,
+          "r": 369.66,
+          "b": 81.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ay",
+          "l": 419.6,
+          "t": 76.02077,
+          "r": 430.71,
+          "b": 81.60077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06:00-",
+          "l": 76.2,
+          "t": 104.47078,
+          "r": 104.51997,
+          "b": 110.05078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spin",
+          "l": 152.05,
+          "t": 110.22078,
+          "r": 172.05002,
+          "b": 115.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 212.15,
+          "t": 110.22078,
+          "r": 235.46,
+          "b": 115.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spin",
+          "l": 275.0,
+          "t": 110.22078,
+          "r": 294.99997,
+          "b": 115.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HIIT",
+          "l": 352.45,
+          "t": 110.22078,
+          "r": 371.29,
+          "b": 115.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 419.6,
+          "t": 110.22078,
+          "r": 442.90997,
+          "b": 115.80078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07:00",
+          "l": 76.2,
+          "t": 115.97078,
+          "r": 101.199974,
+          "b": 121.55078,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "07:00-",
+          "l": 76.2,
+          "t": 144.42079,
+          "r": 104.51997,
+          "b": 150.0008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Stren",
+          "l": 212.15,
+          "t": 144.42079,
+          "r": 236.0,
+          "b": 150.0008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Stre",
+          "l": 419.6,
+          "t": 144.42079,
+          "r": 437.9,
+          "b": 150.0008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HIIT",
+          "l": 152.05,
+          "t": 150.17079,
+          "r": 170.89001,
+          "b": 155.7508,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 275.0,
+          "t": 150.17079,
+          "r": 304.97995,
+          "b": 155.7508,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spin",
+          "l": 352.45,
+          "t": 150.17079,
+          "r": 372.44998,
+          "b": 155.7508,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08:00",
+          "l": 76.2,
+          "t": 155.92079,
+          "r": 101.199974,
+          "b": 161.5008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "gth",
+          "l": 212.15,
+          "t": 155.92079,
+          "r": 226.01,
+          "b": 161.5008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ngth",
+          "l": 419.6,
+          "t": 155.92079,
+          "r": 439.04996,
+          "b": 161.5008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18:00-",
+          "l": 76.2,
+          "t": 184.37074,
+          "r": 104.51997,
+          "b": 189.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Boxi",
+          "l": 152.05,
+          "t": 184.37074,
+          "r": 171.47002,
+          "b": 189.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Stren",
+          "l": 352.45,
+          "t": 184.37074,
+          "r": 376.3,
+          "b": 189.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Boxi",
+          "l": 419.6,
+          "t": 184.37074,
+          "r": 439.02,
+          "b": 189.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spin",
+          "l": 212.15,
+          "t": 190.12074,
+          "r": 232.15001,
+          "b": 195.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 275.0,
+          "t": 190.12074,
+          "r": 298.30997,
+          "b": 195.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19:00",
+          "l": 76.2,
+          "t": 195.87074,
+          "r": 101.199974,
+          "b": 201.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ng",
+          "l": 152.05,
+          "t": 195.87074,
+          "r": 163.16,
+          "b": 201.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "gth",
+          "l": 352.45,
+          "t": 195.87074,
+          "r": 366.31,
+          "b": 201.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ng",
+          "l": 419.6,
+          "t": 195.87074,
+          "r": 430.71,
+          "b": 201.45074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19:00-",
+          "l": 76.2,
+          "t": 224.32076,
+          "r": 104.51997,
+          "b": 229.90076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilat",
+          "l": 152.05,
+          "t": 224.32076,
+          "r": 171.46002,
+          "b": 229.90076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HIIT",
+          "l": 212.15,
+          "t": 230.07076,
+          "r": 230.99,
+          "b": 235.65076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Boxing",
+          "l": 275.0,
+          "t": 230.07076,
+          "r": 305.54996,
+          "b": 235.65076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 352.45,
+          "t": 230.07076,
+          "r": 375.75998,
+          "b": 235.65076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spin",
+          "l": 419.6,
+          "t": 230.07076,
+          "r": 439.59998,
+          "b": 235.65076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20:00",
+          "l": 76.2,
+          "t": 235.82076,
+          "r": 101.199974,
+          "b": 241.40076,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "es",
+          "l": 152.05,
+          "t": 235.82076,
+          "r": 162.6,
+          "b": 241.40076,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

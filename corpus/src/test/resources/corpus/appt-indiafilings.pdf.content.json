@@ -1,0 +1,3608 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.0,
+      "heightPt": 842.0,
+      "runs": [
+        {
+          "text": "[Date,  Month,  Year]",
+          "l": 90.0,
+          "t": 73.725624,
+          "r": 248.18228,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[Candidate  Name]",
+          "l": 90.0,
+          "t": 137.2529,
+          "r": 181.14706,
+          "b": 144.8789,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[Address  Line  1]",
+          "l": 90.0,
+          "t": 158.42868,
+          "r": 170.58847,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[Address  Line  2]",
+          "l": 90.0,
+          "t": 179.60452,
+          "r": 170.58847,
+          "b": 187.23053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[City],  [State]  [Pincode]",
+          "l": 90.0,
+          "t": 200.78018,
+          "r": 205.5338,
+          "b": 208.40619,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Subject:  Appointment  for  post  of  [Designa7on]",
+          "l": 90.0,
+          "t": 243.09581,
+          "r": 326.02795,
+          "b": 250.75781,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dear  [Mr.]  [Candidate  Name],",
+          "l": 90.0,
+          "t": 285.48337,
+          "r": 236.4782,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "We  are  pleased  to  oﬀer  you,  the  posiCon  of  [DesignaCon]  with  [Company  name]  (the",
+          "l": 90.0,
+          "t": 306.6592,
+          "r": 507.7126,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "‘Company’)  on  the  following  terms  and  condiCons:",
+          "l": 90.0,
+          "t": 327.8349,
+          "r": 339.1681,
+          "b": 335.4609,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.  Commencement  of  employment",
+          "l": 90.0,
+          "t": 370.1505,
+          "r": 266.1384,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your  employment  will  be  eﬀecCve,  as  of  [StarCng  Date,  Month,  Year]",
+          "l": 90.0,
+          "t": 391.3623,
+          "r": 425.98102,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.  Job  7tle",
+          "l": 90.0,
+          "t": 433.67783,
+          "r": 144.4656,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your  job  Ctle  will  be  [DesignaCon],  and      you  will  report  to  [Mr.]  [Name],  [Supervisor",
+          "l": 90.0,
+          "t": 454.8896,
+          "r": 507.7124,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DesignaCon].",
+          "l": 90.0,
+          "t": 476.0654,
+          "r": 157.13138,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.  Salary",
+          "l": 90.0,
+          "t": 518.381,
+          "r": 135.1824,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your  salary  and  other  beneﬁts  will  be  as  set  out  in  Schedule  1,  hereto.",
+          "l": 90.0,
+          "t": 539.59283,
+          "r": 431.67123,
+          "b": 547.2188,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.  Place  of  pos7ng",
+          "l": 90.0,
+          "t": 581.9083,
+          "r": 183.4128,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You  will  be  posted  at  [City,  State].  You  may  however  be  required  to  work  at  any  place",
+          "l": 90.0,
+          "t": 603.1201,
+          "r": 507.70996,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of  business  which  the  Company  has,  or  may  later  acquire.",
+          "l": 90.0,
+          "t": 624.2959,
+          "r": 372.46805,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.  Hours  of  Work",
+          "l": 90.0,
+          "t": 666.61145,
+          "r": 176.6376,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The  normal  working  days  are  [Start  Day]  through  [End  Day].  You  will  be  required  to",
+          "l": 90.0,
+          "t": 687.82324,
+          "r": 507.74036,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "work",
+          "l": 90.0,
+          "t": 708.999,
+          "r": 117.1452,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for",
+          "l": 119.418,
+          "t": 708.999,
+          "r": 136.05121,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "such",
+          "l": 138.324,
+          "t": 708.999,
+          "r": 163.4136,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "hours",
+          "l": 165.6864,
+          "t": 708.999,
+          "r": 196.0068,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "as",
+          "l": 198.2796,
+          "t": 708.999,
+          "r": 211.4328,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "necessary",
+          "l": 213.7056,
+          "t": 708.999,
+          "r": 264.5472,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for",
+          "l": 266.82,
+          "t": 708.999,
+          "r": 283.45322,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 285.726,
+          "t": 708.999,
+          "r": 304.734,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "proper",
+          "l": 307.00684,
+          "t": 708.999,
+          "r": 342.80045,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discharge",
+          "l": 345.07324,
+          "t": 708.999,
+          "r": 394.20477,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 396.47757,
+          "t": 708.999,
+          "r": 409.1796,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your",
+          "l": 411.4524,
+          "t": 708.999,
+          "r": 436.27078,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "duCes",
+          "l": 438.54358,
+          "t": 708.999,
+          "r": 471.21472,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 473.48752,
+          "t": 708.999,
+          "r": 486.4295,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 488.7023,
+          "t": 708.999,
+          "r": 507.7103,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company.  The  normal  working  hours  are  from  [Start  Time]  to  [End  Time]  and  you  are",
+          "l": 90.0,
+          "t": 730.1748,
+          "r": 507.70923,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 595.0,
+      "heightPt": 842.0,
+      "runs": [
+        {
+          "text": "expected  to  work  not  less  than  [Number  of  Hours]  hours  each  week,  and  if  necessary",
+          "l": 90.0,
+          "t": 73.725624,
+          "r": 507.71722,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for  addiConal  hours  depending  on  your  responsibiliCes.",
+          "l": 90.0,
+          "t": 94.90128,
+          "r": 362.0785,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.  Leave/Holidays",
+          "l": 90.0,
+          "t": 137.2169,
+          "r": 180.81119,
+          "b": 144.8789,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.1  You  are  enCtled  to  casual  leave  of  [Casual  Leave]  days.",
+          "l": 90.0,
+          "t": 158.42868,
+          "r": 373.9886,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.2  You  are  enCtled  to  [Sick  Leave]  working  days  of  paid  sick  leave.",
+          "l": 90.0,
+          "t": 179.60452,
+          "r": 414.55228,
+          "b": 187.23053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.3  The  Company  shall  noCfy  a  list  of  declared  holidays  in  the  beginning  of  each  year.",
+          "l": 90.0,
+          "t": 200.78018,
+          "r": 507.44992,
+          "b": 208.40619,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7.  Nature  of  du7es",
+          "l": 90.0,
+          "t": 243.09581,
+          "r": 185.62079,
+          "b": 250.75781,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You  will  perform  to  the  best  of  your  ability  all  the  duCes  as  are  inherent  in  your  post",
+          "l": 90.0,
+          "t": 264.3076,
+          "r": 507.71512,
+          "b": 271.9336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and  such  addiConal  duCes  as  the  company  may  call  upon  you  to  perform,  from  Cme",
+          "l": 90.0,
+          "t": 285.48337,
+          "r": 507.7068,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to  Cme.  Your  speciﬁc  duCes  are  set  out  in  Schedule  II  hereto.",
+          "l": 90.0,
+          "t": 306.6592,
+          "r": 387.79688,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8.  Company  property",
+          "l": 90.0,
+          "t": 348.9747,
+          "r": 197.8824,
+          "b": 356.6367,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You",
+          "l": 90.0,
+          "t": 370.1865,
+          "r": 110.2956,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will",
+          "l": 114.236404,
+          "t": 370.1865,
+          "r": 133.788,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "always",
+          "l": 137.7288,
+          "t": 370.1865,
+          "r": 172.9248,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "maintain",
+          "l": 176.8656,
+          "t": 370.1865,
+          "r": 222.5388,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in",
+          "l": 226.4796,
+          "t": 370.1865,
+          "r": 238.25041,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "good",
+          "l": 242.19121,
+          "t": 370.1865,
+          "r": 269.43002,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "condiCon",
+          "l": 273.37082,
+          "t": 370.1865,
+          "r": 322.0669,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company",
+          "l": 326.0077,
+          "t": 370.1865,
+          "r": 374.59683,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "property,",
+          "l": 378.53763,
+          "t": 370.1865,
+          "r": 425.92078,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "which",
+          "l": 429.86157,
+          "t": 370.1865,
+          "r": 461.5895,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "may",
+          "l": 465.5303,
+          "t": 370.1865,
+          "r": 488.7839,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be",
+          "l": 492.7247,
+          "t": 370.1865,
+          "r": 507.7127,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "entrusted",
+          "l": 90.0,
+          "t": 391.3623,
+          "r": 140.10959,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 142.1184,
+          "t": 391.3623,
+          "r": 155.0604,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you",
+          "l": 157.0692,
+          "t": 391.3623,
+          "r": 177.70439,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for",
+          "l": 179.7132,
+          "t": 391.3623,
+          "r": 196.34639,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "oﬃcial",
+          "l": 198.3552,
+          "t": 391.3623,
+          "r": 233.41678,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "use",
+          "l": 235.42558,
+          "t": 391.3623,
+          "r": 255.1068,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "during",
+          "l": 257.1156,
+          "t": 391.3623,
+          "r": 291.32764,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 293.33643,
+          "t": 391.3623,
+          "r": 312.34442,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "course",
+          "l": 314.35324,
+          "t": 391.3623,
+          "r": 349.31528,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 351.32407,
+          "t": 391.3623,
+          "r": 364.0261,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your",
+          "l": 366.03488,
+          "t": 391.3623,
+          "r": 390.85327,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employment",
+          "l": 392.86206,
+          "t": 391.3623,
+          "r": 457.65488,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and",
+          "l": 459.66367,
+          "t": 391.3623,
+          "r": 480.73322,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "shall",
+          "l": 482.742,
+          "t": 391.3623,
+          "r": 507.70795,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "return",
+          "l": 90.0,
+          "t": 412.5381,
+          "r": 123.456,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "all",
+          "l": 125.7444,
+          "t": 412.5381,
+          "r": 139.7124,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "such",
+          "l": 142.0008,
+          "t": 412.5381,
+          "r": 167.0904,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "property",
+          "l": 169.3788,
+          "t": 412.5381,
+          "r": 214.6236,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 216.912,
+          "t": 412.5381,
+          "r": 229.85402,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 232.14243,
+          "t": 412.5381,
+          "r": 251.15044,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company",
+          "l": 253.43884,
+          "t": 412.5381,
+          "r": 302.02808,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "prior",
+          "l": 304.31647,
+          "t": 412.5381,
+          "r": 330.78128,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 333.0697,
+          "t": 412.5381,
+          "r": 346.0117,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "relinquishment",
+          "l": 348.30008,
+          "t": 412.5381,
+          "r": 424.95236,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 427.24075,
+          "t": 412.5381,
+          "r": 439.94278,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your",
+          "l": 442.23117,
+          "t": 412.5381,
+          "r": 467.04956,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "charge,",
+          "l": 469.33795,
+          "t": 412.5381,
+          "r": 507.71152,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "failing  which  the  cost  of  the  same  will  be  recovered  from  you  by  the  Company.",
+          "l": 90.0,
+          "t": 433.7138,
+          "r": 473.0784,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9.  Borrowing/accep7ng  giRs",
+          "l": 90.0,
+          "t": 476.02942,
+          "r": 233.26561,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You",
+          "l": 90.0,
+          "t": 497.24118,
+          "r": 110.2956,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will",
+          "l": 112.4892,
+          "t": 497.24118,
+          "r": 132.0408,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "not",
+          "l": 134.2344,
+          "t": 497.24118,
+          "r": 153.5988,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "borrow",
+          "l": 155.7924,
+          "t": 497.24118,
+          "r": 194.16841,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 196.36201,
+          "t": 497.24118,
+          "r": 209.58481,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "accept",
+          "l": 211.77841,
+          "t": 497.24118,
+          "r": 246.63121,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any",
+          "l": 248.82481,
+          "t": 497.24118,
+          "r": 268.7976,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "money,",
+          "l": 270.9912,
+          "t": 497.24118,
+          "r": 309.38525,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "giZ,",
+          "l": 311.57886,
+          "t": 497.24118,
+          "r": 333.07565,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "reward",
+          "l": 335.26926,
+          "t": 497.24118,
+          "r": 372.43442,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 374.62802,
+          "t": 497.24118,
+          "r": 387.85083,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "compensaCon",
+          "l": 390.04443,
+          "t": 497.24118,
+          "r": 461.87274,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for",
+          "l": 464.06635,
+          "t": 497.24118,
+          "r": 480.69955,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your",
+          "l": 482.89316,
+          "t": 497.24118,
+          "r": 507.71155,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "personal",
+          "l": 90.0,
+          "t": 518.417,
+          "r": 134.79361,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "gains",
+          "l": 136.3536,
+          "t": 518.417,
+          "r": 163.99081,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "from  or",
+          "l": 165.55081,
+          "t": 518.417,
+          "r": 206.6112,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "otherwise",
+          "l": 208.1712,
+          "t": 518.417,
+          "r": 259.7508,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "place",
+          "l": 261.3108,
+          "t": 518.417,
+          "r": 289.8756,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "yourself",
+          "l": 291.4356,
+          "t": 518.417,
+          "r": 333.12964,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "under",
+          "l": 334.68964,
+          "t": 518.417,
+          "r": 366.47043,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pecuniary",
+          "l": 368.03043,
+          "t": 518.417,
+          "r": 418.87796,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "obligaCon",
+          "l": 420.43796,
+          "t": 518.417,
+          "r": 471.6695,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 473.2295,
+          "t": 518.417,
+          "r": 486.17148,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any",
+          "l": 487.73148,
+          "t": 518.417,
+          "r": 507.70425,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "person/client  with  whom  you  may  be  having  oﬃcial  dealings.",
+          "l": 90.0,
+          "t": 539.59283,
+          "r": 389.91357,
+          "b": 547.2188,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10.  Termina7on",
+          "l": 90.0,
+          "t": 581.9083,
+          "r": 170.9064,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10.1  Your  appointment  can  be  terminated  by  the  Company,  without  any  reason,  by",
+          "l": 90.0,
+          "t": 603.1201,
+          "r": 507.70187,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "giving",
+          "l": 90.0,
+          "t": 624.2959,
+          "r": 121.242004,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you",
+          "l": 123.4464,
+          "t": 624.2959,
+          "r": 144.0816,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "not",
+          "l": 146.28601,
+          "t": 624.2959,
+          "r": 165.65039,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "less",
+          "l": 167.8548,
+          "t": 624.2959,
+          "r": 188.67839,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "than",
+          "l": 190.88278,
+          "t": 624.2959,
+          "r": 215.97238,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[NoCce]",
+          "l": 218.17679,
+          "t": 624.2959,
+          "r": 260.0487,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "months’",
+          "l": 262.2531,
+          "t": 624.2959,
+          "r": 305.08356,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "prior",
+          "l": 307.28796,
+          "t": 624.2959,
+          "r": 333.75278,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "noCce",
+          "l": 335.95718,
+          "t": 624.2959,
+          "r": 369.0328,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in",
+          "l": 371.2372,
+          "t": 624.2959,
+          "r": 383.008,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "wriCng",
+          "l": 385.2124,
+          "t": 624.2959,
+          "r": 422.07755,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 424.28195,
+          "t": 624.2959,
+          "r": 437.50476,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "salary",
+          "l": 439.70917,
+          "t": 624.2959,
+          "r": 471.0375,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in",
+          "l": 473.2419,
+          "t": 624.2959,
+          "r": 485.0127,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "lieu",
+          "l": 487.2171,
+          "t": 624.2959,
+          "r": 507.7131,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "thereof.  For  the  purpose  of  this  clause,  salary  shall  mean  basic  salary.",
+          "l": 90.0,
+          "t": 645.47174,
+          "r": 428.52832,
+          "b": 653.0977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10.2  You  may  terminate  your  employment  with  the  Company,  without  any  cause,  by",
+          "l": 90.0,
+          "t": 666.64746,
+          "r": 507.71262,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "giving",
+          "l": 90.0,
+          "t": 687.82324,
+          "r": 121.242004,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "no",
+          "l": 123.4032,
+          "t": 687.82324,
+          "r": 138.7476,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "less",
+          "l": 140.90881,
+          "t": 687.82324,
+          "r": 161.7324,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "than",
+          "l": 163.89362,
+          "t": 687.82324,
+          "r": 188.98322,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[Employee",
+          "l": 191.14441,
+          "t": 687.82324,
+          "r": 245.51442,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NoCce]",
+          "l": 247.67802,
+          "t": 687.82324,
+          "r": 285.88452,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "months’",
+          "l": 288.04572,
+          "t": 687.82324,
+          "r": 330.87616,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "prior",
+          "l": 333.03735,
+          "t": 687.82324,
+          "r": 359.50217,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "noCce",
+          "l": 361.66336,
+          "t": 687.82324,
+          "r": 394.73895,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 396.90015,
+          "t": 687.82324,
+          "r": 410.12296,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "salary",
+          "l": 412.28415,
+          "t": 687.82324,
+          "r": 443.6125,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for",
+          "l": 445.77368,
+          "t": 687.82324,
+          "r": 462.4069,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "unsaved",
+          "l": 464.56808,
+          "t": 687.82324,
+          "r": 507.71045,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "period,  leZ  aZer  adjustment  of  pending  leaves,  as  on  date.",
+          "l": 90.0,
+          "t": 708.999,
+          "r": 377.37122,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10.3",
+          "l": 90.0,
+          "t": 730.1748,
+          "r": 113.9856,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The",
+          "l": 116.880005,
+          "t": 730.1748,
+          "r": 137.7156,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company",
+          "l": 140.61,
+          "t": 730.1748,
+          "r": 189.1992,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "reserves",
+          "l": 192.0936,
+          "t": 730.1748,
+          "r": 235.72801,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 238.6224,
+          "t": 730.1748,
+          "r": 257.63043,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "right",
+          "l": 260.5248,
+          "t": 730.1748,
+          "r": 286.0356,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 288.93,
+          "t": 730.1748,
+          "r": 301.872,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "terminate",
+          "l": 304.76642,
+          "t": 730.1748,
+          "r": 355.66565,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your",
+          "l": 358.56006,
+          "t": 730.1748,
+          "r": 383.37845,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employment",
+          "l": 386.27286,
+          "t": 730.1748,
+          "r": 451.06567,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "summarily",
+          "l": 453.96008,
+          "t": 730.1748,
+          "r": 507.71164,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "without",
+          "l": 90.0,
+          "t": 751.3506,
+          "r": 131.0208,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any",
+          "l": 132.8208,
+          "t": 751.3506,
+          "r": 152.79361,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "noCce",
+          "l": 154.5936,
+          "t": 751.3506,
+          "r": 187.66919,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "period",
+          "l": 189.46921,
+          "t": 751.3506,
+          "r": 224.02681,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 225.82681,
+          "t": 751.3506,
+          "r": 239.04962,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "terminaCon",
+          "l": 240.84962,
+          "t": 751.3506,
+          "r": 301.20486,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payment,",
+          "l": 303.00488,
+          "t": 751.3506,
+          "r": 351.74167,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "if",
+          "l": 353.54166,
+          "t": 751.3506,
+          "r": 362.67007,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "it",
+          "l": 364.47006,
+          "t": 751.3506,
+          "r": 373.95605,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "has",
+          "l": 375.75604,
+          "t": 751.3506,
+          "r": 395.214,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "reasonable",
+          "l": 397.01398,
+          "t": 751.3506,
+          "r": 453.57352,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ground",
+          "l": 455.3735,
+          "t": 751.3506,
+          "r": 492.96585,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 494.76584,
+          "t": 751.3506,
+          "r": 507.70782,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 595.0,
+      "heightPt": 842.0,
+      "runs": [
+        {
+          "text": "believe",
+          "l": 90.0,
+          "t": 73.725624,
+          "r": 127.682396,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you",
+          "l": 132.5544,
+          "t": 73.725624,
+          "r": 153.1896,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "are",
+          "l": 158.0616,
+          "t": 73.725624,
+          "r": 176.51761,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "guilty",
+          "l": 181.3896,
+          "t": 73.725624,
+          "r": 211.01399,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 215.88599,
+          "t": 73.725624,
+          "r": 228.588,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "misconduct",
+          "l": 233.45999,
+          "t": 73.725624,
+          "r": 292.51685,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 297.38885,
+          "t": 73.725624,
+          "r": 310.61163,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "negligence,",
+          "l": 315.48364,
+          "t": 73.725624,
+          "r": 373.49283,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 378.36484,
+          "t": 73.725624,
+          "r": 391.58765,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "have",
+          "l": 396.45966,
+          "t": 73.725624,
+          "r": 422.2993,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "commi^ed",
+          "l": 427.1713,
+          "t": 73.725624,
+          "r": 482.8693,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any",
+          "l": 487.7413,
+          "t": 73.725624,
+          "r": 507.71408,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "fundamental  breach  of  contract  or  caused  any  loss  to  the  Company.",
+          "l": 90.0,
+          "t": 94.90128,
+          "r": 423.60007,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10.  4  On  the  terminaCon  of  your  employment  for  whatever  reason,  you  will  return  to",
+          "l": 90.0,
+          "t": 116.077126,
+          "r": 507.70187,
+          "b": 123.703125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the  Company  all  property;  documents  and  paper,  both  original",
+          "l": 90.0,
+          "t": 137.2529,
+          "r": 407.47562,
+          "b": 144.8789,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and  copies",
+          "l": 408.87003,
+          "t": 137.2529,
+          "r": 465.07196,
+          "b": 144.8789,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "thereof,",
+          "l": 466.46637,
+          "t": 137.2529,
+          "r": 507.71637,
+          "b": 144.8789,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "including",
+          "l": 90.0,
+          "t": 158.42868,
+          "r": 136.9164,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any",
+          "l": 140.96759,
+          "t": 158.42868,
+          "r": 160.9404,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "samples,",
+          "l": 164.99161,
+          "t": 158.42868,
+          "r": 210.4476,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "literature,",
+          "l": 214.4988,
+          "t": 158.42868,
+          "r": 265.4688,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "contracts,",
+          "l": 269.52002,
+          "t": 158.42868,
+          "r": 320.21527,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "records,",
+          "l": 324.26648,
+          "t": 158.42868,
+          "r": 366.2892,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "lists,",
+          "l": 370.34042,
+          "t": 158.42868,
+          "r": 394.82635,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "drawings,",
+          "l": 398.87756,
+          "t": 158.42868,
+          "r": 448.46985,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "blueprints,",
+          "l": 452.52106,
+          "t": 158.42868,
+          "r": 507.71014,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "le^ers,  notes,  data  and  the  like;  and  ConﬁdenCal  InformaCon,  in  your  possession  or",
+          "l": 90.0,
+          "t": 179.60452,
+          "r": 507.70544,
+          "b": 187.23053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "under  your  control  relaCng  to  your  employment  or  to  clients’  business  aﬀairs.",
+          "l": 90.0,
+          "t": 200.78018,
+          "r": 472.03665,
+          "b": 208.40619,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11.  Conﬁden7al  Informa7on",
+          "l": 90.0,
+          "t": 243.09581,
+          "r": 233.44801,
+          "b": 250.75781,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11.  1  During  your  employment  with  the  Company  you  will  devote  your  whole  Cme,",
+          "l": 90.0,
+          "t": 264.3076,
+          "r": 507.71283,
+          "b": 271.9336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a^enCon  and  skill  to  the  best  of  your  ability  for  its  business.  You  shall  not,  directly  or",
+          "l": 90.0,
+          "t": 285.48337,
+          "r": 507.7127,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "indirectly,",
+          "l": 90.0,
+          "t": 306.6592,
+          "r": 140.24399,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "engage",
+          "l": 145.4328,
+          "t": 306.6592,
+          "r": 183.114,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 188.3028,
+          "t": 306.6592,
+          "r": 201.5256,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "associate",
+          "l": 206.71439,
+          "t": 306.6592,
+          "r": 254.21521,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "yourself",
+          "l": 259.404,
+          "t": 306.6592,
+          "r": 301.09802,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with,",
+          "l": 306.2868,
+          "t": 306.6592,
+          "r": 333.64923,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be",
+          "l": 338.83804,
+          "t": 306.6592,
+          "r": 353.82608,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "connected",
+          "l": 359.0149,
+          "t": 306.6592,
+          "r": 412.85165,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with,",
+          "l": 418.04047,
+          "t": 306.6592,
+          "r": 445.4028,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "concerned,",
+          "l": 450.5916,
+          "t": 306.6592,
+          "r": 507.71518,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employed  or  engaged",
+          "l": 90.0,
+          "t": 327.8349,
+          "r": 200.88841,
+          "b": 335.4609,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in  any  other  business  or  acCviCes  or  any  other  post  or  work",
+          "l": 202.15201,
+          "t": 327.8349,
+          "r": 507.71768,
+          "b": 335.4609,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "part  Cme  or  pursue  any  course  of  study  whatsoever,  without  the  prior  permission  of",
+          "l": 90.0,
+          "t": 349.01068,
+          "r": 507.7056,
+          "b": 356.6367,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the  Company.",
+          "l": 90.0,
+          "t": 370.1865,
+          "r": 159.8364,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11.2",
+          "l": 90.0,
+          "t": 391.3623,
+          "r": 113.9856,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You",
+          "l": 116.1588,
+          "t": 391.3623,
+          "r": 136.4544,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "must",
+          "l": 138.6276,
+          "t": 391.3623,
+          "r": 165.80879,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "always",
+          "l": 167.982,
+          "t": 391.3623,
+          "r": 203.178,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "maintain",
+          "l": 205.3512,
+          "t": 391.3623,
+          "r": 251.02441,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 253.19762,
+          "t": 391.3623,
+          "r": 272.20563,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "highest",
+          "l": 274.37885,
+          "t": 391.3623,
+          "r": 312.65283,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "degree",
+          "l": 314.82605,
+          "t": 391.3623,
+          "r": 351.42966,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 353.60284,
+          "t": 391.3623,
+          "r": 366.30487,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "conﬁdenCality",
+          "l": 368.47806,
+          "t": 391.3623,
+          "r": 440.93997,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and",
+          "l": 443.11316,
+          "t": 391.3623,
+          "r": 464.1827,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "keep",
+          "l": 466.3559,
+          "t": 391.3623,
+          "r": 492.3839,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "as",
+          "l": 494.5571,
+          "t": 391.3623,
+          "r": 507.71027,
+          "b": 398.9883,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "conﬁdenCal",
+          "l": 90.0,
+          "t": 412.5381,
+          "r": 150.2568,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 151.7964,
+          "t": 412.5381,
+          "r": 170.8044,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "records,",
+          "l": 172.344,
+          "t": 412.5381,
+          "r": 214.3668,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "documents",
+          "l": 215.9064,
+          "t": 412.5381,
+          "r": 273.09363,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and  other",
+          "l": 274.63324,
+          "t": 412.5381,
+          "r": 326.7613,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ConﬁdenCal",
+          "l": 328.30087,
+          "t": 412.5381,
+          "r": 389.9808,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "InformaCon",
+          "l": 391.52042,
+          "t": 412.5381,
+          "r": 451.95114,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "relaCng",
+          "l": 453.49075,
+          "t": 412.5381,
+          "r": 493.2275,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 494.76712,
+          "t": 412.5381,
+          "r": 507.7091,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the  business  of  the  Company  which  may  be  known  to  you  or  conﬁded  in  you  by  any",
+          "l": 90.0,
+          "t": 433.7138,
+          "r": 507.71155,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "means",
+          "l": 90.0,
+          "t": 454.8896,
+          "r": 125.0148,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and",
+          "l": 127.242004,
+          "t": 454.8896,
+          "r": 148.3116,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you",
+          "l": 150.5388,
+          "t": 454.8896,
+          "r": 171.174,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will",
+          "l": 173.4012,
+          "t": 454.8896,
+          "r": 192.95279,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "use",
+          "l": 195.18,
+          "t": 454.8896,
+          "r": 214.86119,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "such",
+          "l": 217.0884,
+          "t": 454.8896,
+          "r": 242.17802,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "records,",
+          "l": 244.40523,
+          "t": 454.8896,
+          "r": 286.42807,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "documents",
+          "l": 288.65527,
+          "t": 454.8896,
+          "r": 345.84253,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and",
+          "l": 348.0697,
+          "t": 454.8896,
+          "r": 369.13925,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "informaCon",
+          "l": 371.36646,
+          "t": 454.8896,
+          "r": 431.5272,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "only",
+          "l": 433.7544,
+          "t": 454.8896,
+          "r": 457.284,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in",
+          "l": 459.5112,
+          "t": 454.8896,
+          "r": 471.28198,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 473.5092,
+          "t": 454.8896,
+          "r": 481.96918,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "duly",
+          "l": 484.19638,
+          "t": 454.8896,
+          "r": 507.70316,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "authorized  manner",
+          "l": 90.0,
+          "t": 476.0654,
+          "r": 187.20961,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in",
+          "l": 188.50801,
+          "t": 476.0654,
+          "r": 200.27881,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 201.57721,
+          "t": 476.0654,
+          "r": 220.5852,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "interest  of",
+          "l": 221.8836,
+          "t": 476.0654,
+          "r": 275.97964,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the  Company.  For",
+          "l": 277.27805,
+          "t": 476.0654,
+          "r": 368.2825,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the  purposes  of",
+          "l": 369.5809,
+          "t": 476.0654,
+          "r": 451.38245,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "this",
+          "l": 452.68085,
+          "t": 476.0654,
+          "r": 473.1648,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "clause",
+          "l": 474.4632,
+          "t": 476.0654,
+          "r": 507.72116,
+          "b": 483.6914,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "‘ConﬁdenCal",
+          "l": 90.0,
+          "t": 497.24118,
+          "r": 154.674,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "InformaCon’",
+          "l": 157.4988,
+          "t": 497.24118,
+          "r": 220.9236,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "means",
+          "l": 223.7484,
+          "t": 497.24118,
+          "r": 258.7632,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "informaCon",
+          "l": 261.588,
+          "t": 497.24118,
+          "r": 321.74884,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "about",
+          "l": 324.57367,
+          "t": 497.24118,
+          "r": 355.99084,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 358.81564,
+          "t": 497.24118,
+          "r": 377.82364,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company’s",
+          "l": 380.64844,
+          "t": 497.24118,
+          "r": 436.55637,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "business",
+          "l": 439.38116,
+          "t": 497.24118,
+          "r": 483.81226,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and",
+          "l": 486.63705,
+          "t": 497.24118,
+          "r": 507.7066,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "that  of  its  customers  which  is  not  available  to  the  general  public  and  which  may  be",
+          "l": 90.0,
+          "t": 518.417,
+          "r": 507.71277,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "learnt  by  you  in  the  course  of  your  employment.  This  includes,  but  is  not  limited  to,",
+          "l": 90.0,
+          "t": 539.59283,
+          "r": 507.70898,
+          "b": 547.2188,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "informaCon",
+          "l": 90.0,
+          "t": 560.76855,
+          "r": 150.1608,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "relaCng",
+          "l": 153.01201,
+          "t": 560.76855,
+          "r": 192.7488,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 195.59999,
+          "t": 560.76855,
+          "r": 208.54199,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 211.39319,
+          "t": 560.76855,
+          "r": 230.40118,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "organizaCon,",
+          "l": 233.25238,
+          "t": 560.76855,
+          "r": 299.03284,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "its",
+          "l": 301.88403,
+          "t": 560.76855,
+          "r": 316.06323,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "customer",
+          "l": 318.91443,
+          "t": 560.76855,
+          "r": 367.53488,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "lists,",
+          "l": 370.38608,
+          "t": 560.76855,
+          "r": 394.872,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employment",
+          "l": 397.7232,
+          "t": 560.76855,
+          "r": 462.51602,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "policies,",
+          "l": 465.36722,
+          "t": 560.76855,
+          "r": 507.7068,
+          "b": 568.39453,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "personnel,",
+          "l": 90.0,
+          "t": 581.94434,
+          "r": 144.3156,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and",
+          "l": 148.0356,
+          "t": 581.94434,
+          "r": 169.1052,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "informaCon",
+          "l": 172.8252,
+          "t": 581.94434,
+          "r": 232.98601,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "about",
+          "l": 236.70601,
+          "t": 581.94434,
+          "r": 268.12323,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 271.84326,
+          "t": 581.94434,
+          "r": 290.85126,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company’s",
+          "l": 294.57126,
+          "t": 581.94434,
+          "r": 350.47925,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "products,",
+          "l": 354.19925,
+          "t": 581.94434,
+          "r": 402.92514,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "processes",
+          "l": 406.64514,
+          "t": 581.94434,
+          "r": 457.0763,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "including",
+          "l": 460.7963,
+          "t": 581.94434,
+          "r": 507.71262,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ideas,",
+          "l": 90.0,
+          "t": 603.1201,
+          "r": 121.1772,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "concepts,",
+          "l": 122.981995,
+          "t": 603.1201,
+          "r": 172.3068,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "projecCons,",
+          "l": 174.1116,
+          "t": 603.1201,
+          "r": 234.36842,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "technology,  manuals,",
+          "l": 236.17322,
+          "t": 603.1201,
+          "r": 343.7077,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "drawing,",
+          "l": 345.51248,
+          "t": 603.1201,
+          "r": 390.546,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "designs,",
+          "l": 392.3508,
+          "t": 603.1201,
+          "r": 434.42633,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "speciﬁcaCons,",
+          "l": 436.23114,
+          "t": 603.1201,
+          "r": 507.709,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and  all  papers,  resumes,  records  and  other  documents  containing  such  ConﬁdenCal",
+          "l": 90.0,
+          "t": 624.2959,
+          "r": 507.71506,
+          "b": 631.9219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "InformaCon.",
+          "l": 90.0,
+          "t": 645.47174,
+          "r": 153.4596,
+          "b": 653.0977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11.3",
+          "l": 90.0,
+          "t": 666.64746,
+          "r": 113.9856,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At",
+          "l": 117.3096,
+          "t": 666.64746,
+          "r": 130.68,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "no",
+          "l": 134.004,
+          "t": 666.64746,
+          "r": 149.3484,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cme,",
+          "l": 152.67241,
+          "t": 666.64746,
+          "r": 180.62039,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will",
+          "l": 183.9444,
+          "t": 666.64746,
+          "r": 203.49599,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you",
+          "l": 206.81998,
+          "t": 666.64746,
+          "r": 227.4552,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "remove",
+          "l": 230.7792,
+          "t": 666.64746,
+          "r": 270.6216,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any",
+          "l": 273.94562,
+          "t": 666.64746,
+          "r": 293.91843,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ConﬁdenCal",
+          "l": 297.24243,
+          "t": 666.64746,
+          "r": 358.92242,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "InformaCon",
+          "l": 362.24643,
+          "t": 666.64746,
+          "r": 422.67715,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "from",
+          "l": 426.00116,
+          "t": 666.64746,
+          "r": 452.27878,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 455.60278,
+          "t": 666.64746,
+          "r": 474.61078,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "oﬃce",
+          "l": 477.93478,
+          "t": 666.64746,
+          "r": 507.71164,
+          "b": 674.27344,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "without  permission.",
+          "l": 90.0,
+          "t": 687.82324,
+          "r": 190.33438,
+          "b": 695.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11.4  Your  duty  to  safeguard  and  not  disclose  ConﬁdenCal  InformaCon  will  survive  the",
+          "l": 90.0,
+          "t": 708.999,
+          "r": 507.70322,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "expiraCon",
+          "l": 90.0,
+          "t": 730.1748,
+          "r": 141.64801,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or",
+          "l": 144.9744,
+          "t": 730.1748,
+          "r": 158.1972,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "terminaCon",
+          "l": 161.5236,
+          "t": 730.1748,
+          "r": 221.8788,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 225.2052,
+          "t": 730.1748,
+          "r": 237.90721,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "this",
+          "l": 241.23361,
+          "t": 730.1748,
+          "r": 261.71765,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Agreement",
+          "l": 265.04404,
+          "t": 730.1748,
+          "r": 322.08484,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and/or",
+          "l": 325.41122,
+          "t": 730.1748,
+          "r": 361.42087,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your",
+          "l": 364.74725,
+          "t": 730.1748,
+          "r": 389.56564,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employment",
+          "l": 392.89203,
+          "t": 730.1748,
+          "r": 457.68484,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with",
+          "l": 461.01123,
+          "t": 730.1748,
+          "r": 485.37958,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 488.70596,
+          "t": 730.1748,
+          "r": 507.71396,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company.",
+          "l": 90.0,
+          "t": 751.3506,
+          "r": 140.82721,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 595.0,
+      "heightPt": 842.0,
+      "runs": [
+        {
+          "text": "11.5",
+          "l": 90.0,
+          "t": 73.725624,
+          "r": 113.9856,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Breach",
+          "l": 117.0564,
+          "t": 73.725624,
+          "r": 153.4188,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 156.4896,
+          "t": 73.725624,
+          "r": 169.1916,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 172.2624,
+          "t": 73.725624,
+          "r": 191.2704,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "condiCons",
+          "l": 194.3412,
+          "t": 73.725624,
+          "r": 247.73045,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 250.80125,
+          "t": 73.725624,
+          "r": 263.50327,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "this",
+          "l": 266.57407,
+          "t": 73.725624,
+          "r": 287.0581,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "clause",
+          "l": 290.1289,
+          "t": 73.725624,
+          "r": 323.3869,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will",
+          "l": 326.4577,
+          "t": 73.725624,
+          "r": 346.0093,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "render",
+          "l": 349.0801,
+          "t": 73.725624,
+          "r": 384.5521,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you",
+          "l": 387.6229,
+          "t": 73.725624,
+          "r": 408.2581,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "liable",
+          "l": 411.3289,
+          "t": 73.725624,
+          "r": 440.32687,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 443.39767,
+          "t": 73.725624,
+          "r": 456.33966,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "summary",
+          "l": 459.41046,
+          "t": 73.725624,
+          "r": 507.7128,
+          "b": 81.35162,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "dismissal",
+          "l": 90.0,
+          "t": 94.90128,
+          "r": 136.69202,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "under",
+          "l": 138.31801,
+          "t": 94.90128,
+          "r": 170.09882,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "clause",
+          "l": 171.72481,
+          "t": 94.90128,
+          "r": 204.98282,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "above",
+          "l": 212.5704,
+          "t": 94.90128,
+          "r": 244.88402,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in",
+          "l": 246.51003,
+          "t": 94.90128,
+          "r": 258.28082,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "addiCon",
+          "l": 259.90686,
+          "t": 94.90128,
+          "r": 303.0481,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 304.6741,
+          "t": 94.90128,
+          "r": 317.61612,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any",
+          "l": 319.24213,
+          "t": 94.90128,
+          "r": 339.21494,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "other",
+          "l": 340.84094,
+          "t": 94.90128,
+          "r": 370.35974,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "remedy",
+          "l": 371.98575,
+          "t": 94.90128,
+          "r": 411.98657,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the",
+          "l": 413.61258,
+          "t": 94.90128,
+          "r": 432.62057,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company  may",
+          "l": 434.24658,
+          "t": 94.90128,
+          "r": 507.71536,
+          "b": 102.52728,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "have  against  you  in  law.",
+          "l": 90.0,
+          "t": 116.077126,
+          "r": 207.4932,
+          "b": 123.703125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12.  No7ces",
+          "l": 90.0,
+          "t": 158.39268,
+          "r": 148.03201,
+          "b": 166.05469,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NoCces  may  be  given  by  you  to  the  Company  at  its  registered  oﬃce  address.  NoCces",
+          "l": 90.0,
+          "t": 179.60452,
+          "r": 507.71277,
+          "b": 187.23053,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "may  be  given  by  the  Company  to  you  at  the  address  inCmated  by  you  in  the  oﬃcial",
+          "l": 90.0,
+          "t": 200.78018,
+          "r": 507.71155,
+          "b": 208.40619,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "records.",
+          "l": 90.0,
+          "t": 221.95596,
+          "r": 132.06241,
+          "b": 229.58197,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13.  Applicability  of  Company  Policy",
+          "l": 90.0,
+          "t": 264.2716,
+          "r": 267.3048,
+          "b": 271.9336,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The",
+          "l": 90.0,
+          "t": 285.48337,
+          "r": 110.8356,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company",
+          "l": 114.4236,
+          "t": 285.48337,
+          "r": 163.01279,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "shall",
+          "l": 166.6008,
+          "t": 285.48337,
+          "r": 191.56679,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be",
+          "l": 195.15479,
+          "t": 285.48337,
+          "r": 210.14279,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "enCtled",
+          "l": 213.73077,
+          "t": 285.48337,
+          "r": 254.3424,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 257.93042,
+          "t": 285.48337,
+          "r": 270.87244,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "make",
+          "l": 274.46042,
+          "t": 285.48337,
+          "r": 303.54602,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "policy",
+          "l": 307.13403,
+          "t": 285.48337,
+          "r": 338.49243,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "declaraCons",
+          "l": 342.08044,
+          "t": 285.48337,
+          "r": 404.22955,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "from",
+          "l": 407.81757,
+          "t": 285.48337,
+          "r": 434.09518,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cme",
+          "l": 437.6832,
+          "t": 285.48337,
+          "r": 462.6372,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 466.22522,
+          "t": 285.48337,
+          "r": 479.1672,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cme",
+          "l": 482.75522,
+          "t": 285.48337,
+          "r": 507.70923,
+          "b": 293.10938,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "pertaining",
+          "l": 90.0,
+          "t": 306.6592,
+          "r": 142.5588,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to  ma^ers",
+          "l": 144.34799,
+          "t": 306.6592,
+          "r": 199.1376,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "like",
+          "l": 200.92679,
+          "t": 306.6592,
+          "r": 220.1868,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "leave",
+          "l": 221.976,
+          "t": 306.6592,
+          "r": 250.23598,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "enCtlement,  maternity",
+          "l": 252.02518,
+          "t": 306.6592,
+          "r": 367.374,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "leave,",
+          "l": 369.1632,
+          "t": 306.6592,
+          "r": 400.41727,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employees’",
+          "l": 402.20648,
+          "t": 306.6592,
+          "r": 460.7125,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "beneﬁts,",
+          "l": 462.5017,
+          "t": 306.6592,
+          "r": 507.71884,
+          "b": 314.28522,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "working  hours,  transfer  policies,  etc.,  and  may  alter  the  same  from  Cme  to  Cme  at  its",
+          "l": 90.0,
+          "t": 327.8349,
+          "r": 507.71872,
+          "b": 335.4609,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "sole  discreCon.  All  such  policy  decisions  of  the  Company  shall  be  binding  on  you  and",
+          "l": 90.0,
+          "t": 349.01068,
+          "r": 507.71146,
+          "b": 356.6367,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "shall  override  this  Agreement  to  that  extent.",
+          "l": 90.0,
+          "t": 370.1865,
+          "r": 308.6269,
+          "b": 377.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14.  Governing  Law/Jurisdic7on",
+          "l": 90.0,
+          "t": 412.5021,
+          "r": 246.41037,
+          "b": 420.1641,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your  employment  with",
+          "l": 90.0,
+          "t": 433.7138,
+          "r": 206.1312,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the  Company",
+          "l": 207.37679,
+          "t": 433.7138,
+          "r": 276.2196,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "is",
+          "l": 277.4652,
+          "t": 433.7138,
+          "r": 287.62442,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "subject",
+          "l": 288.87003,
+          "t": 433.7138,
+          "r": 326.82245,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to",
+          "l": 328.06805,
+          "t": 433.7138,
+          "r": 341.01007,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Indian",
+          "l": 342.25568,
+          "t": 433.7138,
+          "r": 375.40802,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "laws.  All  disputes  shall  be",
+          "l": 376.65363,
+          "t": 433.7138,
+          "r": 507.709,
+          "b": 441.3398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "subject  to  the  jurisdicCon  of  [High  Court]  [State]  only.",
+          "l": 90.0,
+          "t": 454.8896,
+          "r": 352.51816,
+          "b": 462.5156,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15.  Acceptance  of  our  oﬀer",
+          "l": 90.0,
+          "t": 497.2052,
+          "r": 227.31,
+          "b": 504.8672,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please",
+          "l": 90.0,
+          "t": 518.417,
+          "r": 124.0488,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "conﬁrm",
+          "l": 127.08479,
+          "t": 518.417,
+          "r": 167.454,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your",
+          "l": 170.48999,
+          "t": 518.417,
+          "r": 195.3084,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "acceptance",
+          "l": 198.34439,
+          "t": 518.417,
+          "r": 256.1496,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 259.1856,
+          "t": 518.417,
+          "r": 271.88763,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "this",
+          "l": 274.9236,
+          "t": 518.417,
+          "r": 295.40765,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Contract",
+          "l": 298.44363,
+          "t": 518.417,
+          "r": 342.87488,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 345.91086,
+          "t": 518.417,
+          "r": 358.61288,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Employment",
+          "l": 361.6489,
+          "t": 518.417,
+          "r": 426.33008,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "by",
+          "l": 429.3661,
+          "t": 518.417,
+          "r": 443.7553,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "signing",
+          "l": 446.79132,
+          "t": 518.417,
+          "r": 483.61087,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and",
+          "l": 486.64688,
+          "t": 518.417,
+          "r": 507.71643,
+          "b": 526.04297,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "returning  the  duplicate  copy.",
+          "l": 90.0,
+          "t": 539.59283,
+          "r": 232.7124,
+          "b": 547.2188,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "We  welcome  you,  and  look  forward  to  receiving  your  acceptance  and  to  working  with",
+          "l": 90.0,
+          "t": 581.94434,
+          "r": 507.7211,
+          "b": 589.5703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you.",
+          "l": 90.0,
+          "t": 603.1201,
+          "r": 113.6712,
+          "b": 610.7461,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yours  Sincerely,",
+          "l": 90.0,
+          "t": 645.47174,
+          "r": 167.6472,
+          "b": 653.0977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[Name  of  Supervisor]",
+          "l": 90.0,
+          "t": 708.999,
+          "r": 196.30527,
+          "b": 716.625,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[Supervisor  DesignaCon]",
+          "l": 90.0,
+          "t": 730.1748,
+          "r": 212.2603,
+          "b": 737.8008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[Date]",
+          "l": 90.0,
+          "t": 751.3506,
+          "r": 122.95175,
+          "b": 758.97656,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "widthPt": 595.0,
+      "heightPt": 842.0,
+      "runs": [
+        {
+          "text": "Schedule  I  -­‐  Compensa7on  Details",
+          "l": 184.875,
+          "t": 74.25281,
+          "r": 413.741,
+          "b": 84.46881,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Salary  Structure",
+          "l": 90.0,
+          "t": 123.09972,
+          "r": 172.22641,
+          "b": 130.76172,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Basic\t\r  Salary",
+          "l": 94.5,
+          "t": 151.63759,
+          "r": 166.31021,
+          "b": 160.97559,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "House\t\r  rent\t\r  allowance",
+          "l": 94.5,
+          "t": 176.13759,
+          "r": 223.279,
+          "b": 185.47559,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Medical\t\r  allowance",
+          "l": 94.5,
+          "t": 200.63759,
+          "r": 204.29361,
+          "b": 209.97559,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Leave\t\r  travel\t\r  allowance",
+          "l": 94.5,
+          "t": 225.13759,
+          "r": 229.4964,
+          "b": 234.47559,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Additional\t\r  Bene7its",
+          "l": 94.5,
+          "t": 249.63759,
+          "r": 209.08438,
+          "b": 258.9756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Performance\t\r  incentive",
+          "l": 94.5,
+          "t": 274.13757,
+          "r": 228.95882,
+          "b": 283.4756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PF\t\r  Contribution",
+          "l": 94.5,
+          "t": 298.63757,
+          "r": 189.8764,
+          "b": 307.9756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ESI\t\r  Contribution",
+          "l": 94.5,
+          "t": 323.13757,
+          "r": 193.928,
+          "b": 332.4756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Stock\t\r  Option",
+          "l": 94.5,
+          "t": 347.63757,
+          "r": 170.88539,
+          "b": 356.9756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Car",
+          "l": 94.5,
+          "t": 372.13757,
+          "r": 115.01,
+          "b": 381.4756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Telephone",
+          "l": 94.5,
+          "t": 396.63757,
+          "r": 156.71039,
+          "b": 405.9756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note:",
+          "l": 90.0,
+          "t": 437.4873,
+          "r": 119.862,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You",
+          "l": 125.5721,
+          "t": 437.4873,
+          "r": 145.8677,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will",
+          "l": 151.5809,
+          "t": 437.4873,
+          "r": 171.13248,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "receive",
+          "l": 176.84569,
+          "t": 437.4873,
+          "r": 214.62769,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "salary,",
+          "l": 220.34088,
+          "t": 437.4873,
+          "r": 253.80771,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and",
+          "l": 259.5209,
+          "t": 437.4873,
+          "r": 280.5905,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "all",
+          "l": 286.3037,
+          "t": 437.4873,
+          "r": 300.27173,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "other",
+          "l": 305.98492,
+          "t": 437.4873,
+          "r": 335.50372,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "beneﬁts",
+          "l": 341.21692,
+          "t": 437.4873,
+          "r": 383.4401,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "forming",
+          "l": 389.1533,
+          "t": 437.4873,
+          "r": 430.07928,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "part",
+          "l": 435.79248,
+          "t": 437.4873,
+          "r": 458.76044,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of",
+          "l": 464.47363,
+          "t": 437.4873,
+          "r": 477.17566,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your",
+          "l": 482.88885,
+          "t": 437.4873,
+          "r": 507.70724,
+          "b": 445.1133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "remuneraCon  package  subject  to  ,  and  aZer,  deducCon  of  tax  at  source  in  accordance",
+          "l": 90.0,
+          "t": 458.6631,
+          "r": 507.72482,
+          "b": 466.2891,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with  applicable  law.",
+          "l": 90.0,
+          "t": 479.8388,
+          "r": 188.67358,
+          "b": 487.4648,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "widthPt": 2479.0,
+      "heightPt": 3508.0,
+      "runs": [
+        {
+          "text": "Duties:",
+          "l": 378.0,
+          "t": 512.0,
+          "r": 518.0,
+          "b": 546.0,
+          "conf": 0.8448661,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Schedule I| Employee Duties & Responsibilities",
+          "l": 579.0,
+          "t": 303.0,
+          "r": 1900.0,
+          "b": 363.0,
+          "conf": 0.3203125,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Responsibilities:",
+          "l": 378.0,
+          "t": 1300.0,
+          "r": 707.0,
+          "b": 1348.0,
+          "conf": 0.91245407,
+          "origin": "Ocr"
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "kind": "NoTextOnPage",
+      "detail": "Page 6 was read from the image"
+    }
+  ]
+}

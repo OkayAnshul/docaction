@@ -1,0 +1,11 @@
+{
+  "document": "court-cause-list.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 5
+    }
+  ],
+  "groups": 5
+}

@@ -1,0 +1,325 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "City of Chicago",
+          "l": 265.68,
+          "t": 74.41537,
+          "r": 349.38528,
+          "b": 82.32001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NOTICE OF DISTRICT COUNCIL MEETING",
+          "l": 196.0728,
+          "t": 88.093956,
+          "r": 418.9848,
+          "b": 95.9986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Notice is hereby given that District Council 022 will hold a public meeting.",
+          "l": 127.704,
+          "t": 115.57018,
+          "r": 487.26416,
+          "b": 123.10498,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MEETING INFORMATION",
+          "l": 240.42401,
+          "t": 142.31436,
+          "r": 374.6451,
+          "b": 150.219,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Meeting Type:",
+          "l": 168.24,
+          "t": 159.50517,
+          "r": 241.10825,
+          "b": 167.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "☐",
+          "l": 267.12,
+          "t": 162.50208,
+          "r": 278.16,
+          "b": 168.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Regular",
+          "l": 281.28,
+          "t": 160.4652,
+          "r": 319.9896,
+          "b": 168.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "☐",
+          "l": 332.16,
+          "t": 162.50208,
+          "r": 343.2,
+          "b": 168.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Special    ☐ Closed",
+          "l": 346.08,
+          "t": 160.4652,
+          "r": 442.6897,
+          "b": 168.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date:",
+          "l": 168.23999,
+          "t": 176.06517,
+          "r": 197.4747,
+          "b": 183.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Time:",
+          "l": 168.23999,
+          "t": 192.62517,
+          "r": 198.6341,
+          "b": 200.15997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Address:",
+          "l": 168.23999,
+          "t": 209.18517,
+          "r": 218.63509,
+          "b": 216.71997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Virtual Meeting Link (if applicable): _______________________________________",
+          "l": 101.2853,
+          "t": 236.06377,
+          "r": 513.79486,
+          "b": 243.59857,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MEETING AGENDA",
+          "l": 255.8563,
+          "t": 263.05106,
+          "r": 359.24588,
+          "b": 270.9557,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.",
+          "l": 86.401,
+          "t": 276.8952,
+          "r": 95.70737,
+          "b": 284.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Roll call & quorum determination",
+          "l": 104.5,
+          "t": 276.8952,
+          "r": 262.8599,
+          "b": 284.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.",
+          "l": 86.401,
+          "t": 289.6152,
+          "r": 95.70737,
+          "b": 297.15,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Public comment",
+          "l": 104.5,
+          "t": 289.6152,
+          "r": 183.93561,
+          "b": 297.15,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.",
+          "l": 86.40099,
+          "t": 302.3352,
+          "r": 95.70735,
+          "b": 309.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Approval of minutes from meeting date:",
+          "l": 104.49999,
+          "t": 302.3352,
+          "r": 299.16412,
+          "b": 309.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.",
+          "l": 86.40099,
+          "t": 315.2952,
+          "r": 95.70735,
+          "b": 322.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "District Council member updates",
+          "l": 104.49999,
+          "t": 315.2952,
+          "r": 262.52585,
+          "b": 322.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.",
+          "l": 86.40099,
+          "t": 328.0152,
+          "r": 95.70735,
+          "b": 335.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussions",
+          "l": 104.49999,
+          "t": 328.0152,
+          "r": 163.38737,
+          "b": 335.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.",
+          "l": 86.16,
+          "t": 416.5452,
+          "r": 95.46673,
+          "b": 424.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Votes",
+          "l": 104.16,
+          "t": 416.5452,
+          "r": 132.4754,
+          "b": 424.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7. Announcement of the next regular meeting",
+          "l": 86.16,
+          "t": 505.10522,
+          "r": 314.85223,
+          "b": 512.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Items on this agenda are subject to change. If you have any questions regarding this agenda,",
+          "l": 71.999985,
+          "t": 531.5042,
+          "r": 544.12775,
+          "b": 539.039,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "please contact 312-742-8888.",
+          "l": 71.99997,
+          "t": 545.1832,
+          "r": 221.01778,
+          "b": 552.718,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INSTRUCTIONS FOR PUBLIC COMMENT",
+          "l": 200.15598,
+          "t": 572.17035,
+          "r": 415.05484,
+          "b": 580.075,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The District Council will provide an opportunity for public comment at regular and special",
+          "l": 71.99997,
+          "t": 591.9862,
+          "r": 544.35956,
+          "b": 599.521,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "meetings. The public comment session will be __ minutes long. Each commenter will have up",
+          "l": 72.0,
+          "t": 605.6652,
+          "r": 543.9679,
+          "b": 613.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to __ minutes to speak. Anyone interested in giving public comment should write their",
+          "l": 72.000015,
+          "t": 619.34424,
+          "r": 543.3566,
+          "b": 626.879,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "name on a card provided at the meeting and give it to the members of the District Council or",
+          "l": 72.000015,
+          "t": 633.0232,
+          "r": 543.3283,
+          "b": 640.558,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "staff in the meeting room any time within 30 minutes of the start of the meeting. If the",
+          "l": 72.000015,
+          "t": 646.7022,
+          "r": 543.3677,
+          "b": 654.237,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "number of interested speakers exceeds the time dedicated to public comment,",
+          "l": 72.000015,
+          "t": 660.3812,
+          "r": 543.32416,
+          "b": 667.916,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "speakers will be selected by a random drawing.",
+          "l": 72.000015,
+          "t": 674.0602,
+          "r": 321.20667,
+          "b": 681.595,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Anyone may submit written public comment by delivering it at the public meeting or by emailing",
+          "l": 72.000015,
+          "t": 701.41724,
+          "r": 542.4401,
+          "b": 708.952,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "it to DC022PublicComment@gmail.com.",
+          "l": 72.0,
+          "t": 714.8532,
+          "r": 277.90826,
+          "b": 722.388,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

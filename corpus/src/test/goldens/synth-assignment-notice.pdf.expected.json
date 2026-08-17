@@ -1,0 +1,56 @@
+{
+  "document": "synth-assignment-notice.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 3,
+  "candidates": [
+    {
+      "title": "Department of Computer Science — Notice",
+      "start": "2026-09-25T00:00",
+      "end": "2026-09-26T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Department of Computer Science — Notice",
+      "start": "2026-09-25T17:00",
+      "end": "2026-09-25T18:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": false,
+      "assumed": [
+        "assumed-duration"
+      ],
+      "sources": [
+        "Assumed(assumed-duration)",
+        "Derived(nearest-heading)",
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Vivas will be conducted",
+      "start": "2026-09-29T11:00",
+      "end": "2026-09-29T12:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": false,
+      "assumed": [
+        "assumed-duration"
+      ],
+      "sources": [
+        "Assumed(assumed-duration)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

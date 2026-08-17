@@ -1,0 +1,11 @@
+{
+  "document": "synth-train-ticket.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "DateOrder",
+      "example": "05/10/2026"
+    }
+  ],
+  "groups": 0
+}

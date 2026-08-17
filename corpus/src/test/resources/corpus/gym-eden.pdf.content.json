@@ -1,0 +1,1789 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.2756,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "T",
+          "l": 436.5577,
+          "t": 49.991146,
+          "r": 445.2127,
+          "b": 60.176147,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "IMETABLE",
+          "l": 447.7627,
+          "t": 49.991146,
+          "r": 534.5827,
+          "b": 60.176147,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MONDAY",
+          "l": 56.0,
+          "t": 108.77877,
+          "r": 94.655,
+          "b": 114.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TUESDAY",
+          "l": 129.0,
+          "t": 108.77877,
+          "r": 168.951,
+          "b": 114.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "WEDNESDAY",
+          "l": 196.0,
+          "t": 108.77877,
+          "r": 250.693,
+          "b": 114.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "THURSDAY",
+          "l": 274.0,
+          "t": 108.77877,
+          "r": 321.07,
+          "b": 114.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FRIDAY",
+          "l": 356.0,
+          "t": 108.77877,
+          "r": 386.906,
+          "b": 114.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SATURDAY",
+          "l": 423.0,
+          "t": 108.77877,
+          "r": 469.008,
+          "b": 114.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SUNDAY",
+          "l": 502.0,
+          "t": 108.77877,
+          "r": 538.027,
+          "b": 114.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cardio Combat",
+          "l": 44.0,
+          "t": 137.77878,
+          "r": 107.855,
+          "b": 143.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bodypump™",
+          "l": 125.0,
+          "t": 137.77878,
+          "r": 175.733,
+          "b": 143.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Prime Time",
+          "l": 200.0,
+          "t": 137.77878,
+          "r": 248.546,
+          "b": 143.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Eden Bootcamp",
+          "l": 265.0,
+          "t": 137.77878,
+          "r": 331.969,
+          "b": 143.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Boxercise",
+          "l": 352.0,
+          "t": 137.77878,
+          "r": 393.796,
+          "b": 143.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 432.0,
+          "t": 137.77878,
+          "r": 461.673,
+          "b": 143.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Power Pump",
+          "l": 495.0,
+          "t": 137.77878,
+          "r": 549.135,
+          "b": 143.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06:30-07:15",
+          "l": 51.0,
+          "t": 148.77878,
+          "r": 100.01399,
+          "b": 154.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06:30-07:15",
+          "l": 126.0,
+          "t": 148.77878,
+          "r": 175.01399,
+          "b": 154.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:15-11:15",
+          "l": 204.0,
+          "t": 148.77878,
+          "r": 244.545,
+          "b": 154.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06:30-07:15",
+          "l": 274.0,
+          "t": 148.77878,
+          "r": 323.014,
+          "b": 154.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "06:30-07:15",
+          "l": 349.0,
+          "t": 148.77878,
+          "r": 398.014,
+          "b": 154.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08:30-09:30",
+          "l": 421.0,
+          "t": 148.77878,
+          "r": 472.768,
+          "b": 154.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08:15-09:00",
+          "l": 497.0,
+          "t": 148.77878,
+          "r": 547.103,
+          "b": 154.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bill | Studio",
+          "l": 53.0,
+          "t": 159.77878,
+          "r": 96.353,
+          "b": 165.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ajay | Studio",
+          "l": 125.0,
+          "t": 159.77878,
+          "r": 173.717,
+          "b": 165.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Debbie | Studio",
+          "l": 193.0,
+          "t": 159.77878,
+          "r": 253.426,
+          "b": 165.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kerry | Studio",
+          "l": 272.0,
+          "t": 159.77878,
+          "r": 324.137,
+          "b": 165.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bill | Studio",
+          "l": 350.0,
+          "t": 159.77878,
+          "r": 393.353,
+          "b": 165.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Liz | Studio",
+          "l": 425.0,
+          "t": 159.77878,
+          "r": 467.48,
+          "b": 165.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Studio",
+          "l": 490.0,
+          "t": 159.77878,
+          "r": 551.362,
+          "b": 165.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga -",
+          "l": 62.0,
+          "t": 186.77878,
+          "r": 89.315,
+          "b": 192.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ashtanga",
+          "l": 55.0,
+          "t": 197.77878,
+          "r": 96.265,
+          "b": 203.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 135.0,
+          "t": 192.77878,
+          "r": 164.673,
+          "b": 198.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 206.0,
+          "t": 192.77878,
+          "r": 242.585,
+          "b": 198.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Zumba®",
+          "l": 281.0,
+          "t": 192.77878,
+          "r": 316.001,
+          "b": 198.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 362.0,
+          "t": 192.77878,
+          "r": 384.311,
+          "b": 198.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 429.0,
+          "t": 192.77878,
+          "r": 465.585,
+          "b": 198.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Body",
+          "l": 499.0,
+          "t": 186.77878,
+          "r": 544.36,
+          "b": 192.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "kout",
+          "l": 519.308,
+          "t": 197.77878,
+          "r": 539.657,
+          "b": 203.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08:20-09:20",
+          "l": 50.0,
+          "t": 208.77878,
+          "r": 102.326,
+          "b": 214.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:00-10:00",
+          "l": 125.0,
+          "t": 203.77878,
+          "r": 175.58,
+          "b": 209.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:45-11:30",
+          "l": 202.0,
+          "t": 203.77878,
+          "r": 246.676,
+          "b": 209.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:30-10:30",
+          "l": 274.0,
+          "t": 203.77878,
+          "r": 323.59,
+          "b": 209.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08:30-09-30",
+          "l": 347.0,
+          "t": 203.77878,
+          "r": 399.398,
+          "b": 209.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:00-09:45",
+          "l": 421.0,
+          "t": 203.77878,
+          "r": 473.164,
+          "b": 209.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wor",
+          "l": 503.0,
+          "t": 197.77878,
+          "r": 519.308,
+          "b": 203.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alain | Studio",
+          "l": 49.0,
+          "t": 219.77878,
+          "r": 100.291,
+          "b": 225.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TBC | Studio",
+          "l": 125.0,
+          "t": 214.77878,
+          "r": 173.492,
+          "b": 220.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Pool",
+          "l": 196.0,
+          "t": 214.77878,
+          "r": 249.775,
+          "b": 220.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kiki | Studio",
+          "l": 275.0,
+          "t": 214.77878,
+          "r": 320.702,
+          "b": 220.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tania | Studio",
+          "l": 346.0,
+          "t": 214.77878,
+          "r": 398.362,
+          "b": 220.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Roz | Pool",
+          "l": 427.0,
+          "t": 214.77878,
+          "r": 465.628,
+          "b": 220.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:00-10:00",
+          "l": 496.0,
+          "t": 208.77878,
+          "r": 546.58,
+          "b": 214.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Studio",
+          "l": 490.0,
+          "t": 219.77878,
+          "r": 551.362,
+          "b": 225.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Prime Time",
+          "l": 52.0,
+          "t": 252.77878,
+          "r": 100.546005,
+          "b": 258.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 132.0,
+          "t": 252.77878,
+          "r": 168.585,
+          "b": 258.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pure Stretch",
+          "l": 198.0,
+          "t": 252.77878,
+          "r": 250.965,
+          "b": 258.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Prime Time",
+          "l": 275.0,
+          "t": 252.77878,
+          "r": 323.54602,
+          "b": 258.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 362.0,
+          "t": 252.77878,
+          "r": 384.311,
+          "b": 258.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuit Fitness",
+          "l": 417.0,
+          "t": 252.77878,
+          "r": 477.561,
+          "b": 258.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Hatha",
+          "l": 494.0,
+          "t": 252.77878,
+          "r": 548.234,
+          "b": 258.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:30-10:30",
+          "l": 51.0,
+          "t": 263.77878,
+          "r": 100.59,
+          "b": 269.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:45-10:30",
+          "l": 126.0,
+          "t": 263.77878,
+          "r": 175.401,
+          "b": 269.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:15-12:15",
+          "l": 204.0,
+          "t": 263.77878,
+          "r": 244.329,
+          "b": 269.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:30-11:30",
+          "l": 276.0,
+          "t": 263.77878,
+          "r": 320.865,
+          "b": 269.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:30-10:30",
+          "l": 348.0,
+          "t": 263.77878,
+          "r": 397.59,
+          "b": 269.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09:30-10:30",
+          "l": 423.0,
+          "t": 263.77878,
+          "r": 472.59,
+          "b": 269.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:00-11:00",
+          "l": 499.0,
+          "t": 263.77878,
+          "r": 544.855,
+          "b": 269.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Studio",
+          "l": 44.0,
+          "t": 274.77878,
+          "r": 105.362,
+          "b": 280.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Pool",
+          "l": 122.0,
+          "t": 274.77878,
+          "r": 175.775,
+          "b": 280.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Debbie | Studio",
+          "l": 193.0,
+          "t": 274.77878,
+          "r": 253.426,
+          "b": 280.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kiki | Studio",
+          "l": 275.0,
+          "t": 274.77878,
+          "r": 320.702,
+          "b": 280.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tania | Studio",
+          "l": 346.0,
+          "t": 274.77878,
+          "r": 398.362,
+          "b": 280.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chiraag | Studio",
+          "l": 415.0,
+          "t": 274.77878,
+          "r": 477.316,
+          "b": 280.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rose | Studio",
+          "l": 495.0,
+          "t": 274.77878,
+          "r": 546.219,
+          "b": 280.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 58.0,
+          "t": 314.77878,
+          "r": 94.58501,
+          "b": 320.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Vinyasa",
+          "l": 119.0,
+          "t": 314.77878,
+          "r": 180.947,
+          "b": 320.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 206.0,
+          "t": 314.77878,
+          "r": 242.585,
+          "b": 320.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Vinyasa",
+          "l": 268.0,
+          "t": 314.77878,
+          "r": 329.947,
+          "b": 320.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tai Chi",
+          "l": 358.0,
+          "t": 314.77878,
+          "r": 387.988,
+          "b": 320.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Body Pump™",
+          "l": 421.0,
+          "t": 314.77878,
+          "r": 474.388,
+          "b": 320.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Latin Fiesta",
+          "l": 497.0,
+          "t": 314.77878,
+          "r": 546.284,
+          "b": 320.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:15-11:00",
+          "l": 54.0,
+          "t": 325.77878,
+          "r": 97.2,
+          "b": 331.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:15-11:15",
+          "l": 130.0,
+          "t": 325.77878,
+          "r": 170.545,
+          "b": 331.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:00-12:45",
+          "l": 201.0,
+          "t": 325.77878,
+          "r": 248.196,
+          "b": 331.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:30-12:30",
+          "l": 276.0,
+          "t": 325.77878,
+          "r": 320.649,
+          "b": 331.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:05-12:30",
+          "l": 351.0,
+          "t": 325.77878,
+          "r": 395.94598,
+          "b": 331.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:30-11:30",
+          "l": 425.0,
+          "t": 325.77878,
+          "r": 469.865,
+          "b": 331.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:00-12:00",
+          "l": 499.0,
+          "t": 325.77878,
+          "r": 544.639,
+          "b": 331.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Helen | Pool",
+          "l": 51.0,
+          "t": 336.77878,
+          "r": 98.556,
+          "b": 342.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gandha | Studio",
+          "l": 118.0,
+          "t": 336.77878,
+          "r": 180.622,
+          "b": 342.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Pool",
+          "l": 196.0,
+          "t": 336.77878,
+          "r": 249.775,
+          "b": 342.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Elena | Studio",
+          "l": 271.0,
+          "t": 336.77878,
+          "r": 324.532,
+          "b": 342.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Birinder | Studio",
+          "l": 341.0,
+          "t": 336.77878,
+          "r": 403.469,
+          "b": 342.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dagmar | Studio",
+          "l": 415.0,
+          "t": 336.77878,
+          "r": 477.811,
+          "b": 342.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Martina | Studio",
+          "l": 490.0,
+          "t": 336.77878,
+          "r": 550.984,
+          "b": 342.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pure Stretch",
+          "l": 50.0,
+          "t": 367.77878,
+          "r": 102.965004,
+          "b": 373.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Prime Time",
+          "l": 126.0,
+          "t": 367.77878,
+          "r": 174.546,
+          "b": 373.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga",
+          "l": 213.0,
+          "t": 367.77878,
+          "r": 235.311,
+          "b": 373.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 280.0,
+          "t": 367.77878,
+          "r": 316.585,
+          "b": 373.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "50/50",
+          "l": 359.0,
+          "t": 367.77878,
+          "r": 386.369,
+          "b": 373.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kickboxing",
+          "l": 424.0,
+          "t": 367.77878,
+          "r": 471.124,
+          "b": 373.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 507.0,
+          "t": 367.77878,
+          "r": 536.673,
+          "b": 373.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10:30-11:30",
+          "l": 54.0,
+          "t": 378.77878,
+          "r": 98.865005,
+          "b": 384.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:30-12:30",
+          "l": 128.0,
+          "t": 378.77878,
+          "r": 172.649,
+          "b": 384.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14:00-15:30",
+          "l": 201.0,
+          "t": 378.77878,
+          "r": 248.133,
+          "b": 384.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:00-12:45",
+          "l": 275.0,
+          "t": 378.77878,
+          "r": 322.19598,
+          "b": 384.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:30-13:30",
+          "l": 350.0,
+          "t": 378.77878,
+          "r": 396.611,
+          "b": 384.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:30-12:30",
+          "l": 425.0,
+          "t": 378.77878,
+          "r": 469.649,
+          "b": 384.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:15-13:15",
+          "l": 500.0,
+          "t": 378.77878,
+          "r": 542.291,
+          "b": 384.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Debbie | Studio",
+          "l": 45.0,
+          "t": 389.77878,
+          "r": 105.425995,
+          "b": 395.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ayesha | Studio",
+          "l": 119.0,
+          "t": 389.77878,
+          "r": 179.732,
+          "b": 395.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Alain | Studio",
+          "l": 198.0,
+          "t": 389.77878,
+          "r": 249.291,
+          "b": 395.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Angela | Pool",
+          "l": 272.0,
+          "t": 389.77878,
+          "r": 323.912,
+          "b": 395.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Studio",
+          "l": 341.0,
+          "t": 389.77878,
+          "r": 402.362,
+          "b": 395.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kerry | Studio",
+          "l": 420.0,
+          "t": 389.77878,
+          "r": 472.137,
+          "b": 395.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Liz | Studio",
+          "l": 499.0,
+          "t": 389.77878,
+          "r": 541.48,
+          "b": 395.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tai Chi",
+          "l": 61.0,
+          "t": 421.77878,
+          "r": 90.988,
+          "b": 427.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total Body",
+          "l": 128.0,
+          "t": 415.77878,
+          "r": 173.36,
+          "b": 421.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuits",
+          "l": 208.0,
+          "t": 421.77878,
+          "r": 241.318,
+          "b": 427.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Fatburner &",
+          "l": 273.0,
+          "t": 415.77878,
+          "r": 323.643,
+          "b": 421.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Prime Time",
+          "l": 349.0,
+          "t": 421.77878,
+          "r": 397.54602,
+          "b": 427.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Intensive",
+          "l": 414.0,
+          "t": 415.77878,
+          "r": 480.69,
+          "b": 421.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 507.0,
+          "t": 421.77878,
+          "r": 536.673,
+          "b": 427.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:30-12:45",
+          "l": 54.0,
+          "t": 432.77878,
+          "r": 98.46,
+          "b": 438.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Conditioning",
+          "l": 123.0,
+          "t": 426.77878,
+          "r": 177.864,
+          "b": 432.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17:30-18:15",
+          "l": 203.0,
+          "t": 432.77878,
+          "r": 247.01,
+          "b": 438.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Body Toning",
+          "l": 272.0,
+          "t": 426.77878,
+          "r": 325.118,
+          "b": 432.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 314.592,
+          "t": 437.77878,
+          "r": 324.744,
+          "b": 443.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13:30-14:30",
+          "l": 350.0,
+          "t": 432.77878,
+          "r": 396.341,
+          "b": 438.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Bodyshaping",
+          "l": 419.0,
+          "t": 426.77878,
+          "r": 474.746,
+          "b": 432.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13:20-14:20",
+          "l": 498.0,
+          "t": 432.77878,
+          "r": 544.899,
+          "b": 438.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Birinder | Studio",
+          "l": 44.0,
+          "t": 443.77878,
+          "r": 106.468994,
+          "b": 449.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13:00-13:45",
+          "l": 127.0,
+          "t": 437.77878,
+          "r": 173.638,
+          "b": 443.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Elisa | Studio",
+          "l": 124.0,
+          "t": 448.77878,
+          "r": 173.716,
+          "b": 454.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kerry | Studio",
+          "l": 197.0,
+          "t": 443.77878,
+          "r": 249.137,
+          "b": 449.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:45-13:3",
+          "l": 276.0,
+          "t": 437.77878,
+          "r": 314.592,
+          "b": 443.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dagmar | Studio",
+          "l": 266.0,
+          "t": 448.77878,
+          "r": 328.811,
+          "b": 454.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Studio",
+          "l": 341.0,
+          "t": 443.77878,
+          "r": 402.362,
+          "b": 449.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:45-14:00",
+          "l": 424.0,
+          "t": 437.77878,
+          "r": 470.926,
+          "b": 443.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Studio",
+          "l": 415.0,
+          "t": 448.77878,
+          "r": 476.362,
+          "b": 454.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Liz | Studio",
+          "l": 499.0,
+          "t": 443.77878,
+          "r": 541.48,
+          "b": 449.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Vinyasa",
+          "l": 45.0,
+          "t": 477.77878,
+          "r": 106.94701,
+          "b": 483.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Hatha",
+          "l": 123.0,
+          "t": 477.77878,
+          "r": 177.23401,
+          "b": 483.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 210.0,
+          "t": 477.77878,
+          "r": 239.673,
+          "b": 483.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 284.0,
+          "t": 477.77878,
+          "r": 313.673,
+          "b": 483.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 358.0,
+          "t": 477.77878,
+          "r": 387.673,
+          "b": 483.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 429.0,
+          "t": 477.77878,
+          "r": 465.585,
+          "b": 483.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ballet Fit",
+          "l": 502.0,
+          "t": 477.77878,
+          "r": 540.493,
+          "b": 483.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12:45-13:45",
+          "l": 53.0,
+          "t": 488.77878,
+          "r": 99.233,
+          "b": 494.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17:15-18:15",
+          "l": 129.0,
+          "t": 488.77878,
+          "r": 170.85,
+          "b": 494.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18:15-19:15",
+          "l": 203.0,
+          "t": 488.77878,
+          "r": 245.534,
+          "b": 494.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13:45-14:45",
+          "l": 276.0,
+          "t": 488.77878,
+          "r": 321.963,
+          "b": 494.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18:00-19:00",
+          "l": 349.0,
+          "t": 488.77878,
+          "r": 396.844,
+          "b": 494.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "13:15-14:00",
+          "l": 425.0,
+          "t": 488.77878,
+          "r": 469.676,
+          "b": 494.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17:00-18:00",
+          "l": 498.0,
+          "t": 488.77878,
+          "r": 545.16,
+          "b": 494.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Elena | Studio",
+          "l": 48.0,
+          "t": 499.77878,
+          "r": 101.532,
+          "b": 505.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sue | Studio",
+          "l": 126.0,
+          "t": 499.77878,
+          "r": 172.91699,
+          "b": 505.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Liz | Studio",
+          "l": 202.0,
+          "t": 499.77878,
+          "r": 244.48,
+          "b": 505.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Liz | Studio",
+          "l": 276.0,
+          "t": 499.77878,
+          "r": 318.48,
+          "b": 505.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Liz | Studio",
+          "l": 351.0,
+          "t": 499.77878,
+          "r": 393.48,
+          "b": 505.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Pool",
+          "l": 419.0,
+          "t": 499.77878,
+          "r": 472.775,
+          "b": 505.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Liz | Studio",
+          "l": 499.0,
+          "t": 499.77878,
+          "r": 541.48,
+          "b": 505.88977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuits",
+          "l": 59.0,
+          "t": 531.77875,
+          "r": 92.318,
+          "b": 537.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 132.0,
+          "t": 531.77875,
+          "r": 168.585,
+          "b": 537.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Power Pump",
+          "l": 197.0,
+          "t": 531.77875,
+          "r": 251.135,
+          "b": 537.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Body Pump™",
+          "l": 272.0,
+          "t": 531.77875,
+          "r": 327.692,
+          "b": 537.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Zumba®",
+          "l": 356.0,
+          "t": 531.77875,
+          "r": 391.001,
+          "b": 537.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga -",
+          "l": 434.0,
+          "t": 525.77875,
+          "r": 461.315,
+          "b": 531.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17:30-18:30",
+          "l": 53.0,
+          "t": 542.77875,
+          "r": 99.17,
+          "b": 548.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17:45-18:30",
+          "l": 127.0,
+          "t": 542.77875,
+          "r": 172.981,
+          "b": 548.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19:15-20:15",
+          "l": 202.0,
+          "t": 542.77875,
+          "r": 247.054,
+          "b": 548.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "17:45-18:30",
+          "l": 276.0,
+          "t": 542.77875,
+          "r": 321.981,
+          "b": 548.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19:00-20-00",
+          "l": 348.0,
+          "t": 542.77875,
+          "r": 398.994,
+          "b": 548.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Beginners",
+          "l": 425.0,
+          "t": 536.77875,
+          "r": 468.72202,
+          "b": 542.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Vinyasa",
+          "l": 491.0,
+          "t": 531.77875,
+          "r": 552.947,
+          "b": 537.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Kerry | Studio",
+          "l": 49.0,
+          "t": 553.77875,
+          "r": 101.137,
+          "b": 559.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Roz | Pool",
+          "l": 130.0,
+          "t": 553.77875,
+          "r": 168.628,
+          "b": 559.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rob | Studio",
+          "l": 200.0,
+          "t": 553.77875,
+          "r": 247.142,
+          "b": 559.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Jo T | Studio",
+          "l": 273.0,
+          "t": 553.77875,
+          "r": 321.492,
+          "b": 559.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gary | Studio",
+          "l": 347.0,
+          "t": 553.77875,
+          "r": 397.157,
+          "b": 559.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14:00-15:00",
+          "l": 424.0,
+          "t": 547.77875,
+          "r": 471.628,
+          "b": 553.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18:15-19:15",
+          "l": 500.0,
+          "t": 542.77875,
+          "r": 542.534,
+          "b": 548.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nicole | Studio",
+          "l": 418.0,
+          "t": 558.77875,
+          "r": 474.70898,
+          "b": 564.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sue | Studio",
+          "l": 497.0,
+          "t": 553.77875,
+          "r": 543.917,
+          "b": 559.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Legs Bums",
+          "l": 53.0,
+          "t": 579.77875,
+          "r": 99.89,
+          "b": 585.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tums",
+          "l": 64.0,
+          "t": 590.77875,
+          "r": 88.102005,
+          "b": 596.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Circuits",
+          "l": 134.0,
+          "t": 585.77875,
+          "r": 167.318,
+          "b": 591.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Zumba®",
+          "l": 207.0,
+          "t": 585.77875,
+          "r": 244.305,
+          "b": 591.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Boxercise",
+          "l": 278.0,
+          "t": 585.77875,
+          "r": 319.796,
+          "b": 591.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18:30-19:15",
+          "l": 54.0,
+          "t": 601.77875,
+          "r": 98.694,
+          "b": 607.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18:30-19:30",
+          "l": 127.0,
+          "t": 596.77875,
+          "r": 173.854,
+          "b": 602.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20:15-21:15",
+          "l": 202.0,
+          "t": 596.77875,
+          "r": 247.027,
+          "b": 602.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18:30-19:30",
+          "l": 275.0,
+          "t": 596.77875,
+          "r": 321.854,
+          "b": 602.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Simone | Studio",
+          "l": 44.0,
+          "t": 612.77875,
+          "r": 105.362,
+          "b": 618.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Melinda | Studio",
+          "l": 118.0,
+          "t": 607.77875,
+          "r": 180.892,
+          "b": 613.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Nikolaos | Studio",
+          "l": 191.0,
+          "t": 607.77875,
+          "r": 256.682,
+          "b": 613.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gary P | Studio",
+          "l": 269.0,
+          "t": 607.77875,
+          "r": 326.762,
+          "b": 613.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua Fit",
+          "l": 58.0,
+          "t": 639.77875,
+          "r": 94.58501,
+          "b": 645.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Boxercise",
+          "l": 129.0,
+          "t": 639.77875,
+          "r": 170.796,
+          "b": 645.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HIIT & Lift",
+          "l": 278.0,
+          "t": 639.77875,
+          "r": 320.444,
+          "b": 645.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19:00-19:45",
+          "l": 52.0,
+          "t": 650.77875,
+          "r": 99.25,
+          "b": 656.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19:30-20:30",
+          "l": 126.0,
+          "t": 650.77875,
+          "r": 175.374,
+          "b": 656.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19:30-20:30",
+          "l": 274.0,
+          "t": 650.77875,
+          "r": 323.374,
+          "b": 656.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Roz | Pool",
+          "l": 56.0,
+          "t": 661.77875,
+          "r": 94.628006,
+          "b": 667.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Trevor | Studio",
+          "l": 121.0,
+          "t": 661.77875,
+          "r": 177.547,
+          "b": 667.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Martina | Studio",
+          "l": 267.0,
+          "t": 661.77875,
+          "r": 327.984,
+          "b": 667.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Power Pump",
+          "l": 49.0,
+          "t": 692.77875,
+          "r": 103.134995,
+          "b": 698.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Vinyasa",
+          "l": 119.0,
+          "t": 692.77875,
+          "r": 180.947,
+          "b": 698.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Aqua",
+          "l": 287.0,
+          "t": 692.77875,
+          "r": 310.823,
+          "b": 698.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "19:15-20:15",
+          "l": 53.0,
+          "t": 703.77875,
+          "r": 98.054,
+          "b": 709.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20:30-21:30",
+          "l": 126.0,
+          "t": 703.77875,
+          "r": 175.347,
+          "b": 709.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20:00-20:45",
+          "l": 273.0,
+          "t": 703.77875,
+          "r": 325.11,
+          "b": 709.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Roz | Studio",
+          "l": 52.0,
+          "t": 714.77875,
+          "r": 98.215,
+          "b": 720.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rob N | Studio",
+          "l": 121.0,
+          "t": 714.77875,
+          "r": 176.836,
+          "b": 720.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Roz | Pool",
+          "l": 278.0,
+          "t": 714.77875,
+          "r": 316.628,
+          "b": 720.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pilates",
+          "l": 61.0,
+          "t": 745.77875,
+          "r": 90.673004,
+          "b": 751.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yoga - Hatha",
+          "l": 272.0,
+          "t": 745.77875,
+          "r": 326.234,
+          "b": 751.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20:15-21:15",
+          "l": 53.0,
+          "t": 756.77875,
+          "r": 98.02699,
+          "b": 762.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20:30-21:30",
+          "l": 274.0,
+          "t": 756.77875,
+          "r": 323.347,
+          "b": 762.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Liz | Studio",
+          "l": 54.0,
+          "t": 767.77875,
+          "r": 96.479996,
+          "b": 773.8898,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sue | Studio",
+          "l": 274.0,
+          "t": 767.77875,
+          "r": 320.917,
+          "b": 773.8898,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

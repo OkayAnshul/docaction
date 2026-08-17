@@ -1,0 +1,24 @@
+{
+  "document": "syn-prose-letter.txt",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 1,
+  "candidates": [
+    {
+      "title": "Date",
+      "start": "2026-03-12T10:30",
+      "end": "2026-03-12T11:30",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": false,
+      "assumed": [
+        "assumed-duration"
+      ],
+      "sources": [
+        "Assumed(assumed-duration)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

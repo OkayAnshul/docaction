@@ -1,0 +1,317 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "SAMPLE MEETING NOTICE",
+          "l": 211.86,
+          "t": 75.82526,
+          "r": 403.63763,
+          "b": 85.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The _________________ [Name of Governing Body] of the _________________ [Name of",
+          "l": 72.0,
+          "t": 105.155975,
+          "r": 542.99994,
+          "b": 113.099976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Public Entity] (hereafter referred to as \"governing body\") will be holding a __________ [regular",
+          "l": 72.0,
+          "t": 118.95596,
+          "r": 543.0,
+          "b": 126.89996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or special] meeting on _____________ [Date] at ________ [Time]. The meeting will be held [in-",
+          "l": 72.0,
+          "t": 132.75595,
+          "r": 540.03595,
+          "b": 140.69995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "person at [Location of the Meeting] and/or virtually [include the electronic address and any other",
+          "l": 72.0,
+          "t": 146.55594,
+          "r": 542.9997,
+          "b": 154.49994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "information necessary to allow the public to join or view the electronic meeting].",
+          "l": 72.0,
+          "t": 160.35593,
+          "r": 463.91998,
+          "b": 168.29993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At the time this notice is being prepared, the governing body expects the agenda of its meeting to",
+          "l": 72.0,
+          "t": 187.9559,
+          "r": 542.9986,
+          "b": 195.8999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "include the following topics: [Include all topics the governing body expects to discuss. Also",
+          "l": 72.0,
+          "t": 201.75589,
+          "r": 543.0,
+          "b": 209.69989,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "include the topics to be discussed during, and the legal authority for holding, any anticipated",
+          "l": 72.0,
+          "t": 215.55588,
+          "r": 543.0001,
+          "b": 223.49988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "executive sessions.]",
+          "l": 72.00003,
+          "t": 229.35587,
+          "r": 170.34003,
+          "b": 237.29987,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.",
+          "l": 108.00002,
+          "t": 256.95584,
+          "r": 120.00002,
+          "b": 264.89984,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.",
+          "l": 108.00002,
+          "t": 284.55582,
+          "r": 120.00002,
+          "b": 292.49982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.",
+          "l": 108.00002,
+          "t": 312.1558,
+          "r": 120.00002,
+          "b": 320.0998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.",
+          "l": 108.00002,
+          "t": 339.75577,
+          "r": 120.00002,
+          "b": 347.69977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.",
+          "l": 108.00002,
+          "t": 367.35574,
+          "r": 120.00002,
+          "b": 375.29974,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Where noted, the discussion of some of the above topics may be held in executive session rather",
+          "l": 72.00002,
+          "t": 394.95572,
+          "r": 542.99963,
+          "b": 402.89972,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "than during the portion of the meeting that is open to the public. If this is a regular meeting,",
+          "l": 72.00002,
+          "t": 408.7557,
+          "r": 542.99756,
+          "b": 416.6997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "additional topics may be discussed. If this is a special meeting, the governing body's discussion",
+          "l": 72.0,
+          "t": 422.5557,
+          "r": 542.9999,
+          "b": 430.4997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will be limited to the topics and executive sessions listed above.",
+          "l": 72.000015,
+          "t": 436.35568,
+          "r": 381.96002,
+          "b": 444.29968,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Date of Notice: ___________",
+          "l": 72.00003,
+          "t": 463.95566,
+          "r": 220.98004,
+          "b": 471.89966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Posting Instructions:",
+          "l": 72.0,
+          "t": 508.82977,
+          "r": 157.00969,
+          "b": 515.463,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1.",
+          "l": 72.0,
+          "t": 531.80963,
+          "r": 82.00998,
+          "b": 538.4429,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Post at the main office of the public entity, if the entity has a main office.",
+          "l": 108.00186,
+          "t": 531.80963,
+          "r": 403.4917,
+          "b": 538.4429,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.",
+          "l": 72.01004,
+          "t": 543.33264,
+          "r": 82.02002,
+          "b": 549.9659,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Post at the location of the meeting, on the day of the meeting, if held somewhere other than the entity's",
+          "l": 108.0119,
+          "t": 543.33264,
+          "r": 542.499,
+          "b": 549.9659,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "main office.",
+          "l": 108.01187,
+          "t": 554.79553,
+          "r": 158.81328,
+          "b": 561.4288,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3.",
+          "l": 72.01001,
+          "t": 566.31854,
+          "r": 82.01999,
+          "b": 572.9518,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "File with the appropriate official [the Secretary of State for state-level entities, the appropriate city auditor",
+          "l": 108.01187,
+          "t": 566.31854,
+          "r": 542.4943,
+          "b": 572.9518,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for city-level entities, and the county auditor(s) for all other entities].",
+          "l": 108.0018,
+          "t": 577.8415,
+          "r": 385.96664,
+          "b": 584.47473,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.",
+          "l": 71.99994,
+          "t": 589.3044,
+          "r": 82.00992,
+          "b": 595.9376,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If the public entity has a website, post on the website of the public entity. (Effective Aug. 1, 2023)",
+          "l": 108.0018,
+          "t": 589.3044,
+          "r": 505.42514,
+          "b": 595.9376,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5.",
+          "l": 72.0,
+          "t": 600.8274,
+          "r": 81.99996,
+          "b": 607.46063,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Provide a copy of the notice to any individual who has requested notice of the meeting.",
+          "l": 107.991844,
+          "t": 600.8274,
+          "r": 459.33313,
+          "b": 607.46063,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6.",
+          "l": 71.98996,
+          "t": 612.3504,
+          "r": 81.98992,
+          "b": 618.98364,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "For special meetings, notify the entity's official newspaper, if any, and any other media representative who",
+          "l": 107.981804,
+          "t": 612.3504,
+          "r": 542.4387,
+          "b": 618.98364,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "has asked to be notified of such special meetings.",
+          "l": 107.981804,
+          "t": 623.81323,
+          "r": 307.94092,
+          "b": 630.4465,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(See N.D.C.C. § 44-04-20 for more information on notice requirements)",
+          "l": 71.97992,
+          "t": 646.85925,
+          "r": 363.572,
+          "b": 653.4925,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Last updated: July 2023",
+          "l": 444.18,
+          "t": 747.2068,
+          "r": 542.5063,
+          "b": 753.84,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

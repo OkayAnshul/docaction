@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The one directory a camera app may write into.
+
+  Cache, deliberately. A capture lives here for seconds — from the shutter to the moment
+  `start()` copies it into the import's own staging directory — so the reclaim risk that
+  ruled cache out for staged documents does not apply, and cache is excluded from backup
+  without anyone having to remember to exclude it.
+
+  Nothing wider is granted: a `<root-path>` would let any camera app write anywhere in our
+  private storage for the life of the grant.
+-->
+<paths>
+    <cache-path name="captures" path="captures/" />
+</paths>

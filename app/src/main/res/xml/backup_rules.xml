@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  What may leave the device. Applies below API 31; `data_extraction_rules.xml` governs 31+.
+
+  The home screen says documents are read on this phone and never uploaded, and that has to
+  be true of what we *extract* from them as well. The database holds event titles, room
+  numbers and staff names read out of someone's timetable — personal data by any reading —
+  and Android's default is to back all of it up to their cloud account.
+
+  So the database is excluded outright. Nothing is lost by it: every event is already in the
+  user's calendar, which syncs on its own terms and with their knowledge.
+-->
+<full-backup-content>
+    <exclude domain="database" path="docaction.db" />
+    <exclude domain="database" path="docaction.db-wal" />
+    <exclude domain="database" path="docaction.db-shm" />
+    <!-- Staged documents and the in-flight import record. -->
+    <exclude domain="file" path="imports" />
+    <exclude domain="file" path="datastore/import_journal.preferences_pb" />
+</full-backup-content>

@@ -1,0 +1,11 @@
+{
+  "document": "syn-ambiguous-dateorder.xlsx",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "DateOrder",
+      "example": "03/04/2026"
+    }
+  ],
+  "groups": 0
+}

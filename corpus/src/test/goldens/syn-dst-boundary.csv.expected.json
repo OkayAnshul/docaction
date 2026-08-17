@@ -1,0 +1,39 @@
+{
+  "document": "syn-dst-boundary.csv",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 2,
+  "candidates": [
+    {
+      "title": "Spring forward",
+      "start": "2026-03-29T00:00",
+      "end": "2026-03-30T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "SheetCell(syn-dst-boundary.csv)"
+      ]
+    },
+    {
+      "title": "Fall back",
+      "start": "2026-10-25T00:00",
+      "end": "2026-10-26T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "SheetCell(syn-dst-boundary.csv)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+BOARDING PASS
+
+Passenger: A TRAVELLER
+Flight: 6E-233
+Departure: 18/09/2026 14:35
+Arrival: 18/09/2026 16:50
+Gate: 22A
+Seat: 14C

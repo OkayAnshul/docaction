@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+      Calendar access is requested at the confirm step, never at launch, and only these two.
+      There is no storage permission anywhere in this app: documents arrive through the
+      Storage Access Framework or the Photo Picker, both of which grant per-file access.
+
+      Everything the reminder feature needs — POST_NOTIFICATIONS, SCHEDULE_EXACT_ALARM,
+      RECEIVE_BOOT_COMPLETED, and both receivers — is declared by :actions:reminder and
+      arrives through manifest merging. Restating it here would let the two drift, and one
+      of the things that module deliberately does *not* declare is USE_EXACT_ALARM.
+    -->
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DocAction">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.DocAction"
+            android:windowSoftInputMode="adjustResize">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!--
+              The headline flow. Filters name only what the engine can actually read: an app
+              that appears in the share sheet for a .docx and then refuses it is worse than
+              one that never appeared.
+            -->
+            <intent-filter android:label="@string/share_label">
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="application/pdf" />
+                <data android:mimeType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+
+            <!-- The same set as SEND. They were inconsistent, which meant sharing several
+                 spreadsheets offered no DocAction while sharing one did. -->
+            <intent-filter android:label="@string/share_label">
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="application/pdf" />
+                <data android:mimeType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" />
+                <data android:mimeType="text/csv" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+
+            <!-- "Open with" from a file manager or a browser download. -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="content" android:mimeType="application/pdf" />
+                <data android:scheme="content"
+                    android:mimeType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" />
+                <data android:scheme="content" android:mimeType="text/csv" />
+                <!-- Images were missing here, so "open with" never offered us for a photo. -->
+                <data android:scheme="content" android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+
+        <!--
+          Lets a camera app hand a photo back to us. No CAMERA permission anywhere in this
+          app: `TakePicture` delegates to whichever camera app the user already has, which
+          keeps the privacy claims honest and removes a permission prompt from the flow.
+        -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.captures"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>

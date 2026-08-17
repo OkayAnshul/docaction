@@ -1,0 +1,541 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.32,
+      "heightPt": 841.92004,
+      "runs": [
+        {
+          "text": "TERM DATES AND HOLIDAYS 2025 - 2026",
+          "l": 204.36002,
+          "t": 113.74531,
+          "r": 393.34543,
+          "b": 120.47998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "TERM/HOLIDAY",
+          "l": 115.68001,
+          "t": 159.22528,
+          "r": 190.77515,
+          "b": 165.95996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FIRST DAY",
+          "l": 284.04,
+          "t": 159.22528,
+          "r": 333.21512,
+          "b": 165.95996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LAST DAY",
+          "l": 436.56,
+          "t": 159.22528,
+          "r": 482.8551,
+          "b": 165.95996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Autumn term",
+          "l": 121.799995,
+          "t": 174.94531,
+          "r": 184.76965,
+          "b": 181.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "w/c 1st September 2025",
+          "l": 254.03745,
+          "t": 173.47421,
+          "r": 363.09793,
+          "b": 181.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 23rd October 2025",
+          "l": 396.26343,
+          "t": 173.47421,
+          "r": 523.30084,
+          "b": 181.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Find your student placement day",
+          "l": 79.08,
+          "t": 192.46533,
+          "r": 227.51202,
+          "b": 199.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 26th September 2025",
+          "l": 321.62082,
+          "t": 190.99423,
+          "r": 446.75665,
+          "b": 199.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Autumn Half term holidays",
+          "l": 91.8,
+          "t": 209.8653,
+          "r": 214.67145,
+          "b": 216.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 27th October 2025",
+          "l": 247.06415,
+          "t": 208.39426,
+          "r": 370.10962,
+          "b": 216.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 31st October 2025",
+          "l": 403.60632,
+          "t": 208.39426,
+          "r": 515.9471,
+          "b": 216.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Autumn Term",
+          "l": 120.96,
+          "t": 227.38531,
+          "r": 185.65623,
+          "b": 234.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 3rd November 2025",
+          "l": 244.546,
+          "t": 225.91428,
+          "r": 372.6867,
+          "b": 234.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 19th December 2025",
+          "l": 398.12393,
+          "t": 225.91428,
+          "r": 521.23157,
+          "b": 234.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Christmas holidays",
+          "l": 110.16,
+          "t": 244.90533,
+          "r": 196.43082,
+          "b": 251.64001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 22nd December 2025",
+          "l": 241.52,
+          "t": 243.43423,
+          "r": 375.56326,
+          "b": 251.64001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 5th January 2026",
+          "l": 402.1045,
+          "t": 243.43423,
+          "r": 517.40906,
+          "b": 251.64001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Term",
+          "l": 124.92,
+          "t": 262.42535,
+          "r": 181.56229,
+          "b": 269.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday 6th January 2026",
+          "l": 251.05087,
+          "t": 260.95425,
+          "r": 366.20816,
+          "b": 269.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 13th February 2026",
+          "l": 401.25055,
+          "t": 260.95425,
+          "r": 518.12384,
+          "b": 269.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Half Term holidays",
+          "l": 95.04,
+          "t": 279.9453,
+          "r": 211.55667,
+          "b": 286.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 16th February 2026",
+          "l": 245.38461,
+          "t": 278.4742,
+          "r": 371.82132,
+          "b": 286.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 20th February 2026",
+          "l": 401.23306,
+          "t": 278.4742,
+          "r": 518.12384,
+          "b": 286.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Term",
+          "l": 124.92,
+          "t": 297.46533,
+          "r": 181.56229,
+          "b": 304.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 23rd February 2026",
+          "l": 245.42024,
+          "t": 295.99423,
+          "r": 371.90918,
+          "b": 304.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 26th March 2026",
+          "l": 399.9961,
+          "t": 295.99423,
+          "r": 519.406,
+          "b": 304.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Easter Break",
+          "l": 123.96,
+          "t": 314.8653,
+          "r": 182.53717,
+          "b": 321.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 30th March 2026",
+          "l": 250.92172,
+          "t": 313.39426,
+          "r": 366.28598,
+          "b": 321.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 10th April 2026",
+          "l": 410.71277,
+          "t": 313.39426,
+          "r": 508.60907,
+          "b": 321.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Term",
+          "l": 120.12,
+          "t": 332.3853,
+          "r": 186.36728,
+          "b": 339.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 13th April 2026",
+          "l": 254.86224,
+          "t": 330.91425,
+          "r": 362.33737,
+          "b": 339.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 22nd May 2026",
+          "l": 410.7387,
+          "t": 330.91425,
+          "r": 508.6484,
+          "b": 339.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Half term holidays",
+          "l": 91.08,
+          "t": 349.9053,
+          "r": 215.48068,
+          "b": 356.63998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 25th May 2026",
+          "l": 255.60168,
+          "t": 348.43423,
+          "r": 361.63168,
+          "b": 356.63998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 29th May 2026",
+          "l": 411.4683,
+          "t": 348.43423,
+          "r": 508.0484,
+          "b": 356.63998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer Term",
+          "l": 120.12,
+          "t": 367.42532,
+          "r": 186.36728,
+          "b": 374.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 1st June 2026",
+          "l": 258.3952,
+          "t": 365.95425,
+          "r": 358.80423,
+          "b": 374.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 19th June 2026",
+          "l": 410.9593,
+          "t": 365.95425,
+          "r": 508.37448,
+          "b": 374.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BANK HOLIDAYS",
+          "l": 264.59998,
+          "t": 406.06534,
+          "r": 342.21512,
+          "b": 412.80002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 25th August 2025",
+          "l": 96.12,
+          "t": 420.31424,
+          "r": 213.70554,
+          "b": 428.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "August Bank Holiday",
+          "l": 337.73395,
+          "t": 421.7853,
+          "r": 431.93427,
+          "b": 428.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 25th December 2025",
+          "l": 86.520004,
+          "t": 437.83426,
+          "r": 223.29153,
+          "b": 446.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Christmas Day",
+          "l": 351.73615,
+          "t": 439.3053,
+          "r": 418.09158,
+          "b": 446.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 26th December 2025",
+          "l": 93.36,
+          "t": 455.35422,
+          "r": 216.43149,
+          "b": 463.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Boxing Day Bank Holiday",
+          "l": 328.4258,
+          "t": 456.82532,
+          "r": 441.272,
+          "b": 463.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 1st January 2026",
+          "l": 95.64,
+          "t": 472.87424,
+          "r": 214.10847,
+          "b": 481.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "New Year Bank holiday",
+          "l": 332.39584,
+          "t": 474.34534,
+          "r": 437.3487,
+          "b": 481.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 3rd April 2026",
+          "l": 108.72,
+          "t": 490.39426,
+          "r": 201.10202,
+          "b": 498.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Good Friday",
+          "l": 356.48532,
+          "t": 491.8653,
+          "r": 413.33832,
+          "b": 498.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 6th April 2026",
+          "l": 103.92,
+          "t": 507.91428,
+          "r": 205.78201,
+          "b": 516.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Easter Monday",
+          "l": 349.90405,
+          "t": 509.3853,
+          "r": 419.92923,
+          "b": 516.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 4th May 2026",
+          "l": 104.64,
+          "t": 525.3142,
+          "r": 205.18382,
+          "b": 533.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Early May Bank Holiday",
+          "l": 331.19952,
+          "t": 526.78534,
+          "r": 438.615,
+          "b": 533.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 25th May 2026",
+          "l": 101.88,
+          "t": 542.8342,
+          "r": 207.91171,
+          "b": 551.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Bank Holiday",
+          "l": 339.1164,
+          "t": 544.3053,
+          "r": 430.58636,
+          "b": 551.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 31st August 2026",
+          "l": 96.600006,
+          "t": 560.3542,
+          "r": 213.22554,
+          "b": 568.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "August Bank Holiday",
+          "l": 337.6956,
+          "t": 561.8253,
+          "r": 431.94763,
+          "b": 568.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "INSET DAYS (Staff Development)",
+          "l": 228.72,
+          "t": 613.06537,
+          "r": 379.53513,
+          "b": 619.80005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 24th October 2025",
+          "l": 247.44,
+          "t": 625.9942,
+          "r": 360.81512,
+          "b": 634.19995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 5th January 2026",
+          "l": 246.48001,
+          "t": 643.5142,
+          "r": 361.77515,
+          "b": 651.72003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 27th March 2026",
+          "l": 251.16,
+          "t": 660.91425,
+          "r": 356.97516,
+          "b": 669.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 22nd June 2026",
+          "l": 249.95999,
+          "t": 678.4342,
+          "r": 358.29514,
+          "b": 686.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tuesday 23rd June 2026",
+          "l": 250.56,
+          "t": 695.95416,
+          "r": 357.57513,
+          "b": 704.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday 24th June 2026",
+          "l": 242.76,
+          "t": 713.47424,
+          "r": 365.37512,
+          "b": 721.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thursday 25th June 2026",
+          "l": 248.51999,
+          "t": 730.9942,
+          "r": 359.61514,
+          "b": 739.19995,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,369 @@
+{
+  "document": "syn-weekly-timetable.xlsx",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 20,
+  "candidates": [
+    {
+      "title": "Maths",
+      "start": "2026-08-17T09:00",
+      "end": "2026-08-17T10:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Physics",
+      "start": "2026-08-17T10:00",
+      "end": "2026-08-17T11:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Break",
+      "start": "2026-08-17T11:00",
+      "end": "2026-08-17T12:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Chemistry",
+      "start": "2026-08-17T12:00",
+      "end": "2026-08-17T13:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Physics",
+      "start": "2026-08-18T09:00",
+      "end": "2026-08-18T10:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Maths",
+      "start": "2026-08-18T10:00",
+      "end": "2026-08-18T11:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Break",
+      "start": "2026-08-18T11:00",
+      "end": "2026-08-18T12:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Biology",
+      "start": "2026-08-18T12:00",
+      "end": "2026-08-18T13:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Maths",
+      "start": "2026-08-19T09:00",
+      "end": "2026-08-19T10:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Chemistry",
+      "start": "2026-08-19T10:00",
+      "end": "2026-08-19T11:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Break",
+      "start": "2026-08-19T11:00",
+      "end": "2026-08-19T12:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Physics",
+      "start": "2026-08-19T12:00",
+      "end": "2026-08-19T13:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Chemistry",
+      "start": "2026-08-20T09:00",
+      "end": "2026-08-20T10:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Biology",
+      "start": "2026-08-20T10:00",
+      "end": "2026-08-20T11:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Break",
+      "start": "2026-08-20T11:00",
+      "end": "2026-08-20T12:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Maths",
+      "start": "2026-08-20T12:00",
+      "end": "2026-08-20T13:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Biology",
+      "start": "2026-08-21T09:00",
+      "end": "2026-08-21T10:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Maths",
+      "start": "2026-08-21T10:00",
+      "end": "2026-08-21T11:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Break",
+      "start": "2026-08-21T11:00",
+      "end": "2026-08-21T12:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    },
+    {
+      "title": "Physics",
+      "start": "2026-08-21T12:00",
+      "end": "2026-08-21T13:00",
+      "zone": "Asia/Kolkata",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "Derived(column-header)",
+        "Derived(row-header)",
+        "SheetCell(syn-weekly-timetable)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1138 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Appointment letter template",
+          "l": 72.024,
+          "t": 38.884827,
+          "r": 214.0868,
+          "b": 45.840027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "APPOINTMENT LETTER",
+          "l": 231.77,
+          "t": 121.37477,
+          "r": 382.73682,
+          "b": 130.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[DD-MM-YY]",
+          "l": 72.024,
+          "t": 161.41998,
+          "r": 134.29999,
+          "b": 168.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Employee Name",
+          "l": 72.024,
+          "t": 189.14001,
+          "r": 152.42,
+          "b": 196.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Employee Code",
+          "l": 72.024,
+          "t": 216.85999,
+          "r": 151.34,
+          "b": 224.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Employee Address",
+          "l": 72.024,
+          "t": 244.60999,
+          "r": 163.7,
+          "b": 252.16998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Subject: Letter of Appointment",
+          "l": 72.024,
+          "t": 272.33002,
+          "r": 221.56999,
+          "b": 279.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dear Mr. XYZ,",
+          "l": 72.024,
+          "t": 300.05,
+          "r": 135.5,
+          "b": 307.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "With reference to your acceptance of our offer letter, we are pleased to appoint you as _________",
+          "l": 72.024,
+          "t": 341.05518,
+          "r": 541.22974,
+          "b": 347.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "at a CTC of Rs. XXX/- Lacs per annum (fixed salary component Rs. XXX/- per annum, variable",
+          "l": 72.024,
+          "t": 353.65518,
+          "r": 541.6846,
+          "b": 359.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "component Rs. XXX/- per annum) Please note that the variable salary component will be",
+          "l": 72.024,
+          "t": 366.2552,
+          "r": 541.7164,
+          "b": 372.53,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "performance-based, for more clarity, please read the terms & conditions mentioned in the enclosure",
+          "l": 72.024,
+          "t": 378.8552,
+          "r": 541.45667,
+          "b": 385.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "below.",
+          "l": 72.024,
+          "t": 390.17,
+          "r": 106.58,
+          "b": 397.73,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your role will start on ____________. Your direct reporting manager would be __________ and",
+          "l": 72.024,
+          "t": 419.1952,
+          "r": 541.1102,
+          "b": 425.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Manager ___________. Even though we offer flexibility, we expect the candidate to complete _____",
+          "l": 72.024,
+          "t": 431.7952,
+          "r": 541.2995,
+          "b": 438.07,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "hours every day/ in a week. The shift timings for your profile are _____ to _______.",
+          "l": 72.024,
+          "t": 443.11002,
+          "r": 456.1,
+          "b": 450.67,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "For the initial ___ month’s period, you will be on probation. During this tenure, your conduct, behavior",
+          "l": 72.024,
+          "t": 456.99518,
+          "r": 541.38916,
+          "b": 463.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and skills would be analyzed. We follow a _______ dress code. You can read more about it in the",
+          "l": 72.024,
+          "t": 469.59518,
+          "r": 541.10034,
+          "b": 475.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employee handbook.",
+          "l": 72.024,
+          "t": 480.91,
+          "r": 177.86,
+          "b": 488.47,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please sign the enclosed Employee Agreement Form as your acceptance for the position and revert",
+          "l": 72.024,
+          "t": 509.9152,
+          "r": 541.4261,
+          "b": 516.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with a signed copy by ____________.",
+          "l": 72.024,
+          "t": 521.23004,
+          "r": 253.73,
+          "b": 528.79004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please carry all your documents like Aadhar Card, PAN Card, Marksheets, etc. on your first joining day.",
+          "l": 72.024,
+          "t": 548.95,
+          "r": 542.13995,
+          "b": 556.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Should you have any query, feel free to contact ________ during office hours on ______________.",
+          "l": 72.024,
+          "t": 561.55,
+          "r": 539.01996,
+          "b": 569.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Yours truly,",
+          "l": 72.024,
+          "t": 589.3,
+          "r": 126.14,
+          "b": 596.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "For [your company name]",
+          "l": 72.024,
+          "t": 617.02,
+          "r": 194.09,
+          "b": 624.58,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "[Signing Authority]",
+          "l": 72.024,
+          "t": 644.74,
+          "r": 161.18,
+          "b": 652.3,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Head-Human Resource",
+          "l": 72.024,
+          "t": 672.46,
+          "r": 185.78,
+          "b": 680.02,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appointment letter template",
+          "l": 72.024,
+          "t": 734.1408,
+          "r": 214.0868,
+          "b": 741.096,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Appointment letter template",
+          "l": 72.024,
+          "t": 38.884827,
+          "r": 214.0868,
+          "b": 45.840027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*T&C Annexure Attached*",
+          "l": 72.024,
+          "t": 88.785194,
+          "r": 201.74287,
+          "b": 95.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EMPLOYMENT TERMS AND CONDITIONS",
+          "l": 72.024,
+          "t": 163.09998,
+          "r": 269.666,
+          "b": 170.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● Your appointment is with effect from [DATE].",
+          "l": 90.024,
+          "t": 192.10521,
+          "r": 318.7832,
+          "b": 198.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● Your Cost to Company Package and Reimbursements (if any) shall be mentioned in the",
+          "l": 90.024,
+          "t": 204.70518,
+          "r": 541.34985,
+          "b": 210.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Annexure 1 of Appointment Letter or Service Agreement whichever is applicable.",
+          "l": 108.02,
+          "t": 217.30522,
+          "r": 485.6332,
+          "b": 223.58002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You will be posted at our “Location” and will be reporting to “Reporting Manager- Name",
+          "l": 90.024,
+          "t": 229.9052,
+          "r": 518.1532,
+          "b": 236.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You will be on probation for a period of six (6) months from the date of your joining, where",
+          "l": 90.024,
+          "t": 242.5352,
+          "r": 541.2803,
+          "b": 248.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "after, your services if found satisfactory, will stand confirmed. Any decision to the contrary or",
+          "l": 108.02,
+          "t": 255.13518,
+          "r": 541.4395,
+          "b": 261.40997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to extend the probation period will be communicated to you by the Human Resource",
+          "l": 108.02,
+          "t": 267.7352,
+          "r": 541.52515,
+          "b": 274.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Department. [your company name] reserves the right to reduce/dispense with or extend your",
+          "l": 108.02,
+          "t": 280.33517,
+          "r": 541.4794,
+          "b": 286.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "probation period at its absolute discretion.",
+          "l": 108.02,
+          "t": 292.93518,
+          "r": 311.2232,
+          "b": 299.21,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You are entitled to avail 1.75 casual Sick leaves (CSL) per month until your services are",
+          "l": 90.024,
+          "t": 305.5352,
+          "r": 541.6431,
+          "b": 311.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "confirmed. After successful completion of the probation period, you will be entitled to 12",
+          "l": 108.02,
+          "t": 318.1352,
+          "r": 541.3598,
+          "b": 324.41,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "days earned leave (EL), which can be carried forward, if not availed in a calendar year.",
+          "l": 108.02,
+          "t": 330.7352,
+          "r": 504.5932,
+          "b": 337.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● In case you decide to resign from your services, you will be required to serve one (1) month",
+          "l": 90.024,
+          "t": 343.33517,
+          "r": 541.5778,
+          "b": 349.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "notice of physical presence in case you are under probation period AND Two (2) months",
+          "l": 108.02,
+          "t": 355.93518,
+          "r": 541.3499,
+          "b": 362.21,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "notice period of physical presence OR 1 month notice period of physical presence with one-",
+          "l": 108.02,
+          "t": 368.5352,
+          "r": 540.1401,
+          "b": 374.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "month gross salary in lieu of the notice period in case you are confirmed on the payrolls of the",
+          "l": 108.02,
+          "t": 381.1352,
+          "r": 541.5787,
+          "b": 387.41,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "company unless otherwise mentioned in the Service agreement. However, [your company",
+          "l": 108.02,
+          "t": 393.7352,
+          "r": 541.3499,
+          "b": 400.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "name] reserves the right to reduce/ dispense with or take any contrary decision at its absolute",
+          "l": 108.02,
+          "t": 406.33517,
+          "r": 541.4594,
+          "b": 412.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discretion.",
+          "l": 108.02,
+          "t": 418.9552,
+          "r": 160.5932,
+          "b": 425.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● The Company reserves the right to terminate your services in case your performance is found",
+          "l": 90.024,
+          "t": 431.55518,
+          "r": 541.4782,
+          "b": 437.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to be unsatisfactory/poor/below average, by giving either one-month notice/or one-month",
+          "l": 108.02,
+          "t": 444.15518,
+          "r": 541.75903,
+          "b": 450.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "gross salary in case you are under probation period and 2 months notice period / or one-",
+          "l": 108.02,
+          "t": 456.7552,
+          "r": 540.0201,
+          "b": 463.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "month notice with one-month gross salary in case you are confirmed on the payrolls of the",
+          "l": 108.02,
+          "t": 469.3552,
+          "r": 541.4006,
+          "b": 475.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "company. The Company also reserves the right to terminate your services without any notice",
+          "l": 108.02,
+          "t": 481.9552,
+          "r": 541.3898,
+          "b": 488.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or salary in lieu thereof on the grounds of misconduct, or even in the case of reasonable",
+          "l": 108.02,
+          "t": 494.55518,
+          "r": 541.66815,
+          "b": 500.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "suspicion of misconduct, disloyalty, the commission of any act involving moral turpitude, or",
+          "l": 108.02,
+          "t": 507.15518,
+          "r": 541.3599,
+          "b": 513.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any act of indiscipline or inefficiency or for loss of confidence.",
+          "l": 108.02,
+          "t": 519.75525,
+          "r": 400.2832,
+          "b": 526.03,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● Your assignments at work may be changed at any time depending on the business",
+          "l": 90.024,
+          "t": 532.3552,
+          "r": 541.7932,
+          "b": 538.63,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "exigencies.",
+          "l": 108.02,
+          "t": 544.9552,
+          "r": 163.9532,
+          "b": 551.23,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You may be transferred at work in any of the company’s branches or client sites/ offices",
+          "l": 90.024,
+          "t": 557.55524,
+          "r": 541.3003,
+          "b": 563.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "across India or Abroad.",
+          "l": 108.02,
+          "t": 570.1552,
+          "r": 217.9832,
+          "b": 576.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You will be employed in the service of the company only as long as you are medically fit for",
+          "l": 90.024,
+          "t": 582.7852,
+          "r": 541.25037,
+          "b": 589.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employment in all aspects. Management has the right to get you medically examined by any",
+          "l": 108.02,
+          "t": 595.38525,
+          "r": 541.47424,
+          "b": 601.66003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "qualified medical practitioner during the tenure of your service.",
+          "l": 108.02,
+          "t": 607.9852,
+          "r": 404.9632,
+          "b": 614.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● In addition to the employment terms and conditions mentioned herein, all other standard and",
+          "l": 90.024,
+          "t": 620.5852,
+          "r": 541.4595,
+          "b": 626.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "general rules, practices and policies of the Company as existing now and which may be",
+          "l": 108.02,
+          "t": 633.18524,
+          "r": 541.5053,
+          "b": 639.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "amended from time to time shall be applicable to you.",
+          "l": 108.02,
+          "t": 645.7852,
+          "r": 362.7232,
+          "b": 652.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You are required at all times to maintain the highest order of discipline and secrecy as regards",
+          "l": 90.024,
+          "t": 658.38525,
+          "r": 541.4596,
+          "b": 664.66003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to the work of the Company and/or its Subsidiaries or Associate Companies. All inventions,",
+          "l": 108.02,
+          "t": 670.9852,
+          "r": 541.6416,
+          "b": 677.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "improvements, discoveries made by you either alone or with other persons, will become the",
+          "l": 108.02,
+          "t": 683.5852,
+          "r": 541.38,
+          "b": 689.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "sole property of the company. You will ensure that patent protections are obtained for such",
+          "l": 108.02,
+          "t": 696.1812,
+          "r": 541.31006,
+          "b": 702.456,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appointment letter template",
+          "l": 72.024,
+          "t": 734.1408,
+          "r": 214.0868,
+          "b": 741.096,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Appointment letter template",
+          "l": 72.024,
+          "t": 38.884827,
+          "r": 214.0868,
+          "b": 45.840027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "inventions/improvements and discoveries in India or elsewhere and assign the same to the",
+          "l": 108.02,
+          "t": 76.18522,
+          "r": 541.51465,
+          "b": 82.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "company.",
+          "l": 108.02,
+          "t": 88.785194,
+          "r": 157.71321,
+          "b": 95.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You are required to devote your total attention and abilities exclusively for the business of the",
+          "l": 90.024,
+          "t": 101.38517,
+          "r": 541.4795,
+          "b": 107.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company. You will respect, obey and conform to all the regulations framed and issued by the",
+          "l": 108.02,
+          "t": 113.98521,
+          "r": 541.49927,
+          "b": 120.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company from time to time. You shall not, while in the employment of the Company, be",
+          "l": 108.02,
+          "t": 126.58518,
+          "r": 541.372,
+          "b": 132.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "engaged in any other employment, conduct business whatsoever or hold any office of profit",
+          "l": 108.02,
+          "t": 139.18523,
+          "r": 541.4097,
+          "b": 145.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or accept any other emoluments without the previous consent in writing of the Company.",
+          "l": 108.02,
+          "t": 151.7852,
+          "r": 526.55316,
+          "b": 158.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● During the course of your employment and if the nature of your business requires it, the",
+          "l": 90.024,
+          "t": 164.38518,
+          "r": 541.76465,
+          "b": 170.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Company may send you for specialized training within India or overseas in order to enable you",
+          "l": 108.02,
+          "t": 176.98521,
+          "r": 541.4397,
+          "b": 183.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to perform more effectively. In such an event, you will be required to execute a training bond",
+          "l": 108.02,
+          "t": 189.58519,
+          "r": 541.7457,
+          "b": 195.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with the Company.",
+          "l": 108.02,
+          "t": 202.18523,
+          "r": 198.54321,
+          "b": 208.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You during the period of employment with the company plus 2 years after the ending of the",
+          "l": 90.024,
+          "t": 214.7852,
+          "r": 541.2503,
+          "b": 221.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employment shall desist from actively soliciting employment and desist from considering",
+          "l": 108.02,
+          "t": 227.38518,
+          "r": 541.3997,
+          "b": 233.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "employment offers from any of the company’s existing or potential client’s partner,",
+          "l": 108.02,
+          "t": 240.01518,
+          "r": 541.6177,
+          "b": 246.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "collaborators or any affiliates of the company, without obtaining written permission from the",
+          "l": 108.02,
+          "t": 252.61522,
+          "r": 541.3798,
+          "b": 258.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "company.",
+          "l": 108.02,
+          "t": 265.21518,
+          "r": 157.71321,
+          "b": 271.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● The emoluments/benefits due to you will be liable/subject to tax in accordance with the",
+          "l": 90.024,
+          "t": 277.8152,
+          "r": 541.32007,
+          "b": 284.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "provisions of the Income Tax Act and Rules made there under as also other applicable laws, if",
+          "l": 108.02,
+          "t": 290.4152,
+          "r": 541.51355,
+          "b": 296.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any, as may be in force from time to time.",
+          "l": 108.02,
+          "t": 303.0152,
+          "r": 301.5032,
+          "b": 309.29,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● The Company lays emphasis on all statutory compliances and you should ensure compliance",
+          "l": 90.024,
+          "t": 315.6152,
+          "r": 541.35,
+          "b": 321.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with various statutes in your area of operations including Insider Trading Regulations.",
+          "l": 108.02,
+          "t": 328.21518,
+          "r": 504.3532,
+          "b": 334.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● You shall retire from the services of the company on completion of 58 (fifty-eight) years of",
+          "l": 90.024,
+          "t": 340.8152,
+          "r": 541.7278,
+          "b": 347.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "age.",
+          "l": 108.02,
+          "t": 353.4152,
+          "r": 131.07321,
+          "b": 359.69,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "● That jurisdiction of courts at Delhi shall only apply to any dispute arising out of these terms and",
+          "l": 90.024,
+          "t": 366.0152,
+          "r": 541.3998,
+          "b": 372.29,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "conditions of employment.",
+          "l": 108.02,
+          "t": 378.6152,
+          "r": 238.1432,
+          "b": 384.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Acknowledgement by the Employee",
+          "l": 72.024,
+          "t": 405.05,
+          "r": 250.96999,
+          "b": 412.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "I acknowledge receiving a copy of Appointment Letter and Employment Terms and conditions",
+          "l": 72.024,
+          "t": 434.0752,
+          "r": 541.3292,
+          "b": 440.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "relating to all incidents of my employment with the company and after having read and understood",
+          "l": 72.024,
+          "t": 446.6752,
+          "r": 541.3094,
+          "b": 452.95,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and comprehended the contents and implications therein, I am satisfied and agree to abide by them.",
+          "l": 72.024,
+          "t": 457.99,
+          "r": 542.13995,
+          "b": 465.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Employee Name :           _________________________",
+          "l": 72.024,
+          "t": 485.71,
+          "r": 424.63,
+          "b": 493.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Employee Signature:      _________________________",
+          "l": 72.024,
+          "t": 513.43,
+          "r": 352.39,
+          "b": 520.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "For [your company name]",
+          "l": 72.024,
+          "t": 541.15,
+          "r": 199.25,
+          "b": 548.71,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Signing Authority",
+          "l": 72.024,
+          "t": 568.87,
+          "r": 154.81999,
+          "b": 576.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Head-Human Resources",
+          "l": 72.024,
+          "t": 596.62,
+          "r": 193.48999,
+          "b": 604.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Annexure I",
+          "l": 72.024,
+          "t": 624.34,
+          "r": 125.06,
+          "b": 631.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Compensation break-up for “Employee Name”, Employee Code –",
+          "l": 72.024,
+          "t": 652.06,
+          "r": 384.91,
+          "b": 659.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Salary Component",
+          "l": 72.024,
+          "t": 681.0652,
+          "r": 164.63287,
+          "b": 687.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Per Month (Rs.)",
+          "l": 180.02,
+          "t": 679.77997,
+          "r": 256.49,
+          "b": 687.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Salary Component",
+          "l": 72.024,
+          "t": 693.6612,
+          "r": 164.63287,
+          "b": 699.936,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Per Month (Rs.)",
+          "l": 180.02,
+          "t": 692.376,
+          "r": 256.49,
+          "b": 699.936,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "BASIC",
+          "l": 72.024,
+          "t": 704.976,
+          "r": 111.74,
+          "b": 712.536,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appointment letter template",
+          "l": 72.024,
+          "t": 734.1408,
+          "r": 214.0868,
+          "b": 741.096,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Appointment letter template",
+          "l": 72.024,
+          "t": 38.884827,
+          "r": 214.0868,
+          "b": 45.840027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "HRA",
+          "l": 72.024,
+          "t": 76.18522,
+          "r": 93.9972,
+          "b": 82.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CONVEYANCE",
+          "l": 72.024,
+          "t": 87.5,
+          "r": 147.73999,
+          "b": 95.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SPECIAL ALLOWANCE",
+          "l": 72.024,
+          "t": 100.099976,
+          "r": 183.73999,
+          "b": 107.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MEDICAL",
+          "l": 72.024,
+          "t": 113.98521,
+          "r": 117.8732,
+          "b": 120.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "UNIFORM ALLOWANCE",
+          "l": 72.024,
+          "t": 126.58518,
+          "r": 185.3132,
+          "b": 132.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "LTA",
+          "l": 72.024,
+          "t": 139.18523,
+          "r": 90.6372,
+          "b": 145.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MEAL VOUCHER",
+          "l": 72.024,
+          "t": 151.7852,
+          "r": 151.71321,
+          "b": 158.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CAR & DRIVER REIMBURSEMENT",
+          "l": 72.024,
+          "t": 164.38518,
+          "r": 225.7832,
+          "b": 170.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "EDUCATION ALLOWANCE",
+          "l": 72.024,
+          "t": 176.98521,
+          "r": 197.7032,
+          "b": 183.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MONTHLY GROSS SALARY",
+          "l": 72.024,
+          "t": 189.58519,
+          "r": 199.5032,
+          "b": 195.85999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "GRATUITY",
+          "l": 72.024,
+          "t": 202.18523,
+          "r": 120.8732,
+          "b": 208.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MEDICLAIM EMPLOYER’S SHARE",
+          "l": 72.024,
+          "t": 214.7852,
+          "r": 227.9432,
+          "b": 221.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ANNUAL VARIABLE CTC",
+          "l": 72.024,
+          "t": 227.38518,
+          "r": 184.8332,
+          "b": 233.65997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ANNUAL CTC (FIXED + VARIABLE)",
+          "l": 72.024,
+          "t": 252.61522,
+          "r": 228.18321,
+          "b": 258.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Note:",
+          "l": 72.024,
+          "t": 279.05,
+          "r": 102.024,
+          "b": 286.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "*Medi-claim shall be effective from [Date] for eligible employees.",
+          "l": 72.024,
+          "t": 306.77,
+          "r": 381.31,
+          "b": 314.33,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The gross salary shall be subjected to TDS (tax deduction at source) depending on investments & tax",
+          "l": 72.024,
+          "t": 320.65518,
+          "r": 541.3491,
+          "b": 326.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "declaration made by the employees.",
+          "l": 72.024,
+          "t": 331.97,
+          "r": 247.01,
+          "b": 339.53,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Employee contribution to PF, ESI, Meal Voucher and medi-claim shall be deducted from monthly",
+          "l": 72.024,
+          "t": 345.8552,
+          "r": 541.625,
+          "b": 352.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "gross salary (if & where applicable).",
+          "l": 72.024,
+          "t": 357.17,
+          "r": 239.09,
+          "b": 364.73,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appointment letter template",
+          "l": 72.024,
+          "t": 734.1408,
+          "r": 214.0868,
+          "b": 741.096,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

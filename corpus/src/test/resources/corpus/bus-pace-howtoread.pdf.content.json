@@ -1,0 +1,427 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "How to Read a Schedule",
+          "l": 36.0,
+          "t": 48.860733,
+          "r": 297.6349,
+          "b": 59.159973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Whether you’re looking at Pace’s schedule document on the web or on paper,",
+          "l": 36.0,
+          "t": 79.06223,
+          "r": 417.41006,
+          "b": 84.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the following explanation can help you understand all the information it contains.",
+          "l": 36.0,
+          "t": 92.64225,
+          "r": 428.7791,
+          "b": 97.82001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Schedule Cover",
+          "l": 36.0,
+          "t": 115.59523,
+          "r": 174.44312,
+          "b": 122.17999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The schedule's cover shows the route number and name, major destinations",
+          "l": 36.0,
+          "t": 139.80222,
+          "r": 434.11356,
+          "b": 144.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "served, the effective date of the schedule and days of service. See an example to",
+          "l": 36.0,
+          "t": 153.36221,
+          "r": 434.4124,
+          "b": 158.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the right. Be sure to check the days of service on the front panel of the schedule",
+          "l": 36.0,
+          "t": 167.0422,
+          "r": 434.13904,
+          "b": 172.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to ensure that the route operates on the day you wish to ride. If you find yourself",
+          "l": 36.0,
+          "t": 180.72226,
+          "r": 434.14215,
+          "b": 185.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with multiple schedules for a single route, please refer to the date at the bottom of",
+          "l": 36.0,
+          "t": 194.40225,
+          "r": 434.16864,
+          "b": 199.58002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the front panel to find the most recent version.",
+          "l": 36.0,
+          "t": 207.84225,
+          "r": 262.91913,
+          "b": 213.02002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Schedule Map",
+          "l": 36.0,
+          "t": 230.91524,
+          "r": 162.80312,
+          "b": 237.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Each printed and digital schedule contains a detailed route map. See an example",
+          "l": 36.0,
+          "t": 255.03226,
+          "r": 434.423,
+          "b": 260.21002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "below. The numbered circles on the map represent major stops (also known as",
+          "l": 36.0,
+          "t": 268.71225,
+          "r": 434.41913,
+          "b": 273.89,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "'time points’), which correspond to numbered locations on the timetable. Most time",
+          "l": 36.0,
+          "t": 282.39224,
+          "r": 434.3617,
+          "b": 287.57,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "points are located at a main intersection or popular destinations and are meant as",
+          "l": 36.0,
+          "t": 295.95224,
+          "r": 434.36166,
+          "b": 301.13,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "reference points to help riders judge what time a bus will be at a particular location.",
+          "l": 36.0,
+          "t": 309.63223,
+          "r": 434.1355,
+          "b": 314.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please note that the bus does stop at other locations besides the time points",
+          "l": 36.0,
+          "t": 323.31223,
+          "r": 434.22894,
+          "b": 328.49,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "represented on the route schedules. Most routes stop at posted stops only, in",
+          "l": 36.0,
+          "t": 336.99225,
+          "r": 434.35196,
+          "b": 342.17,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "which case you can board at any bus stop sign along the route. Some other routes",
+          "l": 36.0,
+          "t": 350.67224,
+          "r": 434.30493,
+          "b": 355.85,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "allow the rider to flag (or wave) down the bus at any intersection where it is safe",
+          "l": 36.0,
+          "t": 364.23224,
+          "r": 434.30124,
+          "b": 369.41,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to do so. Please check this page or the front cover of the schedule document to",
+          "l": 36.0,
+          "t": 377.91223,
+          "r": 434.40714,
+          "b": 383.09,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "see if your route serves posted stops only. The map also includes transfer",
+          "l": 36.0,
+          "t": 391.59222,
+          "r": 434.08038,
+          "b": 396.77,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "locations (where other bus routes intersect with this route) and arrows, indicating",
+          "l": 36.0,
+          "t": 405.27225,
+          "r": 434.38165,
+          "b": 410.45,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the direction of travel where applicable. Additional information can be found on the",
+          "l": 36.0,
+          "t": 418.83224,
+          "r": 434.3286,
+          "b": 424.01,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "schedule's timetable.",
+          "l": 36.0,
+          "t": 432.41223,
+          "r": 141.44913,
+          "b": 437.59,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "The Schedule Timetable",
+          "l": 36.0,
+          "t": 58.815266,
+          "r": 200.12312,
+          "b": 65.400024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The timetable lists major stops (“time points”) and the arrival times at these points. The time points are numbered",
+          "l": 36.0,
+          "t": 83.04221,
+          "r": 579.1429,
+          "b": 88.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and named for the general location and correspond to the numbered locations on the map. See a sample",
+          "l": 36.0,
+          "t": 96.72227,
+          "r": 579.14355,
+          "b": 101.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "timetable below. Notice that the major stop listed as “9” on the timetable—Golf Rd/Elmhurst Rd—corresponds",
+          "l": 36.0,
+          "t": 110.282265,
+          "r": 579.1648,
+          "b": 115.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to that location labeled as “9” on the map above.",
+          "l": 36.0,
+          "t": 123.84226,
+          "r": 274.5591,
+          "b": 129.02002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "To determine the time the bus will arrive at your stop:",
+          "l": 36.0,
+          "t": 557.0923,
+          "r": 297.8391,
+          "b": 562.27,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Find your location on the map,",
+          "l": 54.0,
+          "t": 579.6523,
+          "r": 223.07912,
+          "b": 584.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Find the nearest time point, and then:",
+          "l": 54.0,
+          "t": 593.93225,
+          "r": 257.3991,
+          "b": 599.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o If the closest time point is before your stop, the bus will arrive at your stop shortly after the noted",
+          "l": 90.024,
+          "t": 607.6423,
+          "r": 579.1561,
+          "b": 612.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "time.",
+          "l": 108.02,
+          "t": 621.32227,
+          "r": 134.96912,
+          "b": 626.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o If it is after your stop, the bus will arrive slightly before that time.",
+          "l": 90.024,
+          "t": 634.88226,
+          "r": 420.4991,
+          "b": 640.06,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "For instance, if you want to board Route 208 in the eastbound direction at a bus stop located between Golf",
+          "l": 36.0,
+          "t": 656.6023,
+          "r": 579.1633,
+          "b": 661.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rd/Elmhurst Rd and Cumberland Circle, see the red arrow below. You can expect the bus to arrive some time",
+          "l": 36.0,
+          "t": 670.2823,
+          "r": 579.0162,
+          "b": 675.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "between 7:45am and 7:51am.",
+          "l": 36.0,
+          "t": 683.8423,
+          "r": 184.64912,
+          "b": 689.02,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Bus schedules differ for weekdays, Saturdays, Sundays, and holidays, so do not assume that the bus you ride",
+          "l": 36.0,
+          "t": 411.75223,
+          "r": 578.9429,
+          "b": 416.93,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday through Friday will keep the same schedule on the weekend or holidays. If there is an asterisk (*),",
+          "l": 36.0,
+          "t": 425.43222,
+          "r": 579.10095,
+          "b": 430.61,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "number, letter or symbol next to a time, be certain to look beneath the timetable for additional schedule",
+          "l": 36.0,
+          "t": 439.13223,
+          "r": 578.69336,
+          "b": 444.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "information (the “footnote”). For instance, see the letters F and G noted next to the departure times in the",
+          "l": 36.0,
+          "t": 452.69223,
+          "r": 578.8027,
+          "b": 457.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "“Northwest Transportation Center” column. To see what that footnote refers to, look at the bottom of the schedule",
+          "l": 36.0,
+          "t": 466.37222,
+          "r": 578.88666,
+          "b": 471.55,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "document.",
+          "l": 36.0,
+          "t": 479.93222,
+          "r": 90.453125,
+          "b": 485.11,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "See the example below. In this case, the letter F describes a different routing that the bus takes on certain trips.",
+          "l": 36.0,
+          "t": 501.65222,
+          "r": 578.9361,
+          "b": 506.83,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The description explains that the bus, for these “F trips”, does not stop at Woodfield Mall. That information is",
+          "l": 36.0,
+          "t": 515.3323,
+          "r": 578.8614,
+          "b": 520.51,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "confirmed by the fact that, on the timetable document above, there is no scheduled time provided in the",
+          "l": 36.0,
+          "t": 529.01227,
+          "r": 578.6933,
+          "b": 534.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "“Woodfield Mall” column because the bus does not stop at Woodfield Mall on that trip.",
+          "l": 36.0,
+          "t": 542.57227,
+          "r": 455.53912,
+          "b": 547.75,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Questions?  Call Pace Customer Relations at 847-364-7223, option 3",
+          "l": 88.464,
+          "t": 701.0312,
+          "r": 526.6091,
+          "b": 707.61597,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

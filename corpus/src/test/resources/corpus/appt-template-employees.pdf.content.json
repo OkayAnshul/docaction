@@ -1,0 +1,355 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 2893.0,
+      "heightPt": 4096.0,
+      "runs": [
+        {
+          "text": "I'm not robot",
+          "l": 1351.0,
+          "t": 258.0,
+          "r": 1500.0,
+          "b": 278.0,
+          "conf": 0.66796875,
+          "origin": "Ocr"
+        },
+        {
+          "text": "Continue",
+          "l": 1329.0,
+          "t": 392.0,
+          "r": 1535.0,
+          "b": 430.0,
+          "conf": 0.88134766,
+          "origin": "Ocr"
+        },
+        {
+          "text": "reCAPTCHA",
+          "l": 1631.0,
+          "t": 291.0,
+          "r": 1742.0,
+          "b": 306.0,
+          "conf": 0.74522567,
+          "origin": "Ocr"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 1684.0,
+      "heightPt": 2384.0,
+      "runs": [
+        {
+          "text": "Template\tof\tappointment\tletter\tfor\temployees",
+          "l": 603.40015,
+          "t": 247.81715,
+          "r": 1080.0111,
+          "b": 258.64697,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Example\tof\tappointment\tletter\tfor\temployee.\t\tWhat\tis\tthe\tformat\tof\tappointment\tletter.\t\tHow\tto\twrite\temployee\tappointment\tletter.\t\tChange\tof\tappointment\tletter\ttemplate.",
+          "l": 166.57971,
+          "t": 325.42404,
+          "r": 1516.836,
+          "b": 333.5464,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Appointment\tletters\tare\tprinted\ton\tthe\temployer's\tletterhead\tand\tsigned\tby\tthe\tManagement\tor\tHR\twho\thas\tthe\tauthority\tto\thire\tthe\tcandidate.\tIf\tthe\tcandidate\taccepts\tthe\tpost,\the\tor\tshe\tmust\tsign\ta\tcopy\tof\tthe\tletter\tand\treturn\tit\tto\tthe\temployer\tto\tsignal\temployment\tacceptance,\tat\twhich\tpoint\ta\tcontractual\tduty\tfor\tboth\tparties\tto\tfulfill\tarises\tand",
+          "l": 14.359197,
+          "t": 362.7501,
+          "r": 1662.9514,
+          "b": 368.11548,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "becomes\tobligatory.\tAn\tappointment\tletter\tis\tan\timportant\tdocument\tthat\toutlines\tthe\tterms\tand\tconditions\tof\temployment,\tand\tit\tis\timportant\tfor\tboth\tthe\temployer\tand\temployee\tto\treview\tit\tcarefully\tbefore\tsigning\tto\tavoid\tany\tconfusion\tor\tdisputes\tin\tthe\tfuture.",
+          "l": 14.359197,
+          "t": 373.69687,
+          "r": 1258.0828,
+          "b": 379.06226,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "--------------Blog\tContact\tForm-------------\tThere\tare\tsome\tpoints\tthat\tshould\tbe\tcovered\tin\tan\tideal\tformat\tof\tan\tappointment\tletter.\tName\t&\tAddress\tof\tthe\torganization\t(employer)\talong\twith\tCompany’s\tletterhead.\tAllocation\tDate\tof\tthe\tAppointment\tletter\tCandidate’s\tFull\tname\t&\tAddress\tJob\ttitle/Position\toffered\tJob\tRole\tand\tResponsibilities\tNature\tof",
+          "l": 14.359197,
+          "t": 725.148,
+          "r": 1659.2382,
+          "b": 730.5134,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Job\tPermanent/Temporary/Contractual\tTiming\tof\tOffice\tSalary\t–\tAnnual/Monthly\tPerks\tand\tBenefits\tEmployment\tTerms\tand\tCondition\tBrief\tdetails\tof\tCompany\tpolicies\tReference\tor\tattachment\tof\tEmployee\tHandbook\tor\tHR\tmanual\tTenure\tof\tthe\tContract\t/\tAppointment\t(if\tany)\tDate\tof\tJoining\tAt\tthe\ttime\tof\tjoining\tChecklist\tof\tthe\tdocuments\tneeded",
+          "l": 14.359197,
+          "t": 736.0948,
+          "r": 1660.6018,
+          "b": 741.4602,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to\tsubmit\tSecurity\trequirements\tCommitment\tor\tdeclaration\tProvision\tregarding\ttermination\tDownload\tAppointment\tLetter\tFormat\tin\tWord\t&\tPDF\tYou\tcan\teasily\tdownload\tthe\tAppointment\tLetter\tin\tthe\tdifferent\tformat\tbelow:\tTerms\tand\tCondition\tof\tAppointment\tEvery\tappointment\twith\tbe\tsubject\tto\tthe\tRules\tand\tRegulations\tof\tM/s.\t_______,",
+          "l": 14.359197,
+          "t": 747.0418,
+          "r": 1633.6963,
+          "b": 752.4072,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "enforce\tand\tas\trevised\tfrom\ttime\tto\ttime,\tthe\tcompany\tchange\tor\tintroduce\tthe\tpolicies\tand\tprocedures\tin\trelation\tto\tits\temployees\twill\tbe\tdeemed\tto\tapply\tto\tthe\temployment.\tenglish_dictionary_for_android_2.3_free_download.pdf\tEvery\temployment\twill\tset\tabout\tfrom\tthe\tdate\tof\tjoining\tas\tmentioned\tin\tthe\tappointment\tletter.\tThere\twill\tbe\ta\tthree",
+          "l": 14.359197,
+          "t": 757.9886,
+          "r": 1655.9102,
+          "b": 763.354,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "month\tprobationary\tperiod,\twith\temployment\tconfirmation\tbased\ton\tdecent\tperformance\tduring\tthat\ttime.",
+          "l": 14.359197,
+          "t": 768.93536,
+          "r": 517.62256,
+          "b": 774.3008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "At\tthe\ttime\tof\tprobation\tperiod,\tthe\temployment\tcan\tbe\tterminated\tby\teither\tparty\tby\tgiving\tone\tweek’s\tnotice.\tAfter\tthe\temployment\thas\tbeen\tconfirmed,\tany\tparty\tmay\tbe\tterminating\tit\tby\tgiving\tone\tmonth’s\tbasic\twage\tin\tplace\tof\tnotice\tif\tthe\tcircumstances\twarrant\tit.\tThe\temployee\twill\tbe\tresponsible\tto\ttransfer\tto\tany\tplace\tof\tbusiness\tof\tthe",
+          "l": 14.359197,
+          "t": 779.88214,
+          "r": 1642.5508,
+          "b": 785.24756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "organization\twhether\texisting\tor\tlater\tacquired\ton\tor\tfrom\tone\tdepartment\tto\tanother\tor\tone\tdiscipline\tto\tanother\tin\tthe\tinterest\tof\torganization.\tThe\tstaff\tmember\tmay\tbe\tretired\tat\tthe\tage\tof\t60\tyears,\tif\tfound\tnecessary\tby\tthe\tcompany.\tWhile\tworking\tfor\tthe\tcompany:\tWithout\tthe\tcompany's\tprevious\twritten\tapproval,\tthe\temployee\tmay\tnot\ttake\tup",
+          "l": 14.359197,
+          "t": 790.82916,
+          "r": 1662.6814,
+          "b": 796.1946,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any\tother\tjob\tor\tparticipate\tin\tany\toutside\tactivities.\tThe\temployee\tshall\tcarry\tout\tall\tthe\tduty\tand\tresponsibility\tassigned\tfrom\ttime\tto\ttime\tby\tthe\tmanagement\tor\tother\tauthorized\tfrom\tthe\tcompany\tto\tassign\tany\tsuch\tduty\tand\tresponsibility.\tThe\tstaff\tmember\tshall\tnot,\twithout\tthe\tcompany's\tprior\twritten\tconsent,\tdisclose,\tdivulge,\tor\tmake\tpublic",
+          "l": 14.359197,
+          "t": 801.77594,
+          "r": 1651.1951,
+          "b": 807.14136,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any\tof\tthe\tprocess\taccounts\ttransactions\tand\tdealings\tto\tthe\tcompany,\twhether\tthe\tsame\tis\tcommunicated\tand/or\tbecomes\tknown\tto\tthe\tstaff\tmember\tin\tthe\tcourse\tof\tservices\tor\totherwise,\texcept\tunder\tlegal\tobligations.\tAll\tinformation\tthat\tcomes\tto\tthe\tstaff\tmember's\tknowledge\tas\ta\tresult\tof\ttheir\temployment\twith\tthe\tcompany\tis\tconsidered",
+          "l": 14.359197,
+          "t": 812.7227,
+          "r": 1634.378,
+          "b": 818.08813,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "confidential.\tThe\temployee\twill\tbe\tresponsible\tfor\tthe\tsafekeeping\tand\treturn\tin\tgood\tcondition\tof\tall\tcorporate\tbelongings\tthat\tmay\tbe\tin\tyour\tpossession,\tcustody,\tor\tcharge,\tas\twell\tas\tthe\tproper\thanding\tover\tof\tthe\tcurrent\tassignment\t(s).\tUnless\tyou\tprovide\twritten\tnotification,\tthe\tstaff\tmember\twill\tkeep\tus\taware\tof\tany\tcharges\tin\tthe\tresidential",
+          "l": 14.359197,
+          "t": 823.66974,
+          "r": 1657.7151,
+          "b": 829.03516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "address.\t16220705088.pdf\tThe\taddress\tlisted\tin\tyour\tCV\twill\tbe\tconsidered\tyour\thome\taddress\tunless\tyou\tprovide\twritten\tnotification.\tAll\tpayments\twill\tbe\tmade\tin\tcompliance\twith\tthe\tregulations\tgoverning\tincome\ttaxes.\tHe\tor\tshe\tmust\tfollow\tand\tmaintain\tthe\thighest\tstandards\tof\tpersonal\tbehaviour\tand\tintegrity\tin\taccordance\twith\tall\tcorporate",
+          "l": 14.359197,
+          "t": 834.6165,
+          "r": 1653.4255,
+          "b": 839.98193,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "policies\tand\tprocedures.",
+          "l": 14.359197,
+          "t": 845.5633,
+          "r": 131.87239,
+          "b": 850.9287,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The\tappointment\tagreement\tis\tvalid\tto\thave\tbeen\tcompleted\tin\tthe.\tEven\tif\tthe\tstaff\tperson\tis\tserving\toutside\tof\tDelhi,\tthe\tNational\tCapital\tTerritory\tof\tDelhi\tand\tthe\tstaff\tmember\tare\tsubject\tto\tthe\tadministrative\tjurisdiction\tof\tthe\tCorporate\tand\tHead\tOffice.\tThe\tcause\tof\taction\twould\tbe\tregarded\tto\thave\tarisen\twith\tthe\tJurisdiction\tof\tthe\tNational",
+          "l": 14.359197,
+          "t": 1454.5536,
+          "r": 1654.9243,
+          "b": 1459.919,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Capital\tTerritory\tof\tDelhi\tin\tthe\tevent\tof\ta\tdispute\tor\tdiscrepancy\tover\tthe\tterms\tand\tcircumstances\tof\tthe\tappointment.\tI\tshall\tabide\tby\tthe\tabove-mentioned\tterms\tand\tconditions.\t(Signature\tof\tMr./Miss_)\tDate:\t_____________\tThis\tportion\tof\tthe\tsite\tis\tfor\tinformational\tpurposes\tonly.\tThe\tcontent\tis\tnot\tlegal\tadvice.\to\tinvestidor\tinteligente\tpdf\tdownload",
+          "l": 14.359197,
+          "t": 1465.5004,
+          "r": 1665.8052,
+          "b": 1470.8657,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The\tstatements\tand\topinions\tare\tthe\texpression\tof\tauthor,\tnot\tcorpseed,\tand\thave\tnot\tbeen\tevaluated\tby\tcorpseed\tfor\taccuracy,\tcompleteness,\tor\tchanges\tin\tthe\tlaw.\tLetters\tAlmost\teveryone\twho\thas\tever\tworked\tfor\ta\tcompany\tor\tapplied\tfor\ta\tjob\twill\thave\treceived\tan\tappointment\tletter.\tEmployees\tof\tall\tshapes\tand\tsizes\thave\texperienced\treceiving",
+          "l": 14.359197,
+          "t": 1476.4471,
+          "r": 1660.4668,
+          "b": 1481.8125,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "that\tletter\tfrom\ta\tcompany\tinterested\tin\tspeaking\twith\tthem.\tYou\tcan\tchalk\tthis\tup\tto\tsuccessfully\tusing\teffective\tresume\ttemplates.\tWhatever\tthe\treason\tthough,\tan\temployee\tappointment\tletter\tmeans\tan\topportunity.\ttechnics\trs-bx828\tservice\tmanual\tA\tcompany\tthat\tis\tmass-hiring\twould\tneed\tthe\thelp\tof\tappointment\tletter\ttemplates\tso\tthey\tcan",
+          "l": 14.359197,
+          "t": 1487.3939,
+          "r": 1645.7848,
+          "b": 1492.7593,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "create\tand\tsend\tout\tthe\tnecessary\tletters\tin\tbulk.\tEach\ttype\tof\temployee\tletter\thas\tits\town\tdistinct\tfunction,\tdepending\ton\twhether\tthey\tare\tcontracts\tfor\tpart-time\tor\tregular\tworkers.\tWe\thave\tsamples\tof\tvarious\ttypes\tbelow.",
+          "l": 14.359197,
+          "t": 1498.341,
+          "r": 1072.2385,
+          "b": 1503.7063,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "DetailsFile\tFormatMS\tWordGoogle\tDocsApple\tPagesPDFDownloadDetailsFile\tFormatMS\tWordGoogle\tDocsApple\tPagesPDFDownloadDetailsFile\tFormatMS\tWordGoogle\tDocsApple\tPagesPDFDownloadDetailsFile\tFormatMS\tWordGoogle\tDocsOutlookApple\tPagesPDFDownloadaikenhousing.orgDetailsFile\tFormatSize:\t31",
+          "l": 14.359197,
+          "t": 1873.4144,
+          "r": 1514.052,
+          "b": 1878.7798,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "KBDownloadclackamas.usDetailsFile\tFormatSize:\t103\tKBDownloadEmployee\tAppointment\tSample\tLetter\tis\tsent\tto\tthe\tnewly\temployed\temployees\tof\ta\tcompany.\tIf\tyou\tare\tholding\ta\tposition\tin\tHR\tmanagement,\tyou\tneed\tto\tprepare\tAppointment\tletters\tfor\tthe\tcandidates\twho\thave\temployed\tin\tyour\tcompany.",
+          "l": 14.359197,
+          "t": 1884.3612,
+          "r": 1466.892,
+          "b": 1889.7266,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Take\tnote\tof\tthe\tfollowing\tpoints\tif\tyou\tare\tpreparing\tan\tEmployee\tAppointment\tLetter:Employee\tdetail(s)Commencement\tof\tworkDetail(s)\tabout\temployee’s\tsalaryIf\tan\temployee\tis\tworking\tunder\tsample\tcontract,\tmake\tsure\tyou\twrite\tthe\tcontract\tdetails\tabout\tthe\temploymentLeave\tpolicy\tof\tthe\tcompanyTerms\tof\temployment\tin\tthe\tcompanyWorking",
+          "l": 14.359197,
+          "t": 1895.308,
+          "r": 1665.7512,
+          "b": 1900.6733,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "hours\tof\tthe\tcompanyOther\tmiscellaneous\tdetails\tof\tthe\tcompany\tthat\tyou\tthink\temployees\tmust\tknow\taboutYou\tcan\tcheck\tout\tEmployee\tAppointment\tLetter\tSample\tTemplates\tfor\tmore\tideas\tto\twrite\tan\tEmployee\tAppointment\tFormal\tLetter.Free\tJoining\tAppointment\tLetter\tto\tPart-Time\tEmployeechandakchambers.comDetailsFile\tFormatSize:\t33",
+          "l": 14.359197,
+          "t": 1906.2548,
+          "r": 1646.5664,
+          "b": 1911.6201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "KBDownloadFree\tTemporary\tBusiness\tEmployee\tAppointment\tLettermontclair.eduDetailsFile\tFormatSize:\t22\tKBDownloadFree\tBank\tAccountant\tCasual\tEmployee\tAppointment\tLetterkurrajongwaratah.org.auDetailsFile\tFormatSize:\t12\tKBDownloadWhat\tIs\tan\tEmployee\tAppointment\tLetter?An\temployee\tappointment\tbasic\tletter\taddresses\twhether\tthe",
+          "l": 14.359197,
+          "t": 1917.2015,
+          "r": 1667.2441,
+          "b": 1922.5669,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "new\temployee\tgot\thired,\tif\tan\temployee\tis\tnow\tbecoming\ta\tregular,\tor\ta\tpermanent\temployee,\tand\ta\tbunch\tof\tother\tscenarios.\tOne\tscenario\tis\twhen\tan\temployee\tis\ta\tpart-timer,\tthus\the’ll\tsurely\treceive\ta\ttemporary\tappointment\tletter.",
+          "l": 14.359197,
+          "t": 1928.1483,
+          "r": 1117.0972,
+          "b": 1933.5137,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Human\tresources\twould\tthen\tinvite\thim,\tor\ther,\tfor\tan\tinterview.\tAlso,\tan\temployee\tappointment\tletter\talso:Acts\tlike\tan\tinvitation\tletter\tfor\tan\tinterview,\tnot\tfor\tcontract\tsigning.As\ta\tscreening\ttest,\tas\tthe\tprospect\twould\tundergo\tinterviews\tand\tanswer\tquestions.A\tprintable\tletter\tthat\tshows\tthe\tcompany’s\tinterest\tin\tthe\tapplicant.Benefits\tof\tan",
+          "l": 14.359197,
+          "t": 1939.0951,
+          "r": 1637.4487,
+          "b": 1944.4604,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Employee\tAppointment\tLetterAside\tfrom\tthe\tfeeling\tof\texcitement\tfor\tsomeone\twho\treceives\tthis\tkind\tof\tacademic\tletter,\tthere\tare\ta\tcouple\tmore\tbenefits.\tYou\tmight\tsay\tthat\temail\tis\tbetter\tnowadays\tbecause\tthey’re\tfaster\tand\tmore\tefficient.",
+          "l": 14.359197,
+          "t": 1950.0424,
+          "r": 1155.4111,
+          "b": 1955.4077,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Although\tthis\targument\tdoes\tindeed\thold\tsome\tground,\tthe\tformality\tof\tthe\tappointment\tletter\tis\tsecond\tto\tnone.\tHere\tare\ta\tcouple\tof\textra\tbenefits\tas\twell:The\tprofessional\tletter\tformalizes\tthe\tappointment\tbetween\temployee\tand\temployer.It\tadds\tlegitimacy\tto\tjob\toffers\tthat\tthe\tcompany\twill\tprovide.You\tcan\tuse\tthe\tappointment\tletter\tfor\treference,",
+          "l": 14.359197,
+          "t": 2348.7375,
+          "r": 1668.9044,
+          "b": 2354.103,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the\tsame\tway\tyou’d\tuse\tBusiness\tAppointment\tLetter\ttemplates.Free\tAppointment\tLetter\tfor\tPermanent\tEmployeehksmehr.orgDetailsFile\tFormatSize:\t22\tKBDownloadFree\tEmployee\tAppointment\tConfirmation\tLetterprovost.umd.eduDetailsFile\tFormatSize:\t15\tKBDownloadFree\tPrivate\tCompany\tEmployee\tAppointment\tLetter\tin",
+          "l": 14.359197,
+          "t": 2359.6843,
+          "r": 1558.4802,
+          "b": 2365.0498,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 1684.0,
+      "heightPt": 2384.0,
+      "runs": [
+        {
+          "text": "PDFindiafilings.comDetailsFile\tFormatSize:\t74\tKBDownloadGuidelines\tfor\tWriting\tan\tEmployee\tAppointment\tLetterWriting\tan\temployee\tappointment\tletter\trequires\tmore\tthan\tjust\tyour\tprofessional\tapproach.",
+          "l": 14.359197,
+          "t": 13.027185,
+          "r": 997.14105,
+          "b": 18.392578,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You’d\thave\tto\tkeep\tin\tmind\ta\tbunch\tof\tother\tfactors\tthat\twill\thelp\timprove\tthe\toverall\tquality\tof\tthe\tletter.\tThis\tis\twhere\tthe\tguidelines\tfor\twriting\tone\tcomes\tin.\tEven\tdoctor’s\thave\tground\trules\tto\tfollow\tfor\ttheir\tdoctor\tappointment\tletter\ttemplates.\tHere\tare\tsome\tof\tthe\tguidelines\tas\tfollows:Put\tin\ta\tgeneral\tdescription\tabout\tthe\tjob\tspecifics\tlike",
+          "l": 14.359197,
+          "t": 23.973963,
+          "r": 1645.3325,
+          "b": 29.339355,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "duties\tand\tresponsibilities.Always\tput\tin\tthe\tcompensation\tpackage,\thealth\tbenefits\tand\tpaid\tleaves,\tfor\tnew\temployees\tand\tpromotions.Also\tprovide\tthe\thealthcare\tpackage\tthat\tyour\tcompany,\tor\tbusiness,\toffers\tfor\tits\temployees.Provide\ta\tspace\twhere\tthe\tprospect\tcan\taffix\this,\tor\ther,\tcreative\tsignature\tif\tthe\toffer\tgets\taccepted.Also,\tadd\tin\ta\tlittle",
+          "l": 14.359197,
+          "t": 34.92074,
+          "r": 1658.4128,
+          "b": 40.286133,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "bit\tappreciation\tfor\tthe\temployee’s\ttime.",
+          "l": 14.359197,
+          "t": 45.867516,
+          "r": 207.87914,
+          "b": 51.23291,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Reading\tand\tpondering\tupon\tan\tappointment\tletter\ttakes\tvaluable\ttime.\tYou\tcan\tresearch\tsome\tfree\tstandard\ttemplates\tout\tthere\tuntil\tyou\tfind\tthe\tright\tone\tthat’ll\tmatch\tyour\tneeds.\tRemember\tthat\tthe\tformat\tand\tlanguage\tfor\tyour\tletter\tmust\talways\tbe\tformal.\tfabofalufobisakelotajul.pdf\tYou\tare\tsending\tout\ta\tlayout\tletter,\tnot\ta\tfriendly\tone.\tYou",
+          "l": 14.359197,
+          "t": 767.20685,
+          "r": 1652.4916,
+          "b": 772.57227,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "should\tbe\tcareful\tof\tthe\twords\tyou\tuse.\tMore\tin\tLetters\tavery\tlabel\ttemplate\t8160",
+          "l": 14.359197,
+          "t": 778.1536,
+          "r": 399.25653,
+          "b": 783.51904,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "kind": "NoTextOnPage",
+      "detail": "Page 1 was read from the image"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+ELECTRICITY BILL
+
+Consumer No: 4410023
+Bill date: 01/03/2026
+Due date: 21/03/2026
+Amount payable: INR 2,340.00
+
+Pay before the due date to avoid a late fee.

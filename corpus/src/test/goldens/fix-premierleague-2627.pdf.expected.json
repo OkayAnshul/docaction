@@ -1,0 +1,11 @@
+{
+  "document": "fix-premierleague-2627.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 12
+    }
+  ],
+  "groups": 12
+}

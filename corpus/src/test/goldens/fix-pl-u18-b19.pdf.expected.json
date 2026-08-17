@@ -1,0 +1,11 @@
+{
+  "document": "fix-pl-u18-b19.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 11
+    }
+  ],
+  "groups": 11
+}

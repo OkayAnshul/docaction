@@ -1,0 +1,41 @@
+{
+  "document": "nta-notice.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 2,
+  "candidates": [
+    {
+      "title": "available on https://cuet.nta.nic.in/.",
+      "start": "2025-12-04T00:00",
+      "end": "2025-12-05T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "ImageRegion(page=0)"
+      ]
+    },
+    {
+      "title": "Public Notice",
+      "start": "2025-12-27T00:00",
+      "end": "2025-12-28T00:00",
+      "zone": "Asia/Kolkata",
+      "status": "NeedsAttention",
+      "allDay": true,
+      "assumed": [
+        "all-day-from-date-only"
+      ],
+      "sources": [
+        "Assumed(all-day-from-date-only)",
+        "Derived(nearest-heading)",
+        "ImageRegion(page=0)"
+      ]
+    }
+  ]
+}

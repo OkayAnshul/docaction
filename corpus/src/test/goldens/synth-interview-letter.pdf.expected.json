@@ -1,0 +1,25 @@
+{
+  "document": "synth-interview-letter.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 0,
+  "candidateCount": 1,
+  "candidates": [
+    {
+      "title": "Technical",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T11:00",
+      "zone": "Asia/Kolkata",
+      "location": "Conference Room 3",
+      "status": "NeedsAttention",
+      "allDay": false,
+      "assumed": [
+        "assumed-duration"
+      ],
+      "sources": [
+        "Assumed(assumed-duration)",
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

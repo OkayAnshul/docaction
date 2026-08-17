@@ -1,0 +1,2152 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "AGEC 1103 - Principles of Agricultural",
+          "l": 67.5,
+          "t": 80.33195,
+          "r": 445.28174,
+          "b": 92.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Microeconomics",
+          "l": 197.99933,
+          "t": 105.65275,
+          "r": 357.477,
+          "b": 117.84082,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Meeting Times:",
+          "l": 72.0,
+          "t": 154.57797,
+          "r": 157.72081,
+          "b": 161.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MWF 8:35am - 9:25am",
+          "l": 198.0408,
+          "t": 154.57797,
+          "r": 326.99756,
+          "b": 161.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Meeting Location:",
+          "l": 72.00001,
+          "t": 182.17795,
+          "r": 171.68523,
+          "b": 188.81995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plant Science 9",
+          "l": 198.02524,
+          "t": 182.17795,
+          "r": 275.03406,
+          "b": 188.81995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Instructor:",
+          "l": 72.000015,
+          "t": 209.77792,
+          "r": 134.00401,
+          "b": 216.41992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dr. Nathan P. Kemper",
+          "l": 198.02402,
+          "t": 209.77792,
+          "r": 308.63522,
+          "b": 216.41992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AGRI 217a",
+          "l": 198.00002,
+          "t": 223.57791,
+          "r": 256.7052,
+          "b": 230.21991,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "479-575-2697",
+          "l": 198.00002,
+          "t": 237.3779,
+          "r": 268.97757,
+          "b": 244.0199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "nkemper@uark.edu (preferred method of contact)",
+          "l": 198.00002,
+          "t": 251.17789,
+          "r": 440.2443,
+          "b": 257.8199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Office Hours:",
+          "l": 72.0,
+          "t": 278.77798,
+          "r": 145.32,
+          "b": 285.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The best way to reach me directly is e-mail. If I am in the office I try",
+          "l": 198.00002,
+          "t": 278.77798,
+          "r": 531.1979,
+          "b": 285.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to answer e-mails within 24 - 48 hours. I have an open door policy so",
+          "l": 198.00002,
+          "t": 292.57797,
+          "r": 533.911,
+          "b": 299.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you can stop by if you have questions but appointments are preferred",
+          "l": 198.0,
+          "t": 306.37796,
+          "r": 532.5948,
+          "b": 313.01996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and appreciated. Please use UASuccess to send me an appointment",
+          "l": 198.0,
+          "t": 320.17795,
+          "r": 522.8373,
+          "b": 326.81995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "request. My office hours are:",
+          "l": 198.0,
+          "t": 333.97794,
+          "r": 339.93005,
+          "b": 340.61993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday and Wednesday 1 – 3 pm (or by appointment)",
+          "l": 198.0,
+          "t": 361.5779,
+          "r": 468.30942,
+          "b": 368.2199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Teaching Assistant:",
+          "l": 72.0,
+          "t": 389.1779,
+          "r": 179.02081,
+          "b": 395.8199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Lauren Hodge email: lnhodge@uark.edu )",
+          "l": 198.04082,
+          "t": 389.1779,
+          "r": 408.312,
+          "b": 395.8199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Prerequisites:",
+          "l": 72.0,
+          "t": 416.77798,
+          "r": 152.2896,
+          "b": 423.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Math 1203 or equivalent. Students are expected to be able to perform",
+          "l": 198.0,
+          "t": 416.77798,
+          "r": 533.3784,
+          "b": 423.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "basic arithmetic, algebra, and geometry.",
+          "l": 198.0,
+          "t": 430.57797,
+          "r": 393.24,
+          "b": 437.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Summary:",
+          "l": 72.0,
+          "t": 458.17795,
+          "r": 172.3548,
+          "b": 464.81995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This course will use a fresh approach to Microeconomics using real",
+          "l": 198.03479,
+          "t": 458.17795,
+          "r": 525.6467,
+          "b": 464.81995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "data to tackle real issues, helping you take economics beyond the",
+          "l": 198.0,
+          "t": 471.97794,
+          "r": 513.9336,
+          "b": 478.61993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "classroom. We will use practical content, including Evidence-based",
+          "l": 197.99998,
+          "t": 485.77792,
+          "r": 525.98035,
+          "b": 492.41992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Economics features in each chapter that explore real-world scenarios",
+          "l": 198.0,
+          "t": 499.5779,
+          "r": 530.97363,
+          "b": 506.2199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to give you the knowledge you need to apply economic principles to",
+          "l": 198.00002,
+          "t": 513.37787,
+          "r": 529.3346,
+          "b": 520.0199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "guide the decisions in your own lives. The course will provide you",
+          "l": 198.0,
+          "t": 527.17786,
+          "r": 520.93976,
+          "b": 533.8199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with an understanding of economics - both how to use it in your",
+          "l": 198.0,
+          "t": 540.97784,
+          "r": 508.315,
+          "b": 547.6199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "everyday life and how economists make use of the main principles to",
+          "l": 198.0,
+          "t": 554.7779,
+          "r": 533.3063,
+          "b": 561.4199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "test theory, speak to policymakers, and find facts.",
+          "l": 198.0,
+          "t": 568.5779,
+          "r": 441.85468,
+          "b": 575.2199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Required Technology:   We will be using Blackboard and MyEconLab for this course.",
+          "l": 72.0,
+          "t": 596.17786,
+          "r": 496.25006,
+          "b": 602.8199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Materials for this course including syllabus, homework, class notes,",
+          "l": 197.99998,
+          "t": 609.97784,
+          "r": 526.7091,
+          "b": 616.6199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "test reviews and links to suggested reading materials can be found on",
+          "l": 198.0,
+          "t": 623.7779,
+          "r": 533.2032,
+          "b": 630.4199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Blackboard. You can reach Blackboard at http://learn.uark.edu.",
+          "l": 198.0,
+          "t": 637.5779,
+          "r": 513.83997,
+          "b": 644.2199,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Required Materials:",
+          "l": 72.0,
+          "t": 76.39798,
+          "r": 181.63919,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Microeconomics w/ MyEconLab, Student Value Edition",
+          "l": 198.01799,
+          "t": 76.39798,
+          "r": 475.3383,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(ISBN: 9780133582529)",
+          "l": 197.99997,
+          "t": 90.19797,
+          "r": 320.71204,
+          "b": 96.839966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Our textbook for the course is: Microeconomics by Acemoglu,",
+          "l": 197.99997,
+          "t": 117.79794,
+          "r": 501.92038,
+          "b": 124.43994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Laibson, and List, 1st edition. The Student Value Edition is a",
+          "l": 197.99997,
+          "t": 131.59793,
+          "r": 494.67612,
+          "b": 138.23993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discounted 3-hole punched version of the textbook. I chose this",
+          "l": 197.99998,
+          "t": 145.39792,
+          "r": 505.09003,
+          "b": 152.03992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discount edition to save you money. You must have a MyEconLab",
+          "l": 197.99998,
+          "t": 159.1979,
+          "r": 521.2474,
+          "b": 165.8399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "license in order to have access to all of the homework assignments for",
+          "l": 197.99997,
+          "t": 172.9979,
+          "r": 537.45715,
+          "b": 179.6399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the course. MyEconLab also includes an eText version of the book.",
+          "l": 197.99998,
+          "t": 186.79788,
+          "r": 524.94556,
+          "b": 193.43988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Promises:",
+          "l": 71.999985,
+          "t": 214.39786,
+          "r": 168.32399,
+          "b": 221.03986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You will become familiar with the intuition underlying the",
+          "l": 197.99998,
+          "t": 214.39786,
+          "r": 483.037,
+          "b": 221.03986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "cornerstones of economics: how incentives affect behavior (individual",
+          "l": 197.99997,
+          "t": 228.19785,
+          "r": 538.5493,
+          "b": 234.83984,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "optimization), demand and supply, and equilibrium.  You will be",
+          "l": 197.99997,
+          "t": 241.99783,
+          "r": 513.0381,
+          "b": 248.63983,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "exposed to current microeconomic research to connect this economic",
+          "l": 197.99997,
+          "t": 255.79782,
+          "r": 532.8852,
+          "b": 262.43982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "intuition to real-world evidence. After successful completion of this",
+          "l": 197.99997,
+          "t": 269.5978,
+          "r": 527.9327,
+          "b": 276.2398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "course, you will possess a range of skills enabling you to understand",
+          "l": 197.99997,
+          "t": 283.3978,
+          "r": 529.656,
+          "b": 290.0398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "economic concepts and to use those concepts to analyze specific",
+          "l": 197.99998,
+          "t": 297.19778,
+          "r": 509.79364,
+          "b": 303.83978,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "questions in your life.",
+          "l": 197.99998,
+          "t": 310.99777,
+          "r": 311.48395,
+          "b": 317.63977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "By the end of this course, you will develop the skills required to:",
+          "l": 197.99998,
+          "t": 338.59775,
+          "r": 512.06433,
+          "b": 345.23975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1. Use supply and demand diagrams to analyze the impact of overall",
+          "l": 197.99997,
+          "t": 366.1437,
+          "r": 535.6559,
+          "b": 372.83972,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "changes in supply and demand on price and quantity",
+          "l": 215.99997,
+          "t": 379.9977,
+          "r": 470.9977,
+          "b": 386.6397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2. Analyze the behavior of firms four major market structures in the",
+          "l": 197.99997,
+          "t": 393.74368,
+          "r": 533.0039,
+          "b": 400.4397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "short-run and the long-run",
+          "l": 215.99998,
+          "t": 407.5977,
+          "r": 345.312,
+          "b": 414.2397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3. Calculate producer and consumer surplus and societal welfare",
+          "l": 197.99998,
+          "t": 421.34366,
+          "r": 516.5818,
+          "b": 428.03967,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4. Calculate elasticity of demand and use the concept to predict the",
+          "l": 197.99998,
+          "t": 435.08365,
+          "r": 528.216,
+          "b": 441.77966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "response of consumers to changes in price",
+          "l": 215.99998,
+          "t": 448.93765,
+          "r": 421.5506,
+          "b": 455.57965,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5. Use economic tools to analyze economic policies",
+          "l": 197.99998,
+          "t": 462.68362,
+          "r": 455.7261,
+          "b": 469.37964,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grading:",
+          "l": 71.999985,
+          "t": 490.33762,
+          "r": 125.33999,
+          "b": 496.9796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "According to the UA instructions for reporting final grades, they generally",
+          "l": 179.99998,
+          "t": 490.33762,
+          "r": 540.6646,
+          "b": 496.9796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will reflect the following:",
+          "l": 180.0,
+          "t": 504.1376,
+          "r": 305.98688,
+          "b": 510.7796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A – Outstanding achievement (90%+)",
+          "l": 198.0,
+          "t": 531.73755,
+          "r": 383.75766,
+          "b": 538.3796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "B – Good achievement (80%+)",
+          "l": 198.0,
+          "t": 545.53754,
+          "r": 351.0433,
+          "b": 552.17957,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "C – Average achievement (70%+)",
+          "l": 198.0,
+          "t": 559.3376,
+          "r": 365.03055,
+          "b": 565.9796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "D – Poor, but passing work (60%+)",
+          "l": 198.0,
+          "t": 573.1376,
+          "r": 372.05176,
+          "b": 579.7796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "F – Failure, given for unsatisfactory work (any grade below 60%)",
+          "l": 198.0,
+          "t": 586.93756,
+          "r": 516.571,
+          "b": 593.5796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Grade breakdown:",
+          "l": 72.0,
+          "t": 614.53754,
+          "r": 175.62839,
+          "b": 621.17957,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Getting Started Problem Set          5",
+          "l": 197.94838,
+          "t": 614.53754,
+          "r": 381.04193,
+          "b": 621.17957,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "points",
+          "l": 396.04193,
+          "t": 614.53754,
+          "r": 428.40353,
+          "b": 621.17957,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Weekly Problem Sets",
+          "l": 198.0,
+          "t": 628.3376,
+          "r": 307.93683,
+          "b": 634.9796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "195",
+          "l": 359.95682,
+          "t": 628.3376,
+          "r": 380.96405,
+          "b": 634.9796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "points",
+          "l": 395.96405,
+          "t": 628.3376,
+          "r": 434.97852,
+          "b": 634.9796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quizzes",
+          "l": 198.0,
+          "t": 642.1376,
+          "r": 254.95201,
+          "b": 648.7796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "100",
+          "l": 359.95203,
+          "t": 642.1376,
+          "r": 380.95203,
+          "b": 648.7796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "points",
+          "l": 395.95203,
+          "t": 642.1376,
+          "r": 428.29202,
+          "b": 648.7796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm Exam",
+          "l": 198.00119,
+          "t": 655.93756,
+          "r": 273.91678,
+          "b": 662.5796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "150",
+          "l": 359.96036,
+          "t": 655.93756,
+          "r": 383.96512,
+          "b": 662.5796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "points",
+          "l": 395.9663,
+          "t": 655.93756,
+          "r": 434.97464,
+          "b": 662.5796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam (Comprehensive)",
+          "l": 198.0,
+          "t": 669.7376,
+          "r": 342.99365,
+          "b": 676.37964,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "150  points",
+          "l": 359.97363,
+          "t": 669.7376,
+          "r": 428.39764,
+          "b": 676.37964,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total",
+          "l": 198.0,
+          "t": 683.6576,
+          "r": 228.35999,
+          "b": 690.2996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "600",
+          "l": 360.0,
+          "t": 683.6576,
+          "r": 380.99277,
+          "b": 690.2996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "points",
+          "l": 395.99277,
+          "t": 683.6576,
+          "r": 430.3223,
+          "b": 690.2996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AGEC 1103 - 2",
+          "l": 271.86,
+          "t": 735.94257,
+          "r": 342.885,
+          "b": 742.02,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Assignments:",
+          "l": 72.0,
+          "t": 76.39798,
+          "r": 149.64,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "One (1) getting started problem set and thirteen (13) chapter problem",
+          "l": 198.0,
+          "t": 76.39798,
+          "r": 532.84827,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "sets will be assigned during the semester and must be completed using",
+          "l": 198.00002,
+          "t": 90.19797,
+          "r": 539.3136,
+          "b": 96.839966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pearson MyEconLab available through our class site on Blackboard.",
+          "l": 198.00003,
+          "t": 103.997955,
+          "r": 529.92004,
+          "b": 110.63995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "All homework due dates and times are posted in the course schedule,",
+          "l": 198.00006,
+          "t": 117.79794,
+          "r": 532.22534,
+          "b": 124.43994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "on Blackboard and on MyEconLab. Homework must be submitted on",
+          "l": 198.00006,
+          "t": 131.59793,
+          "r": 535.6153,
+          "b": 138.23993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "time. Late work will not be accepted.",
+          "l": 198.00006,
+          "t": 145.39792,
+          "r": 394.32007,
+          "b": 152.03992,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quizzes:",
+          "l": 72.00006,
+          "t": 172.9979,
+          "r": 121.98006,
+          "b": 179.6399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Seven (7) quizzes will be given throughout the semester and will be",
+          "l": 198.00006,
+          "t": 172.9979,
+          "r": 526.6762,
+          "b": 179.6399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "unannounced. Quizzes are only available to students in attendance",
+          "l": 198.00006,
+          "t": 186.79788,
+          "r": 535.312,
+          "b": 193.43988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "on the day of the quiz. Students will be allowed to drop their two (2)",
+          "l": 198.00006,
+          "t": 200.59787,
+          "r": 535.9861,
+          "b": 207.23987,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "lowest quiz grades for an effective total of five (5) quiz scores. Quiz",
+          "l": 198.00006,
+          "t": 214.39786,
+          "r": 528.5987,
+          "b": 221.03986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "questions will be based on text, class material, and assigned readings.",
+          "l": 198.00006,
+          "t": 228.19785,
+          "r": 537.5871,
+          "b": 234.83984,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exams:",
+          "l": 72.00006,
+          "t": 255.79782,
+          "r": 116.58246,
+          "b": 262.43982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please bring a #2 pencil, a blue scantron form No. 4521, and a",
+          "l": 198.00006,
+          "t": 255.79782,
+          "r": 499.991,
+          "b": 262.43982,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "calculator to all exams. There will be one (1) midterm exam worth 150",
+          "l": 198.00008,
+          "t": 269.5978,
+          "r": 541.3117,
+          "b": 276.2398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "points and one (1) final comprehensive exam worth 150 points.",
+          "l": 198.00008,
+          "t": 283.3978,
+          "r": 504.97455,
+          "b": 290.0398,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Students cannot drop any of the exams. Make up exams will not be",
+          "l": 198.00009,
+          "t": 297.19778,
+          "r": 523.24225,
+          "b": 303.83978,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "permitted without prior arrangement due to an excused absence.",
+          "l": 198.00009,
+          "t": 310.99777,
+          "r": 514.6201,
+          "b": 317.63977,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Class Attendance:",
+          "l": 72.00009,
+          "t": 338.59778,
+          "r": 168.00009,
+          "b": 345.23978,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Attendance is mandatory.  Education at the university level requires",
+          "l": 198.00009,
+          "t": 338.59778,
+          "r": 527.0064,
+          "b": 345.23978,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "students’ active involvement in the learning process. Therefore,",
+          "l": 198.00009,
+          "t": 352.39777,
+          "r": 506.53815,
+          "b": 359.03976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "students have the responsibility to regularly attend classes and to",
+          "l": 198.0001,
+          "t": 366.19775,
+          "r": 530.7001,
+          "b": 372.83975,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "actively engage in all learning assignments or opportunities provided",
+          "l": 198.00009,
+          "t": 379.99774,
+          "r": 532.3007,
+          "b": 386.63974,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in this class. There may be times, however, when illness, family crises,",
+          "l": 198.0001,
+          "t": 393.79773,
+          "r": 541.61395,
+          "b": 400.43973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or university sponsored activities force a student to be absent from",
+          "l": 198.0001,
+          "t": 407.59772,
+          "r": 520.17365,
+          "b": 414.23972,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "class. In these situations, the student is responsible for making timely",
+          "l": 198.00009,
+          "t": 421.3977,
+          "r": 533.7144,
+          "b": 428.0397,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "arrangements with the instructor. Such arrangements should be made",
+          "l": 198.00009,
+          "t": 435.1377,
+          "r": 532.53595,
+          "b": 441.7797,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in writing and prior to the absence, when possible.",
+          "l": 198.00008,
+          "t": 448.93768,
+          "r": 442.9417,
+          "b": 455.57968,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Devices Policy:",
+          "l": 72.00006,
+          "t": 476.53766,
+          "r": 151.96324,
+          "b": 483.17966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please turn off or silence phones, handhelds, tablets, laptops, etc.,",
+          "l": 198.00006,
+          "t": 476.53766,
+          "r": 515.9692,
+          "b": 483.17966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "during class. Let us do our best to not let the notifications on our",
+          "l": 198.00006,
+          "t": 490.33765,
+          "r": 510.9649,
+          "b": 496.97964,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "devices become a distraction for us in class.",
+          "l": 198.00008,
+          "t": 504.13763,
+          "r": 411.51846,
+          "b": 510.77963,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Disabilities:",
+          "l": 72.00008,
+          "t": 531.7376,
+          "r": 135.03368,
+          "b": 538.37964,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If you need to request reasonable accommodations for this class due to",
+          "l": 198.03368,
+          "t": 531.7376,
+          "r": 540.61926,
+          "b": 538.37964,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a disability, you must first register with the Center for Educational",
+          "l": 198.00006,
+          "t": 545.5376,
+          "r": 520.1053,
+          "b": 552.1796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Access (CAE) and see me during my office hours to discuss options.",
+          "l": 198.00006,
+          "t": 559.3376,
+          "r": 536.86224,
+          "b": 565.9796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Dishonesty:  \"Each University of Arkansas student is required to be familiar with",
+          "l": 72.00006,
+          "t": 586.9376,
+          "r": 527.77576,
+          "b": 593.57965,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and abide by the University’s ‘Academic Integrity Policy’ which may",
+          "l": 198.00006,
+          "t": 600.7376,
+          "r": 535.8685,
+          "b": 607.37964,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be found at http://provost.uark.edu/ Students with questions about how",
+          "l": 198.00006,
+          "t": 614.5376,
+          "r": 540.8798,
+          "b": 621.1796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "these policies apply to a particular course or assignment should",
+          "l": 198.0,
+          "t": 628.3379,
+          "r": 504.53983,
+          "b": 634.9799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "immediately contact their instructor.\"",
+          "l": 197.99998,
+          "t": 642.1379,
+          "r": 380.623,
+          "b": 648.7799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AGEC 1103 - 3",
+          "l": 271.86,
+          "t": 735.94257,
+          "r": 342.885,
+          "b": 742.02,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Inclement Weather:",
+          "l": 72.0,
+          "t": 76.39798,
+          "r": 180.9888,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If the University is open, we will have class.  As the instructor, I",
+          "l": 198.0,
+          "t": 76.39798,
+          "r": 510.2937,
+          "b": 83.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "reserve the right to cancel class due to inclement weather.  Students",
+          "l": 198.0,
+          "t": 90.19797,
+          "r": 525.6867,
+          "b": 96.839966,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will be notified by email and Blackboard if this is the case.  Please use",
+          "l": 198.00002,
+          "t": 103.997955,
+          "r": 539.40485,
+          "b": 110.63995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your best judgment before getting on the road. See UA Inclement",
+          "l": 198.00002,
+          "t": 117.79794,
+          "r": 515.1687,
+          "b": 124.43994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Weather Policy at http://emergency.uark.edu/inclement-weather/index.php.",
+          "l": 198.00003,
+          "t": 131.59793,
+          "r": 539.56506,
+          "b": 138.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam Schedule:  Our final exam will be Wednesday, May 10, 2017 at 8:00 am - 10:00",
+          "l": 72.0,
+          "t": 159.19797,
+          "r": 541.3128,
+          "b": 165.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "am according to the University Final Exam schedule.  The Final Exam",
+          "l": 198.0,
+          "t": 172.99796,
+          "r": 540.9184,
+          "b": 179.63995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Policy can be viewed at: http://provost.uark.edu/150020.pdf",
+          "l": 198.0,
+          "t": 186.79794,
+          "r": 491.93997,
+          "b": 193.43994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Fall 2017 final exam schedule can be found here:",
+          "l": 198.0,
+          "t": 200.59799,
+          "r": 459.31326,
+          "b": 207.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "https://registrar.uark.edu/registration/final-exam-schedule/spring-",
+          "l": 198.0,
+          "t": 214.39798,
+          "r": 512.5965,
+          "b": 221.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2017-final-exam-schedule.php",
+          "l": 198.0,
+          "t": 228.19803,
+          "r": 347.94,
+          "b": 234.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Emergency Procedures: Many types of emergencies can occur on campus; instructions for",
+          "l": 72.0,
+          "t": 255.798,
+          "r": 516.61566,
+          "b": 262.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "specific emergencies such as severe weather, active shooter, or fire can",
+          "l": 197.99998,
+          "t": 269.598,
+          "r": 542.26825,
+          "b": 276.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be found at http://emergency.uark.edu",
+          "l": 197.99997,
+          "t": 283.39798,
+          "r": 392.99997,
+          "b": 290.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Severe Weather (Tornado Warning):",
+          "l": 72.0,
+          "t": 311.118,
+          "r": 268.28403,
+          "b": 317.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": " Follow the directions of the instructor or emergency personnel",
+          "l": 90.0,
+          "t": 338.54398,
+          "r": 413.92178,
+          "b": 345.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": " Seek shelter in the basement or interior room or hallway on the lowest floor, putting as",
+          "l": 90.0,
+          "t": 352.34396,
+          "r": 527.628,
+          "b": 359.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "many walls as possible between you and the outside",
+          "l": 108.0,
+          "t": 366.19797,
+          "r": 363.88663,
+          "b": 372.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": " If you are in a multi-story building, and you cannot get to the lowest floor, pick a hallway",
+          "l": 90.0,
+          "t": 379.94394,
+          "r": 541.31903,
+          "b": 386.63995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in the center of the building",
+          "l": 108.0,
+          "t": 393.79794,
+          "r": 247.01282,
+          "b": 400.43994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": " Stay in the center of the room, away from exterior walls, windows, and doors",
+          "l": 90.0,
+          "t": 407.5439,
+          "r": 485.25085,
+          "b": 414.23993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Violence / Active Shooter (CADD):",
+          "l": 72.0,
+          "t": 435.2579,
+          "r": 256.734,
+          "b": 441.8999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": " CALL- 9-1-1",
+          "l": 90.0,
+          "t": 462.68387,
+          "r": 178.32,
+          "b": 469.37988,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": " AVOID- If possible, self-evacuate to a safe area outside the building. Follow directions",
+          "l": 90.0,
+          "t": 476.48386,
+          "r": 530.9038,
+          "b": 483.17987,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of police officers.",
+          "l": 108.00003,
+          "t": 490.33786,
+          "r": 198.93484,
+          "b": 496.97986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": " DENY- Barricade the door with desk, chairs, bookcases or any items. Move to a place",
+          "l": 90.00003,
+          "t": 504.08383,
+          "r": 525.27136,
+          "b": 510.77985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "inside the room where you are not visible. Turn off the lights and remain quiet. Remain",
+          "l": 108.00003,
+          "t": 517.9378,
+          "r": 530.5235,
+          "b": 524.57983,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "there until told by police it’s safe.",
+          "l": 108.00003,
+          "t": 531.7378,
+          "r": 275.6845,
+          "b": 538.3798,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": " DEFEND- Use chairs, desks, cell phones or whatever is immediately available to distract",
+          "l": 90.00003,
+          "t": 545.4838,
+          "r": 539.6581,
+          "b": 552.1798,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and/or defend yourself and others from attack.",
+          "l": 108.0,
+          "t": 559.3378,
+          "r": 333.2063,
+          "b": 565.97986,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Schedule:",
+          "l": 72.0,
+          "t": 586.9378,
+          "r": 167.586,
+          "b": 593.57983,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The schedule for class is attached on the following pages and available",
+          "l": 198.0,
+          "t": 586.9378,
+          "r": 541.31274,
+          "b": 593.57983,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "on Blackboard.  The schedule is subject to change during the semester.",
+          "l": 197.99998,
+          "t": 600.73785,
+          "r": 541.13983,
+          "b": 607.3799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The schedule should be referred to each time you logon to Blackboard.",
+          "l": 197.99998,
+          "t": 614.53784,
+          "r": 544.60547,
+          "b": 621.1799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AGEC 1103 - 4",
+          "l": 271.86,
+          "t": 735.94257,
+          "r": 342.885,
+          "b": 742.02,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "COURSE SCHEDULE",
+          "l": 246.48,
+          "t": 40.517975,
+          "r": 368.47925,
+          "b": 47.159973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Topic",
+          "l": 85.5,
+          "t": 66.929985,
+          "r": 146.48071,
+          "b": 72.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Due Date",
+          "l": 428.09903,
+          "t": 66.929985,
+          "r": 473.17963,
+          "b": 72.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Points",
+          "l": 493.6782,
+          "t": 66.929985,
+          "r": 524.7198,
+          "b": 72.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 1 – January 16, 2017",
+          "l": 85.5,
+          "t": 80.970024,
+          "r": 209.53996,
+          "b": 86.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0. Get Started with MyEconLab",
+          "l": 85.5,
+          "t": 94.41003,
+          "r": 229.09973,
+          "b": 99.900024,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1. The Principles and Practice of Economics",
+          "l": 85.5,
+          "t": 107.84954,
+          "r": 280.3412,
+          "b": 113.33954,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #0",
+          "l": 85.49997,
+          "t": 121.289055,
+          "r": 156.0816,
+          "b": 126.77905,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/22/2017",
+          "l": 428.52066,
+          "t": 121.289055,
+          "r": 484.1025,
+          "b": 126.77905,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5",
+          "l": 517.9209,
+          "t": 121.289055,
+          "r": 523.48773,
+          "b": 126.77905,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #1",
+          "l": 85.50107,
+          "t": 134.72856,
+          "r": 156.0827,
+          "b": 140.21857,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/22/2017",
+          "l": 428.52176,
+          "t": 134.72856,
+          "r": 484.1036,
+          "b": 140.21857,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.342,
+          "t": 134.72856,
+          "r": 523.491,
+          "b": 140.21857,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 2 – January 23, 2017",
+          "l": 85.5022,
+          "t": 148.64903,
+          "r": 221.96164,
+          "b": 154.13904,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2. Economic Methods and Economic Questions",
+          "l": 85.5,
+          "t": 162.09001,
+          "r": 297.5589,
+          "b": 167.58002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #2",
+          "l": 85.4978,
+          "t": 175.47026,
+          "r": 230.63583,
+          "b": 180.96027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "01/29/2017",
+          "l": 428.5185,
+          "t": 175.47026,
+          "r": 484.10034,
+          "b": 180.96027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.3387,
+          "t": 175.47026,
+          "r": 523.48773,
+          "b": 180.96027,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 3 – January 30, 2017",
+          "l": 85.4989,
+          "t": 189.39073,
+          "r": 224.47935,
+          "b": 194.88074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3. Optimization: Choosing the Best Economic Outcome",
+          "l": 85.5,
+          "t": 202.82988,
+          "r": 332.4204,
+          "b": 208.31989,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #3",
+          "l": 85.49887,
+          "t": 216.2694,
+          "r": 156.0805,
+          "b": 221.7594,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/05/2017",
+          "l": 428.51956,
+          "t": 216.2694,
+          "r": 484.1014,
+          "b": 221.7594,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.3398,
+          "t": 216.2694,
+          "r": 523.48883,
+          "b": 221.7594,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 4 – February 6, 2017",
+          "l": 85.5,
+          "t": 230.18987,
+          "r": 241.68939,
+          "b": 235.67987,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "No class Monday February 6 (Southern Ag Econ Meetings ‐ Mobile, Alabama)",
+          "l": 85.5,
+          "t": 243.62999,
+          "r": 430.9395,
+          "b": 249.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4. Demand, Supply, and Equilibrium",
+          "l": 85.49774,
+          "t": 257.06952,
+          "r": 247.57901,
+          "b": 262.5595,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #4",
+          "l": 85.49776,
+          "t": 270.50903,
+          "r": 156.07939,
+          "b": 275.99902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/12/2017",
+          "l": 428.51843,
+          "t": 270.50903,
+          "r": 484.10028,
+          "b": 275.99902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.3386,
+          "t": 270.50903,
+          "r": 523.4877,
+          "b": 275.99902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 5 – February 13, 2017",
+          "l": 85.49884,
+          "t": 284.42947,
+          "r": 214.93877,
+          "b": 289.91946,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5. Consumers and Incentives",
+          "l": 85.5,
+          "t": 297.87,
+          "r": 215.96104,
+          "b": 303.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #5",
+          "l": 85.49997,
+          "t": 311.2502,
+          "r": 156.0816,
+          "b": 316.7402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/19/2017",
+          "l": 428.52066,
+          "t": 311.2502,
+          "r": 484.1025,
+          "b": 316.7402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.3409,
+          "t": 311.2502,
+          "r": 523.4899,
+          "b": 316.7402,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 6 – February 20, 2017",
+          "l": 85.5011,
+          "t": 325.17065,
+          "r": 214.94102,
+          "b": 330.66064,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6. Sellers and Incentives",
+          "l": 85.5,
+          "t": 338.61002,
+          "r": 195.20006,
+          "b": 344.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #6",
+          "l": 85.498886,
+          "t": 352.04953,
+          "r": 156.08052,
+          "b": 357.53952,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "02/26/2017",
+          "l": 428.5196,
+          "t": 352.04953,
+          "r": 484.10144,
+          "b": 357.53952,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.3398,
+          "t": 352.04953,
+          "r": 523.48883,
+          "b": 357.53952,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 7 – February 26, 2017",
+          "l": 85.5,
+          "t": 365.96997,
+          "r": 244.75063,
+          "b": 371.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7. Perfect Competition and the Invisible Hand",
+          "l": 85.5,
+          "t": 379.41,
+          "r": 291.2004,
+          "b": 384.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #7",
+          "l": 85.4989,
+          "t": 392.84952,
+          "r": 156.08054,
+          "b": 398.3395,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03/05/2017",
+          "l": 428.5196,
+          "t": 392.84952,
+          "r": 484.10144,
+          "b": 398.3395,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.3398,
+          "t": 392.84952,
+          "r": 523.48883,
+          "b": 398.3395,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 8 – March 6, 2017",
+          "l": 85.5,
+          "t": 406.76996,
+          "r": 197.96045,
+          "b": 412.25995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8. Trade",
+          "l": 85.5,
+          "t": 420.21002,
+          "r": 124.52183,
+          "b": 425.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #8",
+          "l": 85.5,
+          "t": 433.59024,
+          "r": 156.08163,
+          "b": 439.08023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03/12/2017",
+          "l": 428.5207,
+          "t": 433.59024,
+          "r": 484.10254,
+          "b": 439.08023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.3409,
+          "t": 433.59024,
+          "r": 523.4899,
+          "b": 439.08023,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 9 – March 13, 2017",
+          "l": 85.5011,
+          "t": 447.56998,
+          "r": 228.43214,
+          "b": 453.05997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In‐class Exam Review (Monday)",
+          "l": 85.5,
+          "t": 460.95,
+          "r": 228.5606,
+          "b": 466.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm Exam (Chapters 1 – 8)",
+          "l": 85.5,
+          "t": 474.39,
+          "r": 229.82002,
+          "b": 479.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday March 15, 2017",
+          "l": 85.5,
+          "t": 487.8299,
+          "r": 217.27975,
+          "b": 493.3199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "03/15/2017",
+          "l": 427.56,
+          "t": 487.8299,
+          "r": 484.1015,
+          "b": 493.3199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "150",
+          "l": 506.7599,
+          "t": 487.8299,
+          "r": 523.49115,
+          "b": 493.3199,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 10 – March 20, 2017",
+          "l": 85.50012,
+          "t": 501.75034,
+          "r": 209.06024,
+          "b": 507.24033,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring Break",
+          "l": 85.5,
+          "t": 515.18994,
+          "r": 145.64185,
+          "b": 520.67993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 11 – March 27, 2017",
+          "l": 85.5,
+          "t": 529.11035,
+          "r": 209.06012,
+          "b": 534.60034,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9. Externalities and Public Goods",
+          "l": 85.5,
+          "t": 542.5499,
+          "r": 233.90128,
+          "b": 548.0399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #9",
+          "l": 85.5,
+          "t": 555.98944,
+          "r": 156.08163,
+          "b": 561.47943,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/02/2017",
+          "l": 428.5207,
+          "t": 555.98944,
+          "r": 484.10254,
+          "b": 561.47943,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.3409,
+          "t": 555.98944,
+          "r": 523.4899,
+          "b": 561.47943,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 12 – April 3, 2017",
+          "l": 85.5011,
+          "t": 569.90985,
+          "r": 215.83368,
+          "b": 575.39984,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Online Lectures (International Choice Modeling Conference ‐ Cape Town, South Africa)",
+          "l": 85.5,
+          "t": 583.35,
+          "r": 470.24026,
+          "b": 588.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10. The Government in the Economy: Taxation and Regulation",
+          "l": 85.49887,
+          "t": 596.7302,
+          "r": 365.5383,
+          "b": 602.2202,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #10",
+          "l": 85.496735,
+          "t": 610.16974,
+          "r": 161.6584,
+          "b": 615.6597,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/09/2017",
+          "l": 428.57672,
+          "t": 610.16974,
+          "r": 484.15857,
+          "b": 615.6597,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 515.3374,
+          "t": 610.16974,
+          "r": 526.48645,
+          "b": 615.6597,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AGEC 1103 - 5",
+          "l": 271.86,
+          "t": 735.94257,
+          "r": 342.885,
+          "b": 742.02,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "COURSE SCHEDULE continued…",
+          "l": 213.6,
+          "t": 40.517975,
+          "r": 401.281,
+          "b": 47.159973,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 13 – April 10, 2017",
+          "l": 87.96,
+          "t": 78.51,
+          "r": 243.78596,
+          "b": 84.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11. Markets for the Factors of Production",
+          "l": 87.96,
+          "t": 92.36999,
+          "r": 275.24036,
+          "b": 97.859985,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #11",
+          "l": 87.95889,
+          "t": 106.29046,
+          "r": 164.12056,
+          "b": 111.78046,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/16/2017",
+          "l": 416.03906,
+          "t": 106.29046,
+          "r": 471.6209,
+          "b": 111.78046,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.87933,
+          "t": 106.29046,
+          "r": 524.0284,
+          "b": 111.78046,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 14 – April 17, 2017",
+          "l": 87.95993,
+          "t": 120.69073,
+          "r": 241.26707,
+          "b": 126.180725,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12. Monopoly",
+          "l": 87.96,
+          "t": 134.60997,
+          "r": 152.72113,
+          "b": 140.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #12",
+          "l": 87.96,
+          "t": 148.47002,
+          "r": 164.12167,
+          "b": 153.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/23/2017",
+          "l": 416.0402,
+          "t": 148.47002,
+          "r": 471.62204,
+          "b": 153.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.8805,
+          "t": 148.47002,
+          "r": 524.02954,
+          "b": 153.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 15 – April 24, 2017",
+          "l": 87.96109,
+          "t": 163.4105,
+          "r": 221.4142,
+          "b": 168.90051,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14. Monopolistic Competition and Oligopoly",
+          "l": 87.96,
+          "t": 178.29002,
+          "r": 287.7806,
+          "b": 183.78003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Problem Set #13",
+          "l": 87.96002,
+          "t": 193.17009,
+          "r": 164.12169,
+          "b": 198.6601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "04/30/2017",
+          "l": 416.04022,
+          "t": 193.17009,
+          "r": 471.62207,
+          "b": 198.6601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15",
+          "l": 512.8805,
+          "t": 193.17009,
+          "r": 524.02954,
+          "b": 198.6601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 16 – May 1, 2017",
+          "l": 87.96109,
+          "t": 208.59038,
+          "r": 196.7608,
+          "b": 214.08038,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam Review ‐ Comprehensive Review",
+          "l": 87.96,
+          "t": 223.47002,
+          "r": 285.981,
+          "b": 228.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exams Week – May 8, 2017",
+          "l": 87.95999,
+          "t": 238.8903,
+          "r": 239.05797,
+          "b": 244.38031,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam – (Comprehensive ALL Chapters from Class)",
+          "l": 87.96,
+          "t": 253.76988,
+          "r": 338.6598,
+          "b": 259.2599,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "05/10/2017",
+          "l": 415.02,
+          "t": 253.76988,
+          "r": 471.6219,
+          "b": 259.2599,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "150",
+          "l": 507.2999,
+          "t": 253.76988,
+          "r": 524.0312,
+          "b": 259.2599,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday, May 10, 2017 @ 8:00 am – 10:00 am",
+          "l": 87.96,
+          "t": 268.71002,
+          "r": 318.2545,
+          "b": 274.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "NOTE: The instructor may alter the content of this schedule as deemed necessary or appropriate.",
+          "l": 69.84,
+          "t": 300.13293,
+          "r": 549.105,
+          "b": 309.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "AGEC 1103 - 6",
+          "l": 271.86,
+          "t": 735.94257,
+          "r": 342.885,
+          "b": 742.02,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

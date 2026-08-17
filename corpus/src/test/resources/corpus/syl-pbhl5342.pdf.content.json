@@ -1,0 +1,2073 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "PBHL 5342",
+          "l": 72.0,
+          "t": 75.56064,
+          "r": 122.90328,
+          "b": 82.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Introduction to Epidemiology",
+          "l": 216.01367,
+          "t": 75.56064,
+          "r": 352.41818,
+          "b": 82.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Credit Hours: 3",
+          "l": 432.03418,
+          "t": 75.56064,
+          "r": 502.80026,
+          "b": 82.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Semester:  Spring 2025",
+          "l": 72.105,
+          "t": 99.53763,
+          "r": 178.08748,
+          "b": 106.47699,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Instructor:  Christian R. Alvarado",
+          "l": 72.105,
+          "t": 112.92264,
+          "r": 222.65593,
+          "b": 119.862,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Office: H246",
+          "l": 107.9924,
+          "t": 126.384735,
+          "r": 166.81117,
+          "b": 133.32416,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Email: Christian.Alvarado@uthct.edu and calvarado@uttyler.edu",
+          "l": 108.00342,
+          "t": 139.82065,
+          "r": 403.701,
+          "b": 146.76367,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Office Hours: Tuesday 11-12pm, Thursday 10-12pm, or by appointment (please email)",
+          "l": 108.0034,
+          "t": 153.26065,
+          "r": 495.50955,
+          "b": 160.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Format: Fully online – Biweekly Optional Meetings",
+          "l": 72.011,
+          "t": 180.08475,
+          "r": 303.62308,
+          "b": 187.02417,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "- We will meet bi-weekly on Wednesdays from 6-9pm starting on August 28th (meeting will",
+          "l": 130.5,
+          "t": 192.00336,
+          "r": 533.4476,
+          "b": 200.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "not typically last the entire 3 hours). In these bi-weekly meetings we will go over some of",
+          "l": 135.00537,
+          "t": 206.96017,
+          "r": 532.3531,
+          "b": 213.89954,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the more difficult concepts from the module content and required readings. I will be",
+          "l": 135.01637,
+          "t": 220.39969,
+          "r": 511.76013,
+          "b": 227.33905,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "available to answer any specific questions on the material. These meetings will be",
+          "l": 135.01637,
+          "t": 233.8392,
+          "r": 499.95248,
+          "b": 240.77863,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "optional, and the recording will be posted on CANVAS afterwards. There will be a total of",
+          "l": 135.0164,
+          "t": 247.22385,
+          "r": 532.373,
+          "b": 254.16321,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8 Meetings, including Midterm and Final Exam Review sessions. (Optional Meeting Dates",
+          "l": 135.01639,
+          "t": 260.66336,
+          "r": 531.46124,
+          "b": 267.60272,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "are Highlights in Blue on the Course Schedule below)",
+          "l": 135.0164,
+          "t": 274.10284,
+          "r": 371.19614,
+          "b": 281.04224,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Overview: This core course in epidemiology is intended to introduce students to the",
+          "l": 72.0,
+          "t": 301.236,
+          "r": 522.1318,
+          "b": 308.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discipline of epidemiology and its application to public health research and practice. It provides",
+          "l": 72.0,
+          "t": 315.876,
+          "r": 538.2727,
+          "b": 323.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a conceptual foundation for further study of epidemiology, especially study design, quantitative",
+          "l": 72.0,
+          "t": 330.51602,
+          "r": 541.0918,
+          "b": 338.10004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "concepts and methods, analysis, and interpretation.",
+          "l": 72.00003,
+          "t": 345.15604,
+          "r": 327.97202,
+          "b": 352.74005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Prerequisite: N/A",
+          "l": 72.0,
+          "t": 372.98065,
+          "r": 153.38376,
+          "b": 379.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Co-requisite: N/A",
+          "l": 360.01636,
+          "t": 372.98065,
+          "r": 441.22443,
+          "b": 379.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Learning Outcomes:",
+          "l": 72.0,
+          "t": 399.86063,
+          "r": 204.31999,
+          "b": 406.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "By the end of the module students should be able to:",
+          "l": 72.0,
+          "t": 413.24063,
+          "r": 311.9569,
+          "b": 420.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.996216,
+          "t": 427.49817,
+          "r": 95.04701,
+          "b": 434.22342,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Demonstrate understanding of the fundamental concepts and methods of the epidemiologic",
+          "l": 107.99243,
+          "t": 427.28406,
+          "r": 521.6409,
+          "b": 434.22342,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "approach to the study of health states, including study design and analytic methods, and their",
+          "l": 107.99243,
+          "t": 440.72357,
+          "r": 527.1343,
+          "b": 447.66293,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "application to research and public health settings.",
+          "l": 107.99243,
+          "t": 454.1082,
+          "r": 330.59006,
+          "b": 461.04755,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.996216,
+          "t": 468.36572,
+          "r": 95.04701,
+          "b": 475.09097,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Demonstrate knowledge of and ability to apply both descriptive and analytic epidemiologic",
+          "l": 107.99243,
+          "t": 468.1516,
+          "r": 514.50195,
+          "b": 475.09097,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "methods and the statistical procedures commonly used.",
+          "l": 107.99243,
+          "t": 481.59113,
+          "r": 358.55057,
+          "b": 488.5305,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.996216,
+          "t": 495.78278,
+          "r": 95.04701,
+          "b": 502.50803,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Explain the relative strengths and limitations of epidemiological strategies for studying",
+          "l": 107.99243,
+          "t": 495.56866,
+          "r": 494.13724,
+          "b": 502.50803,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "associations between risk factors or exposures in populations and rates of disease occurrence or",
+          "l": 107.99243,
+          "t": 509.00815,
+          "r": 538.26025,
+          "b": 515.9475,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "death.",
+          "l": 107.99243,
+          "t": 522.44775,
+          "r": 136.67657,
+          "b": 529.3871,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.98523,
+          "t": 536.70526,
+          "r": 95.036026,
+          "b": 543.4305,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Critically interpret and evaluate findings from various types of studies, noting strengths,",
+          "l": 107.981445,
+          "t": 536.49115,
+          "r": 499.93466,
+          "b": 543.4305,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "weaknesses and making recommendations for improvement.",
+          "l": 107.981445,
+          "t": 549.87573,
+          "r": 381.41544,
+          "b": 556.81506,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.98523,
+          "t": 564.1333,
+          "r": 95.036026,
+          "b": 570.8585,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Demonstrate a working knowledge of key current issues and problems in epidemiology and",
+          "l": 107.981445,
+          "t": 563.9192,
+          "r": 515.91174,
+          "b": 570.8585,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "biostatistics.",
+          "l": 107.981445,
+          "t": 577.3587,
+          "r": 163.7203,
+          "b": 584.29803,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.98523,
+          "t": 591.55035,
+          "r": 95.036026,
+          "b": 598.2756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Demonstrate the fundamental knowledge required for the subsequent study of advanced",
+          "l": 107.981445,
+          "t": 591.33624,
+          "r": 508.09055,
+          "b": 598.2756,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "epidemiologic concepts and competencies taught in intermediate and advanced epidemiology",
+          "l": 107.981445,
+          "t": 604.77576,
+          "r": 528.80096,
+          "b": 611.7151,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "courses.",
+          "l": 107.981445,
+          "t": 618.2153,
+          "r": 144.87863,
+          "b": 625.1546,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.98523,
+          "t": 632.4069,
+          "r": 95.036026,
+          "b": 639.13214,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Specific skills and methods covered include:",
+          "l": 107.981445,
+          "t": 632.1928,
+          "r": 303.40237,
+          "b": 639.13214,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.97424,
+          "t": 646.4503,
+          "r": 95.02504,
+          "b": 653.17554,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Concepts of disease variation in time, person and place.",
+          "l": 107.97046,
+          "t": 646.2362,
+          "r": 356.86075,
+          "b": 653.17554,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.97424,
+          "t": 660.42786,
+          "r": 95.02504,
+          "b": 667.1531,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Measures of morbidity in populations including incidence and prevalence; measures of mortality",
+          "l": 107.97046,
+          "t": 660.21375,
+          "r": 538.80273,
+          "b": 667.1531,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and standardization procedures.",
+          "l": 107.97046,
+          "t": 673.6533,
+          "r": 252.81647,
+          "b": 680.59265,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "•",
+          "l": 89.97424,
+          "t": 687.9108,
+          "r": 95.02504,
+          "b": 694.63605,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Measures of association and impact including relative risk, odds ratio and attributable risk",
+          "l": 107.97046,
+          "t": 687.6967,
+          "r": 509.37317,
+          "b": 694.63605,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "concepts.",
+          "l": 107.97046,
+          "t": 701.1362,
+          "r": 150.8188,
+          "b": 708.07556,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "• Study designs (e.g., cohort, case-control, cross-sectional, ecological and intervention studies).",
+          "l": 90.0,
+          "t": 75.606125,
+          "r": 527.42126,
+          "b": 83.099976,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Sources of random and non-random error (e.g. bias, confounding, measures of reliability and",
+          "l": 90.00003,
+          "t": 89.583664,
+          "r": 525.1114,
+          "b": 97.077515,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "validity).",
+          "l": 107.99625,
+          "t": 103.57767,
+          "r": 148.81989,
+          "b": 110.51703,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Methods to evaluate confounding and effect-modification.",
+          "l": 90.00003,
+          "t": 117.00072,
+          "r": 372.73502,
+          "b": 124.49457,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Basic methods for evaluating effectiveness of public health intervention programs.",
+          "l": 89.989044,
+          "t": 131.04411,
+          "r": 478.97214,
+          "b": 138.53796,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Criteria for causal inference and evaluation of scientific evidence.",
+          "l": 89.989044,
+          "t": 145.08751,
+          "r": 401.9418,
+          "b": 152.58136,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Assessments:",
+          "l": 72.0,
+          "t": 172.46066,
+          "r": 169.8208,
+          "b": 179.40002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board: Every student will be interacting using the discussion board. Each week a new",
+          "l": 72.0,
+          "t": 185.90067,
+          "r": 502.4852,
+          "b": 192.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discussion board topic will be made available. In the discussion board, you will have opportunities to",
+          "l": 72.0,
+          "t": 199.34067,
+          "r": 522.90594,
+          "b": 206.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "post responses to this week’s discussion question. You will also be posting a comment to someone else’s",
+          "l": 72.0,
+          "t": 212.78061,
+          "r": 541.68933,
+          "b": 219.71997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "response. You need to post a response and comment on someone’s post to receive full credit for",
+          "l": 72.0,
+          "t": 226.16061,
+          "r": 506.67737,
+          "b": 233.09998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Participation for that week.",
+          "l": 72.0,
+          "t": 239.60062,
+          "r": 196.9414,
+          "b": 246.53998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework: 6 homework assignments will be assigned to students in weeks 2, 4, 6, 9, 11, and 13. Each",
+          "l": 72.0,
+          "t": 266.48062,
+          "r": 529.8452,
+          "b": 273.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "homework assignment will be worth 5% of your grade.",
+          "l": 72.0,
+          "t": 279.92062,
+          "r": 321.20206,
+          "b": 286.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm: The midterm consists of multiple choice, matching, and short answer questions and will test",
+          "l": 72.0,
+          "t": 306.74063,
+          "r": 530.4064,
+          "b": 313.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "students on material from weeks 1-7.",
+          "l": 72.0,
+          "t": 320.18063,
+          "r": 241.81665,
+          "b": 327.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final: The final exam consists of multiple choice, matching, and short answer questions. This exam will",
+          "l": 72.0,
+          "t": 347.00064,
+          "r": 530.4371,
+          "b": 353.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "test students on all material covered in this course but will focus on material covered in weeks 9-13.",
+          "l": 72.0,
+          "t": 360.44064,
+          "r": 523.58545,
+          "b": 367.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Infographic Project: A detailed description of this project will be available on CANVAS later in the",
+          "l": 72.0,
+          "t": 387.32065,
+          "r": 506.31094,
+          "b": 394.26,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "semester. The Infographic Project will be turned in via CANVAS on December 6th by 11:59pm.",
+          "l": 72.0,
+          "t": 400.76065,
+          "r": 496.22324,
+          "b": 407.7,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Overall Grading Structure:",
+          "l": 72.0,
+          "t": 427.58063,
+          "r": 194.06465,
+          "b": 434.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10% - Participation (Discussion Board)",
+          "l": 72.0,
+          "t": 441.02063,
+          "r": 243.85895,
+          "b": 447.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "30% - Homework",
+          "l": 72.0,
+          "t": 454.46063,
+          "r": 151.22069,
+          "b": 461.4,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "20% - Midterm exam",
+          "l": 72.0,
+          "t": 467.90063,
+          "r": 168.14087,
+          "b": 474.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "25% - Final exam",
+          "l": 72.0,
+          "t": 481.28064,
+          "r": 149.71643,
+          "b": 488.22,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "15% - Infographic Project",
+          "l": 72.0,
+          "t": 494.72064,
+          "r": 186.7959,
+          "b": 501.66,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Textbook:",
+          "l": 72.0,
+          "t": 521.6007,
+          "r": 120.37788,
+          "b": 528.54004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Celentano, David D.,, M Szklo, and Leon Gordis. Gordis Epidemiology. 6th edition. Philadelphia, PA:",
+          "l": 72.0,
+          "t": 535.04065,
+          "r": 515.3398,
+          "b": 541.98,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Elsevier, 2019.",
+          "l": 72.0,
+          "t": 549.5007,
+          "r": 139.21954,
+          "b": 556.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Course Schedule:",
+          "l": 72.0,
+          "t": 572.0007,
+          "r": 152.72495,
+          "b": 578.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Assignments and",
+          "l": 363.78,
+          "t": 596.0007,
+          "r": 443.84293,
+          "b": 602.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Meeting Dates",
+          "l": 462.3,
+          "t": 596.0007,
+          "r": 531.6815,
+          "b": 602.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week",
+          "l": 105.36,
+          "t": 603.2607,
+          "r": 134.1825,
+          "b": 610.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dates",
+          "l": 198.12,
+          "t": 603.2607,
+          "r": 226.70093,
+          "b": 610.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Readings",
+          "l": 284.82,
+          "t": 603.2607,
+          "r": 328.58627,
+          "b": 610.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Assessments",
+          "l": 373.44,
+          "t": 610.5207,
+          "r": 434.23627,
+          "b": 617.46,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 1",
+          "l": 101.64,
+          "t": 635.24066,
+          "r": 137.90147,
+          "b": 642.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/26-09/01",
+          "l": 182.94,
+          "t": 635.24066,
+          "r": 241.88147,
+          "b": 642.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapter 1",
+          "l": 283.56,
+          "t": 635.24066,
+          "r": 329.78146,
+          "b": 642.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 1",
+          "l": 360.6,
+          "t": 635.24066,
+          "r": 447.02148,
+          "b": 642.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "08/28 (Ch. 1)",
+          "l": 466.68,
+          "t": 635.24066,
+          "r": 527.3615,
+          "b": 642.18,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework 1 &",
+          "l": 368.88,
+          "t": 659.9607,
+          "r": 438.80066,
+          "b": 666.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 486.9,
+          "t": 659.9607,
+          "r": 507.08148,
+          "b": 666.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 2",
+          "l": 101.64,
+          "t": 667.2207,
+          "r": 137.89595,
+          "b": 674.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/02-09/08",
+          "l": 182.93591,
+          "t": 667.2207,
+          "r": 241.87654,
+          "b": 674.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapter 2",
+          "l": 283.5566,
+          "t": 667.2207,
+          "r": 329.7824,
+          "b": 674.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 2",
+          "l": 360.6,
+          "t": 674.48065,
+          "r": 447.0236,
+          "b": 681.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 3",
+          "l": 101.64,
+          "t": 699.2007,
+          "r": 137.90147,
+          "b": 706.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/09-09/15",
+          "l": 182.94,
+          "t": 699.2007,
+          "r": 241.88147,
+          "b": 706.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapters 3 & 4",
+          "l": 272.4,
+          "t": 699.2007,
+          "r": 341.00146,
+          "b": 706.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 3",
+          "l": 360.6,
+          "t": 699.2007,
+          "r": 447.02148,
+          "b": 706.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/11 (Ch. 2-4)",
+          "l": 462.18,
+          "t": 699.2007,
+          "r": 531.8015,
+          "b": 706.14,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Homework 2 &",
+          "l": 368.88,
+          "t": 77.06064,
+          "r": 438.80066,
+          "b": 84.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 486.9,
+          "t": 77.06064,
+          "r": 507.08148,
+          "b": 84.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 4",
+          "l": 101.64,
+          "t": 84.32065,
+          "r": 137.89595,
+          "b": 91.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/16-09/22",
+          "l": 182.93591,
+          "t": 84.32065,
+          "r": 241.87656,
+          "b": 91.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapters 5 & 6",
+          "l": 272.38998,
+          "t": 84.32065,
+          "r": 340.993,
+          "b": 91.26001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 4",
+          "l": 360.6,
+          "t": 91.58066,
+          "r": 447.0236,
+          "b": 98.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 5",
+          "l": 101.64,
+          "t": 116.30063,
+          "r": 137.90147,
+          "b": 123.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/23-09/29",
+          "l": 182.94,
+          "t": 116.30063,
+          "r": 241.88147,
+          "b": 123.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapter 7",
+          "l": 283.56,
+          "t": 116.30063,
+          "r": 329.78146,
+          "b": 123.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 5",
+          "l": 360.6,
+          "t": 116.30063,
+          "r": 447.02148,
+          "b": 123.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/25 (Ch. 5-7)",
+          "l": 462.18,
+          "t": 116.30063,
+          "r": 531.8015,
+          "b": 123.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework 3 &",
+          "l": 368.88,
+          "t": 141.02066,
+          "r": 438.80066,
+          "b": 147.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 486.9,
+          "t": 141.02066,
+          "r": 507.08148,
+          "b": 147.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 6",
+          "l": 101.64,
+          "t": 148.28061,
+          "r": 137.89595,
+          "b": 155.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "09/30-10/06",
+          "l": 182.93591,
+          "t": 148.28061,
+          "r": 241.87656,
+          "b": 155.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapter 8",
+          "l": 283.55664,
+          "t": 148.28061,
+          "r": 329.78244,
+          "b": 155.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 6",
+          "l": 360.6,
+          "t": 155.54062,
+          "r": 447.0236,
+          "b": 162.47998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/09 (Midterm",
+          "l": 459.84,
+          "t": 180.26065,
+          "r": 534.14075,
+          "b": 187.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 7",
+          "l": 101.64,
+          "t": 187.52066,
+          "r": 137.89595,
+          "b": 194.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/07-10/13",
+          "l": 182.94,
+          "t": 187.52066,
+          "r": 241.88065,
+          "b": 194.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapter 9",
+          "l": 283.56,
+          "t": 187.52066,
+          "r": 329.7858,
+          "b": 194.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 7",
+          "l": 360.6,
+          "t": 187.52066,
+          "r": 447.0236,
+          "b": 194.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Exam Review)",
+          "l": 464.58,
+          "t": 194.78061,
+          "r": 529.39496,
+          "b": 201.71997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "No Required",
+          "l": 276.84,
+          "t": 219.50064,
+          "r": 336.50537,
+          "b": 226.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Midterm Exam",
+          "l": 368.76,
+          "t": 219.50064,
+          "r": 438.91125,
+          "b": 226.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 486.9,
+          "t": 219.50064,
+          "r": 507.08148,
+          "b": 226.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 8",
+          "l": 101.34,
+          "t": 226.76065,
+          "r": 138.19986,
+          "b": 233.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/14-10/20",
+          "l": 182.46,
+          "t": 226.76065,
+          "r": 242.3559,
+          "b": 233.70001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Readings",
+          "l": 284.82,
+          "t": 233.96066,
+          "r": 328.58627,
+          "b": 240.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(10/14-10/18)",
+          "l": 370.44,
+          "t": 233.96066,
+          "r": 437.17642,
+          "b": 240.90002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework 4 &",
+          "l": 368.88,
+          "t": 258.74063,
+          "r": 438.80066,
+          "b": 265.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/23 (Ch.10 & 11)",
+          "l": 453.3,
+          "t": 258.74063,
+          "r": 540.6815,
+          "b": 265.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 9",
+          "l": 101.64,
+          "t": 266.00064,
+          "r": 137.89595,
+          "b": 272.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/21-10/27",
+          "l": 182.94,
+          "t": 266.00064,
+          "r": 241.88065,
+          "b": 272.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapters 10 & 11",
+          "l": 266.82,
+          "t": 266.00064,
+          "r": 346.514,
+          "b": 272.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 8",
+          "l": 360.6,
+          "t": 273.20065,
+          "r": 447.0236,
+          "b": 280.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 10",
+          "l": 98.82,
+          "t": 297.98065,
+          "r": 140.66147,
+          "b": 304.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10/28-11/03",
+          "l": 182.94,
+          "t": 297.98065,
+          "r": 241.88147,
+          "b": 304.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapters 12 & 13",
+          "l": 266.82,
+          "t": 297.98065,
+          "r": 346.52148,
+          "b": 304.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 9",
+          "l": 360.6,
+          "t": 297.98065,
+          "r": 447.02148,
+          "b": 304.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 486.9,
+          "t": 297.98065,
+          "r": 507.08148,
+          "b": 304.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework 5 &",
+          "l": 368.88,
+          "t": 322.70065,
+          "r": 438.80066,
+          "b": 329.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/06 (Ch. 12-15)",
+          "l": 456.6,
+          "t": 322.70065,
+          "r": 537.38153,
+          "b": 329.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 11",
+          "l": 98.82,
+          "t": 329.96063,
+          "r": 140.66478,
+          "b": 336.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/04-11/10",
+          "l": 182.94,
+          "t": 329.96063,
+          "r": 241.88063,
+          "b": 336.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapters 14 & 15",
+          "l": 266.82,
+          "t": 329.96063,
+          "r": 346.514,
+          "b": 336.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 10",
+          "l": 357.84,
+          "t": 337.16064,
+          "r": 449.8414,
+          "b": 344.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 12",
+          "l": 98.82,
+          "t": 361.94064,
+          "r": 140.66147,
+          "b": 368.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/11-11/17",
+          "l": 182.94,
+          "t": 361.94064,
+          "r": 241.88147,
+          "b": 368.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapters 17 & 18",
+          "l": 266.82,
+          "t": 361.94064,
+          "r": 346.52148,
+          "b": 368.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 11",
+          "l": 357.84,
+          "t": 361.94064,
+          "r": 449.84146,
+          "b": 368.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 486.9,
+          "t": 361.94064,
+          "r": 507.08148,
+          "b": 368.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Homework 6 &",
+          "l": 368.88,
+          "t": 386.66064,
+          "r": 438.80066,
+          "b": 393.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/20 (Ch.17-20)",
+          "l": 457.86,
+          "t": 386.66064,
+          "r": 536.1215,
+          "b": 393.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 13",
+          "l": 98.82,
+          "t": 393.92062,
+          "r": 140.66478,
+          "b": 400.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/18-11/24",
+          "l": 182.94,
+          "t": 393.92062,
+          "r": 241.88065,
+          "b": 400.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Chapters 19 & 20",
+          "l": 266.82,
+          "t": 393.92062,
+          "r": 346.514,
+          "b": 400.86,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Discussion Board 12",
+          "l": 357.84,
+          "t": 401.18063,
+          "r": 449.8414,
+          "b": 408.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "No Required",
+          "l": 277.44,
+          "t": 425.90063,
+          "r": 335.8998,
+          "b": 432.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A",
+          "l": 486.9,
+          "t": 425.90063,
+          "r": 507.08148,
+          "b": 432.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 14",
+          "l": 98.82,
+          "t": 433.16064,
+          "r": 140.66478,
+          "b": 440.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11/25-12/01",
+          "l": 182.93779,
+          "t": 433.16064,
+          "r": 241.87842,
+          "b": 440.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Thanksgiving Holiday",
+          "l": 355.68,
+          "t": 433.16064,
+          "r": 452.00146,
+          "b": 440.1,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Readings",
+          "l": 285.3,
+          "t": 440.42062,
+          "r": 328.04514,
+          "b": 447.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "No Required",
+          "l": 277.44,
+          "t": 465.14062,
+          "r": 335.90085,
+          "b": 472.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Infographic Project 12/04 (Final Exam",
+          "l": 360.12,
+          "t": 465.14062,
+          "r": 538.34717,
+          "b": 472.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 15",
+          "l": 98.82,
+          "t": 472.40063,
+          "r": 140.66478,
+          "b": 479.34,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/02-12/08",
+          "l": 182.94,
+          "t": 472.40063,
+          "r": 241.88063,
+          "b": 479.34,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Readings",
+          "l": 285.3,
+          "t": 479.60065,
+          "r": 328.04514,
+          "b": 486.54,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(12/06)",
+          "l": 385.98,
+          "t": 479.60065,
+          "r": 421.69794,
+          "b": 486.54,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Review)",
+          "l": 477.96,
+          "t": 479.60065,
+          "r": 516.0167,
+          "b": 486.54,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "No Required",
+          "l": 276.84,
+          "t": 504.38065,
+          "r": 336.50537,
+          "b": 511.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Exam (12/09-",
+          "l": 359.88,
+          "t": 504.38065,
+          "r": 445.2599,
+          "b": 511.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "N/A (Happy",
+          "l": 468.84,
+          "t": 504.38065,
+          "r": 525.2015,
+          "b": 511.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Week 16",
+          "l": 98.52,
+          "t": 511.6406,
+          "r": 140.95769,
+          "b": 518.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/09-12/15",
+          "l": 182.46,
+          "t": 511.6406,
+          "r": 242.35591,
+          "b": 518.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Readings",
+          "l": 284.82,
+          "t": 518.8407,
+          "r": 328.58627,
+          "b": 525.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "12/13)",
+          "l": 387.36,
+          "t": 518.8407,
+          "r": 420.32193,
+          "b": 525.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Holidays!)",
+          "l": 472.68,
+          "t": 518.8407,
+          "r": 521.36536,
+          "b": 525.78,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Attendance/ Participation: Attendance/Participation will be assessed based on your Discussion Board",
+          "l": 72.0,
+          "t": 565.3387,
+          "r": 529.89667,
+          "b": 572.278,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Posts. If a student misses a discussion post, deductions will be made accordingly.",
+          "l": 72.0,
+          "t": 579.7993,
+          "r": 437.53513,
+          "b": 586.73865,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Email Correspondence: All email correspondence will be through the UTTyler/UTHSCT email system.",
+          "l": 72.0,
+          "t": 602.30066,
+          "r": 523.7425,
+          "b": 609.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Personal email accounts will not be used for any classrelated matters (ex. assignments, absence",
+          "l": 72.0,
+          "t": 616.8207,
+          "r": 501.52112,
+          "b": 623.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "notifications, grades, etc.). All students are responsible for checking their UT-Tyler/UTHSCT email",
+          "l": 72.0,
+          "t": 631.2813,
+          "r": 507.4932,
+          "b": 638.22064,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "accounts regularly.",
+          "l": 72.00003,
+          "t": 645.7969,
+          "r": 161.54193,
+          "b": 652.7362,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Late Assignments/ Assessments: Students need to contact the Professor if they anticipate submitting an",
+          "l": 72.0,
+          "t": 668.30066,
+          "r": 542.02216,
+          "b": 675.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "assignment late. Any late assignments will be subject to a 5% deduction each day for the first week (35%",
+          "l": 72.0,
+          "t": 682.76135,
+          "r": 540.8679,
+          "b": 689.7007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "if submitted a week late) and an additional 10% for each day thereafter. Assignments turned in over 2",
+          "l": 72.01099,
+          "t": 697.27686,
+          "r": 529.1711,
+          "b": 704.2162,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "weeks late (14 days) will receive a grade of 0 for the assignment. This policy includes homework,",
+          "l": 72.0,
+          "t": 75.56064,
+          "r": 504.67578,
+          "b": 82.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discussion board posts, and the Infographic Project. Reasonable accommodations will be made under",
+          "l": 72.0,
+          "t": 90.08066,
+          "r": 527.2814,
+          "b": 97.02002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "special circumstances. If you need special accommodations, you must contact the Professor BEFORE the",
+          "l": 71.98901,
+          "t": 104.54129,
+          "r": 539.5877,
+          "b": 111.48065,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "due date for the assignment. Late Exams will not be accepted except under extenuating circumstances",
+          "l": 72.0,
+          "t": 119.06064,
+          "r": 532.10596,
+          "b": 126.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(please try to contact the Professor before the Exam’s due date).",
+          "l": 72.0,
+          "t": 133.52066,
+          "r": 366.0224,
+          "b": 140.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Academic Integrity: Any student who commits an act of scholastic dishonesty is subject to discipline.",
+          "l": 72.0,
+          "t": 156.02066,
+          "r": 524.17084,
+          "b": 162.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Scholastic dishonesty includes, but is not limited to, cheating, plagiarism, collusion, the submission for",
+          "l": 72.0,
+          "t": 170.4813,
+          "r": 529.92883,
+          "b": 177.42065,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "credit of any work or materials that are attributable in whole or in part to another person, taking an",
+          "l": 72.0,
+          "t": 184.99686,
+          "r": 519.9941,
+          "b": 191.93622,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "examination for another person, any act designed to give unfair advantage to a student or the attempt",
+          "l": 72.0,
+          "t": 199.45749,
+          "r": 533.1009,
+          "b": 206.39685,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to commit such acts.",
+          "l": 72.0,
+          "t": 213.97305,
+          "r": 169.33769,
+          "b": 220.91241,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Cheating",
+          "l": 72.0,
+          "t": 236.48062,
+          "r": 116.54586,
+          "b": 243.41998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Dishonesty of any kind involving examinations, assignments, alteration of records, wrongful possession",
+          "l": 72.0,
+          "t": 258.98062,
+          "r": 534.29083,
+          "b": 265.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "of examinations, and unpermitted submission of duplicate papers for multiple classes or unauthorized",
+          "l": 72.0,
+          "t": 273.44128,
+          "r": 530.8357,
+          "b": 280.38065,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "use of keys to examinations is considered cheating. Cheating includes but is not limited to:",
+          "l": 72.0,
+          "t": 287.95685,
+          "r": 477.98547,
+          "b": 294.8962,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Using or attempting to use unauthorized materials to aid in achieving a better grade on a",
+          "l": 108.00339,
+          "t": 310.39996,
+          "r": 515.64716,
+          "b": 317.33932,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "component of a class.",
+          "l": 108.00339,
+          "t": 323.83948,
+          "r": 210.20522,
+          "b": 330.77884,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Falsifying or inventing any information, including citations, on an assigned exercise.",
+          "l": 108.00339,
+          "t": 337.279,
+          "r": 492.4461,
+          "b": 344.21835,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Helping or attempting to help another in an act of cheating or plagiarism.",
+          "l": 108.00339,
+          "t": 350.7185,
+          "r": 445.39682,
+          "b": 357.65787,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Use of Artificial Intelligence (AI) software to complete Assignments/Exams.",
+          "l": 107.9924,
+          "t": 364.10312,
+          "r": 452.46793,
+          "b": 371.04248,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plagiarism",
+          "l": 72.0,
+          "t": 390.98065,
+          "r": 120.37788,
+          "b": 397.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Plagiarism is presenting the words or ideas of another person as if they were your own. Materials, even",
+          "l": 72.0,
+          "t": 413.48065,
+          "r": 535.86145,
+          "b": 420.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ideas, borrowed from others necessitate full and complete acknowledgment of the original authors.",
+          "l": 72.0,
+          "t": 427.99622,
+          "r": 520.7946,
+          "b": 434.93558,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Offering the work of another as one's own is plagiarism and is unacceptable in the academic community.",
+          "l": 72.0,
+          "t": 442.45688,
+          "r": 541.8024,
+          "b": 449.39624,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "A lack of adequate recognition constitutes plagiarism, whether it utilizes a few sentences, whole",
+          "l": 72.0,
+          "t": 456.97244,
+          "r": 503.94366,
+          "b": 463.9118,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "paragraphs, articles, books, audio-visual materials, or even the writing of a fellow student. In addition,",
+          "l": 72.0,
+          "t": 471.4331,
+          "r": 530.35284,
+          "b": 478.37247,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the presentation of material gathered, assembled, or formatted by others as one's own is also",
+          "l": 72.0,
+          "t": 485.94867,
+          "r": 494.16006,
+          "b": 492.88803,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "plagiarism. Because the university takes such misconduct very seriously, the student is urged to carefully",
+          "l": 71.999985,
+          "t": 500.40933,
+          "r": 541.43896,
+          "b": 507.3487,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "read university policies on Misconduct in Research and Other Scholarly Activity 05.00. Examples of",
+          "l": 71.999985,
+          "t": 514.9249,
+          "r": 513.41266,
+          "b": 521.86426,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "plagiarism are:",
+          "l": 71.999985,
+          "t": 529.3856,
+          "r": 142.99666,
+          "b": 536.32495,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Submitting an assignment as if it were one’s own work when, in fact, it is at least partly the",
+          "l": 107.992424,
+          "t": 551.8836,
+          "r": 524.2774,
+          "b": 558.82294,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "work of another.",
+          "l": 107.992424,
+          "t": 565.3231,
+          "r": 187.9927,
+          "b": 572.26245,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Submitting a work that has been purchased or otherwise obtained from an Internet source or",
+          "l": 107.99243,
+          "t": 578.70776,
+          "r": 535.8535,
+          "b": 585.6471,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "another source.",
+          "l": 107.99243,
+          "t": 592.1472,
+          "r": 183.67755,
+          "b": 599.08655,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Incorporating the words or ideas of an author into one’s paper without giving the author due",
+          "l": 107.992424,
+          "t": 605.5868,
+          "r": 533.74976,
+          "b": 612.5261,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "credit.",
+          "l": 107.992424,
+          "t": 619.02625,
+          "r": 139.20856,
+          "b": 625.9656,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Adding/Dropping:",
+          "l": 71.989006,
+          "t": 645.9053,
+          "r": 156.90833,
+          "b": 652.8446,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The official deadline for adding and dropping courses is as published in the academic calendar",
+          "l": 71.98901,
+          "t": 668.3484,
+          "r": 493.56607,
+          "b": 675.2877,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(November 4th). However, students are strongly encouraged to meet with their graduate advisor or the",
+          "l": 71.98901,
+          "t": 681.36334,
+          "r": 534.4132,
+          "b": 689.82,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Program Coordinator prior to adding/dropping courses. Each student is responsible for their own",
+          "l": 71.99682,
+          "t": 697.39624,
+          "r": 507.54172,
+          "b": 704.3356,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "enrollment status with the university. The link to the academic calendar 2023-2024 can be found using",
+          "l": 72.0,
+          "t": 75.56064,
+          "r": 532.5814,
+          "b": 82.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the following link: 2023-24 Academic Calendar (uttyler.edu)",
+          "l": 72.0,
+          "t": 90.0762,
+          "r": 343.46686,
+          "b": 97.02002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Disability Accommodations:",
+          "l": 72.0,
+          "t": 112.52066,
+          "r": 204.62195,
+          "b": 119.46002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "In accordance with Section 504 of the Rehabilitation Act, Americans with Disabilities Act (ADA) and the",
+          "l": 72.0,
+          "t": 134.44774,
+          "r": 540.9001,
+          "b": 141.71649,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ADA Amendments Act (ADAAA), the University of Texas at Tyler offers accommodations to students",
+          "l": 72.0,
+          "t": 148.12883,
+          "r": 530.557,
+          "b": 155.39758,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "with learning, physical, and/or psychological disabilities. If you have a disability, including a non-visible",
+          "l": 72.0,
+          "t": 161.744,
+          "r": 537.0173,
+          "b": 169.01276,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "diagnosis such as a learning disorder, chronic illness, TBI, PTSD, ADHD, or a history of modifications or",
+          "l": 72.0,
+          "t": 175.4251,
+          "r": 541.30383,
+          "b": 182.69385,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "accommodations in a previous educational environment, you are encouraged to visit",
+          "l": 72.0,
+          "t": 189.04027,
+          "r": 445.309,
+          "b": 196.30902,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "https://hood.accessiblelearning.com/UTTyler/ and fill out the New Student application. The Student",
+          "l": 72.0,
+          "t": 202.72136,
+          "r": 514.6742,
+          "b": 210.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Accessibility and Resources (SAR) office will contact you when your application has been submitted and",
+          "l": 72.0,
+          "t": 216.35124,
+          "r": 539.1631,
+          "b": 223.62,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "an appointment with the Assistant Director Student Accessibility and Resources/ADA Coordinator. For",
+          "l": 72.0,
+          "t": 230.03233,
+          "r": 530.6236,
+          "b": 237.30109,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "more information, including filling out an application for services, please visit the SAR webpage",
+          "l": 72.0,
+          "t": 243.6475,
+          "r": 500.9512,
+          "b": 250.91626,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "at https://www.uttyler.edu/disability-services, the SAR office located in the Robert Muntz Library, LIB",
+          "l": 72.0,
+          "t": 257.32858,
+          "r": 529.51874,
+          "b": 264.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "460, email saroffice@uttyler.edu , or call (903)566-7079.",
+          "l": 72.0,
+          "t": 270.9512,
+          "r": 327.34116,
+          "b": 278.21997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Student Absence for Religious Observance:",
+          "l": 72.0,
+          "t": 293.18063,
+          "r": 272.97244,
+          "b": 300.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This course follows the practices related to  Excused Absences for Religious Holy Days as noted in the",
+          "l": 72.00001,
+          "t": 315.1077,
+          "r": 528.10254,
+          "b": 322.38,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Catalog.",
+          "l": 72.0,
+          "t": 328.73123,
+          "r": 111.43746,
+          "b": 336.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Technical Support:",
+          "l": 72.0,
+          "t": 350.96063,
+          "r": 159.37883,
+          "b": 357.9,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "If you experience technical problems or have a technical question about this course, you can obtain",
+          "l": 72.0,
+          "t": 373.46063,
+          "r": 518.28436,
+          "b": 380.4,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "assistance by emailing me at Christian.Alvarado@uthct.edu or calling the Help Desk at 903.877.7700.",
+          "l": 72.0,
+          "t": 387.9762,
+          "r": 525.4411,
+          "b": 394.91556,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,94 @@
+{
+  "document": "synth-coaching-schedule.pdf",
+  "outcome": "Ready",
+  "groups": 1,
+  "unresolved": 2,
+  "candidateCount": 5,
+  "candidates": [
+    {
+      "title": "Physics",
+      "start": "2026-08-17T16:00",
+      "end": "2026-08-17T18:00",
+      "zone": "Asia/Kolkata",
+      "location": "R-101",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "MONDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Chemistry",
+      "start": "2026-08-18T16:00",
+      "end": "2026-08-18T18:00",
+      "zone": "Asia/Kolkata",
+      "location": "R-102",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "TUESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Biology",
+      "start": "2026-08-19T16:00",
+      "end": "2026-08-19T18:00",
+      "zone": "Asia/Kolkata",
+      "location": "R-101",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "WEDNESDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Physics",
+      "start": "2026-08-20T16:00",
+      "end": "2026-08-20T18:00",
+      "zone": "Asia/Kolkata",
+      "location": "R-103",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "THURSDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "PdfSpan(page=0)"
+      ]
+    },
+    {
+      "title": "Chemistry",
+      "start": "2026-08-21T16:00",
+      "end": "2026-08-21T18:00",
+      "zone": "Asia/Kolkata",
+      "location": "R-102",
+      "status": "Ready",
+      "allDay": false,
+      "recurrence": {
+        "frequency": "Weekly",
+        "byWeekday": "FRIDAY",
+        "until": "2026-12-05"
+      },
+      "sources": [
+        "PdfSpan(page=0)"
+      ]
+    }
+  ]
+}

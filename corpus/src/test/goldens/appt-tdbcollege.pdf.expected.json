@@ -1,0 +1,11 @@
+{
+  "document": "appt-tdbcollege.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 6
+    }
+  ],
+  "groups": 6
+}

@@ -1,0 +1,165 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.30396,
+      "heightPt": 841.8898,
+      "runs": [
+        {
+          "text": "Booking Confirmation — Reference HTL-99213",
+          "l": 74.8,
+          "t": 43.305294,
+          "r": 342.54797,
+          "b": 50.500793,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The Grand Residency, Bengaluru",
+          "l": 74.8,
+          "t": 63.120743,
+          "r": 223.12001,
+          "b": 68.700745,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ni",
+          "l": 310.0,
+          "t": 90.17079,
+          "r": 319.97,
+          "b": 95.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Gue",
+          "l": 439.4,
+          "t": 95.92079,
+          "r": 458.81,
+          "b": 101.50079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Check-in",
+          "l": 76.2,
+          "t": 101.67079,
+          "r": 118.37998,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Check-out",
+          "l": 198.1,
+          "t": 101.67079,
+          "r": 246.96002,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "gh",
+          "l": 310.0,
+          "t": 101.67079,
+          "r": 322.2,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Room",
+          "l": 363.6,
+          "t": 101.67079,
+          "r": 391.89005,
+          "b": 107.25079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "sts",
+          "l": 439.4,
+          "t": 107.42079,
+          "r": 453.80997,
+          "b": 113.00079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ts",
+          "l": 310.0,
+          "t": 113.17079,
+          "r": 318.86,
+          "b": 118.75079,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "18/09/2026 from",
+          "l": 76.2,
+          "t": 141.62074,
+          "r": 151.71997,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "24/09/2026 by",
+          "l": 198.1,
+          "t": 141.62074,
+          "r": 264.19003,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Deluxe",
+          "l": 363.6,
+          "t": 141.62074,
+          "r": 397.45996,
+          "b": 147.20074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 310.0,
+          "t": 147.37074,
+          "r": 315.56,
+          "b": 152.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 439.4,
+          "t": 147.37074,
+          "r": 444.96,
+          "b": 152.95074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "14:00",
+          "l": 76.2,
+          "t": 153.12074,
+          "r": 101.199974,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11:00",
+          "l": 198.1,
+          "t": 153.12074,
+          "r": 223.10002,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "King",
+          "l": 363.6,
+          "t": 153.12074,
+          "r": 383.6,
+          "b": 158.70074,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Free cancellation until 16/09/2026. Total payable at property: INR 42,000.",
+          "l": 74.8,
+          "t": 180.17079,
+          "r": 399.71985,
+          "b": 185.7508,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

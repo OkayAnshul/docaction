@@ -1,0 +1,11 @@
+{
+  "document": "tt-sydney-law-pg.pdf",
+  "outcome": "NeedsAnswers",
+  "questions": [
+    {
+      "kind": "WhichSchedule",
+      "choices": 5
+    }
+  ],
+  "groups": 5
+}

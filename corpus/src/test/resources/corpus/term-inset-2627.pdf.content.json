@@ -1,0 +1,341 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 595.32,
+      "heightPt": 841.92,
+      "runs": [
+        {
+          "text": "School holidays and term dates",
+          "l": 22.68,
+          "t": 109.38172,
+          "r": 222.05287,
+          "b": 115.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Autumn term 2026",
+          "l": 22.68,
+          "t": 124.38172,
+          "r": 139.70288,
+          "b": 130.45996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Inset days 1st and 2nd September 2026",
+          "l": 143.54,
+          "t": 145.78409,
+          "r": 380.47287,
+          "b": 154.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open",
+          "l": 22.68,
+          "t": 163.26172,
+          "r": 59.522877,
+          "b": 169.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pupils in school 3rd September 2026 to Friday 23rd October 2026",
+          "l": 143.54,
+          "t": 160.78409,
+          "r": 517.9029,
+          "b": 169.33997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "I nset day 28th September for staff training",
+          "l": 143.54,
+          "t": 175.6641,
+          "r": 403.63287,
+          "b": 186.97998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "October",
+          "l": 22.68,
+          "t": 208.86176,
+          "r": 79.70688,
+          "b": 214.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 26th October to Friday 30th October 2026",
+          "l": 143.54,
+          "t": 213.94412,
+          "r": 430.15286,
+          "b": 222.5,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "half-term",
+          "l": 22.68,
+          "t": 223.86176,
+          "r": 81.986885,
+          "b": 229.94,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open",
+          "l": 22.68,
+          "t": 258.0617,
+          "r": 59.522877,
+          "b": 264.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 2nd November to Friday 18th December 2026",
+          "l": 143.54,
+          "t": 255.58408,
+          "r": 452.71286,
+          "b": 264.13995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Christmas",
+          "l": 22.68,
+          "t": 292.17175,
+          "r": 89.76096,
+          "b": 298.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 21st December 2026 to Friday 1st January 2027",
+          "l": 143.54,
+          "t": 297.25412,
+          "r": 468.19287,
+          "b": 305.81,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "holiday",
+          "l": 22.68,
+          "t": 307.17175,
+          "r": 71.78688,
+          "b": 313.25,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Spring term 2027",
+          "l": 22.68,
+          "t": 329.61172,
+          "r": 131.78287,
+          "b": 335.68997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Inset day Monday 4th January",
+          "l": 143.18,
+          "t": 351.1341,
+          "r": 331.85287,
+          "b": 359.68997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open",
+          "l": 22.68,
+          "t": 361.05173,
+          "r": 59.522877,
+          "b": 367.12997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Pupils in school Tuesday 5th January to Friday 12th February 2027",
+          "l": 143.18,
+          "t": 366.0141,
+          "r": 525.4629,
+          "b": 374.56998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "February",
+          "l": 22.68,
+          "t": 399.21173,
+          "r": 81.986885,
+          "b": 405.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 15th February to Friday 19th February 2027",
+          "l": 143.18,
+          "t": 404.1741,
+          "r": 441.43286,
+          "b": 412.72998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "half-term",
+          "l": 22.68,
+          "t": 414.21173,
+          "r": 81.986885,
+          "b": 420.28998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open",
+          "l": 22.68,
+          "t": 448.05173,
+          "r": 59.522877,
+          "b": 454.12997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 22nd February to Thursday 25th March 2027",
+          "l": 143.18,
+          "t": 445.5741,
+          "r": 445.75287,
+          "b": 454.12997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Friday 26th March to Friday 9th April 2027",
+          "l": 143.18,
+          "t": 479.4341,
+          "r": 381.31287,
+          "b": 487.99,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Easter and",
+          "l": 22.68,
+          "t": 489.35175,
+          "r": 92.638084,
+          "b": 495.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Includes Easter Bank Holidays: Friday 26th March and Monday",
+          "l": 143.18,
+          "t": 494.31412,
+          "r": 510.97327,
+          "b": 502.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "spring break",
+          "l": 22.68,
+          "t": 504.35175,
+          "r": 104.30288,
+          "b": 510.43,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "29th March)",
+          "l": 143.18,
+          "t": 509.31412,
+          "r": 212.45288,
+          "b": 517.87,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Summer term 2027",
+          "l": 22.68,
+          "t": 534.23175,
+          "r": 142.70288,
+          "b": 540.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 12 April to Friday 28 May 2027",
+          "l": 143.18,
+          "t": 558.23175,
+          "r": 373.03287,
+          "b": 564.31,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open",
+          "l": 22.68,
+          "t": 573.1117,
+          "r": 59.522877,
+          "b": 579.18994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Includes May Bank Holiday: Monday 3 May)",
+          "l": 143.18,
+          "t": 573.1117,
+          "r": 404.95288,
+          "b": 579.18994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Inset day Thursday 6th May staff training/local elections",
+          "l": 143.18,
+          "t": 585.6341,
+          "r": 488.7429,
+          "b": 594.19,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "May",
+          "l": 22.68,
+          "t": 618.71173,
+          "r": 55.202877,
+          "b": 624.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 31st May to Friday 4th June 2027",
+          "l": 143.18,
+          "t": 623.79407,
+          "r": 382.39288,
+          "b": 632.35,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "half-term",
+          "l": 22.68,
+          "t": 633.71173,
+          "r": 81.986885,
+          "b": 639.79,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Open",
+          "l": 22.68,
+          "t": 667.34174,
+          "r": 59.522877,
+          "b": 673.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Monday 7th June to Wednesday 21st July 2027",
+          "l": 143.18,
+          "t": 664.8641,
+          "r": 413.23288,
+          "b": 673.42,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Autumn",
+          "l": 22.68,
+          "t": 701.06177,
+          "r": 78.986885,
+          "b": 707.14,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Wednesday 1st September 2027",
+          "l": 143.18,
+          "t": 706.0241,
+          "r": 332.45288,
+          "b": 714.57996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "term return",
+          "l": 22.68,
+          "t": 715.9417,
+          "r": 95.666885,
+          "b": 722.01996,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

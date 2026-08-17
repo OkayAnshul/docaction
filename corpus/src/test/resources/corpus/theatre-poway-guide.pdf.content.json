@@ -1,0 +1,3555 @@
+{
+  "format": "Pdf",
+  "pages": [
+    {
+      "index": 0,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "POWAY CENTER FOR THE PERFORMING ARTS",
+          "l": 219.72,
+          "t": 90.86734,
+          "r": 544.02997,
+          "b": 100.91998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PLANNING GUIDE",
+          "l": 418.8072,
+          "t": 109.47037,
+          "r": 544.02997,
+          "b": 119.52301,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(Updated September 2024)",
+          "l": 414.0,
+          "t": 127.14867,
+          "r": 542.88226,
+          "b": 134.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Owned and operated by the City of Poway as a division of the Community Services",
+          "l": 72.000015,
+          "t": 172.89008,
+          "r": 543.3385,
+          "b": 181.08008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Department, the PCPA staff are here to ensure your event is successful.  This guide is",
+          "l": 72.000015,
+          "t": 188.8501,
+          "r": 543.3359,
+          "b": 197.0401,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "intended to assist you in your planning efforts. After you review the entire guide,",
+          "l": 72.00003,
+          "t": 204.69012,
+          "r": 543.3373,
+          "b": 212.88013,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "additional information and/or questions may be sent to business@powaycenter.com",
+          "l": 72.00003,
+          "t": 220.52997,
+          "r": 523.776,
+          "b": 228.72015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ADMINISTRATIVE PROCESS",
+          "l": 72.0,
+          "t": 265.968,
+          "r": 239.376,
+          "b": 274.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "We hope the following steps help you efficiently and effectively navigate the rental",
+          "l": 72.0,
+          "t": 299.01,
+          "r": 509.73618,
+          "b": 307.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "process.  Your timely responses to our communication, completion of the forms in their",
+          "l": 72.0,
+          "t": 314.85,
+          "r": 535.05725,
+          "b": 323.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "entirety, and ability to meet deadlines are critical to the process.",
+          "l": 72.0,
+          "t": 330.69,
+          "r": 420.216,
+          "b": 338.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please remember that failure to follow the steps may result in cancelation of your use.",
+          "l": 72.0,
+          "t": 363.33,
+          "r": 533.7372,
+          "b": 371.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Delays in the process may also result in additional fees.",
+          "l": 72.0,
+          "t": 379.29,
+          "r": 370.896,
+          "b": 387.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STEP 1: Date(s) of Use Approval/Confirmation",
+          "l": 72.0,
+          "t": 411.52798,
+          "r": 338.01852,
+          "b": 420.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Rental/facility use will be authorized in-writing by the Theatre Manager.",
+          "l": 90.0,
+          "t": 445.41,
+          "r": 487.416,
+          "b": 453.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STEP 2: 90-Day Advance Form",
+          "l": 72.0,
+          "t": 477.64798,
+          "r": 250.05602,
+          "b": 486.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Once the Theatre Manager has confirmed your rental dates, the Administrative",
+          "l": 90.0,
+          "t": 511.52997,
+          "r": 528.9373,
+          "b": 519.72,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Assistant will contact you to continue the rental process approximately one-",
+          "l": 108.0,
+          "t": 527.37,
+          "r": 507.51727,
+          "b": 535.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "hundred and twenty (120) days before your event.",
+          "l": 108.0,
+          "t": 543.21,
+          "r": 376.896,
+          "b": 551.4,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o You are required to complete and submit the 90-Day Advance Form",
+          "l": 126.0,
+          "t": 574.60803,
+          "r": 513.696,
+          "b": 583.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ninety (90) days before your event.",
+          "l": 144.0,
+          "t": 590.85,
+          "r": 339.456,
+          "b": 599.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Your deposit is due ninety (90) days before your event.  The facility",
+          "l": 126.0,
+          "t": 606.288,
+          "r": 524.136,
+          "b": 614.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "rental and damage/cleaning amounts are based on the number of rental",
+          "l": 144.0,
+          "t": 622.64996,
+          "r": 529.0571,
+          "b": 630.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "days and will be communicated to you by the Administrative Assistant.",
+          "l": 144.0,
+          "t": 638.49,
+          "r": 520.17596,
+          "b": 646.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o A Facility Use Agreement will be issued to you after the PCPA receives",
+          "l": 126.0,
+          "t": 653.92804,
+          "r": 533.61725,
+          "b": 662.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the 90-Day Advance form and deposit.",
+          "l": 144.0,
+          "t": 670.17,
+          "r": 358.776,
+          "b": 678.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Any delays in the submission of the required deposit, 90-Day Advance",
+          "l": 126.0,
+          "t": 686.13,
+          "r": 520.416,
+          "b": 694.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Form and signed Facility Use Agreement, will stall the rental process and",
+          "l": 144.0,
+          "t": 701.97003,
+          "r": 535.05597,
+          "b": 710.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "will impact your ticket on-sale date.  Consistent delays may result in the",
+          "l": 144.0,
+          "t": 75.09003,
+          "r": 526.416,
+          "b": 83.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "cancelation of your use.",
+          "l": 144.0,
+          "t": 90.92999,
+          "r": 274.056,
+          "b": 99.119995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STEP 3: Box Office Ticketing",
+          "l": 72.0,
+          "t": 123.16801,
+          "r": 239.97601,
+          "b": 131.76001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Once you have a Facility Use Agreement, the Box Office Coordinator will send",
+          "l": 90.0,
+          "t": 157.16998,
+          "r": 527.0173,
+          "b": 165.35999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "you the Box Office Ticketing Form to complete and submit.",
+          "l": 108.0,
+          "t": 172.60802,
+          "r": 437.49597,
+          "b": 181.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Completing the form in its entirety with accurate information is the key to a",
+          "l": 126.0,
+          "t": 204.69,
+          "r": 540.21967,
+          "b": 212.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "successful on-sale date.  Incomplete forms will not be accepted and will",
+          "l": 144.0,
+          "t": 220.52997,
+          "r": 526.7771,
+          "b": 228.71997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be returned to you.",
+          "l": 144.0,
+          "t": 236.48999,
+          "r": 254.736,
+          "b": 244.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Delays in communicating with our Box Office Coordinator or submitting",
+          "l": 126.0,
+          "t": 252.33002,
+          "r": 522.93726,
+          "b": 260.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your complete and essential ticketing information will impact your",
+          "l": 144.0,
+          "t": 268.16998,
+          "r": 492.21744,
+          "b": 276.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "requested ticket on-sale date.",
+          "l": 144.0,
+          "t": 284.01,
+          "r": 304.776,
+          "b": 292.2,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "STEP 4: Event Insurance",
+          "l": 72.0,
+          "t": 316.36798,
+          "r": 216.696,
+          "b": 324.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Insurance is required of any entity or individual using the PCPA and must meet",
+          "l": 90.0,
+          "t": 350.25,
+          "r": 529.65594,
+          "b": 358.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "all the specifications required by City of Poway Risk Management. Read: Facility",
+          "l": 108.0,
+          "t": 365.688,
+          "r": 542.4959,
+          "b": 374.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Use Insurance Requirements & Compliance Checklists.",
+          "l": 108.0,
+          "t": 381.52798,
+          "r": 426.6973,
+          "b": 390.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Low-cost insurance is available for purchase through the City of Poway.",
+          "l": 126.0,
+          "t": 411.81,
+          "r": 530.8572,
+          "b": 420.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "We have the right to require you to purchase insurance from us if you are",
+          "l": 144.0,
+          "t": 427.65,
+          "r": 535.776,
+          "b": 435.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "unable to efficiently provide insurance through your provider.",
+          "l": 144.0,
+          "t": 443.49,
+          "r": 468.93597,
+          "b": 451.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o INSURANCE WILL BECOME DUE 30 DAYS PRIOR TO YOUR EVENT.",
+          "l": 126.0,
+          "t": 463.248,
+          "r": 535.5362,
+          "b": 471.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You may NOT submit insurance earlier than 30 days before your",
+          "l": 144.0,
+          "t": 477.048,
+          "r": 513.4584,
+          "b": 485.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "event.  Your insurance may NOT be dated earlier than 30 days before",
+          "l": 144.0,
+          "t": 490.848,
+          "r": 540.21716,
+          "b": 499.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "your event. The Administrative Assistant will send you an insurance",
+          "l": 144.0,
+          "t": 504.64798,
+          "r": 510.09607,
+          "b": 513.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "reminder as this window of time approaches.",
+          "l": 144.0,
+          "t": 518.44806,
+          "r": 388.17593,
+          "b": 527.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o If your insurance is dated or submitted before 30 days prior to your event,",
+          "l": 126.0,
+          "t": 532.64996,
+          "r": 537.0959,
+          "b": 540.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "it will be returned, and you will be asked to re-submit at the appropriate",
+          "l": 144.0,
+          "t": 546.45,
+          "r": 523.6559,
+          "b": 554.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "time.",
+          "l": 144.0,
+          "t": 559.848,
+          "r": 173.376,
+          "b": 568.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o If proof of insurance is not received by 14 days prior to your use of the",
+          "l": 126.0,
+          "t": 574.05,
+          "r": 518.9771,
+          "b": 582.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PCPA, you may be required to purchase and pay for event insurance from",
+          "l": 144.0,
+          "t": 587.85,
+          "r": 540.93726,
+          "b": 596.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the City of Poway.",
+          "l": 144.0,
+          "t": 601.248,
+          "r": 244.056,
+          "b": 609.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "STEP 5: Pre-Show Meetings",
+          "l": 72.0,
+          "t": 134.44798,
+          "r": 234.69601,
+          "b": 143.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Pre-show meetings are required.",
+          "l": 90.0,
+          "t": 165.16801,
+          "r": 297.336,
+          "b": 173.76001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Our team will schedule a time approximately four (4) weeks before your",
+          "l": 126.0,
+          "t": 181.40997,
+          "r": 526.29834,
+          "b": 189.59998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "event.",
+          "l": 144.0,
+          "t": 197.25,
+          "r": 186.69601,
+          "b": 205.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Be prepared to review all box office, technical, and front of house",
+          "l": 126.0,
+          "t": 213.09003,
+          "r": 492.33615,
+          "b": 221.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "information and provide as much detail about your event as possible.",
+          "l": 144.0,
+          "t": 228.93,
+          "r": 512.976,
+          "b": 237.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SERVICES",
+          "l": 72.0,
+          "t": 274.488,
+          "r": 136.056,
+          "b": 283.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The PCPA will provide and supervise all theatre use and fully retains the rights to",
+          "l": 90.0,
+          "t": 305.61,
+          "r": 541.0559,
+          "b": 313.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "determine the number of staff necessary for an event.",
+          "l": 108.0,
+          "t": 321.45,
+          "r": 402.81595,
+          "b": 329.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The cost of rental and services, established by the City Council, will be charged",
+          "l": 90.0,
+          "t": 338.13,
+          "r": 532.29596,
+          "b": 346.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to the client.",
+          "l": 108.0,
+          "t": 353.97,
+          "r": 179.376,
+          "b": 362.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Please refer to the Fee Schedule for current facility fees.",
+          "l": 90.0,
+          "t": 370.36798,
+          "r": 414.21594,
+          "b": 378.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FEES",
+          "l": 72.0,
+          "t": 430.008,
+          "r": 110.016,
+          "b": 438.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• A six (6) hour minimum rental (per day) is required.",
+          "l": 90.0,
+          "t": 460.728,
+          "r": 402.69598,
+          "b": 469.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Deposits are due ninety (90) days before the scheduled event:",
+          "l": 90.0,
+          "t": 477.408,
+          "r": 464.136,
+          "b": 486.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Rental: $300 for the first day, plus $150 for each additional day.",
+          "l": 126.0,
+          "t": 493.65,
+          "r": 484.296,
+          "b": 501.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Cleaning/Damage: Refundable $300 unless retained due to issues.",
+          "l": 126.0,
+          "t": 509.49,
+          "r": 503.61597,
+          "b": 517.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o The PCPA may elect to retain a deposit on file if your organization will use",
+          "l": 126.0,
+          "t": 525.33,
+          "r": 540.2172,
+          "b": 533.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the facility more than one-time per season.  The deposit will be returned",
+          "l": 144.0,
+          "t": 541.29,
+          "r": 528.45715,
+          "b": 549.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "upon completion of the final use for the same season.",
+          "l": 144.0,
+          "t": 557.13,
+          "r": 432.216,
+          "b": 565.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "ESTIMATES",
+          "l": 72.0,
+          "t": 104.56797,
+          "r": 143.976,
+          "b": 113.15997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Clients may utilize the Fee Schedule to calculate estimated costs for rental and",
+          "l": 90.0,
+          "t": 135.28801,
+          "r": 533.61725,
+          "b": 143.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "services.",
+          "l": 108.0,
+          "t": 151.52997,
+          "r": 158.736,
+          "b": 159.71997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• To assist you, the Theatre Manager can provide general details regarding",
+          "l": 90.0,
+          "t": 168.21002,
+          "r": 501.69724,
+          "b": 176.40002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "staffing levels.",
+          "l": 108.0,
+          "t": 184.04999,
+          "r": 187.416,
+          "b": 192.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Example (does not include refundable deposits)",
+          "l": 72.0,
+          "t": 243.81,
+          "r": 328.896,
+          "b": 252.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day 1",
+          "l": 228.2987,
+          "t": 276.1922,
+          "r": 252.36421,
+          "b": 282.6687,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quantity",
+          "l": 266.8071,
+          "t": 276.4952,
+          "r": 299.879,
+          "b": 282.6687,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Hours",
+          "l": 305.76855,
+          "t": 276.4952,
+          "r": 328.8736,
+          "b": 282.6687,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sub-Total",
+          "l": 334.76312,
+          "t": 276.4952,
+          "r": 373.47083,
+          "b": 282.6687,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Day 2",
+          "l": 389.58096,
+          "t": 276.1922,
+          "r": 413.64642,
+          "b": 282.6687,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Quantity",
+          "l": 430.35455,
+          "t": 276.4952,
+          "r": 463.42645,
+          "b": 282.6687,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Hours",
+          "l": 468.86295,
+          "t": 276.4952,
+          "r": 491.96802,
+          "b": 282.6689,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Sub-Total",
+          "l": 497.4045,
+          "t": 276.49542,
+          "r": 536.1123,
+          "b": 282.6689,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Facility Rental (6 hours) Nonprofit",
+          "l": 73.81213,
+          "t": 289.61127,
+          "r": 206.35266,
+          "b": 295.78476,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$1,518",
+          "l": 232.82916,
+          "t": 289.61127,
+          "r": 260.51898,
+          "b": 295.78476,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 297.6139,
+          "t": 289.61127,
+          "r": 302.6517,
+          "b": 295.78476,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$1,518",
+          "l": 343.37094,
+          "t": 289.61127,
+          "r": 371.0607,
+          "b": 295.78476,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$1,518",
+          "l": 396.37656,
+          "t": 289.61127,
+          "r": 424.0663,
+          "b": 295.78476,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 460.7083,
+          "t": 289.61127,
+          "r": 465.74612,
+          "b": 295.78476,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$1,518",
+          "l": 506.9184,
+          "t": 289.61127,
+          "r": 534.6082,
+          "b": 295.78476,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Facility Rental Additional Hours (NP)",
+          "l": 73.812195,
+          "t": 302.7271,
+          "r": 217.27193,
+          "b": 308.9006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$253",
+          "l": 240.5309,
+          "t": 302.7271,
+          "r": 260.51904,
+          "b": 308.9006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 297.61395,
+          "t": 302.7271,
+          "r": 302.65176,
+          "b": 308.9006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$253",
+          "l": 351.07266,
+          "t": 302.7271,
+          "r": 371.06076,
+          "b": 308.9006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$253",
+          "l": 404.0783,
+          "t": 302.7271,
+          "r": 424.0664,
+          "b": 308.9006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 460.70834,
+          "t": 302.7271,
+          "r": 465.74615,
+          "b": 308.9006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0",
+          "l": 524.587,
+          "t": 302.7271,
+          "r": 534.6082,
+          "b": 308.9006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Technical Coordinator",
+          "l": 73.812195,
+          "t": 323.07925,
+          "r": 160.1879,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$32",
+          "l": 245.51436,
+          "t": 323.07925,
+          "r": 260.51904,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 297.61395,
+          "t": 323.07925,
+          "r": 302.65176,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 326.60852,
+          "t": 323.07925,
+          "r": 331.64633,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$256",
+          "l": 351.07266,
+          "t": 323.07925,
+          "r": 371.06076,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$32",
+          "l": 409.06174,
+          "t": 323.07925,
+          "r": 424.0664,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 460.70834,
+          "t": 323.07925,
+          "r": 465.74615,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 489.24988,
+          "t": 323.07925,
+          "r": 494.2877,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$192",
+          "l": 514.6201,
+          "t": 323.07925,
+          "r": 534.6083,
+          "b": 329.25275,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Stage Technicians",
+          "l": 73.812195,
+          "t": 336.1951,
+          "r": 146.29858,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$24",
+          "l": 245.51436,
+          "t": 336.1951,
+          "r": 260.51904,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 297.61395,
+          "t": 336.1951,
+          "r": 302.65176,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8",
+          "l": 326.60852,
+          "t": 336.1951,
+          "r": 331.64633,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$384",
+          "l": 351.07266,
+          "t": 336.1951,
+          "r": 371.06076,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$24",
+          "l": 409.06174,
+          "t": 336.1951,
+          "r": 424.0664,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 460.70834,
+          "t": 336.1951,
+          "r": 465.74615,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6",
+          "l": 489.24988,
+          "t": 336.1951,
+          "r": 494.2877,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$288",
+          "l": 514.6201,
+          "t": 336.1951,
+          "r": 534.6083,
+          "b": 342.3686,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Front of House Coordinator",
+          "l": 73.8121,
+          "t": 357.9031,
+          "r": 181.93465,
+          "b": 364.0766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$32",
+          "l": 245.51427,
+          "t": 357.9031,
+          "r": 260.51895,
+          "b": 364.0766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 297.61386,
+          "t": 357.9031,
+          "r": 302.65167,
+          "b": 364.0766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.5",
+          "l": 318.90674,
+          "t": 357.9031,
+          "r": 331.6462,
+          "b": 364.0766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$144",
+          "l": 351.07254,
+          "t": 357.9031,
+          "r": 371.06064,
+          "b": 364.0766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$32",
+          "l": 409.0616,
+          "t": 357.9031,
+          "r": 424.06628,
+          "b": 364.0766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "1",
+          "l": 460.70825,
+          "t": 357.9031,
+          "r": 465.74606,
+          "b": 364.0766,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4.5",
+          "l": 481.5481,
+          "t": 357.9031,
+          "r": 494.2875,
+          "b": 364.0767,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$144",
+          "l": 514.61993,
+          "t": 357.9032,
+          "r": 534.6081,
+          "b": 364.0767,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Front of House Assistants",
+          "l": 73.81204,
+          "t": 371.01904,
+          "r": 176.19817,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$21",
+          "l": 245.5142,
+          "t": 371.01904,
+          "r": 260.5189,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 297.6138,
+          "t": 371.01904,
+          "r": 302.6516,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 326.60837,
+          "t": 371.01904,
+          "r": 331.64618,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$252",
+          "l": 351.0725,
+          "t": 371.01904,
+          "r": 371.0606,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$21",
+          "l": 409.06158,
+          "t": 371.01904,
+          "r": 424.06625,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "3",
+          "l": 460.7082,
+          "t": 371.01904,
+          "r": 465.746,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4",
+          "l": 489.24973,
+          "t": 371.01904,
+          "r": 494.28754,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$252",
+          "l": 514.61993,
+          "t": 371.01904,
+          "r": 534.6081,
+          "b": 377.19254,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Box Office Coordinator",
+          "l": 73.8121,
+          "t": 392.2757,
+          "r": 164.71822,
+          "b": 398.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$32",
+          "l": 245.51427,
+          "t": 392.2757,
+          "r": 260.51895,
+          "b": 398.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 297.61386,
+          "t": 392.2757,
+          "r": 302.65167,
+          "b": 398.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0",
+          "l": 361.03946,
+          "t": 392.2757,
+          "r": 371.0607,
+          "b": 398.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$32",
+          "l": 409.06168,
+          "t": 392.2757,
+          "r": 424.06635,
+          "b": 398.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "0",
+          "l": 460.70825,
+          "t": 392.2757,
+          "r": 465.74606,
+          "b": 398.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$0",
+          "l": 524.5869,
+          "t": 392.2757,
+          "r": 534.60815,
+          "b": 398.4492,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Box Office Assistants",
+          "l": 73.81213,
+          "t": 405.39154,
+          "r": 158.98286,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$21",
+          "l": 245.5144,
+          "t": 405.39166,
+          "r": 260.5191,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 297.614,
+          "t": 405.39166,
+          "r": 302.65182,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.5",
+          "l": 318.9069,
+          "t": 405.39166,
+          "r": 331.64636,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$105",
+          "l": 351.0727,
+          "t": 405.39166,
+          "r": 371.0608,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$21",
+          "l": 409.06177,
+          "t": 405.39166,
+          "r": 424.06644,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2",
+          "l": 460.7084,
+          "t": 405.39166,
+          "r": 465.74622,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "2.5",
+          "l": 481.54825,
+          "t": 405.39166,
+          "r": 494.28772,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$105",
+          "l": 514.6201,
+          "t": 405.39166,
+          "r": 534.6083,
+          "b": 411.56516,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$2,912",
+          "l": 343.37103,
+          "t": 419.41202,
+          "r": 371.0608,
+          "b": 425.5855,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$2,499",
+          "l": 506.91846,
+          "t": 419.41202,
+          "r": 534.6083,
+          "b": 425.5855,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Total (2 days)",
+          "l": 73.812256,
+          "t": 432.22485,
+          "r": 132.55339,
+          "b": 438.70135,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "$5,411",
+          "l": 232.82928,
+          "t": 432.22485,
+          "r": 260.5191,
+          "b": 438.70135,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "RENTAL TIPS",
+          "l": 72.0,
+          "t": 490.968,
+          "r": 154.056,
+          "b": 499.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Clients are required to include rehearsal and performance times on the 90-day",
+          "l": 90.0,
+          "t": 522.09,
+          "r": 527.136,
+          "b": 530.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Advance Form.  Doing so ensures we schedule the required number of staff and",
+          "l": 108.0,
+          "t": 537.93,
+          "r": 537.09717,
+          "b": 546.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "volunteers for your use.",
+          "l": 108.0,
+          "t": 553.77,
+          "r": 236.736,
+          "b": 561.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• For those who wish to have two performances in one-day, there must be 3",
+          "l": 90.0,
+          "t": 570.04803,
+          "r": 511.05594,
+          "b": 578.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "hours between the end of the first performance and the curtain for the",
+          "l": 108.0,
+          "t": 585.888,
+          "r": 510.10098,
+          "b": 594.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "second performance.  This gives us adequate time to clean and reset for your",
+          "l": 108.0,
+          "t": 601.728,
+          "r": 531.8159,
+          "b": 610.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "second audience.",
+          "l": 108.0,
+          "t": 617.68805,
+          "r": 205.416,
+          "b": 626.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Tailgates and picnics (no alcohol permitted) are a great way to spend time",
+          "l": 90.0,
+          "t": 634.77,
+          "r": 504.33606,
+          "b": 642.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "together between shows.  Please bag your own trash and haul it away or deposit",
+          "l": 108.0,
+          "t": 650.61,
+          "r": 539.7359,
+          "b": 658.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "in the dumpster at the top and to the left of the loading dock.",
+          "l": 108.0,
+          "t": 666.04803,
+          "r": 430.896,
+          "b": 674.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "4 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "TICKETING",
+          "l": 72.0,
+          "t": 100.60801,
+          "r": 140.01599,
+          "b": 109.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "The PCPA offers professional box office services.  We use information provided in",
+          "l": 71.99999,
+          "t": 126.81,
+          "r": 510.9361,
+          "b": 135.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "advance by you to successfully begin the process for selling tickets.",
+          "l": 71.99999,
+          "t": 142.65002,
+          "r": 434.136,
+          "b": 150.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Capacity and Ticketing Options",
+          "l": 72.0,
+          "t": 168.57,
+          "r": 241.416,
+          "b": 176.76001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The seating capacity of the PCPA is 809.  There are 800 fixed seats (which",
+          "l": 90.0,
+          "t": 195.33002,
+          "r": 510.21725,
+          "b": 203.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "includes nine (9) wheelchair companion seats) plus nine (9) wheelchair only",
+          "l": 108.0,
+          "t": 211.17004,
+          "r": 513.6984,
+          "b": 219.36005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "spaces.",
+          "l": 107.99999,
+          "t": 227.01007,
+          "r": 152.73598,
+          "b": 235.20007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• To be used at our discretion, the PCPA will hold eight (8) house seats for each",
+          "l": 89.99999,
+          "t": 243.69006,
+          "r": 527.7359,
+          "b": 251.88007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "performance.",
+          "l": 107.99997,
+          "t": 259.5301,
+          "r": 182.01596,
+          "b": 267.7201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Seats may be sold as Reserved or General Admission.",
+          "l": 89.99996,
+          "t": 276.21008,
+          "r": 402.81598,
+          "b": 284.4001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• There are two options for ticketing: (1) Our box office sells the tickets, OR (2) Our",
+          "l": 89.99997,
+          "t": 292.89008,
+          "r": 542.376,
+          "b": 301.08008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "box office prints the tickets for the client to sell on their own.",
+          "l": 108.0,
+          "t": 308.73007,
+          "r": 428.25598,
+          "b": 316.92007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Refunds – Exchanges",
+          "l": 72.0,
+          "t": 334.65,
+          "r": 192.696,
+          "b": 342.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• No refunds or exchanges are processed by the box office.",
+          "l": 90.0,
+          "t": 360.888,
+          "r": 445.41602,
+          "b": 369.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Refunds, if any, must be processed by the client.  Should a patron wish to",
+          "l": 126.0,
+          "t": 377.13,
+          "r": 538.416,
+          "b": 385.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discuss further, a client contact must be provided.",
+          "l": 144.00003,
+          "t": 393.09,
+          "r": 410.85602,
+          "b": 401.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o The PCPA will make every attempt to resolve issues with credit card",
+          "l": 126.00003,
+          "t": 408.93,
+          "r": 509.6185,
+          "b": 417.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "chargebacks or returned checks from patrons.  It we are unable to resolve,",
+          "l": 144.00003,
+          "t": 424.77,
+          "r": 542.9771,
+          "b": 432.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the client will be responsible for chargebacks, cancelled check fees, and",
+          "l": 144.00003,
+          "t": 440.61,
+          "r": 530.376,
+          "b": 448.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "any associated charges.",
+          "l": 144.00003,
+          "t": 456.44998,
+          "r": 276.81604,
+          "b": 464.63998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Ticketing Tips",
+          "l": 72.0,
+          "t": 482.37,
+          "r": 149.376,
+          "b": 490.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• If you are selling your own tickets, the box office will be closed on the day of your",
+          "l": 90.0,
+          "t": 509.13,
+          "r": 540.33606,
+          "b": 517.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "event and tickets cannot be reprinted or replaced.",
+          "l": 108.0,
+          "t": 524.97003,
+          "r": 374.856,
+          "b": 533.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Children under the age of one (1) year do not require a ticket if they are seated",
+          "l": 90.0,
+          "t": 541.64996,
+          "r": 528.9383,
+          "b": 549.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "on a lap.",
+          "l": 108.0,
+          "t": 557.49,
+          "r": 157.416,
+          "b": 565.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Re-entry is permitted by obtaining a handstamp at the main lobby doors upon",
+          "l": 90.0,
+          "t": 574.17,
+          "r": 521.856,
+          "b": 582.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "exit.",
+          "l": 108.000015,
+          "t": 590.00995,
+          "r": 133.29602,
+          "b": 598.19995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "5 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Audio-Visual",
+          "l": 72.0,
+          "t": 74.68803,
+          "r": 142.656,
+          "b": 83.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Professional Photography/Video: approved areas are located on the seat map",
+          "l": 90.0,
+          "t": 101.849976,
+          "r": 525.0983,
+          "b": 110.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and reserved through the Box Office Coordinator during Step 3.",
+          "l": 108.0,
+          "t": 117.69,
+          "r": 448.176,
+          "b": 125.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The client may choose whether to allow patron photography and recording during",
+          "l": 90.0,
+          "t": 134.37,
+          "r": 542.4983,
+          "b": 142.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "an event.",
+          "l": 108.0,
+          "t": 150.21002,
+          "r": 160.656,
+          "b": 158.40002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o For performer safety, no flash photography is permitted inside the theatre.",
+          "l": 126.00001,
+          "t": 166.05005,
+          "r": 538.896,
+          "b": 174.24005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o For safety and emergency evacuation, no tripods, monopods, or other",
+          "l": 126.0,
+          "t": 181.89008,
+          "r": 518.2561,
+          "b": 190.08008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "stabilizing devices are permitted.",
+          "l": 144.0,
+          "t": 197.7301,
+          "r": 321.456,
+          "b": 205.9201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Professional audio-visual personnel must be clearly identified, enter through the",
+          "l": 90.0,
+          "t": 214.53009,
+          "r": 534.456,
+          "b": 222.7201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "lobby doors, and check-in with the Front of House Coordinator for escort.",
+          "l": 108.0,
+          "t": 230.37012,
+          "r": 498.216,
+          "b": 238.56012,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "MARKETING",
+          "l": 72.0,
+          "t": 281.6881,
+          "r": 148.056,
+          "b": 290.28012,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "We highly recommend you identify and implement a marketing plan for your event.",
+          "l": 72.0,
+          "t": 307.8901,
+          "r": 516.336,
+          "b": 316.0801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Currently, the PCPA can provide the following opportunities.",
+          "l": 72.0,
+          "t": 323.8501,
+          "r": 394.176,
+          "b": 332.0401,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Website",
+          "l": 72.0,
+          "t": 349.65,
+          "r": 118.656,
+          "b": 357.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Your event will be listed on powaycenter.com and will include a photo, description, and",
+          "l": 72.0,
+          "t": 375.57,
+          "r": 535.0559,
+          "b": 383.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "ticketing information.  During Step 3, you will submit the following.",
+          "l": 72.0,
+          "t": 391.41,
+          "r": 423.576,
+          "b": 399.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• 800 x 600 JPEG format image in landscape orientation.",
+          "l": 90.0,
+          "t": 418.17,
+          "r": 405.576,
+          "b": 426.36002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• An event description (450 characters or less).",
+          "l": 90.0,
+          "t": 434.85,
+          "r": 352.776,
+          "b": 443.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Ticketing contact if you are selling your own tickets.",
+          "l": 90.0,
+          "t": 451.53,
+          "r": 384.096,
+          "b": 459.72,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Displays",
+          "l": 72.0,
+          "t": 477.33,
+          "r": 120.696,
+          "b": 485.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "You may provide the following for promotion of your event onsite at the PCPA.  Display",
+          "l": 72.0,
+          "t": 503.13,
+          "r": 536.3761,
+          "b": 511.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "dates are solely determined by the PCPA.",
+          "l": 72.0,
+          "t": 519.09,
+          "r": 298.176,
+          "b": 527.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Marquee (street and box office):  During Step 3, you must submit the required",
+          "l": 90.0,
+          "t": 545.73,
+          "r": 522.9372,
+          "b": 553.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "digital image, event title, date, and time.",
+          "l": 108.0,
+          "t": 561.57,
+          "r": 322.776,
+          "b": 569.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Kiosk: A postcard or flyer (8.5” X 11”) can be placed in the lobby.",
+          "l": 90.0,
+          "t": 578.25,
+          "r": 454.896,
+          "b": 586.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Monument Sign: A poster (11” x 17”) can be displayed as space permits.",
+          "l": 90.0,
+          "t": 594.93,
+          "r": 496.17596,
+          "b": 603.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Social Media",
+          "l": 72.0,
+          "t": 620.85,
+          "r": 144.09601,
+          "b": 629.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Information provided by you will be utilized to post to the PCPA Facebook and",
+          "l": 90.0,
+          "t": 647.49,
+          "r": 524.9773,
+          "b": 655.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Instagram.",
+          "l": 108.0,
+          "t": 663.33,
+          "r": 167.976,
+          "b": 671.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Your organization postings may be reposted by tagging us @powaycenter.",
+          "l": 90.0,
+          "t": 680.13,
+          "r": 507.816,
+          "b": 688.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "6 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "TECHNICAL INFORMATION",
+          "l": 72.0,
+          "t": 74.68803,
+          "r": 232.65599,
+          "b": 83.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Load-In/Out",
+          "l": 72.0,
+          "t": 101.01001,
+          "r": 138.696,
+          "b": 109.20001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Rental rates apply during all times the building is being utilized by the client.",
+          "l": 90.0,
+          "t": 127.650024,
+          "r": 513.096,
+          "b": 135.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Access prior to the established rental time will not be permitted.  The client",
+          "l": 90.0,
+          "t": 144.33002,
+          "r": 506.376,
+          "b": 152.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "checking out with the Technical Theatre Coordinator ends the rental time.",
+          "l": 108.0,
+          "t": 160.17004,
+          "r": 504.336,
+          "b": 168.36005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• To enter the building, meet the Technical Theatre Coordinator at the Artist",
+          "l": 90.0,
+          "t": 176.85004,
+          "r": 503.61737,
+          "b": 185.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Entrance at the start time of your rental.",
+          "l": 108.0,
+          "t": 192.69006,
+          "r": 322.056,
+          "b": 200.88007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Clients must enter through the Artist Entrance.  The loading dock is only utilized",
+          "l": 90.0,
+          "t": 209.49005,
+          "r": 533.6161,
+          "b": 217.68005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to bring in or take out equipment, scenery, etc.",
+          "l": 108.0,
+          "t": 225.33008,
+          "r": 358.176,
+          "b": 233.52008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Before load-in and prior to departure, the client may accompany the Technical",
+          "l": 90.0,
+          "t": 242.01007,
+          "r": 525.0973,
+          "b": 250.20007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Theatre Coordinator to establish pre-rental and post-rental theatre conditions.  If",
+          "l": 108.0,
+          "t": 257.8501,
+          "r": 535.65607,
+          "b": 266.0401,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a walk-through is declined, any cleaning and/or damage fees shall not be",
+          "l": 108.0,
+          "t": 273.6901,
+          "r": 498.93604,
+          "b": 281.8801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "contested.",
+          "l": 108.00001,
+          "t": 289.5301,
+          "r": 170.016,
+          "b": 297.7201,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• For safety reasons, the stage may not be utilized by staff, volunteers, performers,",
+          "l": 90.00001,
+          "t": 306.21008,
+          "r": 542.376,
+          "b": 314.4001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "or any other personnel when un/loading scenery from the battens.",
+          "l": 108.0,
+          "t": 322.05008,
+          "r": 460.896,
+          "b": 330.24008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "General Tips",
+          "l": 72.0,
+          "t": 347.97,
+          "r": 144.09601,
+          "b": 356.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Technical specifications can be found: powaycenter.com",
+          "l": 90.0,
+          "t": 374.73,
+          "r": 411.576,
+          "b": 382.92,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• For safety reasons, no hay, dead trees, or other easily combustible set pieces",
+          "l": 90.0,
+          "t": 391.41,
+          "r": 523.7785,
+          "b": 399.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will be permitted.",
+          "l": 108.0,
+          "t": 407.25,
+          "r": 201.336,
+          "b": 415.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The use of pyrotechnical devices, fire, or flame is strictly prohibited.",
+          "l": 90.0,
+          "t": 423.93,
+          "r": 468.216,
+          "b": 432.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Nothing may be affixed to the curtains or other soft goods.",
+          "l": 90.0,
+          "t": 440.61,
+          "r": 419.496,
+          "b": 448.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Only gaffer tape is allowed on the stage floor.  Damage caused by any other",
+          "l": 90.0,
+          "t": 457.28998,
+          "r": 515.73596,
+          "b": 465.47998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "adhesive will be repaired at the client’s expense.",
+          "l": 107.99997,
+          "t": 473.12997,
+          "r": 368.73596,
+          "b": 481.31998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• All spike tape must be removed from the stage floor before departure.",
+          "l": 89.99994,
+          "t": 489.80997,
+          "r": 480.9359,
+          "b": 497.99997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Dressing room furniture may not be removed or relocated for any reason.",
+          "l": 89.99994,
+          "t": 506.48993,
+          "r": 499.53592,
+          "b": 514.67993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Upon arrangement, temporary dressing areas may be available.",
+          "l": 89.99994,
+          "t": 523.17,
+          "r": 450.9359,
+          "b": 531.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The backstage hallways must always remain clear.",
+          "l": 89.99994,
+          "t": 539.8499,
+          "r": 381.45593,
+          "b": 548.0399,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Rehearsal",
+          "l": 72.0,
+          "t": 565.64996,
+          "r": 130.056,
+          "b": 573.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Performers may enter through the Artist Entrance or the Green Room.  Your",
+          "l": 90.0,
+          "t": 592.41,
+          "r": 515.1385,
+          "b": 600.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "organization coordinates all check-in/out.",
+          "l": 108.0,
+          "t": 608.25,
+          "r": 328.776,
+          "b": 616.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The Artist Entrance and Green Room doors must be closed and locked unless an",
+          "l": 90.0,
+          "t": 624.93,
+          "r": 543.1008,
+          "b": 633.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "authorized representative is monitoring the doors.",
+          "l": 108.0,
+          "t": 640.76996,
+          "r": 374.856,
+          "b": 648.95996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Rehearsals are by default closed to the public.  If for supervision purposes, you",
+          "l": 90.0,
+          "t": 657.45,
+          "r": 530.97705,
+          "b": 665.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "must have parents/guardians in the auditorium during rehearsals, submit a",
+          "l": 108.0,
+          "t": 673.29,
+          "r": 506.256,
+          "b": 681.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "request during Step 1.  Adequate PCPA staff will be provided, and charges will",
+          "l": 108.0,
+          "t": 689.13,
+          "r": 528.456,
+          "b": 697.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "apply.",
+          "l": 107.99997,
+          "t": 705.08997,
+          "r": 143.37598,
+          "b": 713.27997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "7 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "• Rehearsals must be scheduled no later than one (1) hour prior to the curtain",
+          "l": 90.0,
+          "t": 75.92999,
+          "r": 515.01605,
+          "b": 84.119995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "time.",
+          "l": 108.0,
+          "t": 91.77002,
+          "r": 137.376,
+          "b": 99.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• For children under the age of ten (10) years, a ratio of one (1) adult for every ten",
+          "l": 90.00001,
+          "t": 108.45001,
+          "r": 536.9771,
+          "b": 116.640015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(10) children backstage is suggested.  Adult chaperones should be clearly",
+          "l": 108.0,
+          "t": 124.29004,
+          "r": 503.61722,
+          "b": 132.48004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "identified with badges, lanyards, etc.",
+          "l": 108.0,
+          "t": 140.13007,
+          "r": 304.776,
+          "b": 148.32007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Performers must use the restrooms located backstage.",
+          "l": 90.0,
+          "t": 156.93005,
+          "r": 402.816,
+          "b": 165.12006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• To minimize the chance of potential damages, we recommend that you do not",
+          "l": 90.0,
+          "t": 173.61005,
+          "r": 524.37604,
+          "b": 181.80005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "use the lobby as a rehearsal space.  Any use of the lobby may only be",
+          "l": 108.0,
+          "t": 189.45007,
+          "r": 484.41605,
+          "b": 197.64008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "authorized by the Technical Theatre Coordinator.",
+          "l": 108.0,
+          "t": 205.2901,
+          "r": 372.096,
+          "b": 213.4801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• No eating or drinking is permitted in the theatre, lobby, or onstage.",
+          "l": 90.0,
+          "t": 221.9701,
+          "r": 462.936,
+          "b": 230.1601,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The backstage door will be closed and locked two (2) hours before curtain time",
+          "l": 90.00003,
+          "t": 238.65009,
+          "r": 529.77606,
+          "b": 246.84009,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and performers will not be permitted in the lobby.",
+          "l": 108.00003,
+          "t": 254.49011,
+          "r": 370.77603,
+          "b": 262.6801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "FRONT OF HOUSE INFORMATION",
+          "l": 72.00003,
+          "t": 331.72812,
+          "r": 270.69604,
+          "b": 340.32013,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "We provide an opportunity for your patrons to enjoy their experience upon entry and our",
+          "l": 72.00003,
+          "t": 357.9301,
+          "r": 541.0548,
+          "b": 366.12012,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "lobby may be used to display information and promote your organization.",
+          "l": 72.00003,
+          "t": 373.8901,
+          "r": 462.21603,
+          "b": 382.0801,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Schedule and Equipment",
+          "l": 72.0,
+          "t": 399.69,
+          "r": 209.496,
+          "b": 407.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Two (2) Hours Before Lobby Opens: The client may begin set up and we",
+          "l": 108.0,
+          "t": 426.45,
+          "r": 514.416,
+          "b": 434.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "provide up to five (5) tables and ten (10) chairs.",
+          "l": 126.0,
+          "t": 441.888,
+          "r": 384.216,
+          "b": 450.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• NO HELIUM BALLOONS.",
+          "l": 108.0,
+          "t": 458.568,
+          "r": 280.65598,
+          "b": 467.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• We do not provide tablecloths, easels, step and repeats, etc. and nothing",
+          "l": 108.0,
+          "t": 475.248,
+          "r": 520.41724,
+          "b": 483.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "may be affixed to the walls or windows.",
+          "l": 126.0,
+          "t": 491.49,
+          "r": 337.41602,
+          "b": 499.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• All volunteers/staff in lobby prior to opening to the public must be clearly",
+          "l": 108.000015,
+          "t": 508.16998,
+          "r": 510.93726,
+          "b": 516.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "identified (badge, lanyard, etc.).",
+          "l": 126.000015,
+          "t": 524.00995,
+          "r": 304.176,
+          "b": 532.19995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Lobby doors open one (1) hour before curtain time and House doors open",
+          "l": 108.0,
+          "t": 540.69,
+          "r": 521.6161,
+          "b": 548.88,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "thirty (30) minutes before curtain time.",
+          "l": 126.0,
+          "t": 556.52997,
+          "r": 331.41602,
+          "b": 564.72,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Merchandise Sales",
+          "l": 72.0,
+          "t": 582.45,
+          "r": 177.456,
+          "b": 590.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Merchandise may be sold in the lobby and a 15% Non-profit and 20% For",
+          "l": 108.0,
+          "t": 609.09,
+          "r": 519.696,
+          "b": 617.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Profit commission applies.  The commission must be reported by you and will",
+          "l": 126.0,
+          "t": 624.93,
+          "r": 538.8973,
+          "b": 633.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "be invoiced after your event.",
+          "l": 126.0,
+          "t": 640.89,
+          "r": 280.056,
+          "b": 649.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The client is responsible for the State of California resale tax requirements.",
+          "l": 108.0,
+          "t": 657.57,
+          "r": 529.53595,
+          "b": 665.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Commission is applicable to all sales before, during, and after your event.",
+          "l": 107.99997,
+          "t": 674.25,
+          "r": 522.33594,
+          "b": 682.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "This includes programs, recordings, souvenirs, auction items and donations.",
+          "l": 125.99997,
+          "t": 690.09,
+          "r": 536.976,
+          "b": 698.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "8 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "Additional Tips",
+          "l": 72.0,
+          "t": 75.09003,
+          "r": 154.056,
+          "b": 83.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• A Front of House Contact must be identified by your organization and",
+          "l": 108.0,
+          "t": 101.849976,
+          "r": 497.01733,
+          "b": 110.03998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "available to the PCPA from set-up through the end of your event.  The contact",
+          "l": 126.0,
+          "t": 117.69,
+          "r": 543.09705,
+          "b": 125.880005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "should remain in the lobby or always be accessible.",
+          "l": 125.999985,
+          "t": 133.53003,
+          "r": 402.69598,
+          "b": 141.72003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Our well-trained Volunteer Ushers will serve as ticket-takers, hand-out your",
+          "l": 107.99997,
+          "t": 150.21002,
+          "r": 527.61597,
+          "b": 158.40002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "programs, operate the doors and monitor late arrivals, and assist with safety",
+          "l": 125.99997,
+          "t": 166.05005,
+          "r": 533.0171,
+          "b": 174.24005,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "procedures.",
+          "l": 125.99997,
+          "t": 181.89008,
+          "r": 192.69597,
+          "b": 190.08008,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• To enhance the patron experience, the PCPA operates a concession and bar",
+          "l": 107.99997,
+          "t": 198.57007,
+          "r": 539.0159,
+          "b": 206.76007,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "(non-PUSD events) before your event and during intermission.  All revenue is",
+          "l": 125.99994,
+          "t": 214.4101,
+          "r": 539.7371,
+          "b": 222.6001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "retained by the PCPA.  Outside food/beverages are not permitted.",
+          "l": 125.999954,
+          "t": 230.37012,
+          "r": 479.49597,
+          "b": 238.56012,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Intermission is a minimum of twenty (20) minutes.  Should you choose",
+          "l": 108.0,
+          "t": 246.648,
+          "r": 531.57855,
+          "b": 255.23999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to forgo the intermission, a fee of $158 will apply for each performance.",
+          "l": 126.0,
+          "t": 262.488,
+          "r": 536.13586,
+          "b": 271.08002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Post-show “meet and greets” with the performers are permitted.  Be sure to",
+          "l": 108.0,
+          "t": 279.57,
+          "r": 528.33844,
+          "b": 287.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "discuss the details with the Front of House Coordinator.",
+          "l": 126.0,
+          "t": 295.41,
+          "r": 424.17596,
+          "b": 303.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Requests for receptions with food are very limited and may only be authorized",
+          "l": 107.99997,
+          "t": 312.09,
+          "r": 542.97595,
+          "b": 320.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "by the Theatre Manager (courtyard rental fees may apply).",
+          "l": 125.999985,
+          "t": 327.93,
+          "r": 439.53598,
+          "b": 336.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "SAFETY INFORMATION",
+          "l": 71.99997,
+          "t": 379.248,
+          "r": 210.69595,
+          "b": 387.84,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "We take the safety of our clients and performers very seriously.  For your protection, the",
+          "l": 71.99997,
+          "t": 405.57,
+          "r": 541.7783,
+          "b": 413.76,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "following procedures are critical.",
+          "l": 71.99997,
+          "t": 421.41,
+          "r": 246.81596,
+          "b": 429.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Access Control",
+          "l": 72.0,
+          "t": 447.33,
+          "r": 156.09601,
+          "b": 455.52,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The Artist Entrance, Green Room, and all exterior doors must remain closed and",
+          "l": 90.0,
+          "t": 473.97,
+          "r": 539.0183,
+          "b": 482.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "always locked.  The doors must be visually and physically supervised by the",
+          "l": 108.0,
+          "t": 489.81,
+          "r": 515.01733,
+          "b": 498.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "client when open for entry or exit.",
+          "l": 108.0,
+          "t": 505.76996,
+          "r": 288.096,
+          "b": 513.95996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• If at any time a door is propped open and not supervised, our team will",
+          "l": 90.000015,
+          "t": 522.04803,
+          "r": 514.7786,
+          "b": 530.64,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "immediately stop a rehearsal or performance and will not continue until the",
+          "l": 108.000015,
+          "t": 537.888,
+          "r": 540.21735,
+          "b": 546.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "issue is resolved.",
+          "l": 108.000015,
+          "t": 553.72797,
+          "r": 211.41602,
+          "b": 562.31995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The backstage door is locked two (2) hours before the lobby opens.",
+          "l": 90.000015,
+          "t": 570.81,
+          "r": 476.25717,
+          "b": 579.0,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Backstage keys are provided to the client and the client is always responsible for",
+          "l": 90.000015,
+          "t": 587.4899,
+          "r": 538.89844,
+          "b": 595.67993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "supervised entry to the backstage or from the backstage to the lobby.",
+          "l": 108.000015,
+          "t": 603.32996,
+          "r": 479.016,
+          "b": 611.51996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The Green Room is only for backstage personnel (staff, volunteers, chaperones)",
+          "l": 90.0,
+          "t": 620.12994,
+          "r": 538.416,
+          "b": 628.31995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and performers.",
+          "l": 108.0,
+          "t": 635.97,
+          "r": 196.056,
+          "b": 644.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• With Theatre Manager authorization, the client may independently contract with",
+          "l": 90.0,
+          "t": 652.64996,
+          "r": 532.41846,
+          "b": 660.83997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "unarmed security personnel to monitor parking, monitor doors, and/or conduct",
+          "l": 108.0,
+          "t": 668.4899,
+          "r": 524.9796,
+          "b": 676.67993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "bag checks.",
+          "l": 108.0,
+          "t": 684.32996,
+          "r": 175.416,
+          "b": 692.51996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "9 | P",
+          "l": 487.2,
+          "t": 732.74524,
+          "r": 509.7989,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7554,
+          "t": 732.74524,
+          "r": 518.8936,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.8744,
+          "t": 732.74524,
+          "r": 528.01263,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.9934,
+          "t": 732.74524,
+          "r": 537.13165,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "• Oversized bags or backpacks are not permitted.  This excludes items necessary",
+          "l": 90.0,
+          "t": 75.92999,
+          "r": 536.3772,
+          "b": 84.119995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "for the performance.",
+          "l": 108.0,
+          "t": 91.77002,
+          "r": 219.456,
+          "b": 99.96002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The PCPA reserves the right to require security at the client’s expense.",
+          "l": 89.99999,
+          "t": 108.45001,
+          "r": 488.25598,
+          "b": 116.640015,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Backstage passes must be issued by the client and are required for all client",
+          "l": 90.0,
+          "t": 125.130005,
+          "r": 515.6183,
+          "b": 133.32,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "representatives (organizers, teachers, volunteers, chaperones, etc.)",
+          "l": 107.999985,
+          "t": 140.97003,
+          "r": 470.85596,
+          "b": 149.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• All performers must enter through the Artist Entrance or Green Room.",
+          "l": 89.99997,
+          "t": 157.65002,
+          "r": 481.53595,
+          "b": 165.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "General Entry Requirements",
+          "l": 72.0,
+          "t": 183.57,
+          "r": 227.376,
+          "b": 191.76001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Tickets must be presented by the following prior to entry. Everyone listed below must",
+          "l": 72.0,
+          "t": 209.37,
+          "r": 525.69604,
+          "b": 217.56,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "enter through the main doors of the lobby.",
+          "l": 72.0,
+          "t": 225.33002,
+          "r": 298.176,
+          "b": 233.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Staff/Volunteers assigned to the lobby.",
+          "l": 90.0,
+          "t": 251.97003,
+          "r": 316.896,
+          "b": 260.16003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Teachers, volunteers, instructors who will be seated inside the theatre.",
+          "l": 90.0,
+          "t": 268.65002,
+          "r": 485.616,
+          "b": 276.84003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Parents/Guardians after checking in performers at the Artist Entrance or Green",
+          "l": 90.00003,
+          "t": 285.33002,
+          "r": 529.6608,
+          "b": 293.52002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Room.",
+          "l": 108.00003,
+          "t": 301.17,
+          "r": 146.73604,
+          "b": 309.36002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Performers seated inside the theatre to watch the event/performance(s).",
+          "l": 90.00004,
+          "t": 317.85,
+          "r": 494.13602,
+          "b": 326.04,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• All youth over the age of one (1) year.",
+          "l": 90.0,
+          "t": 334.53,
+          "r": 312.09598,
+          "b": 342.72,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Reserved and General Admission patrons.",
+          "l": 90.0,
+          "t": 351.21,
+          "r": 337.41602,
+          "b": 359.4,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "PARKING INFORMATION",
+          "l": 72.000015,
+          "t": 392.568,
+          "r": 218.736,
+          "b": 401.16,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• There is an abundant amount of free parking available for evening and weekend",
+          "l": 90.000015,
+          "t": 419.61,
+          "r": 536.49725,
+          "b": 427.8,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "use.",
+          "l": 108.000015,
+          "t": 435.44998,
+          "r": 134.01602,
+          "b": 443.63998,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Parking is extremely limited for day-time use.  For load in/out and rehearsals that",
+          "l": 90.00002,
+          "t": 451.84796,
+          "r": 542.9759,
+          "b": 460.43997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "begin prior to 4:00pm, Monday through Friday, 10 parking permits may be",
+          "l": 108.0,
+          "t": 468.08997,
+          "r": 503.01602,
+          "b": 476.27997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "requested on the 90-day Advance Form.",
+          "l": 107.99997,
+          "t": 483.92996,
+          "r": 326.136,
+          "b": 492.11996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Day time events (workshops, seminars, fieldtrips, performances, etc.) are subject",
+          "l": 90.0,
+          "t": 500.60995,
+          "r": 540.93585,
+          "b": 508.79996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "to several requirements.",
+          "l": 108.0,
+          "t": 516.44995,
+          "r": 240.096,
+          "b": 524.63995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Monday through Friday from 8:00am to 4:00pm uses are authorized on a",
+          "l": 126.0,
+          "t": 532.29,
+          "r": 533.6159,
+          "b": 540.48,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "very limited basis.",
+          "l": 143.99997,
+          "t": 548.12994,
+          "r": 242.73596,
+          "b": 556.31995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o The request must be submitted during Step 2 and authorized by the",
+          "l": 125.99997,
+          "t": 564.08997,
+          "r": 506.25607,
+          "b": 572.27997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Theatre Manager.",
+          "l": 143.99997,
+          "t": 579.92993,
+          "r": 242.73596,
+          "b": 588.11993,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o The client is responsible for coordinating and hiring shuttle busses for all",
+          "l": 125.99997,
+          "t": 595.76996,
+          "r": 530.85724,
+          "b": 603.95996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "attendees.  Parking for the shuttle(s) is located at the Lake Poway",
+          "l": 143.99997,
+          "t": 611.6099,
+          "r": 497.01724,
+          "b": 619.7999,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Recreation Area.",
+          "l": 144.0,
+          "t": 627.56995,
+          "r": 237.336,
+          "b": 635.75995,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o All non-permitted vehicles may be subject to ticketing/towing.  The",
+          "l": 126.0,
+          "t": 643.008,
+          "r": 528.21735,
+          "b": 651.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "client may be required to provide a parking lot monitor to ensure",
+          "l": 144.0,
+          "t": 658.84796,
+          "r": 516.10095,
+          "b": 667.43994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "parking is by permit only.",
+          "l": 144.0,
+          "t": 674.6879,
+          "r": 292.656,
+          "b": 683.2799,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "10 | P",
+          "l": 481.08,
+          "t": 732.74524,
+          "r": 509.795,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7515,
+          "t": 732.74524,
+          "r": 518.8898,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.87054,
+          "t": 732.74524,
+          "r": 528.0088,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.98956,
+          "t": 732.74524,
+          "r": 537.1278,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "widthPt": 612.0,
+      "heightPt": 792.0,
+      "runs": [
+        {
+          "text": "POST-EVENT DETAILS",
+          "l": 72.0,
+          "t": 74.68803,
+          "r": 206.73479,
+          "b": 83.28003,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• A client representative must check out with the Front of House Coordinator and",
+          "l": 90.0,
+          "t": 101.85004,
+          "r": 530.8571,
+          "b": 110.04004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "the Technical Theatre Coordinator.",
+          "l": 108.0,
+          "t": 117.69006,
+          "r": 296.736,
+          "b": 125.880066,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Be sure to take all your equipment and supplies including costumes, props,",
+          "l": 89.999985,
+          "t": 134.37006,
+          "r": 509.8573,
+          "b": 142.56006,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "scenery, personal belongings, merchandise, tablecloths, etc.",
+          "l": 107.999985,
+          "t": 150.21008,
+          "r": 432.81598,
+          "b": 158.40009,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Deposit Retention",
+          "l": 72.0,
+          "t": 201.93,
+          "r": 170.736,
+          "b": 210.12,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The PCPA may retain the cleaning deposit for additional costs associated with",
+          "l": 90.0,
+          "t": 228.57,
+          "r": 526.2961,
+          "b": 236.76001,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "excessive trash, food, drinks, etc. left backstage and/or in the lobby.",
+          "l": 108.0,
+          "t": 244.41003,
+          "r": 471.576,
+          "b": 252.60004,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• The PCPA may retain the damage deposit for any costs associated with repair of",
+          "l": 90.0,
+          "t": 261.21002,
+          "r": 540.33716,
+          "b": 269.40002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "damages caused by the client during use.",
+          "l": 108.0,
+          "t": 277.05002,
+          "r": 332.73602,
+          "b": 285.24002,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Final Invoice/Payment",
+          "l": 72.0,
+          "t": 328.77,
+          "r": 193.416,
+          "b": 336.96,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "• Upon completion of your event (s), the client will receive either an invoice or a",
+          "l": 90.0,
+          "t": 355.41,
+          "r": 522.93726,
+          "b": 363.6,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "payment.",
+          "l": 108.0,
+          "t": 371.25,
+          "r": 160.656,
+          "b": 379.44,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Invoice: The client will receive a final report for ticket and rental charges",
+          "l": 126.00001,
+          "t": 387.21,
+          "r": 527.49725,
+          "b": 395.4,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "and other fees and services.  Payment is due to the PCPA within twenty-",
+          "l": 144.0,
+          "t": 403.05,
+          "r": 529.71594,
+          "b": 411.24,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "one (21) calendar days from the date the client receives the Final Invoice.",
+          "l": 143.99997,
+          "t": 418.88998,
+          "r": 537.5771,
+          "b": 427.08,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "o Payment: The PCPA has first priority to be paid from the ticket sales",
+          "l": 125.99997,
+          "t": 450.68997,
+          "r": 509.01718,
+          "b": 458.87997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "receipts from the scheduled event(s) to cover rental charges, technical,",
+          "l": 143.99997,
+          "t": 466.52997,
+          "r": 524.25714,
+          "b": 474.71997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "box office, and front of house fees, etc.  The net final payment to the client",
+          "l": 143.99997,
+          "t": 482.36996,
+          "r": 540.937,
+          "b": 490.55997,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "will be issued within twenty-one (21) calendar days from the date you",
+          "l": 143.99997,
+          "t": 498.20996,
+          "r": 514.176,
+          "b": 506.39996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "receive the final post-event Credit Memo.",
+          "l": 143.99998,
+          "t": 514.17,
+          "r": 366.09598,
+          "b": 522.36,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "CONTACT INFORMATION",
+          "l": 72.0,
+          "t": 565.488,
+          "r": 221.976,
+          "b": 574.07996,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "Please review this document and the exhibits in their entirety.  Doing so will ensure the",
+          "l": 72.0,
+          "t": 591.68994,
+          "r": 535.05725,
+          "b": 599.87994,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "greatest opportunity to successfully utilize the PCPA.  If you should require additional",
+          "l": 72.0,
+          "t": 607.52997,
+          "r": 526.41724,
+          "b": 615.72,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "information and/or have questions, please contact us: business@powaycenter.com.",
+          "l": 71.999985,
+          "t": 623.4899,
+          "r": 519.696,
+          "b": 631.68,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "11 | P",
+          "l": 481.08,
+          "t": 732.74524,
+          "r": 509.795,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "a",
+          "l": 512.7515,
+          "t": 732.74524,
+          "r": 518.8898,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "g",
+          "l": 521.87054,
+          "t": 732.74524,
+          "r": 528.0088,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        },
+        {
+          "text": "e",
+          "l": 530.98956,
+          "t": 732.74524,
+          "r": 537.1278,
+          "b": 740.28,
+          "origin": "PdfTextLayer"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}
