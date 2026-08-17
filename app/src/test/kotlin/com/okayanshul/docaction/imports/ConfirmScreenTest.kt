@@ -12,6 +12,8 @@ import com.okayanshul.docaction.core.designsystem.DocActionTheme
 import com.okayanshul.docaction.core.settings.ReminderPreferences
 import com.okayanshul.docaction.domain.ActionTarget
 import com.okayanshul.docaction.imports.ui.ConfirmScreen
+import com.okayanshul.docaction.timetable.TimetableCollision
+import com.okayanshul.docaction.timetable.TimetableResolution
 import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -41,6 +43,8 @@ class ConfirmScreenTest {
         duplicates: Int = 0,
         needsPermission: Boolean = false,
         denied: Boolean = false,
+        collision: TimetableCollision? = null,
+        resolution: TimetableResolution? = null,
     ): ImportState.Confirming {
         val candidates = listOf(Fixtures.candidate("e1"), Fixtures.candidate("e2", title = "Networks"))
         return ImportState.Confirming(
@@ -52,10 +56,21 @@ class ConfirmScreenTest {
             duplicates = duplicates,
             needsPermission = needsPermission,
             denied = denied,
+            timetableCollision = collision,
+            timetableResolution = resolution,
         )
     }
 
-    private fun show(state: ImportState.Confirming, onWrite: () -> Unit = {}) {
+    /**
+     * [onWrite] stays last so `show(state) { written = true }` keeps binding to it. Adding a
+     * parameter after it silently rebinds every trailing lambda in this file, and the tests
+     * that assert a write did *not* happen would then pass for the wrong reason.
+     */
+    private fun show(
+        state: ImportState.Confirming,
+        onChooseTimetableResolution: (TimetableResolution) -> Unit = {},
+        onWrite: () -> Unit = {},
+    ) {
         compose.setContent {
             DocActionTheme {
                 ConfirmScreen(
@@ -63,6 +78,7 @@ class ConfirmScreenTest {
                     onChooseTarget = {},
                     onSetReminders = {},
                     onSetKeepTimetable = {},
+                    onChooseTimetableResolution = onChooseTimetableResolution,
                     onRequestPermission = {},
                     onOpenSettings = {},
                     onWrite = onWrite,
@@ -145,5 +161,102 @@ class ConfirmScreenTest {
             "All of them repeat weekly. Each is added as one repeating event, not as " +
                 "hundreds of copies.",
         ).assertIsDisplayed()
+    }
+
+    // --- a stored timetable is never overwritten without being asked about ---
+
+    private val existing = TimetableCollision(
+        timetableId = "t1",
+        label = "Section CS-1",
+        slotCount = 5,
+        sourceName = "old.pdf",
+        updatedAt = 0,
+    )
+
+    @Test
+    fun `a timetable at risk is named and counted, and blocks the write until answered`() {
+        val one = target("1", "Personal", "me@gmail.com")
+        val atRisk = state(targets = listOf(one), chosenTarget = one, collision = existing)
+
+        // The whole point: an unanswered question cannot be resolved by pressing the button.
+        assertThat(atRisk.awaitingTimetableDecision).isTrue()
+        assertThat(atRisk.canWrite).isFalse()
+
+        var written = false
+        show(atRisk) { written = true }
+
+        // Named and counted — "replace" is only informed if it says what it removes.
+        compose.onNodeWithText(
+            "You already have a timetable called \"Section CS-1\", with 5 classes in it. " +
+                "What should happen to it?",
+        ).assertIsDisplayed()
+        compose.onNodeWithText(
+            "Removes the 5 classes in \"Section CS-1\" and uses these instead. You can undo this.",
+        ).assertIsDisplayed()
+
+        compose.onNodeWithText("Choose what happens to your timetable")
+            .assertIsNotEnabled()
+            .performClick()
+        assertThat(written).isFalse()
+    }
+
+    @Test
+    fun `every option is offered, and none of them is pre-selected`() {
+        val one = target("1", "Personal", "me@gmail.com")
+        show(state(targets = listOf(one), chosenTarget = one, collision = existing))
+
+        // No default. Defaulting is what destroyed timetables in the first place.
+        listOf("Add to it", "Keep both, separately", "Replace it", "Don't keep this one")
+            .forEach { compose.onNodeWithText(it).assertIsDisplayed() }
+    }
+
+    @Test
+    fun `choosing an answer unblocks the write`() {
+        val one = target("1", "Personal", "me@gmail.com")
+        val answered = state(
+            targets = listOf(one),
+            chosenTarget = one,
+            collision = existing,
+            resolution = TimetableResolution.Merge,
+        )
+
+        assertThat(answered.awaitingTimetableDecision).isFalse()
+        assertThat(answered.canWrite).isTrue()
+
+        var written = false
+        show(answered) { written = true }
+        compose.onNodeWithText("Add 2 events").performClick()
+        assertThat(written).isTrue()
+    }
+
+    @Test
+    fun `the button names the destruction it is about to carry out`() {
+        val one = target("1", "Personal", "me@gmail.com")
+        show(
+            state(
+                targets = listOf(one),
+                chosenTarget = one,
+                collision = existing,
+                resolution = TimetableResolution.Replace,
+            ),
+        )
+
+        // The user reads the button they press. Disclosing this only in a dialog that appears
+        // afterwards would be disclosing it after the decision was made.
+        compose.onNodeWithText("Add 2 events and replace timetable").assertIsDisplayed()
+    }
+
+    @Test
+    fun `nothing is asked when the import is not being kept as a timetable`() {
+        val one = target("1", "Personal", "me@gmail.com")
+        val notKept = state(targets = listOf(one), chosenTarget = one, collision = existing)
+            .copy(keepAsTimetable = false)
+
+        // Nothing will be written to the timetable at all, so there is nothing to decide.
+        assertThat(notKept.awaitingTimetableDecision).isFalse()
+        assertThat(notKept.canWrite).isTrue()
+
+        show(notKept)
+        compose.onNodeWithText("Replace it").assertDoesNotExist()
     }
 }

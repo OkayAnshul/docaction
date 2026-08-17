@@ -79,12 +79,37 @@ sealed interface ImportState {
         val denied: Boolean = false,
         /** Offered only for a weekly schedule; see TimetableStore. */
         val keepAsTimetable: Boolean = true,
+        /**
+         * A timetable already stored that keeping this one would land on top of.
+         *
+         * Surfaced here, before the write, rather than discovered afterwards — this is the
+         * screen whose whole job is stating what is about to happen, and a schedule the user
+         * would lose belongs in that statement.
+         */
+        val timetableCollision: com.okayanshul.docaction.timetable.TimetableCollision? = null,
+        /** The user's answer to [timetableCollision]. Null until they give one. */
+        val timetableResolution: com.okayanshul.docaction.timetable.TimetableResolution? = null,
     ) : ImportState {
         val recurring: Int get() = chosen.count { it.recurrence != null }
 
         /** A timetable is the thing that repeats. Nothing else is worth a weekly view. */
         val canKeepAsTimetable: Boolean get() = recurring > 0
-        val canWrite: Boolean get() = target != null && chosen.isNotEmpty() && !needsPermission
+
+        /**
+         * True while a stored timetable's fate is undecided.
+         *
+         * Blocks the write. Not because writing the calendar would be unsafe — it is the same
+         * either way — but because letting someone press "Add 42 events" with an unanswered
+         * question on screen would resolve it by default, and defaulting is exactly what
+         * destroyed timetables before.
+         */
+        val awaitingTimetableDecision: Boolean
+            get() = keepAsTimetable && canKeepAsTimetable &&
+                timetableCollision != null && timetableResolution == null
+
+        val canWrite: Boolean
+            get() = target != null && chosen.isNotEmpty() && !needsPermission &&
+                !awaitingTimetableDecision
     }
 
     /**

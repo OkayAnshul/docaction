@@ -29,6 +29,8 @@ import com.okayanshul.docaction.core.designsystem.MinTouchTarget
 import com.okayanshul.docaction.domain.ActionTarget
 import com.okayanshul.docaction.imports.Copy
 import com.okayanshul.docaction.imports.ImportState
+import com.okayanshul.docaction.timetable.TimetableCollision
+import com.okayanshul.docaction.timetable.TimetableResolution
 
 /**
  * The consent step. Nothing outside the app has changed before this screen, and the only
@@ -45,6 +47,7 @@ fun ConfirmScreen(
     onChooseTarget: (ActionTarget) -> Unit,
     onSetReminders: (Boolean) -> Unit,
     onSetKeepTimetable: (Boolean) -> Unit,
+    onChooseTimetableResolution: (TimetableResolution) -> Unit,
     onRequestPermission: () -> Unit,
     onOpenSettings: () -> Unit,
     onWrite: () -> Unit,
@@ -155,16 +158,21 @@ fun ConfirmScreen(
                             onCheckedChange = onSetKeepTimetable,
                         )
                     }
+
+                    val collision = state.timetableCollision
+                    if (state.keepAsTimetable && collision != null) {
+                        TimetableDecision(
+                            collision = collision,
+                            chosen = state.timetableResolution,
+                            onChoose = onChooseTimetableResolution,
+                        )
+                    }
                 }
             }
         }
 
         BottomBar(
-            label = if (state.needsPermission) {
-                "Allow calendar access"
-            } else {
-                "Add ${Copy.countOf(state.chosen.size, "event")}"
-            },
+            label = confirmLabel(state),
             enabled = state.canWrite || (state.needsPermission && !state.denied),
             onClick = if (state.needsPermission) onRequestPermission else onWrite,
         )
@@ -208,6 +216,101 @@ private fun PermissionBlock(denied: Boolean, onSettings: () -> Unit) {
             }
         }
     }
+}
+
+/**
+ * The question that stands between someone and losing a schedule they already had.
+ *
+ * This exists because the app used to answer it silently, and answer it wrong: a timetable was
+ * identified by its display name, so importing an unrelated document that produced the same
+ * name replaced the stored one outright. Institutions reuse filenames, so this was not a rare
+ * edge — it was a student losing a semester of classes to a file called "timetable.pdf".
+ *
+ * Four options, no default, and **Replace states its cost in slots before it is chosen**. The
+ * count is the whole point: "replace" is only an informed decision if it says what it removes.
+ */
+@Composable
+private fun TimetableDecision(
+    collision: TimetableCollision,
+    chosen: TimetableResolution?,
+    onChoose: (TimetableResolution) -> Unit,
+) {
+    Column(modifier = Modifier.padding(top = DocAction.space.snug)) {
+        Notice(
+            "You already have a timetable called \"${collision.label}\", with " +
+                "${Copy.countOf(collision.slotCount, "class", "classes")} in it. " +
+                "What should happen to it?",
+        )
+
+        val options = listOf(
+            Triple(
+                TimetableResolution.Merge,
+                "Add to it",
+                "Keeps everything already in \"${collision.label}\" and adds these alongside.",
+            ),
+            Triple(
+                TimetableResolution.CreateNew,
+                "Keep both, separately",
+                "Leaves \"${collision.label}\" exactly as it is and stores this as a second timetable.",
+            ),
+            Triple(
+                TimetableResolution.Replace,
+                "Replace it",
+                "Removes the ${Copy.countOf(collision.slotCount, "class", "classes")} in " +
+                    "\"${collision.label}\" and uses these instead. You can undo this.",
+            ),
+            Triple(
+                TimetableResolution.Skip,
+                "Don't keep this one",
+                "Adds the events to your calendar only. Your timetable is untouched.",
+            ),
+        )
+
+        options.forEach { (resolution, title, detail) ->
+            val selected = chosen == resolution
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable { onChoose(resolution) }
+                    .padding(horizontal = DocAction.space.default, vertical = DocAction.space.snug)
+                    .sizeIn(minHeight = MinTouchTarget),
+                verticalAlignment = Alignment.CenterVertically,
+            ) {
+                RadioButton(selected = selected, onClick = { onChoose(resolution) })
+                Column(modifier = Modifier.padding(start = DocAction.space.snug)) {
+                    Text(title, style = DocAction.type.body)
+                    Text(
+                        text = detail,
+                        style = DocAction.type.meta,
+                        // The destructive option is the only one carrying attention colour, and
+                        // only once it is the one selected — colouring it always would make the
+                        // safe choices look like warnings too.
+                        color = if (selected && resolution == TimetableResolution.Replace) {
+                            DocAction.confidence.checkFg
+                        } else {
+                            MaterialTheme.colorScheme.onSurfaceVariant
+                        },
+                    )
+                }
+            }
+        }
+    }
+}
+
+/**
+ * The button says what it is about to do, including the destructive part.
+ *
+ * Naming the removal here rather than behind a second dialog is deliberate: the user reads the
+ * button they are pressing, and a dialog that appears after the decision is made is a worse
+ * place to disclose a consequence than the control that carries it out.
+ */
+private fun confirmLabel(state: ImportState.Confirming): String = when {
+    state.needsPermission -> "Allow calendar access"
+    state.awaitingTimetableDecision -> "Choose what happens to your timetable"
+    state.timetableResolution == TimetableResolution.Replace && state.keepAsTimetable ->
+        "Add ${Copy.countOf(state.chosen.size, "event")} and replace timetable"
+
+    else -> "Add ${Copy.countOf(state.chosen.size, "event")}"
 }
 
 @Composable

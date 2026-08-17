@@ -49,6 +49,67 @@ class ManifestWiringTest {
             .contains("com.okayanshul.docaction.actions.reminder.BootReceiver")
     }
 
+    private fun handlesShareOf(mimeType: String, action: String = Intent.ACTION_SEND) =
+        packages.queryIntentActivities(
+            Intent(action).setType(mimeType).setPackage(context.packageName),
+            0,
+        ).isNotEmpty()
+
+    @Test
+    fun everyFormatTheEngineReadsIsOfferedInTheShareSheet() {
+        // These drifted apart once already: CSV was declared for SEND_MULTIPLE but not SEND,
+        // so sharing three spreadsheets offered DocAction and sharing one did not. The filters
+        // are invisible until a user reports that the app "doesn't show up", which is why they
+        // are asserted rather than read.
+        listOf(
+            "application/pdf",
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "text/csv",
+            "image/jpeg",
+            "image/png",
+        ).forEach { type ->
+            assertThat(handlesShareOf(type)).isTrue()
+            assertThat(handlesShareOf(type, Intent.ACTION_SEND_MULTIPLE)).isTrue()
+        }
+    }
+
+    @Test
+    fun sharedTextReachesTheApp() {
+        // The "class rep posts the schedule as a message" case. MainActivity has always read
+        // EXTRA_TEXT and the engine has goldens for it, but with no text/plain filter the
+        // whole path was unreachable from the share sheet.
+        assertThat(handlesShareOf("text/plain")).isTrue()
+    }
+
+    @Test
+    fun formatsTheEngineCannotReadAreNotOffered() {
+        // Appearing in the share sheet for a .docx and then refusing it is worse than never
+        // appearing: the user has already chosen us by then.
+        listOf(
+            "application/msword",
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "application/zip",
+            "video/mp4",
+            "audio/mpeg",
+        ).forEach { type ->
+            assertThat(handlesShareOf(type)).isFalse()
+        }
+    }
+
+    @Test
+    fun theAppCannotReachTheNetwork() {
+        // The product's central privacy claim is structural, not a policy: with no INTERNET
+        // permission a document cannot be uploaded even by a mistake in our own code.
+        val declared = packages
+            .getPackageInfo(context.packageName, PackageManager.GET_PERMISSIONS)
+            .requestedPermissions
+            .orEmpty()
+            .toList()
+
+        assertThat(declared).doesNotContain(android.Manifest.permission.INTERNET)
+        assertThat(declared).doesNotContain(android.Manifest.permission.ACCESS_NETWORK_STATE)
+    }
+
     @Test
     fun theRequiredPermissionsAreDeclaredAndTheRiskyOnesAreNot() {
         val declared = packages

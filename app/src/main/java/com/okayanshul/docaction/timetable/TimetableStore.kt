@@ -2,6 +2,7 @@ package com.okayanshul.docaction.timetable
 
 import android.content.Context
 import com.okayanshul.docaction.core.database.Databases
+import com.okayanshul.docaction.core.database.TimetableDao
 import com.okayanshul.docaction.core.database.TimetableEntity
 import com.okayanshul.docaction.core.database.TimetableSlotEntity
 import com.okayanshul.docaction.domain.Assumption
@@ -14,6 +15,40 @@ import java.util.UUID
 import kotlinx.coroutines.flow.Flow
 
 /**
+ * A timetable already held that the incoming one might be about to overwrite.
+ *
+ * Carries what the user needs to decide — chiefly [slotCount], because "replace" is only an
+ * informed choice if it says how much it removes.
+ */
+data class TimetableCollision(
+    val timetableId: String,
+    val label: String,
+    val slotCount: Int,
+    val sourceName: String?,
+    val updatedAt: Long,
+)
+
+/**
+ * What to do about a [TimetableCollision].
+ *
+ * There is deliberately no default. The whole failure this type exists to prevent was code
+ * picking one on the user's behalf.
+ */
+enum class TimetableResolution {
+    /** Keep both sets of slots. The incoming ones win where they collide by entry. */
+    Merge,
+
+    /** Remove the stored slots and use the incoming ones. Destructive; snapshotted. */
+    Replace,
+
+    /** Leave the stored timetable alone and store this one beside it. */
+    CreateNew,
+
+    /** Leave the stored timetable alone and do not store this one at all. */
+    Skip,
+}
+
+/**
  * Keeps a weekly schedule the user asked us to remember.
  *
  * Built from the same [CalendarEventCandidate]s that go to the calendar, never from a second
@@ -23,10 +58,24 @@ import kotlinx.coroutines.flow.Flow
  * Only recurring candidates are kept: a timetable is the thing that repeats. A one-off exam
  * in the same import goes to the calendar and nowhere else, because a weekly view has no
  * honest place to show it.
+ *
+ * **On identity.** A timetable is identified by the document it came from, never by what it
+ * is called. Identifying by label was a data-loss bug: institutions reuse filenames, so an
+ * unrelated schedule that happened to produce the same label silently replaced the one
+ * already stored — no prompt, no confirmation, no way back. The rules now:
+ *
+ * - Same [sourceIdentity] — the same document, re-imported. Updates in place, silently.
+ * - Same label, different document — ambiguous. Could be this term's revision, could be a
+ *   different class entirely. Only the user knows, so [collisionFor] reports it and the
+ *   caller must supply a [TimetableResolution].
+ * - Neither — a new timetable. Stored beside whatever else is there.
  */
-class TimetableStore(private val context: Context) {
+class TimetableStore(daoProvider: () -> TimetableDao) {
 
-    private val dao by lazy { Databases.timetables(context) }
+    /** The production path. Still lazy: nothing opens the database until something is asked. */
+    constructor(context: Context) : this({ Databases.timetables(context) })
+
+    private val dao by lazy(daoProvider)
 
     fun timetables(): Flow<List<TimetableEntity>> = dao.all()
 
@@ -34,10 +83,36 @@ class TimetableStore(private val context: Context) {
 
     suspend fun mostRecent(): TimetableEntity? = dao.mostRecent()
 
-    /** True when this document looks like a revision of one we already hold. */
-    suspend fun existingFor(label: String, documentHash: String?): TimetableEntity? =
-        dao.byLabel(label)?.takeIf { it.sourceHash != documentHash }
+    /**
+     * Whether saving this would land on top of a timetable the user already has.
+     *
+     * Null means saving is unambiguous — either nothing matches, or the match is this exact
+     * document being imported again. Non-null means a question has to be asked before
+     * anything is written.
+     */
+    suspend fun collisionFor(label: String, sourceIdentity: String?): TimetableCollision? {
+        // The same document again is never a collision, whatever it is called now — the user
+        // may have renamed it, and renaming must not fork a timetable in two.
+        if (sourceIdentity != null && dao.bySourceIdentity(sourceIdentity) != null) return null
 
+        val existing = dao.byLabel(label) ?: return null
+        return TimetableCollision(
+            timetableId = existing.id,
+            label = existing.label,
+            slotCount = dao.slotCount(existing.id),
+            sourceName = existing.sourceName,
+            updatedAt = existing.updatedAt,
+        )
+    }
+
+    /**
+     * Stores a timetable.
+     *
+     * @param resolution required only when [collisionFor] reported one, and ignored otherwise.
+     *   Passing null while a collision exists stores nothing and returns null rather than
+     *   guessing — a caller that has not asked the user does not get to overwrite them.
+     * @return the timetable's id, or null when nothing was stored.
+     */
     suspend fun save(
         label: String,
         candidates: List<CalendarEventCandidate>,
@@ -45,27 +120,67 @@ class TimetableStore(private val context: Context) {
         importId: ImportId,
         sourceName: String?,
         sourceHash: String?,
+        sourceIdentity: String? = null,
+        resolution: TimetableResolution? = null,
     ): String? {
         val recurring = candidates.filter { it.recurrence != null }
         if (recurring.isEmpty()) return null
 
+        val sameDocument = sourceIdentity?.let { dao.bySourceIdentity(it) }
+        val collision = if (sameDocument == null) dao.byLabel(label) else null
+
+        // Deciding what "save" means here, once, so the branches below cannot disagree.
+        val target: TimetableEntity?
+        val mode: Mode
+
+        when {
+            // The same document again. Update it where it stands.
+            sameDocument != null -> {
+                target = sameDocument
+                mode = Mode.Replace
+            }
+
+            collision == null -> {
+                target = null
+                mode = Mode.Create
+            }
+
+            resolution == null -> return null
+
+            else -> when (resolution) {
+                TimetableResolution.Skip -> return null
+                TimetableResolution.CreateNew -> {
+                    target = null
+                    mode = Mode.Create
+                }
+
+                TimetableResolution.Merge -> {
+                    target = collision
+                    mode = Mode.Merge
+                }
+
+                TimetableResolution.Replace -> {
+                    target = collision
+                    mode = Mode.Replace
+                }
+            }
+        }
+
         val now = System.currentTimeMillis()
-        // A revision replaces its predecessor rather than sitting beside it. Two timetables
-        // called "Section CS-1" would be indistinguishable in the list, and the older one
-        // would keep showing classes that have moved.
-        val existing = dao.byLabel(label)
-        val id = existing?.id ?: UUID.randomUUID().toString()
+        val id = target?.id ?: UUID.randomUUID().toString()
 
         val timetable = TimetableEntity(
             id = id,
-            label = label,
+            // A merge keeps the name the user already knows this schedule by.
+            label = if (mode == Mode.Merge) target?.label ?: label else label,
             termStartEpochDay = term.start.toEpochDay(),
             termEndEpochDay = term.end.toEpochDay(),
             zoneId = recurring.first().start.zone.id,
             sourceName = sourceName,
             sourceHash = sourceHash,
+            sourceIdentity = sourceIdentity,
             importId = importId.value,
-            createdAt = existing?.createdAt ?: now,
+            createdAt = target?.createdAt ?: now,
             updatedAt = now,
         )
 
@@ -84,14 +199,29 @@ class TimetableStore(private val context: Context) {
             )
         }
 
-        dao.replace(timetable, slots)
+        when (mode) {
+            Mode.Create -> dao.create(timetable, slots)
+            Mode.Merge -> dao.merge(timetable, slots)
+            Mode.Replace -> dao.replace(timetable, slots)
+        }
         return id
     }
 
+    /**
+     * Puts a timetable back as it was before the last destructive change.
+     *
+     * @return true when something was restored; false when there was nothing to restore, which
+     *   the caller must report honestly rather than as a successful undo.
+     */
+    suspend fun undoLastChange(timetableId: String): Boolean = dao.restore(timetableId)
+
     suspend fun forget(timetableId: String) {
+        dao.snapshot(timetableId, importId = null)
         dao.deleteSlots(timetableId)
         dao.delete(timetableId)
     }
+
+    private enum class Mode { Create, Merge, Replace }
 
     companion object {
         /**
@@ -109,5 +239,18 @@ class TimetableStore(private val context: Context) {
                     .joinToString("") { byte -> "%02x".format(byte) }
             }.getOrNull()
         }
+
+        /**
+         * The stable identity of a timetable: which document, and which schedule inside it.
+         *
+         * The group matters. One workbook can hold a schedule per section, and importing
+         * section B after section A is not a revision of section A — it is a second
+         * timetable. Keyed on content alone, the second import would replace the first.
+         *
+         * Null when the document could not be hashed, which reads as "unknown" everywhere and
+         * therefore never matches.
+         */
+        fun identityOf(documentHash: String?, groupId: String?): String? =
+            documentHash?.let { "$it/${groupId.orEmpty()}" }
     }
 }

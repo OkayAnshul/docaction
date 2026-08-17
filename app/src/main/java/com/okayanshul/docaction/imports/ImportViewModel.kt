@@ -520,7 +520,46 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
             target = only,
             duplicates = only?.let { duplicatesFor(chosen, it) } ?: 0,
             reminders = settings.preferences.first(),
+            // Looked up before anything is written, so a schedule the user would lose is part
+            // of the summary rather than a casualty of it.
+            timetableCollision = timetableCollisionFor(review, chosen),
         )
+    }
+
+    /**
+     * The stored timetable this import would land on, if any.
+     *
+     * Only asked for a recurring import, because only those are kept as timetables at all.
+     */
+    private suspend fun timetableCollisionFor(
+        review: com.okayanshul.docaction.domain.ReviewSet,
+        chosen: List<CalendarEventCandidate>,
+    ) = if (chosen.none { it.recurrence != null }) {
+        null
+    } else {
+        runCatching {
+            timetables.collisionFor(
+                label = timetableLabelFor(review),
+                sourceIdentity = timetableIdentityFor(review),
+            )
+        }.getOrNull()
+    }
+
+    private fun timetableLabelFor(review: com.okayanshul.docaction.domain.ReviewSet) =
+        review.group?.label ?: review.source.displayName
+
+    private fun timetableIdentityFor(review: com.okayanshul.docaction.domain.ReviewSet) =
+        TimetableStore.identityOf(
+            documentHash = TimetableStore.hashOf(staging.fileFor(review.source)),
+            groupId = review.selectedGroup?.value,
+        )
+
+    /** Records what the user decided about a timetable their import would overwrite. */
+    fun setTimetableResolution(
+        resolution: com.okayanshul.docaction.timetable.TimetableResolution?,
+    ) {
+        val current = _state.value as? ImportState.Confirming ?: return
+        _state.value = current.copy(timetableResolution = resolution)
     }
 
     fun chooseTarget(target: ActionTarget) {
@@ -567,6 +606,9 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
     fun write() {
         val current = _state.value as? ImportState.Confirming ?: return
         val target = current.target as? CalendarTarget ?: return
+        // Belt and braces with `canWrite`: an unanswered question about someone's stored
+        // timetable must not be resolvable by reaching this function some other way.
+        if (current.awaitingTimetableDecision) return
         val importId = ImportId(UUID.randomUUID().toString())
 
         viewModelScope.launch {
@@ -593,12 +635,17 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
             if (current.keepAsTimetable && current.canKeepAsTimetable) {
                 runCatching {
                     timetables.save(
-                        label = current.review.group?.label ?: current.review.source.displayName,
+                        label = timetableLabelFor(current.review),
                         candidates = current.chosen,
                         term = answers.term ?: ImportViewModel.suggestedTerm(),
                         importId = importId,
                         sourceName = current.review.source.displayName,
                         sourceHash = TimetableStore.hashOf(staging.fileFor(current.review.source)),
+                        sourceIdentity = timetableIdentityFor(current.review),
+                        // Null is safe: with a collision outstanding the store declines to
+                        // write rather than choosing for the user. `canWrite` means we never
+                        // get here in that case, and if we somehow did, nothing is destroyed.
+                        resolution = current.timetableResolution,
                     )
                 }
             }
