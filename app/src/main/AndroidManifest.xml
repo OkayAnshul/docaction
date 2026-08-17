@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <!--
       Calendar access is requested at the confirm step, never at launch, and only these two.
@@ -13,6 +14,27 @@
     -->
     <uses-permission android:name="android.permission.READ_CALENDAR" />
     <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <!--
+      The product's central claim, enforced rather than asserted.
+
+      ML Kit pulls in `com.google.android.datatransport:transport-backend-cct`, which declares
+      INTERNET so it can post usage telemetry to Google, and WorkManager adds
+      ACCESS_NETWORK_STATE to schedule it. Neither was visible in this file, but manifest
+      merging put both in the shipped app — so the Play listing said "full network access",
+      and a user who checked the permissions we invite them to check would have found us
+      wrong.
+
+      Text recognition itself is entirely on-device; only the optional logging wanted the
+      network. Removing the permission is what makes "your documents never leave your phone"
+      a property of the package rather than a promise in a document: with no INTERNET
+      permission the platform refuses the connection whatever any dependency intends, now or
+      after an upgrade nobody reads the release notes for.
+
+      `ManifestWiringTest.theAppCannotReachTheNetwork` fails if this ever comes back.
+    -->
+    <uses-permission android:name="android.permission.INTERNET" tools:node="remove" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" tools:node="remove" />
 
     <application
         android:allowBackup="true"

@@ -25,6 +25,22 @@ user or reviewer can check the permission list and confirm that the app *cannot*
 document, regardless of what the marketing says. That is a stronger guarantee than a privacy
 policy, and it is the reason to keep it true for as long as possible.
 
+> **This was false in the built app until 2026-08-18.** The permission was not in *this*
+> manifest, which is what everyone had checked — but ML Kit pulls in
+> `com.google.android.datatransport:transport-backend-cct`, which declares `INTERNET` for
+> usage telemetry, and WorkManager adds `ACCESS_NETWORK_STATE` to schedule it. Manifest
+> merging put both into the shipped package, so the Play listing would have read "full
+> network access" and a user following the invitation above would have found the claim
+> wrong.
+>
+> Both are now removed with `tools:node="remove"`, and
+> `ManifestWiringTest.theAppCannotReachTheNetwork` asserts against the *merged* manifest so a
+> future dependency cannot reintroduce them quietly. Text recognition is unaffected: it is
+> entirely on-device, and only the optional logging wanted the network.
+>
+> The general lesson is the reason the assertion exists: reading your own manifest tells you
+> what you asked for, not what you ship.
+
 Adding the permission later (for billing, which requires it) is a visible change, and the release
 that does so must be accompanied by an in-app explanation of what it is and is not for.
 
