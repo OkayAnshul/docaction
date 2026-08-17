@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <!--
+          isolatedProcess gives the parser its own UID with no permissions, no filesystem
+          access and no way to reach anything but the app that bound it. That is the whole
+          protection: PdfBox-Android has shipped no security fix since January 2023, so the
+          assumption is that it will eventually be wrong about a document, and the design
+          question is only what it can do when it is.
+
+          exported=false because nothing outside this app has any business parsing for us.
+        -->
+        <service
+            android:name=".SandboxParsingService"
+            android:isolatedProcess="true"
+            android:exported="false"
+            android:process=":sandbox" />
+    </application>
+
+</manifest>

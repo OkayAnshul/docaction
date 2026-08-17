@@ -73,14 +73,33 @@ class PdfBoxTextSource private constructor(
             PDFBoxResourceLoader.init(context.applicationContext)
         }
 
-        override fun open(file: File): PdfTextSource {
+        override fun open(file: File): PdfTextSource = open(file, spillToDisk = true)
+
+        /**
+         * @param spillToDisk false when the caller has no writable storage.
+         *
+         * The isolated parsing process is the case: it has no data directory at all, so
+         * PdfBox's scratch file cannot be created and every document fails to open with a
+         * plain IOException that looks exactly like a corrupt file. Main-memory-only is also
+         * the better answer there on its own terms — a spill file is filesystem access that
+         * the sandbox exists to not have — and a document too big for the budget kills a
+         * throwaway process rather than the app.
+         */
+        fun open(file: File, spillToDisk: Boolean): PdfTextSource {
             if (!file.exists() || file.length() == 0L) throw PdfOpenException(PdfOpenFailure.Empty)
             if (file.length() > MAX_BYTES) throw PdfOpenException(PdfOpenFailure.TooLarge)
 
             val document = try {
                 // Cap the parser's heap. A malformed or hostile document exhausts this
                 // budget and fails cleanly rather than taking the process with it.
-                PDDocument.load(file, MemoryUsageSetting.setupMixed(MAX_MAIN_MEMORY_BYTES))
+                PDDocument.load(
+                    file,
+                    if (spillToDisk) {
+                        MemoryUsageSetting.setupMixed(MAX_MAIN_MEMORY_BYTES)
+                    } else {
+                        MemoryUsageSetting.setupMainMemoryOnly(MAX_MAIN_MEMORY_BYTES)
+                    },
+                )
             } catch (e: InvalidPasswordException) {
                 throw PdfOpenException(PdfOpenFailure.Encrypted)
             } catch (e: IOException) {
