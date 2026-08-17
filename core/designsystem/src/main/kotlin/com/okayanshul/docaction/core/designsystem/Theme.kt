@@ -17,31 +17,51 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 
-private val LightScheme = lightColorScheme(
-    primary = Palette.InkBlue,
-    onPrimary = androidx.compose.ui.graphics.Color.White,
-    surface = Palette.SurfaceLight,
-    onSurface = Palette.OnSurfaceLight,
-    background = Palette.SurfaceLight,
-    onBackground = Palette.OnSurfaceLight,
-)
+/**
+ * Ink mapped onto Material's roles.
+ *
+ * `primary` is ink rather than a hue, so the primary button is a filled block of near-black
+ * on paper. `outline` and `outlineVariant` are kept distinct — a control's outline has to
+ * clear 3:1 to satisfy WCAG 1.4.11, while a row separator is decoration and must stay quiet.
+ */
+private fun schemeFor(ink: InkColours, dark: Boolean) = with(ink) {
+    val base = if (dark) darkColorScheme() else lightColorScheme()
+    base.copy(
+        primary = this.ink,
+        onPrimary = surface,
+        secondary = accent,
+        onSecondary = surface,
+        surface = surface,
+        onSurface = this.ink,
+        surfaceVariant = surfaceSunken,
+        onSurfaceVariant = inkMuted,
+        surfaceContainer = surfaceRaised,
+        surfaceContainerHigh = surfaceRaised,
+        background = surface,
+        onBackground = this.ink,
+        outline = border,
+        outlineVariant = hairline,
+    )
+}
 
-/** A true dark, not an inverted grey. Elevation is expressed by tonal lift. */
-private val DarkScheme = darkColorScheme(
-    primary = Palette.InkBlueLight,
-    onPrimary = Palette.OnSurfaceLight,
-    surface = Palette.SurfaceDark,
-    onSurface = Palette.OnSurfaceDark,
-    background = Palette.SurfaceDark,
-    onBackground = Palette.OnSurfaceDark,
-)
+private val LightScheme = schemeFor(InkColours.Light, dark = false)
+
+/** A true dark on a warm axis, not an inverted grey. Elevation is expressed by tonal lift. */
+private val DarkScheme = schemeFor(InkColours.Dark, dark = true)
 
 /**
  * The app's visual language.
  *
- * Dynamic colour is supported and on by default, because matching the user's device is part
- * of feeling native. It is applied to surfaces and primary only — **the confidence colours
- * never take part**, so a wallpaper can never make "needs attention" resemble "ready".
+ * **Dynamic colour retints the accent only.** An achromatic identity and wallpaper-tinted
+ * surfaces are not compatible: the whole premise here is that chroma means something, and
+ * letting a wallpaper wash the page in colour would break that on every screen at once. So
+ * the user's palette shows up exactly where it is harmless and genuinely pleasant — the
+ * selection, the focus ring, the active nav item — while paper stays paper, ink stays ink,
+ * and the confidence colours never take part at all.
+ *
+ * Material's dynamic `primary` is tone 40 in light and tone 80 in dark, so an accent taken
+ * from it clears the 3:1 a focus indicator needs against either surface, whatever the
+ * wallpaper is.
  */
 @Composable
 fun DocActionTheme(
@@ -50,12 +70,20 @@ fun DocActionTheme(
     content: @Composable () -> Unit,
 ) {
     val context = LocalContext.current
-    val scheme = when {
-        dynamicColour && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S ->
-            if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
+    val base = if (darkTheme) InkColours.Dark else InkColours.Light
 
-        darkTheme -> DarkScheme
-        else -> LightScheme
+    val ink = if (dynamicColour && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
+        val wallpaper =
+            if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
+        base.copy(accent = wallpaper.primary)
+    } else {
+        base
+    }
+
+    val scheme = if (ink === base) {
+        if (darkTheme) DarkScheme else LightScheme
+    } else {
+        schemeFor(ink, darkTheme)
     }
 
     val type = DocActionType.Default
@@ -63,6 +91,7 @@ fun DocActionTheme(
 
     CompositionLocalProvider(
         LocalConfidenceColours provides if (darkTheme) ConfidenceColours.Dark else ConfidenceColours.Light,
+        LocalInkColours provides ink,
         LocalType provides type,
         LocalSpace provides Space(),
         LocalRadius provides radius,
@@ -108,4 +137,7 @@ object DocAction {
 
     val confidence: ConfidenceColours
         @Composable get() = LocalConfidenceColours.current
+
+    val ink: InkColours
+        @Composable get() = LocalInkColours.current
 }

@@ -5,19 +5,70 @@ import androidx.compose.runtime.staticCompositionLocalOf
 import androidx.compose.ui.graphics.Color
 
 /**
- * The brand hue is a deep ink-blue: serious, document-adjacent, and deliberately not the
- * purple or electric teal that signals "AI startup". Amber is reserved almost entirely for
- * the attention state, which is what keeps it meaningful.
+ * "Ink" — the app's colour system.
+ *
+ * Documents are ink on paper, and so is this interface. The chrome is achromatic: text is
+ * ink, surfaces are paper, and the primary button is an ink-filled block the way a stamp is.
+ * **All chroma is reserved for meaning.** Nothing here is coloured to look nice, which is
+ * what makes colour trustworthy when it does appear — if something is green, it is because
+ * it is ready, not because green was available.
+ *
+ * That is also what makes "the interface gets quieter as confidence rises" structural rather
+ * than aspirational. On a screen where the only colours are the four confidence states, forty
+ * ready rows recede on their own and the two that need a decision are the only colour present.
+ *
+ * Every value in this file was verified against its surfaces with a contrast calculator, not
+ * chosen by eye; `ContrastTest` keeps them honest.
  */
-internal object Palette {
-    val InkBlue = Color(0xFF1B3A5C)
-    val InkBlueLight = Color(0xFF9FC4E8)
-    val Amber = Color(0xFF9A6400)
+@Immutable
+data class InkColours(
+    /** Primary text, and the fill of the primary button. */
+    val ink: Color,
+    /** Secondary text: supporting lines, metadata. */
+    val inkMuted: Color,
+    /** Tertiary text: timestamps, captions. Still AA — "faint" is a role, not an excuse. */
+    val inkFaint: Color,
+    /**
+     * Interaction, and only interaction: focus ring, selection, links, the active nav item.
+     * Never a status. This is the one hue that may be retinted by dynamic colour.
+     */
+    val accent: Color,
+    /** Control outlines — text fields, checkboxes. Held at 3:1 for WCAG 1.4.11. */
+    val border: Color,
+    /** Decorative separators between rows. Deliberately below 3:1: it must never be load-bearing. */
+    val hairline: Color,
+    val surface: Color,
+    /** Inset containers — a search field, a quoted document excerpt. */
+    val surfaceSunken: Color,
+    /** Lifted containers — sheets, the bottom bar over scrolled content. */
+    val surfaceRaised: Color,
+) {
+    companion object {
+        val Light = InkColours(
+            ink = Color(0xFF16181B),
+            inkMuted = Color(0xFF5B6167),
+            inkFaint = Color(0xFF676C72),
+            accent = Color(0xFF2A46C0),
+            border = Color(0xFF8D887F),
+            hairline = Color(0xFFE4E1DB),
+            surface = Color(0xFFFBFAF8),
+            surfaceSunken = Color(0xFFF2F0EC),
+            surfaceRaised = Color(0xFFFFFFFF),
+        )
 
-    val SurfaceLight = Color(0xFFFCFCFD)
-    val SurfaceDark = Color(0xFF101418)
-    val OnSurfaceLight = Color(0xFF1A1C1E)
-    val OnSurfaceDark = Color(0xFFE2E2E6)
+        /** A true dark on a warm axis, so paper stays paper rather than becoming blue-grey. */
+        val Dark = InkColours(
+            ink = Color(0xFFF2F1EE),
+            inkMuted = Color(0xFFA2A8AF),
+            inkFaint = Color(0xFF868C93),
+            accent = Color(0xFF8FA5FF),
+            border = Color(0xFF686E77),
+            hairline = Color(0xFF272B31),
+            surface = Color(0xFF0E1013),
+            surfaceSunken = Color(0xFF08090B),
+            surfaceRaised = Color(0xFF171A1F),
+        )
+    }
 }
 
 /**
@@ -27,9 +78,16 @@ internal object Palette {
  * errors. A low-confidence field is a question, not a failure, and painting it error-red
  * would tell the user something went wrong — which is both false and alarming.
  *
- * These are also excluded from dynamic theming. A user's wallpaper must never be able to
- * make "needs attention" look like "ready"; the semantics of these four states are worth
- * more than the visual cohesion that would be gained.
+ * These are excluded from dynamic theming. A user's wallpaper must never be able to make
+ * "needs attention" look like "ready"; the semantics of these four states are worth more than
+ * the visual cohesion that would be gained.
+ *
+ * **Ready, Check and Invalid sit at near-identical relative luminance by design**
+ * (0.1130 / 0.1159 / 0.1106). No state is allowed to shout louder than another, which is the
+ * point — but it means the three are genuinely indistinguishable in greyscale. The glyph and
+ * the row's own words therefore carry the whole meaning, and colour adds nothing a
+ * colour-blind user loses. That is the strongest possible reading of NFR-7, and it is a
+ * property to preserve rather than a flaw to correct.
  */
 @Immutable
 data class ConfidenceColours(
@@ -43,22 +101,23 @@ data class ConfidenceColours(
     val invalidBg: Color,
 ) {
     companion object {
-        /** All pairs verified at 4.5:1 or better against their surface. */
+        /** Foreground ≥ 4.5:1 on both the page and its own container. */
         val Light = ConfidenceColours(
-            readyFg = Color(0xFF2E6B4F), readyBg = Color(0xFFE8F3ED),
-            checkFg = Color(0xFF8A5A00), checkBg = Color(0xFFFDF3E0),
-            missingFg = Color(0xFF5A6572), missingBg = Color(0xFFEFF1F4),
-            invalidFg = Color(0xFFB3261E), invalidBg = Color(0xFFFCEDEC),
+            readyFg = Color(0xFF1F6B4A), readyBg = Color(0xFFE9F2EC),
+            checkFg = Color(0xFF8A5300), checkBg = Color(0xFFFBF1DF),
+            missingFg = Color(0xFF676C72), missingBg = Color(0xFFF0EFEC),
+            invalidFg = Color(0xFFB3261E), invalidBg = Color(0xFFFAEBE9),
         )
 
         /** Re-tuned rather than reused: amber that reads as "attention" on white reads as "highlighted" on black. */
         val Dark = ConfidenceColours(
-            readyFg = Color(0xFF7FD4A8), readyBg = Color(0xFF16281F),
-            checkFg = Color(0xFFF2C066), checkBg = Color(0xFF2B2114),
-            missingFg = Color(0xFFA8B2BE), missingBg = Color(0xFF1C2026),
-            invalidFg = Color(0xFFF2B8B5), invalidBg = Color(0xFF2B1614),
+            readyFg = Color(0xFF6FD3A3), readyBg = Color(0xFF14241C),
+            checkFg = Color(0xFFF0C069), checkBg = Color(0xFF261E10),
+            missingFg = Color(0xFF868C93), missingBg = Color(0xFF1A1D21),
+            invalidFg = Color(0xFFF2B8B5), invalidBg = Color(0xFF261513),
         )
     }
 }
 
 val LocalConfidenceColours = staticCompositionLocalOf { ConfidenceColours.Light }
+val LocalInkColours = staticCompositionLocalOf { InkColours.Light }
