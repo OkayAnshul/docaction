@@ -779,6 +779,13 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
                 is Outcome.Partial -> finished(importId, outcome.value, target, current)
             }
 
+            // Recorded whatever the outcome, so a partial write is findable afterwards. The
+            // imports table had existed since version 1 without anything ever writing to it,
+            // which left undo reachable only from the screen that appears immediately after a
+            // write — the wrong place for it to live alone, since the realistic case is
+            // realising three days later that the wrong section was imported.
+            runCatching { recordImport(importId, current, outcome) }
+
             if (current.remindersEnabled) {
                 armReminders(importId, current.chosen, current.reminders)
             }
@@ -821,6 +828,43 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
         calendarLabel = target.label,
         remindersOn = confirming.remindersEnabled,
     )
+
+    /**
+     * Writes the history row for an import that has just touched the calendar.
+     *
+     * Metadata only: a filename, counts, timestamps, and the id undo needs. No document
+     * content and no extracted text ever reaches this table (FR-7.2), which is why the
+     * schedule's titles are counted here rather than stored.
+     */
+    private suspend fun recordImport(
+        importId: ImportId,
+        confirming: ImportState.Confirming,
+        outcome: Outcome<com.okayanshul.docaction.domain.ExecutionReport>,
+    ) {
+        val written = when (outcome) {
+            is Outcome.Success -> outcome.value.written.size
+            is Outcome.Partial -> outcome.value.written.size
+            is Outcome.Failure -> 0
+        }
+        val now = System.currentTimeMillis()
+
+        Databases.imports(getApplication()).record(
+            com.okayanshul.docaction.core.database.ImportEntity(
+                id = importId.value,
+                displayName = confirming.review.source.displayName,
+                format = confirming.review.format.name,
+                contentHash = TimetableStore.hashOf(
+                    staging.fileFor(confirming.review.source),
+                ).orEmpty(),
+                startedAt = now,
+                completedAt = now,
+                state = if (written == 0) STATE_FAILED else STATE_COMMITTED,
+                candidateCount = confirming.chosen.size,
+                committedCount = written,
+                failureReason = (outcome as? Outcome.Failure)?.reason?.name,
+            ),
+        )
+    }
 
     /**
      * Plans and arms the rolling reminder window for what was just written.
@@ -918,6 +962,11 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
          * missing one as "no source to show" rather than as an error.
          */
         internal const val MANUAL_URI = "docaction://manual"
+
+        /** History row states. Strings because the table predates any enum for them. */
+        internal const val STATE_COMMITTED = "committed"
+        internal const val STATE_FAILED = "failed"
+        internal const val STATE_REVERTED = "reverted"
 
         private const val SOURCE_WIDTH_PX = 1080
 

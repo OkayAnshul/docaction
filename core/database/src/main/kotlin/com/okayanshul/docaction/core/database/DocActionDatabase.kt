@@ -28,6 +28,8 @@ abstract class DocActionDatabase : RoomDatabase() {
 
     abstract fun timetables(): TimetableDao
 
+    abstract fun imports(): ImportDao
+
     companion object {
         const val NAME = "docaction.db"
 

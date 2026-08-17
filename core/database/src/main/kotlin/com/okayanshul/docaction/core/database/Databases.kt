@@ -21,6 +21,8 @@ object Databases {
 
     fun timetables(context: Context): TimetableDao = database(context).timetables()
 
+    fun imports(context: Context): ImportDao = database(context).imports()
+
     private fun database(context: Context): DocActionDatabase =
         instance ?: synchronized(this) {
             instance ?: DocActionDatabase.build(context).also { instance = it }
@@ -39,6 +41,7 @@ object Databases {
         val reminders: ReminderDao get() = database.reminders()
         val createdEvents: CreatedEventDao get() = database.createdEvents()
         val timetables: TimetableDao get() = database.timetables()
+        val imports: ImportDao get() = database.imports()
         override fun close() = database.close()
     }
 }

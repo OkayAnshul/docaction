@@ -41,8 +41,7 @@ import com.okayanshul.docaction.imports.RecoveryAction
 @Composable
 fun ImportFlow(
     viewModel: ImportViewModel,
-    /** Null until there is a saved week; the entry point does not appear before then. */
-    onOpenTimetable: (() -> Unit)? = null,
+    onOpenSettings: (() -> Unit)? = null,
     modifier: Modifier = Modifier,
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
@@ -123,7 +122,7 @@ fun ImportFlow(
                     interrupted = interrupted,
                     onResume = viewModel::resume,
                     onDiscardInterrupted = viewModel::discardInterrupted,
-                    onOpenTimetable = onOpenTimetable,
+                    onOpenSettings = onOpenSettings,
                 )
 
                 is ImportState.Processing -> ProcessingScreen(

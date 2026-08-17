@@ -6,25 +6,15 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import androidx.activity.compose.BackHandler
 import androidx.activity.viewModels
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.Scaffold
-import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.saveable.rememberSaveable
-import androidx.compose.runtime.setValue
-import androidx.compose.ui.Modifier
-import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.okayanshul.docaction.core.designsystem.DocActionTheme
+import com.okayanshul.docaction.history.HistoryViewModel
 import com.okayanshul.docaction.imports.ImportViewModel
-import com.okayanshul.docaction.imports.ui.ImportFlow
 import com.okayanshul.docaction.timetable.TimetableViewModel
-import com.okayanshul.docaction.timetable.ui.TimetableWeek
+import com.okayanshul.docaction.ui.DocActionApp
 
 /**
- * The single activity, and the app's two front doors.
+ * The single activity, and the app's front doors.
  *
  * The share sheet is the headline flow: a student who receives a timetable in WhatsApp or
  * email should never have to save it, open DocAction, and go looking for it. Sharing lands
@@ -37,6 +27,7 @@ class MainActivity : ComponentActivity() {
 
     private val viewModel: ImportViewModel by viewModels()
     private val timetableViewModel: TimetableViewModel by viewModels()
+    private val historyViewModel: HistoryViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -47,32 +38,11 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             DocActionTheme {
-                Scaffold(modifier = Modifier.fillMaxSize()) { insets ->
-                    // Two destinations, held here rather than in a navigation graph. The
-                    // reason ImportFlow gives for avoiding one still holds and now matters
-                    // more: back from Done must never re-enter a Confirm whose calendar
-                    // write has already happened, and a back stack would offer exactly that.
-                    var showingTimetable by rememberSaveable { mutableStateOf(false) }
-                    val slots by timetableViewModel.slots.collectAsStateWithLifecycle()
-                    val label by timetableViewModel.label.collectAsStateWithLifecycle()
-
-                    if (showingTimetable) {
-                        BackHandler { showingTimetable = false }
-                        TimetableWeek(
-                            viewModel = timetableViewModel,
-                            label = label ?: "My Timetable",
-                            slots = slots,
-                            onLeave = { showingTimetable = false },
-                            modifier = Modifier.padding(insets),
-                        )
-                    } else {
-                        ImportFlow(
-                            viewModel = viewModel,
-                            onOpenTimetable = { showingTimetable = true }.takeIf { slots.isNotEmpty() },
-                            modifier = Modifier.padding(insets),
-                        )
-                    }
-                }
+                DocActionApp(
+                    imports = viewModel,
+                    timetables = timetableViewModel,
+                    history = historyViewModel,
+                )
             }
         }
     }

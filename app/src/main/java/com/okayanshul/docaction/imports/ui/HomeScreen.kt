@@ -37,7 +37,11 @@ import com.okayanshul.docaction.imports.Interrupted
  * user already has, which is both a better camera and one less prompt in the way.
  *
  * The privacy line is at the bottom, stated once, in the same voice as everything else —
- * not a badge, not a lock icon, not a marketing claim.
+ * not a badge, not a lock icon, not a marketing claim. It is also the way in to the screen
+ * that explains it, because someone who wants the detail is someone reading that line.
+ *
+ * There is no timetable button here any more: the navigation bar owns that destination, and
+ * two routes to one place on the screen the user sees first is clutter, not convenience.
  */
 @Composable
 fun HomeScreen(
@@ -48,7 +52,7 @@ fun HomeScreen(
     interrupted: Interrupted? = null,
     onResume: () -> Unit = {},
     onDiscardInterrupted: () -> Unit = {},
-    onOpenTimetable: (() -> Unit)? = null,
+    onOpenSettings: (() -> Unit)? = null,
     modifier: Modifier = Modifier,
 ) {
     Column(
@@ -150,21 +154,6 @@ fun HomeScreen(
             }
         }
 
-        // Only once there is a week to show. An entry point to an empty screen is a
-        // promise the app has not yet kept.
-        onOpenTimetable?.let { open ->
-            Spacer(Modifier.padding(top = DocAction.space.default))
-            OutlinedButton(
-                onClick = open,
-                shape = MaterialTheme.shapes.extraLarge,
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .sizeIn(minHeight = MinTouchTarget),
-            ) {
-                Text("My Timetable", style = DocAction.type.label)
-            }
-        }
-
         Spacer(Modifier.padding(top = DocAction.space.default))
         Text(
             text = "PDF, Excel, CSV and photos. You can also share a document to DocAction " +
@@ -187,7 +176,20 @@ fun HomeScreen(
 
         Spacer(Modifier.weight(1f))
 
-        Text(
+        // The privacy line stays a sentence in the app's own voice rather than a badge, and
+        // now leads somewhere that explains it properly.
+        onOpenSettings?.let { open ->
+            TextButton(
+                onClick = open,
+                modifier = Modifier.sizeIn(minHeight = MinTouchTarget),
+            ) {
+                Text(
+                    text = "Documents are read on your phone and never uploaded.",
+                    style = DocAction.type.meta,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+        } ?: Text(
             text = "Documents are read on your phone and never uploaded.",
             style = DocAction.type.meta,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
