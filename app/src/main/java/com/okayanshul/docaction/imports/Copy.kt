@@ -14,7 +14,14 @@ data class Recovery(val label: String, val action: RecoveryAction)
  * stays out of this enum rather than appearing as an inert button — a button that does
  * nothing is worse than no button.
  */
-enum class RecoveryAction { ChooseAnotherSchedule, ShowUsWhere, PickAnother, PickPhoto, Dismiss }
+enum class RecoveryAction {
+    ChooseAnotherSchedule,
+    ShowUsWhere,
+    PickAnother,
+    PickPhoto,
+    CreateManually,
+    Dismiss,
+}
 
 /**
  * Turns a failure into something a person can act on.
@@ -37,6 +44,16 @@ object Copy {
     private val tryAnother = Recovery("Choose another file", RecoveryAction.PickAnother)
     private val tryPhoto = Recovery("Use a photo instead", RecoveryAction.PickPhoto)
     private val showUs = Recovery("Show us the part you need", RecoveryAction.ShowUsWhere)
+
+    /**
+     * The floor under every other recovery.
+     *
+     * Offered last, and offered almost everywhere, because it is the one route that cannot
+     * fail for the same reason the import just did. Before it existed, a document we could
+     * not read left the user with nothing but "choose another file" — which is advice, not
+     * a way to get their exam date into their calendar.
+     */
+    private val byHand = Recovery("Add the event yourself", RecoveryAction.CreateManually)
 
     /**
      * The same failure means something different after the user has drawn a box.
@@ -63,6 +80,7 @@ object Copy {
         recoveries = listOf(
             Recovery("Choose a different one", RecoveryAction.ChooseAnotherSchedule),
             tryAnother,
+            byHand,
         ),
     )
 
@@ -75,6 +93,7 @@ object Copy {
                 recoveries = listOf(
                     Recovery("Select more of the page", RecoveryAction.ShowUsWhere),
                     tryAnother,
+                    byHand,
                 ),
             )
         } else {
@@ -85,13 +104,13 @@ object Copy {
         FailureReason.Encrypted -> Failure(
             headline = "This document is password protected",
             cause = "We can't open protected files, even with the password.",
-            recoveries = listOf(tryAnother),
+            recoveries = listOf(tryAnother, byHand),
         )
 
         FailureReason.Corrupt -> Failure(
             headline = "This file appears to be damaged",
             cause = "It may not have finished downloading.",
-            recoveries = listOf(tryAnother),
+            recoveries = listOf(tryAnother, byHand),
         )
 
         // OCR has already been tried by this point, so promising to "read it as an image"
@@ -99,13 +118,13 @@ object Copy {
         FailureReason.NoTextLayer -> Failure(
             headline = "We couldn't read any text in this PDF",
             cause = "It's a scan, and the page was too faint or too skewed to read.",
-            recoveries = listOf(showUs, tryPhoto, tryAnother),
+            recoveries = listOf(showUs, tryPhoto, tryAnother, byHand),
         )
 
         FailureReason.Empty -> Failure(
             headline = "This file is empty",
             cause = "There's nothing in it to read.",
-            recoveries = listOf(tryAnother),
+            recoveries = listOf(tryAnother, byHand),
         )
 
         // Deliberately no "show us the part you need" here. The size check happens before
@@ -114,19 +133,19 @@ object Copy {
         FailureReason.TooLarge -> Failure(
             headline = "This file is too large",
             cause = "We can handle files up to 100 MB.",
-            recoveries = listOf(tryAnother),
+            recoveries = listOf(tryAnother, byHand),
         )
 
         FailureReason.UnsupportedFormat -> Failure(
             headline = "We can't read this kind of file",
             cause = "Right now we read PDFs, Excel files, CSV files and photos.",
-            recoveries = listOf(tryAnother),
+            recoveries = listOf(tryAnother, byHand),
         )
 
         FailureReason.PermissionRevoked -> Failure(
             headline = "We can't open this file any more",
             cause = "The app that shared it withdrew access before we could read it.",
-            recoveries = listOf(Recovery("Choose it again", RecoveryAction.PickAnother)),
+            recoveries = listOf(Recovery("Choose it again", RecoveryAction.PickAnother), byHand),
         )
 
         // "We looked at too much." Narrowing to one page is the actual fix, and a far
@@ -134,7 +153,7 @@ object Copy {
         FailureReason.Timeout -> Failure(
             headline = "This is taking too long",
             cause = "The document is unusually complex.",
-            recoveries = listOf(showUs, tryAnother),
+            recoveries = listOf(showUs, tryAnother, byHand),
         )
 
         FailureReason.Cancelled -> Failure(
@@ -146,19 +165,19 @@ object Copy {
         FailureReason.NothingActionable -> Failure(
             headline = "We couldn't find a schedule in this",
             cause = "There were no dates or times we could read with confidence.",
-            recoveries = listOf(showUs, tryPhoto, tryAnother),
+            recoveries = listOf(showUs, tryPhoto, tryAnother, byHand),
         )
 
         FailureReason.StorageUnavailable -> Failure(
             headline = "Not enough space",
             cause = "Free up a little storage and try again.",
-            recoveries = listOf(tryAnother),
+            recoveries = listOf(tryAnother, byHand),
         )
 
         FailureReason.ProcessingUnavailable -> Failure(
             headline = "We couldn't process this",
             cause = "Something went wrong on our side. Nothing was changed.",
-            recoveries = listOf(tryAnother),
+            recoveries = listOf(tryAnother, byHand),
         )
     }
 

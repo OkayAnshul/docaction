@@ -56,6 +56,7 @@ class ReviewScreenTest {
                     onSelectAll = {},
                     onContinue = onContinue,
                     onRescue = {},
+                    onCreate = {},
                     onBack = {},
                 )
             }
@@ -201,6 +202,7 @@ class ReviewScreenTest {
                         onSelectAll = {},
                         onContinue = { continued = true },
                         onRescue = {},
+                        onCreate = {},
                         onBack = {},
                     )
                 }

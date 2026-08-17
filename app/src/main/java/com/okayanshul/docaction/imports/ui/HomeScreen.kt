@@ -44,6 +44,7 @@ fun HomeScreen(
     onPickFile: () -> Unit,
     onPickPhoto: () -> Unit,
     onTakePhoto: () -> Unit = {},
+    onCreateEvent: () -> Unit = {},
     interrupted: Interrupted? = null,
     onResume: () -> Unit = {},
     onDiscardInterrupted: () -> Unit = {},
@@ -171,6 +172,18 @@ fun HomeScreen(
             style = DocAction.type.meta,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
+
+        // Deliberately quieter than the import buttons, and deliberately present. Typing an
+        // event in by hand is not what this app is for, but it is what someone needs when the
+        // document defeats us — and until now there was no way to do it at all, which made
+        // every unreadable document a dead end.
+        Spacer(Modifier.padding(top = DocAction.space.snug))
+        TextButton(
+            onClick = onCreateEvent,
+            modifier = Modifier.sizeIn(minHeight = MinTouchTarget),
+        ) {
+            Text("Or add an event yourself", style = DocAction.type.label)
+        }
 
         Spacer(Modifier.weight(1f))
 

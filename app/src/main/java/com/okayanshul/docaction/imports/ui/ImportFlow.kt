@@ -94,7 +94,7 @@ fun ImportFlow(
             val reviewing = state as ImportState.Reviewing
             when {
                 reviewing.viewingSource != null -> viewModel.hideSource()
-                reviewing.editing != null -> viewModel.beginEdit(null)
+                reviewing.editing != null -> viewModel.dismissEditor()
                 else -> viewModel.cancel()
             }
         }
@@ -119,6 +119,7 @@ fun ImportFlow(
                     onPickFile = openFiles,
                     onPickPhoto = openPhotos,
                     onTakePhoto = openCamera,
+                    onCreateEvent = viewModel::beginManualEntry,
                     interrupted = interrupted,
                     onResume = viewModel::resume,
                     onDiscardInterrupted = viewModel::discardInterrupted,
@@ -150,16 +151,32 @@ fun ImportFlow(
                         onSelectAll = viewModel::selectAll,
                         onContinue = viewModel::toConfirm,
                         onRescue = viewModel::beginRescue,
+                        onCreate = viewModel::beginCreate,
                         onBack = viewModel::cancel,
                     )
-                    current.editingCandidate?.let { editing ->
+                    // One sheet, two jobs. Correcting a row keeps its identity and its
+                    // provenance; writing a new one has neither yet, and no document to
+                    // point at, so Source is not offered for it.
+                    val editing = current.editingCandidate
+                    if (editing != null || current.isCreating) {
                         EditSheet(
                             candidate = editing,
-                            onDismiss = { viewModel.beginEdit(null) },
-                            onSave = { corrected ->
-                                viewModel.applyEdit(editing.id) { corrected }
+                            zone = viewModel.manualZone(),
+                            term = viewModel.manualTerm(),
+                            onDismiss = viewModel::dismissEditor,
+                            onSave = { saved ->
+                                if (editing != null) {
+                                    viewModel.applyEdit(editing.id) { saved }
+                                } else {
+                                    viewModel.addManualEvent(saved)
+                                }
                             },
-                            onShowSource = { viewModel.showSource(editing.id) },
+                            onShowSource = editing
+                                ?.takeIf { !current.isManual }
+                                ?.let { { viewModel.showSource(it.id) } },
+                            onDelete = editing
+                                ?.takeIf { current.isManual }
+                                ?.let { { viewModel.removeCandidate(it.id) } },
                         )
                     }
                     if (current.viewingSource != null) {
@@ -226,6 +243,8 @@ fun ImportFlow(
                                 viewModel.dismiss()
                                 openPhotos()
                             }
+
+                            RecoveryAction.CreateManually -> viewModel.beginManualEntry()
 
                             RecoveryAction.Dismiss -> viewModel.dismiss()
                         }

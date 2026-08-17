@@ -54,6 +54,7 @@ fun ReviewScreen(
     onSelectAll: (Boolean) -> Unit,
     onContinue: () -> Unit,
     onRescue: () -> Unit,
+    onCreate: () -> Unit,
     onBack: () -> Unit,
     modifier: Modifier = Modifier,
 ) {
@@ -127,18 +128,37 @@ fun ReviewScreen(
                 item(key = "unresolved") { UnresolvedNote(state.review.unresolved.size) }
             }
 
-            // The engine can find a schedule and find the wrong one — a bulletin's holiday
-            // list instead of the timetable two pages later. Without a way out of that, the
-            // only options are importing rubbish or starting over.
-            item(key = "rescue") {
+            // Adding one more by hand is always available, and is the only way to add
+            // anything at all when the list started empty.
+            item(key = "create") {
                 TextButton(
-                    onClick = onRescue,
+                    onClick = onCreate,
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(bottom = DocAction.space.section)
                         .sizeIn(minHeight = MinTouchTarget),
                 ) {
-                    Text("This isn't the right part of the document", style = DocAction.type.label)
+                    Text("Add another event", style = DocAction.type.label)
+                }
+            }
+
+            // The engine can find a schedule and find the wrong one — a bulletin's holiday
+            // list instead of the timetable two pages later. Without a way out of that, the
+            // only options are importing rubbish or starting over. Meaningless when there is
+            // no document behind the list, so it is not offered there.
+            if (!state.isManual) {
+                item(key = "rescue") {
+                    TextButton(
+                        onClick = onRescue,
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(bottom = DocAction.space.section)
+                            .sizeIn(minHeight = MinTouchTarget),
+                    ) {
+                        Text(
+                            text = "This isn't the right part of the document",
+                            style = DocAction.type.label,
+                        )
+                    }
                 }
             }
         }
@@ -171,16 +191,25 @@ private fun Header(state: ImportState.Reviewing, onBack: () -> Unit) {
             Text("Cancel", style = DocAction.type.label)
         }
         Text(
-            text = "${Copy.countOf(state.review.candidates.size, "event")} found",
+            // "3 events found" would be an odd thing to say about three the user just typed.
+            text = when {
+                !state.isManual -> "${Copy.countOf(state.review.candidates.size, "event")} found"
+                state.review.candidates.isEmpty() -> "Your events"
+                else -> Copy.countOf(state.review.candidates.size, "event")
+            },
             style = DocAction.type.title,
             color = MaterialTheme.colorScheme.onSurface,
             modifier = Modifier.semantics { heading() },
         )
         Text(
-            text = if (state.attention == 0) {
-                "Nothing has been added yet. Check them over, then continue."
-            } else {
-                "${Copy.countOf(state.attention, "event")} " +
+            text = when {
+                state.isManual && state.review.candidates.isEmpty() ->
+                    "Add an event and it'll appear here."
+
+                state.attention == 0 ->
+                    "Nothing has been added yet. Check them over, then continue."
+
+                else -> "${Copy.countOf(state.attention, "event")} " +
                     "${if (state.attention == 1) "needs" else "need"} a look before we add anything."
             },
             style = DocAction.type.body,

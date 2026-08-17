@@ -8,7 +8,16 @@ data class DocumentSource(
     val sizeBytes: Long,
 )
 
-enum class DocumentFormat { Pdf, Image, Xlsx, Csv, PlainText, Unsupported }
+/**
+ * [Manual] is not a document at all — it is the user typing an event in by hand.
+ *
+ * It sits in this enum rather than beside it so that a hand-made review set travels through
+ * exactly the same review, confirm, write and undo path as an extracted one. The places that
+ * genuinely need a file — source rendering, page counts, crop — already branch on the
+ * specific formats they can handle, and answer "nothing to show" for anything else, which is
+ * the correct answer here too.
+ */
+enum class DocumentFormat { Pdf, Image, Xlsx, Csv, PlainText, Manual, Unsupported }
 
 /** How a piece of text reached us. Determines the confidence baseline. */
 enum class TextOrigin { PdfTextLayer, Ocr, SpreadsheetCell, CsvField, PlainText }

@@ -34,13 +34,26 @@ sealed interface ImportState {
         val question: PipelineQuestion,
     ) : ImportState
 
+    /**
+     * What the editor is open on.
+     *
+     * [New] exists because [CandidateId] cannot express "an event that does not exist yet" —
+     * and an event being typed genuinely has no identity until it is saved. Making that a
+     * state rather than a nullable id is what lets one sheet serve both jobs without either
+     * one pretending to be the other.
+     */
+    sealed interface Draft {
+        data class Existing(val id: CandidateId) : Draft
+        data object New : Draft
+    }
+
     /** Everything found, nothing done. The last point at which backing out leaves no trace. */
     data class Reviewing(
         val review: ReviewSet,
         val selected: Set<CandidateId>,
         val showOnlyAttention: Boolean = false,
-        /** The row whose edit sheet is open, if any. */
-        val editing: CandidateId? = null,
+        /** The row whose edit sheet is open, or a blank event being written. */
+        val editing: Draft? = null,
         /** The row whose "where did this come from?" is open, if any. */
         val viewingSource: CandidateId? = null,
         /** Null while the document is being re-read; the sheet shows progress until then. */
@@ -59,7 +72,20 @@ sealed interface ImportState {
         val attention: Int get() = review.candidates.count { it.status == CandidateStatus.NeedsAttention }
 
         val editingCandidate: CalendarEventCandidate?
-            get() = editing?.let { id -> review.candidates.firstOrNull { it.id == id } }
+            get() = (editing as? Draft.Existing)
+                ?.let { draft -> review.candidates.firstOrNull { it.id == draft.id } }
+
+        val isCreating: Boolean get() = editing is Draft.New
+
+        /**
+         * True when this review holds nothing but hand-typed events.
+         *
+         * Changes what several screens should say: there is no document to name, no source to
+         * point at, and "we found 3 events" would be a strange way to describe three the user
+         * typed themselves.
+         */
+        val isManual: Boolean
+            get() = review.format == com.okayanshul.docaction.domain.DocumentFormat.Manual
 
         val sourceCandidate: CalendarEventCandidate?
             get() = viewingSource?.let { id -> review.candidates.firstOrNull { it.id == id } }

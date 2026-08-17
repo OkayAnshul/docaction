@@ -392,7 +392,102 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
         it.copy(selected = if (select) it.review.candidates.map { c -> c.id }.toSet() else emptySet())
     }
 
-    fun beginEdit(id: CandidateId?) = update { it.copy(editing = id) }
+    fun beginEdit(id: CandidateId?) =
+        update { it.copy(editing = id?.let(ImportState.Draft::Existing)) }
+
+    /** Opens a blank editor on the review already in progress. */
+    fun beginCreate() = update { it.copy(editing = ImportState.Draft.New) }
+
+    fun cancelEdit() = update { it.copy(editing = null) }
+
+    // --- events the user writes themselves ---
+
+    /**
+     * Starts an import that has no document behind it.
+     *
+     * Reached from Home, and from every dead end: a failure, a rescue that found nothing, an
+     * empty state. That is the point of it — "I couldn't read this" stops being the end of the
+     * road and becomes a slower road.
+     *
+     * It builds an empty [ReviewSet] and opens the editor on it, so everything downstream —
+     * review, the calendar choice, the write, duplicate detection, undo — is the code that
+     * already exists and is already tested, rather than a second pipeline that would drift.
+     */
+    fun beginManualEntry() {
+        source = null
+        answers = PipelineAnswers()
+        hints = ExtractionHints()
+        _state.value = ImportState.Reviewing(
+            review = manualReview(emptyList()),
+            selected = emptySet(),
+            editing = ImportState.Draft.New,
+        )
+    }
+
+    /**
+     * Adds a hand-written event to the review in progress.
+     *
+     * Ticked on arrival: someone who just typed an event out has already decided they want it.
+     */
+    fun addManualEvent(candidate: CalendarEventCandidate) = update { current ->
+        current.copy(
+            review = current.review.copy(
+                candidates = current.review.candidates + candidate,
+            ),
+            selected = current.selected + candidate.id,
+            editing = null,
+        )
+    }
+
+    /** Removes a row outright. Offered for hand-written events, which have no source to revisit. */
+    fun removeCandidate(id: CandidateId) = update { current ->
+        current.copy(
+            review = current.review.copy(
+                candidates = current.review.candidates.filterNot { it.id == id },
+            ),
+            selected = current.selected - id,
+            editing = null,
+        )
+    }
+
+    /**
+     * Leaves the editor, and leaves the flow entirely if there is nothing to review.
+     *
+     * Cancelling the very first blank event should return someone to Home, not strand them on
+     * an empty review screen asking them to confirm nothing.
+     */
+    fun dismissEditor() {
+        val current = _state.value as? ImportState.Reviewing ?: return
+        _state.value = if (current.isManual && current.review.candidates.isEmpty()) {
+            ImportState.Idle
+        } else {
+            current.copy(editing = null)
+        }
+    }
+
+    /** The zone every hand-written event is anchored in: the one the user is standing in. */
+    fun manualZone(): ZoneId = zone
+
+    /** The term a hand-written weekly class repeats until, unless the user says otherwise. */
+    fun manualTerm(): TermBounds = answers.term ?: suggestedTerm()
+
+    private fun manualReview(candidates: List<CalendarEventCandidate>) =
+        com.okayanshul.docaction.domain.ReviewSet(
+            // Honest rather than decorative: there is no file, so the "document" says so. The
+            // source sheet already refuses to point at a page for a UserProvided value, so
+            // nothing downstream will claim this came off one.
+            source = DocumentSource(
+                uri = MANUAL_URI,
+                displayName = "Events you added",
+                declaredMimeType = null,
+                sizeBytes = 0,
+            ),
+            format = com.okayanshul.docaction.domain.DocumentFormat.Manual,
+            groups = emptyList(),
+            selectedGroup = null,
+            candidates = candidates,
+            unresolved = emptyList(),
+        )
 
     /**
      * Opens "where did this come from?" and goes back to the document to answer it.
@@ -752,6 +847,15 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
          * reads correctly while a page sized from a stale measurement does not.
          */
         private const val LOG_TAG = "DocAction"
+
+        /**
+         * The "document" a hand-written event came from.
+         *
+         * Deliberately not a file path. `DocumentStaging.fileFor` will find nothing for it,
+         * which is the right answer — there is no file, and every consumer already treats a
+         * missing one as "no source to show" rather than as an error.
+         */
+        internal const val MANUAL_URI = "docaction://manual"
 
         private const val SOURCE_WIDTH_PX = 1080
 
