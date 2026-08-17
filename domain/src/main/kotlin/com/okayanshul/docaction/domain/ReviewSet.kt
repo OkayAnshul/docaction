@@ -58,6 +58,16 @@ sealed interface PipelineQuestion {
 
     /** The document contains several schedules and only the user knows which is theirs. */
     data class WhichSchedule(val groups: List<ScheduleGroup>) : PipelineQuestion
+
+    /**
+     * Many rows had the same gap and we filled it the same way. Asked once, applied to all.
+     *
+     * Unlike the others this one is asked *after* candidates exist, because it is about what
+     * they turned out to contain rather than about how to read the document. See
+     * [AssumptionReview] for why the alternative — flagging 175 rows individually — makes the
+     * review screen unreadable.
+     */
+    data class Assumed(val question: AssumedQuestion) : PipelineQuestion
 }
 
 /** The answers a user gives, fed back so the pipeline can finish without starting over. */

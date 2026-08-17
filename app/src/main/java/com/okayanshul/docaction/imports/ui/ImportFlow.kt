@@ -139,6 +139,7 @@ fun ImportFlow(
                     onPickGroup = viewModel::answer,
                     onPickTerm = viewModel::answer,
                     onPickOrder = viewModel::answer,
+                    onAnswerAssumed = viewModel::answerAssumed,
                     onCancel = viewModel::cancel,
                 )
 

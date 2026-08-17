@@ -41,6 +41,9 @@ class CorpusAnswerTest(private val document: String) {
                 is PipelineQuestion.WhichSchedule -> acc.copy(selectedGroup = q.groups.first().id)
                 is PipelineQuestion.DateOrder -> acc.copy(dateOrder = DateOrder.DayFirst)
                 is PipelineQuestion.TermEnd -> acc
+                // Not a pipeline answer at all — it is asked after candidates exist and is
+                // applied to them directly, so there is nothing to feed back into a re-run.
+                is PipelineQuestion.Assumed -> acc
             }
         }
 

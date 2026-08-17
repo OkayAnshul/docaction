@@ -24,7 +24,9 @@ import com.okayanshul.docaction.document.csv.CsvScheduleSource
 import com.okayanshul.docaction.document.spreadsheet.XlsxScheduleSource
 import com.okayanshul.docaction.document.text.PlainTextDocumentReader
 import com.okayanshul.docaction.domain.ActionTarget
+import com.okayanshul.docaction.domain.AssumedAnswer
 import com.okayanshul.docaction.domain.Assumption
+import com.okayanshul.docaction.domain.AssumptionReview
 import com.okayanshul.docaction.domain.CalendarEventCandidate
 import com.okayanshul.docaction.domain.CandidateId
 import com.okayanshul.docaction.domain.CandidateStatus
@@ -37,6 +39,7 @@ import com.okayanshul.docaction.domain.GroupId
 import com.okayanshul.docaction.domain.ImportId
 import com.okayanshul.docaction.domain.Outcome
 import com.okayanshul.docaction.domain.PipelineAnswers
+import com.okayanshul.docaction.domain.PipelineQuestion
 import com.okayanshul.docaction.domain.PipelineResult
 import com.okayanshul.docaction.domain.Stage
 import com.okayanshul.docaction.domain.TermBounds
@@ -82,6 +85,12 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
     private var answers = PipelineAnswers()
     private var hints = ExtractionHints()
     private var running: Job? = null
+
+    /** The review held back while its bulk questions are being answered. */
+    private var pendingReview: com.okayanshul.docaction.domain.ReviewSet? = null
+
+    /** Bulk questions already put to the user, so none is asked twice for one document. */
+    private var askedAssumptions: Set<String> = emptySet()
 
     /** An import that was interrupted and can still be picked up, or null. */
     private val _interrupted = MutableStateFlow<Interrupted?>(null)
@@ -286,14 +295,61 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
                             emptySchedule = answers.selectedGroup?.let { review.group?.label },
                         )
                     } else {
-                        ImportState.Reviewing(
-                            review = review,
-                            selected = review.candidates.filter(::startsTicked).map { it.id }.toSet(),
-                        )
+                        settleOrReview(review, document.displayName)
                     }
                 }
             }
         }
+    }
+
+    /**
+     * Asks about what we filled in, before showing the list.
+     *
+     * Order is the whole point. Reaching review first would mean a screen where two rows in
+     * three carry a warning, which is a screen where the warning means nothing; asking the two
+     * questions first means the review a user actually reads is one where a flag is rare and
+     * therefore worth reading. On the corpus this is the difference between 252 flagged rows
+     * and none.
+     */
+    private fun settleOrReview(
+        review: com.okayanshul.docaction.domain.ReviewSet,
+        documentName: String,
+    ): ImportState {
+        // Excluding what has already been asked is what terminates this. "I'll look at them
+        // myself" leaves the rows exactly as they were, so without it the same question would
+        // be asked again for ever — and answering a question by being asked it again is the
+        // worst possible reading of "guided when uncertain".
+        val question = AssumptionReview.questionsFor(review.candidates)
+            .firstOrNull { it.rule !in askedAssumptions }
+
+        return if (question != null) {
+            pendingReview = review
+            ImportState.Asking(documentName, PipelineQuestion.Assumed(question))
+        } else {
+            pendingReview = null
+            ImportState.Reviewing(
+                review = review,
+                selected = review.candidates.filter(::startsTicked).map { it.id }.toSet(),
+            )
+        }
+    }
+
+    /**
+     * Applies a bulk answer and moves on — to the next question if there is one, else review.
+     *
+     * Loops rather than asking everything at once: two unrelated questions on one screen is
+     * two decisions someone has to hold in their head simultaneously, and the second one is
+     * always the one answered carelessly.
+     */
+    fun answerAssumed(rule: String, answer: AssumedAnswer) {
+        val current = _state.value as? ImportState.Asking ?: return
+        val review = pendingReview ?: return
+
+        askedAssumptions = askedAssumptions + rule
+        val settled = review.copy(
+            candidates = AssumptionReview.apply(review.candidates, rule, answer),
+        )
+        _state.value = settleOrReview(settled, current.documentName)
     }
 
     // --- rescue: "show us the part you need" ---
@@ -417,6 +473,8 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
         source = null
         answers = PipelineAnswers()
         hints = ExtractionHints()
+        pendingReview = null
+        askedAssumptions = emptySet()
         _state.value = ImportState.Reviewing(
             review = manualReview(emptyList()),
             selected = emptySet(),
@@ -800,6 +858,8 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
             }
             source = null
             answers = PipelineAnswers()
+            pendingReview = null
+            askedAssumptions = emptySet()
             _state.value = ImportState.Idle
         }
     }
@@ -809,6 +869,8 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
         source = null
         answers = PipelineAnswers()
         hints = ExtractionHints()
+        pendingReview = null
+        askedAssumptions = emptySet()
         _state.value = ImportState.Idle
         viewModelScope.launch { journal.forget() }
     }

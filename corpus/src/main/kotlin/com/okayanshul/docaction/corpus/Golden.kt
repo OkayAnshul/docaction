@@ -91,6 +91,16 @@ object Golden {
                 put("kind", "DateOrder")
                 put("example", question.example)
             }
+
+            // Never appears in a golden: this one is asked after candidates exist, by the app
+            // layer, and the pipeline the corpus drives has already finished by then. Handled
+            // rather than ignored so that if it ever does reach here it shows up as a diff
+            // instead of being silently dropped.
+            is PipelineQuestion.Assumed -> {
+                put("kind", "Assumed")
+                put("rule", question.question.rule)
+                put("affected", question.question.affected)
+            }
         }
     }
 

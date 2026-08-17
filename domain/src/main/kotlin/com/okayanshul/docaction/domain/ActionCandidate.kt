@@ -96,6 +96,16 @@ class CalendarEventCandidate private constructor(
     val assumptions: List<Assumption>,
     override val sources: List<SourceReference>,
     override val status: CandidateStatus,
+    /**
+     * True when some field was read but read badly — `Confident.Low`.
+     *
+     * Kept because it is the *other* reason a row is flagged, and the two have to be told
+     * apart once the user can accept an assumption in bulk. Accepting "yes, an hour is fine"
+     * must settle the rows that were only flagged for the assumption, and must not settle a
+     * row whose room number might say K10 or K1O. Without this the two are indistinguishable
+     * after construction, and clearing assumptions would quietly clear a genuine doubt too.
+     */
+    val readWeakly: Boolean = false,
 ) : ActionCandidate {
 
     /**
@@ -124,8 +134,107 @@ class CalendarEventCandidate private constructor(
 
     fun withReminder(minutes: Int?) = CalendarEventCandidate(
         id, entryId, title, timing, location, recurrence, minutes, reminderKind,
-        assumptions, sources, status,
+        assumptions, sources, status, readWeakly,
     )
+
+    /**
+     * The user looked at what we filled in and said it was fine.
+     *
+     * Across the corpus, 252 of 369 candidates arrive flagged, and every one of them is
+     * flagged for one of two reasons: a date with no time, or a start with no end. At that
+     * density the flag stops being a signal — a review screen where two rows in three ask for
+     * attention is one where none of them gets any. But the underlying facts are true, and
+     * suppressing them would be worse. What is wrong is asking the question 252 times when it
+     * is the *same* question twice.
+     *
+     * So the question is asked once per kind, before review, and this applies the answer.
+     *
+     * The invariant it might look like this breaks — "an assumption forces NeedsAttention" —
+     * is intact. That rule exists so nothing is filled in *silently*; its enforcement point is
+     * [accept], where an assumption is created. Here the user has already been shown what was
+     * assumed and has agreed to it, which is the rule working rather than being bypassed.
+     *
+     * Three things are deliberate:
+     * - The [SourceReference.Assumed] entries **stay**. The value really was assumed, and
+     *   Source View must keep saying so. Agreement does not rewrite history.
+     * - A [SourceReference.UserProvided] is added per accepted rule, so the sheet can say
+     *   *"we assumed an hour; you accepted that"* rather than either half alone.
+     * - [readWeakly] rows stay flagged. Someone accepting an assumed end time has not thereby
+     *   confirmed a room number the OCR could not read.
+     */
+    fun acceptAssumptions(
+        rules: Set<String> = assumptions.map { it.rule }.toSet(),
+        atEpochMillis: Long = System.currentTimeMillis(),
+    ): CalendarEventCandidate {
+        val accepted = assumptions.filter { it.rule in rules }
+        if (accepted.isEmpty()) return this
+
+        val remaining = assumptions - accepted.toSet()
+        return CalendarEventCandidate(
+            id = id,
+            entryId = entryId,
+            title = title,
+            timing = timing,
+            location = location,
+            recurrence = recurrence,
+            reminderMinutes = reminderMinutes,
+            reminderKind = reminderKind,
+            assumptions = remaining,
+            sources = sources + accepted.map {
+                SourceReference.UserProvided("assumption:${it.rule}", atEpochMillis)
+            },
+            status = if (readWeakly || remaining.isNotEmpty()) {
+                CandidateStatus.NeedsAttention
+            } else {
+                CandidateStatus.Ready
+            },
+            readWeakly = readWeakly,
+        )
+    }
+
+    /**
+     * Gives an assumed all-day item a real clock time, because the user chose one for all of
+     * them at once.
+     *
+     * Only meaningful for [Assumption.NoTimeOfDay]; anything else is returned untouched. The
+     * time is the user's, so it arrives as [SourceReference.UserProvided] and the row settles
+     * exactly as if they had opened it and typed the time in themselves.
+     */
+    fun withChosenTime(
+        start: LocalTime,
+        duration: Duration,
+        atEpochMillis: Long = System.currentTimeMillis(),
+    ): CalendarEventCandidate? {
+        val allDay = timing as? EventTiming.AllDay ?: return null
+        if (assumptions.none { it is Assumption.NoTimeOfDay }) return null
+
+        val from = ZonedDateTime.of(allDay.date, start, allDay.zone)
+        val to = from.plus(duration)
+        if (!to.isAfter(from)) return null
+
+        val remaining = assumptions.filterNot { it is Assumption.NoTimeOfDay }
+        return CalendarEventCandidate(
+            id = id,
+            entryId = entryId,
+            title = title,
+            timing = EventTiming.Timed(from, to),
+            location = location,
+            recurrence = recurrence,
+            reminderMinutes = reminderMinutes,
+            reminderKind = reminderKind,
+            assumptions = remaining,
+            sources = sources + listOf(
+                SourceReference.UserProvided("startTime", atEpochMillis),
+                SourceReference.UserProvided("endTime", atEpochMillis),
+            ),
+            status = if (readWeakly || remaining.isNotEmpty()) {
+                CandidateStatus.NeedsAttention
+            } else {
+                CandidateStatus.Ready
+            },
+            readWeakly = readWeakly,
+        )
+    }
 
     /**
      * The user corrected this event on the review screen.
@@ -190,7 +299,11 @@ class CalendarEventCandidate private constructor(
             reminderKind = reminderKind,
             assumptions = assumptions.filterNot { it.field in settled },
             sources = sources + changed.map { SourceReference.UserProvided(it, atEpochMillis) },
+            // The user has just supplied the missing certainty for this row, by hand and in
+            // full view of it. That settles the weak reading too — continuing to flag a value
+            // someone has personally confirmed is what teaches people to ignore the flag.
             status = CandidateStatus.Ready,
+            readWeakly = false,
         )
     }
 
@@ -232,6 +345,7 @@ class CalendarEventCandidate private constructor(
             assumptions = assumptions,
             sources = sources + changed.map { SourceReference.UserProvided(it, atEpochMillis) },
             status = status,
+            readWeakly = readWeakly,
         )
     }
 
@@ -399,6 +513,7 @@ class CalendarEventCandidate private constructor(
                     } else {
                         CandidateStatus.Ready
                     },
+                    readWeakly = readWeakly,
                 ),
                 unresolved,
             )

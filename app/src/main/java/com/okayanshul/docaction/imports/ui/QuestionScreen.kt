@@ -27,10 +27,15 @@ import androidx.compose.ui.semantics.heading
 import androidx.compose.ui.semantics.semantics
 import com.okayanshul.docaction.core.designsystem.DocAction
 import com.okayanshul.docaction.core.designsystem.MinTouchTarget
+import com.okayanshul.docaction.domain.AssumedAnswer
+import com.okayanshul.docaction.domain.AssumedQuestion
 import com.okayanshul.docaction.domain.DateOrder
 import com.okayanshul.docaction.domain.GroupId
 import com.okayanshul.docaction.domain.PipelineQuestion
 import com.okayanshul.docaction.domain.TermBounds
+import com.okayanshul.docaction.domain.Unresolved
+import java.time.Duration
+import java.time.LocalTime
 import com.okayanshul.docaction.imports.Copy
 import com.okayanshul.docaction.imports.ImportViewModel
 
@@ -48,6 +53,7 @@ fun QuestionScreen(
     onPickGroup: (GroupId) -> Unit,
     onPickTerm: (TermBounds) -> Unit,
     onPickOrder: (DateOrder) -> Unit,
+    onAnswerAssumed: (String, AssumedAnswer) -> Unit,
     onCancel: () -> Unit,
     modifier: Modifier = Modifier,
 ) {
@@ -55,6 +61,111 @@ fun QuestionScreen(
         is PipelineQuestion.WhichSchedule -> WhichSchedule(question, onPickGroup, onCancel, modifier)
         is PipelineQuestion.TermEnd -> TermEnd(question, onPickTerm, onCancel, modifier)
         is PipelineQuestion.DateOrder -> DateOrderQuestion(question, onPickOrder, onCancel, modifier)
+        is PipelineQuestion.Assumed ->
+            AssumedQuestionScreen(question.question, onAnswerAssumed, onCancel, modifier)
+    }
+}
+
+/**
+ * "These 41 dates have no time. What should we do?"
+ *
+ * One question standing in for up to 175 identical flags. It shows the count and real
+ * examples, because agreeing to something about 41 invisible rows is not agreeing to
+ * anything — the user has to see what kind of thing they are deciding about.
+ *
+ * "I'll check them myself" is always offered and never discouraged. Batching exists to spare
+ * people work, not to take the decision away from anyone who wants it.
+ */
+@Composable
+private fun AssumedQuestionScreen(
+    question: AssumedQuestion,
+    onAnswer: (String, AssumedAnswer) -> Unit,
+    onCancel: () -> Unit,
+    modifier: Modifier,
+) {
+    val allDay = question.field == Unresolved.Field.StartTime
+
+    Column(modifier = modifier.fillMaxSize()) {
+        Ask(
+            headline = if (allDay) {
+                "${Copy.countOf(question.affected, "date")} " +
+                    "${if (question.affected == 1) "has" else "have"} no time"
+            } else {
+                "${Copy.countOf(question.affected, "event")} " +
+                    "${if (question.affected == 1) "has" else "have"} no end time"
+            },
+            body = if (allDay) {
+                "The document gives the day but not the time of day."
+            } else {
+                "The document says when these start, but not when they finish."
+            },
+            onCancel = onCancel,
+        )
+
+        Column(
+            modifier = Modifier
+                .weight(1f)
+                .padding(horizontal = DocAction.space.default),
+            verticalArrangement = Arrangement.spacedBy(DocAction.space.snug),
+        ) {
+            // What they actually are. A number alone is not something anyone can answer about.
+            Text(
+                text = question.examples.joinToString("  ·  "),
+                style = DocAction.type.meta,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(bottom = DocAction.space.snug),
+            )
+
+            if (allDay) {
+                Choice(
+                    label = "Add them as all-day events",
+                    detail = "They'll sit at the top of the day, with no particular time.",
+                ) { onAnswer(question.rule, AssumedAnswer.Accept) }
+                Choice(
+                    label = "Put them all at 9:00 AM",
+                    detail = "One hour each. You can change any of them afterwards.",
+                ) {
+                    onAnswer(
+                        question.rule,
+                        AssumedAnswer.UseTime(LocalTime.of(9, 0), Duration.ofHours(1)),
+                    )
+                }
+            } else {
+                Choice(
+                    label = "Give them an hour each",
+                    detail = "The usual length. You can change any of them afterwards.",
+                ) { onAnswer(question.rule, AssumedAnswer.Accept) }
+            }
+
+            Choice(
+                label = "I'll check them myself",
+                detail = "They'll be flagged in the list for you to go through.",
+            ) { onAnswer(question.rule, AssumedAnswer.Individually) }
+        }
+    }
+}
+
+@Composable
+private fun Choice(label: String, detail: String, onClick: () -> Unit) {
+    OutlinedButton(
+        onClick = onClick,
+        shape = MaterialTheme.shapes.large,
+        modifier = Modifier
+            .fillMaxWidth()
+            .sizeIn(minHeight = MinTouchTarget),
+    ) {
+        Column(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(vertical = DocAction.space.snug),
+        ) {
+            Text(label, style = DocAction.type.subject)
+            Text(
+                text = detail,
+                style = DocAction.type.meta,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+        }
     }
 }
 
