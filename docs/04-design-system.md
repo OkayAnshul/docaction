@@ -11,58 +11,81 @@ Everything below is a **token**. No raw `16.dp` or `Color(0xFF...)` appears in f
 
 ## Colour
 
+The system is called **Ink**, and it replaced a deep blue-and-amber palette on 2026-08-18.
+
 ### Identity
 
-The brand hue is a deep ink-blue — serious, document-adjacent, and crucially *not* the purple or
-electric-teal that signals "AI startup". The accent is a warm amber used almost exclusively for
-the attention state, which keeps it meaningful.
+Documents are ink on paper, and so is the interface. The chrome is achromatic — text is ink,
+surfaces are paper, and the primary button is an ink-filled block the way a stamp is — and
+**all chroma is reserved for meaning**.
 
-```kotlin
-// Brand seed
-val InkBlue      = Color(0xFF1B3A5C)   // primary seed
-val Amber        = Color(0xFF9A6400)   // attention / warning role
-```
+That is the whole idea, and it is doing real work rather than being a style. Nothing is
+coloured to look nice, so colour is trustworthy when it appears: if something is green it is
+because it is ready, not because green was available. It is also what makes "the interface gets
+quieter as confidence rises" structural instead of aspirational. On a screen whose only colours
+are the four confidence states, forty ready rows recede on their own and the two that need a
+decision are the only colour present.
+
+The palette it replaced used a blue primary. That was defensible and it was also spending the
+user's attention on a button that always looks the same.
+
+### Tokens
+
+Every value was computed against its surfaces, not chosen by eye. `ContrastTest` recomputes them
+with the WCAG relative-luminance formula on every build, so a palette nudged two shades lighter
+fails rather than ships.
+
+| Role | Light | Dark | Worst case |
+|---|---|---|---|
+| `surface` (paper) | `#FBFAF8` | `#0E1013` | — |
+| `surfaceSunken` | `#F2F0EC` | `#08090B` | — |
+| `surfaceRaised` | `#FFFFFF` | `#171A1F` | — |
+| `ink` — primary text, primary fill | `#16181B` | `#F2F1EE` | 15.44 AAA |
+| `inkMuted` — secondary text | `#5B6167` | `#A2A8AF` | 5.51 AA |
+| `inkFaint` — captions, timestamps | `#676C72` | `#868C93` | 4.65 AA |
+| `accent` — focus, selection, links, active nav | `#2A46C0` | `#8FA5FF` | 6.74 AA |
+| `border` — control outlines | `#8D887F` | `#686E77` | 3.10 |
+| `hairline` — row separators | `#E4E1DB` | `#272B31` | *deliberately below 3:1* |
+
+`border` and `hairline` are separate on purpose. A control outline has to clear 3:1 to satisfy
+WCAG 1.4.11 or the user cannot find the edge of a text field; a row separator has to stay *under*
+it, because a separator that reads as a border starts carrying meaning it was never given, and a
+list of forty rows turns into forty boxes. Both directions are asserted.
+
+**Dynamic colour retints the accent only.** An achromatic identity and wallpaper-tinted surfaces
+are incompatible — washing the page in colour breaks the premise on every screen at once — so the
+user's palette lands on the selection and the focus ring while paper stays paper. Material's
+dynamic primary is tone 40 in light and tone 80 in dark, so an accent taken from it clears the
+3:1 a focus indicator needs whatever the wallpaper is.
 
 ### Semantic confidence roles — the important part
 
-Confidence colour is a **separate token set** from M3's error/warning roles, because these states
-are not errors. A low-confidence field is not a failure; it is a question. Using `error` red for
-it would tell the user something went wrong, which is both false and alarming.
+A **separate token set** from Material's error and warning roles, because these are not errors. A
+low-confidence field is a question, not a failure, and painting it error-red would tell the user
+something went wrong, which is both false and alarming.
 
-```kotlin
-@Immutable
-data class ConfidenceColors(
-    val readyFg: Color,      val readyBg: Color,      // ✓  calm, recessive
-    val checkFg: Color,      val checkBg: Color,      // ⚠  amber, noticeable
-    val missingFg: Color,    val missingBg: Color,    // ?  neutral, not alarming
-    val invalidFg: Color,    val invalidBg: Color,    // ✕  error role — genuinely wrong data
-)
-```
-
-| State | Light fg | Dark fg | Glyph | Meaning |
+| State | Glyph | Light | Dark | Worst case |
 |---|---|---|---|---|
-| Ready | `#2E6B4F` | `#7FD4A8` | `✓` | Extracted with high confidence |
-| Check | `#8A5A00` | `#F2C066` | `⚠` | Needs a human decision |
-| Missing | `#5A6572` | `#A8B2BE` | `?` | Not present in the document |
-| Invalid | `#B3261E` | `#F2B8B5` | `✕` | Present but impossible (`32 September`) |
+| Ready | `✓` | `#1F6B4A` | `#6FD3A3` | 5.66 AA |
+| Check | `⚠` | `#8A5300` | `#F0C069` | 5.56 AA |
+| Missing | `?` | `#676C72` | `#868C93` | 4.65 AA |
+| Invalid | `✕` | `#B3261E` | `#F2B8B5` | 5.74 AA |
 
-All four pairs verified ≥ 4.5:1 against their surface in both themes.
+Excluded from dynamic theming. A user's wallpaper must never be able to make "needs attention"
+look like "ready".
 
-**Rule:** every one of these states must be identifiable with colour removed. The greyscale test
-is part of the design review checklist, not a nice-to-have — see [03-ux.md § Accessibility](03-ux.md#accessibility).
-
-### Dynamic colour
-
-Supported and **on by default** on Android 12+, applied to surfaces, primary, and containers.
-The confidence roles are **excluded** from dynamic theming and remain fixed. A user's wallpaper
-must never be able to make "needs attention" look like "ready", and the semantics of these four
-states are worth more than the visual cohesion we'd gain by theming them.
+**Ready, Check and Invalid sit at near-identical relative luminance** — 0.1130, 0.1159, 0.1106 —
+and that is deliberate rather than incidental. No state is allowed to shout louder than another.
+The consequence is that the three are genuinely indistinguishable in greyscale, so the glyph and
+the row's own words carry the entire meaning and a colour-blind user loses nothing. That is the
+strongest available reading of NFR-7, and it is a property to preserve rather than a flaw to
+correct — `readyCheckAndInvalidCarryEqualVisualWeight` fails if someone "fixes" it.
 
 ### Surfaces
 
 Flat, layered by tone rather than shadow. Elevation overlays only; drop shadows reserved for
-genuinely floating elements (FAB, bottom bar over scrolled content). The review list uses no
-cards — 42 elevated cards is visual noise and destroys the "quiet by default" principle.
+genuinely floating elements (bottom bar over scrolled content). The review list uses no cards —
+42 elevated cards is visual noise and destroys the "quiet by default" principle.
 
 ---
 
@@ -146,20 +169,24 @@ fun ConfidenceBadge(
   "missing", "invalid". Never announces as an unlabelled icon.
 - 20dp glyph in a 48dp touch target when interactive.
 
-### `ReviewRow`
+### `EventRow`
+
+Named `ReviewRow` here until 2026-08-18; the code has always called it `EventRow`, and it is
+used on more than the review screen.
 
 ```kotlin
 @Composable
-fun ReviewRow(
+fun EventRow(
+    title: String,
     time: String,                   // tabular, "09:00 – 10:00"
-    subject: String,
     detail: String?,                // room / location
-    state: ConfidenceState,
-    reason: String?,                // one line, plain language, only when state != Ready
+    state: Confidence,
     selected: Boolean,
-    actions: List<RowAction>,       // inline, only when state != Ready
     onToggle: () -> Unit,
     onEdit: () -> Unit,
+    modifier: Modifier = Modifier,
+    reason: String? = null,         // one line, plain language, only when state != Ready
+    actions: List<RowAction> = emptyList(), // inline, only when state != Ready
 )
 ```
 
@@ -178,7 +205,11 @@ whole component is a polite live region.
 
 Bottom sheet rendering the document region with the source rectangle highlighted. Takes a
 `SourceReference` and a page bitmap provider. Falls back to a text excerpt when the source is a
-spreadsheet cell rather than a visual region.
+spreadsheet cell rather than a visual region, and says so plainly for a value that was assumed
+or that the user supplied — there is no page to point at for either.
+
+Lives in `:app` rather than `:core:designsystem`, because rendering a page needs the document.
+Listed here because it is part of the system's vocabulary, not because it ships in that module.
 
 ### Buttons
 
@@ -202,23 +233,25 @@ and costs nothing to maintain.
 
 ## Theming
 
-Light, dark, system — user-selectable, defaulting to system.
+Light, dark, system — following the system setting.
 
 ```kotlin
 @Composable
 fun DocActionTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
-    dynamicColor: Boolean = true,       // user-toggleable in Settings
+    dynamicColour: Boolean = true,      // retints the accent only
     content: @Composable () -> Unit,
 )
 ```
 
 Provided via `CompositionLocal`:
-- `MaterialTheme` (M3 colour, our typography, our shapes)
-- `LocalConfidenceColors` — never dynamic
+- `MaterialTheme` (M3 roles mapped from Ink, our typography, our shapes)
+- `LocalInkColours` — the roles Material has no slot for: `inkFaint`, `border`, `hairline`, `accent`
+- `LocalConfidenceColours` — never dynamic
 - `LocalSpace`, `LocalRadius`
 
-Dark theme is a true dark (surface `#101418`), not an inverted grey. Elevation is expressed by
+Dark theme is a true dark on a warm axis (surface `#0E1013`), not an inverted grey — so paper
+stays paper rather than becoming blue-grey. Elevation is expressed by
 tonal lift, and the confidence tokens are re-tuned for dark rather than reused, because the amber
 that reads as "attention" on white reads as "highlighted" on black.
 
