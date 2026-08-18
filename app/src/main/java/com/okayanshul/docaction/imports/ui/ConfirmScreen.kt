@@ -48,6 +48,7 @@ fun ConfirmScreen(
     onSetReminders: (Boolean) -> Unit,
     onSetKeepTimetable: (Boolean) -> Unit,
     onChooseTimetableResolution: (TimetableResolution) -> Unit,
+    onChooseDuplicates: (ImportState.DuplicateChoice) -> Unit,
     onRequestPermission: () -> Unit,
     onOpenSettings: () -> Unit,
     onWrite: () -> Unit,
@@ -96,16 +97,8 @@ fun ConfirmScreen(
                     )
                 }
 
-                if (state.duplicates > 0) {
-                    Notice(
-                        if (state.duplicates == 1) {
-                            "One of these is already in this calendar. Adding it again will " +
-                                "create a duplicate."
-                        } else {
-                            "${state.duplicates} of these are already in this calendar. " +
-                                "Adding them again will create duplicates."
-                        },
-                    )
+                if (state.duplicates.isNotEmpty()) {
+                    Duplicates(state, onChooseDuplicates)
                 }
 
                 Section("Reminders")
@@ -219,6 +212,96 @@ private fun PermissionBlock(denied: Boolean, onSettings: () -> Unit) {
 }
 
 /**
+ * Events that are already in the calendar, named rather than counted.
+ *
+ * "It added 60 duplicates and I deleted them one by one" is the most common complaint across
+ * the whole calendar-import category, so this is a first-class step rather than a warning.
+ *
+ * It is also the one place in this flow with a default, and the exception is defensible:
+ * skipping cannot lose anything, because everything it declines to write is already there.
+ * The alternative is one tap away and says plainly what it will do.
+ *
+ * They are listed because a count is unactionable. A weekly lecture legitimately falls at the
+ * same hour as last term's, and only the user can tell that from a genuine re-import.
+ */
+@Composable
+private fun Duplicates(
+    state: ImportState.Confirming,
+    onChoose: (ImportState.DuplicateChoice) -> Unit,
+) {
+    Section("Already in this calendar")
+
+    Notice(
+        if (state.duplicates.size == 1) {
+            "One of these is already there."
+        } else {
+            "${state.duplicates.size} of these are already there."
+        },
+    )
+
+    Column(modifier = Modifier.padding(top = DocAction.space.snug)) {
+        state.duplicates.take(MAX_LISTED).forEach { duplicate ->
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(
+                        horizontal = DocAction.space.default,
+                        vertical = DocAction.space.tight,
+                    ),
+            ) {
+                Text(duplicate.existingTitle, style = DocAction.type.body)
+                Text(
+                    text = Format.dateTime(duplicate.existingStartMillis) +
+                        if (duplicate.createdByUs) " · added by DocAction" else "",
+                    style = DocAction.type.meta,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+        }
+        if (state.duplicates.size > MAX_LISTED) {
+            Text(
+                text = "and ${state.duplicates.size - MAX_LISTED} more",
+                style = DocAction.type.meta,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(horizontal = DocAction.space.default),
+            )
+        }
+    }
+
+    listOf(
+        ImportState.DuplicateChoice.Skip to
+            ("Skip them" to "Add only the ${Copy.countOf(state.chosen.size - state.duplicates.size, "event")} that aren't there yet."),
+        ImportState.DuplicateChoice.AddAnyway to
+            ("Add them anyway" to "You'll have two of each. Undo removes only the ones added now."),
+    ).forEach { (choice, text) ->
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .clickable { onChoose(choice) }
+                .padding(horizontal = DocAction.space.default, vertical = DocAction.space.snug)
+                .sizeIn(minHeight = MinTouchTarget),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            RadioButton(
+                selected = state.duplicateChoice == choice,
+                onClick = { onChoose(choice) },
+            )
+            Column(modifier = Modifier.padding(start = DocAction.space.snug)) {
+                Text(text.first, style = DocAction.type.body)
+                Text(
+                    text = text.second,
+                    style = DocAction.type.meta,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+        }
+    }
+}
+
+/** Enough to recognise what is being skipped; past that a list stops being readable. */
+private const val MAX_LISTED = 4
+
+/**
  * The question that stands between someone and losing a schedule they already had.
  *
  * This exists because the app used to answer it silently, and answer it wrong: a timetable was
@@ -307,10 +390,14 @@ private fun TimetableDecision(
 private fun confirmLabel(state: ImportState.Confirming): String = when {
     state.needsPermission -> "Allow calendar access"
     state.awaitingTimetableDecision -> "Choose what happens to your timetable"
-    state.timetableResolution == TimetableResolution.Replace && state.keepAsTimetable ->
-        "Add ${Copy.countOf(state.chosen.size, "event")} and replace timetable"
+    state.toWrite.isEmpty() -> "Everything here is already in your calendar"
 
-    else -> "Add ${Copy.countOf(state.chosen.size, "event")}"
+    state.timetableResolution == TimetableResolution.Replace && state.keepAsTimetable ->
+        "Add ${Copy.countOf(state.toWrite.size, "event")} and replace timetable"
+
+    // The number on the button is the number that ends up in the calendar, never the number
+    // selected upstream — those differ the moment anything is being skipped.
+    else -> "Add ${Copy.countOf(state.toWrite.size, "event")}"
 }
 
 @Composable

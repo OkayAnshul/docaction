@@ -680,7 +680,7 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
             chosen = chosen,
             targets = targets,
             target = only,
-            duplicates = only?.let { duplicatesFor(chosen, it) } ?: 0,
+            duplicates = only?.let { duplicatesFor(chosen, it) }.orEmpty(),
             reminders = settings.preferences.first(),
             // Looked up before anything is written, so a schedule the user would lose is part
             // of the summary rather than a casualty of it.
@@ -726,7 +726,7 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
 
     fun chooseTarget(target: ActionTarget) {
         val current = _state.value as? ImportState.Confirming ?: return
-        _state.value = current.copy(target = target, duplicates = 0)
+        _state.value = current.copy(target = target, duplicates = emptyList())
         viewModelScope.launch {
             val duplicates = duplicatesFor(current.chosen, target)
             (_state.value as? ImportState.Confirming)
@@ -761,7 +761,13 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
     }
 
     private suspend fun duplicatesFor(chosen: List<CalendarEventCandidate>, target: ActionTarget) =
-        (executor.findDuplicates(chosen, target) as? Outcome.Success)?.value?.size ?: 0
+        (executor.findDuplicates(chosen, target) as? Outcome.Success)?.value.orEmpty()
+
+    /** Records whether the user wants the already-present events written again. */
+    fun chooseDuplicates(choice: ImportState.DuplicateChoice) {
+        val current = _state.value as? ImportState.Confirming ?: return
+        _state.value = current.copy(duplicateChoice = choice)
+    }
 
     // --- the only method that changes anything outside the app ---
 
@@ -774,9 +780,11 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
         val importId = ImportId(UUID.randomUUID().toString())
 
         viewModelScope.launch {
-            _state.value = ImportState.Writing(0, current.chosen.size)
+            _state.value = ImportState.Writing(0, current.toWrite.size)
 
-            val outcome = executor.execute(importId, current.chosen, target) { done, total ->
+            // toWrite, not chosen: the count on the button is the count in the calendar.
+            val writing = current.toWrite
+            val outcome = executor.execute(importId, writing, target) { done, total ->
                 _state.value = ImportState.Writing(done, total)
             }
 
@@ -796,7 +804,7 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
             runCatching { recordImport(importId, current, outcome) }
 
             if (current.remindersEnabled) {
-                armReminders(importId, current.chosen, current.reminders)
+                armReminders(importId, writing, current.reminders)
             }
 
             // After the calendar write and outside its result, like reminders: failing to
@@ -805,7 +813,7 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
                 runCatching {
                     timetables.save(
                         label = timetableLabelFor(current.review),
-                        candidates = current.chosen,
+                        candidates = writing,
                         term = answers.term ?: ImportViewModel.suggestedTerm(),
                         importId = importId,
                         sourceName = current.review.source.displayName,
@@ -868,7 +876,7 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
                 startedAt = now,
                 completedAt = now,
                 state = if (written == 0) STATE_FAILED else STATE_COMMITTED,
-                candidateCount = confirming.chosen.size,
+                candidateCount = confirming.toWrite.size,
                 committedCount = written,
                 failureReason = (outcome as? Outcome.Failure)?.reason?.name,
             ),

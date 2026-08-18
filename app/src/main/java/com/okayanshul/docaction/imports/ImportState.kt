@@ -98,7 +98,16 @@ sealed interface ImportState {
         val targets: List<ActionTarget>,
         val target: ActionTarget?,
         val reminders: ReminderPreferences,
-        val duplicates: Int = 0,
+        /**
+         * Events already in the chosen calendar that these would repeat.
+         *
+         * The list, not a count. "3 of these are already there" is a warning nobody can act
+         * on; naming them is what lets someone tell a genuine clash from a coincidence — a
+         * weekly lecture legitimately appears at the same hour as last term's.
+         */
+        val duplicates: List<com.okayanshul.docaction.domain.DuplicateMatch> = emptyList(),
+        /** What to do about [duplicates]. Skipping is the default; see [DuplicateChoice]. */
+        val duplicateChoice: DuplicateChoice = DuplicateChoice.Skip,
         val remindersEnabled: Boolean = true,
         val needsPermission: Boolean = false,
         /** The user said no. Distinct from "not asked yet" — it changes what we may say. */
@@ -118,6 +127,24 @@ sealed interface ImportState {
     ) : ImportState {
         val recurring: Int get() = chosen.count { it.recurrence != null }
 
+        /**
+         * What will actually be written, once duplicates are accounted for.
+         *
+         * The count on the button comes from here rather than from [chosen], so the number
+         * the user agrees to is the number that appears in their calendar.
+         */
+        val toWrite: List<CalendarEventCandidate>
+            get() = when (duplicateChoice) {
+                DuplicateChoice.Skip -> {
+                    val skip = duplicates.map { it.candidateId }.toSet()
+                    chosen.filterNot { it.id in skip }
+                }
+
+                DuplicateChoice.AddAnyway -> chosen
+            }
+
+        val skipped: Int get() = chosen.size - toWrite.size
+
         /** A timetable is the thing that repeats. Nothing else is worth a weekly view. */
         val canKeepAsTimetable: Boolean get() = recurring > 0
 
@@ -134,9 +161,20 @@ sealed interface ImportState {
                 timetableCollision != null && timetableResolution == null
 
         val canWrite: Boolean
-            get() = target != null && chosen.isNotEmpty() && !needsPermission &&
+            get() = target != null && toWrite.isNotEmpty() && !needsPermission &&
                 !awaitingTimetableDecision
     }
+
+    /**
+     * What to do about events that are already in the calendar.
+     *
+     * Skipping is the default, and it is the one place in this flow with one. "It added 60
+     * duplicate events and I deleted them one by one" is the most common complaint across the
+     * entire calendar-import category, so the safe answer is the assumed one — and unlike most
+     * defaults this one is visible, reversible in a tap, and cannot lose anything: the events
+     * it declines to write are already there.
+     */
+    enum class DuplicateChoice { Skip, AddAnyway }
 
     /**
      * "Show us the part you need."

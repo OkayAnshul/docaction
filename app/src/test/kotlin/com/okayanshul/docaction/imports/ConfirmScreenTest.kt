@@ -11,6 +11,8 @@ import com.okayanshul.docaction.actions.calendar.CalendarTarget
 import com.okayanshul.docaction.core.designsystem.DocActionTheme
 import com.okayanshul.docaction.core.settings.ReminderPreferences
 import com.okayanshul.docaction.domain.ActionTarget
+import com.okayanshul.docaction.domain.CandidateId
+import com.okayanshul.docaction.domain.DuplicateMatch
 import com.okayanshul.docaction.imports.ui.ConfirmScreen
 import com.okayanshul.docaction.timetable.TimetableCollision
 import com.okayanshul.docaction.timetable.TimetableResolution
@@ -40,7 +42,7 @@ class ConfirmScreenTest {
     private fun state(
         targets: List<ActionTarget>,
         chosenTarget: ActionTarget?,
-        duplicates: Int = 0,
+        duplicates: List<DuplicateMatch> = emptyList(),
         needsPermission: Boolean = false,
         denied: Boolean = false,
         collision: TimetableCollision? = null,
@@ -69,6 +71,7 @@ class ConfirmScreenTest {
     private fun show(
         state: ImportState.Confirming,
         onChooseTimetableResolution: (TimetableResolution) -> Unit = {},
+        onChooseDuplicates: (ImportState.DuplicateChoice) -> Unit = {},
         onWrite: () -> Unit = {},
     ) {
         compose.setContent {
@@ -79,6 +82,7 @@ class ConfirmScreenTest {
                     onSetReminders = {},
                     onSetKeepTimetable = {},
                     onChooseTimetableResolution = onChooseTimetableResolution,
+                    onChooseDuplicates = onChooseDuplicates,
                     onRequestPermission = {},
                     onOpenSettings = {},
                     onWrite = onWrite,
@@ -124,14 +128,78 @@ class ConfirmScreenTest {
         assertThat(written).isTrue()
     }
 
+    // --- events already in the calendar ---
+
+    private fun duplicate(id: String, title: String) = DuplicateMatch(
+        candidateId = CandidateId(id),
+        existingTitle = title,
+        existingStartMillis = 1_789_000_000_000L,
+        createdByUs = false,
+    )
+
     @Test
     fun `duplicates are named before the write, not discovered after it`() {
         val one = target("1", "Personal", "me@gmail.com")
-        show(state(targets = listOf(one), chosenTarget = one, duplicates = 2))
+        show(
+            state(
+                targets = listOf(one), chosenTarget = one,
+                duplicates = listOf(duplicate("e1", "Data Structures")),
+            ),
+        )
 
-        compose.onNodeWithText(
-            "2 of these are already in this calendar. Adding them again will create duplicates.",
-        ).assertIsDisplayed()
+        compose.onNodeWithText("One of these is already there.").assertIsDisplayed()
+        // Named, not counted. Only the user can tell a re-import from a lecture that
+        // legitimately falls at the same hour as last term's.
+        compose.onNodeWithText("Data Structures").assertIsDisplayed()
+    }
+
+    @Test
+    fun `skipping is the default and the button promises the smaller number`() {
+        val one = target("1", "Personal", "me@gmail.com")
+        val withDuplicate = state(
+            targets = listOf(one), chosenTarget = one,
+            duplicates = listOf(duplicate("e1", "Data Structures")),
+        )
+
+        // The one default in this flow, and it cannot lose anything: what it declines to
+        // write is already in the calendar.
+        assertThat(withDuplicate.duplicateChoice).isEqualTo(ImportState.DuplicateChoice.Skip)
+        assertThat(withDuplicate.toWrite).hasSize(1)
+
+        show(withDuplicate)
+        compose.onNodeWithText("Add 1 event").assertIsDisplayed()
+    }
+
+    @Test
+    fun `adding anyway writes all of them again`() {
+        val one = target("1", "Personal", "me@gmail.com")
+        val anyway = state(
+            targets = listOf(one), chosenTarget = one,
+            duplicates = listOf(duplicate("e1", "Data Structures")),
+        ).copy(duplicateChoice = ImportState.DuplicateChoice.AddAnyway)
+
+        assertThat(anyway.toWrite).hasSize(2)
+
+        show(anyway)
+        compose.onNodeWithText("Add 2 events").assertIsDisplayed()
+    }
+
+    @Test
+    fun `an import that is entirely duplicates cannot be written`() {
+        val one = target("1", "Personal", "me@gmail.com")
+        val allPresent = state(
+            targets = listOf(one), chosenTarget = one,
+            duplicates = listOf(duplicate("e1", "a"), duplicate("e2", "b")),
+        )
+
+        // Writing nothing is not a successful import, and a button that says "Add 0 events"
+        // is one the user is right to distrust.
+        assertThat(allPresent.toWrite).isEmpty()
+        assertThat(allPresent.canWrite).isFalse()
+
+        show(allPresent)
+        compose.onNodeWithText("Everything here is already in your calendar")
+            .assertIsNotEnabled()
     }
 
     @Test

@@ -26,6 +26,18 @@ object Format {
     fun day(at: ZonedDateTime): String = dayName.format(at)
 
     /**
+     * An instant already in the user's calendar, shown in their own zone.
+     *
+     * Used for duplicate rows, where the point is to let someone recognise an event they
+     * already have — so it is read back in the zone they are standing in, not the one the
+     * document was written in.
+     */
+    fun dateTime(epochMillis: Long): String {
+        val at = java.time.Instant.ofEpochMilli(epochMillis).atZone(java.time.ZoneId.systemDefault())
+        return "${date.format(at.toLocalDate())}, ${time.format(at)}"
+    }
+
+    /**
      * The middle line of a review row.
      *
      * A weekly class says which day it repeats and when it stops; a one-off says its date.

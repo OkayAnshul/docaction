@@ -193,6 +193,7 @@ fun ImportFlow(
                     onSetReminders = viewModel::setReminders,
                     onSetKeepTimetable = viewModel::setKeepTimetable,
                     onChooseTimetableResolution = viewModel::setTimetableResolution,
+                    onChooseDuplicates = viewModel::chooseDuplicates,
                     onRequestPermission = { requestCalendar.launch(CALENDAR_PERMISSIONS) },
                     onOpenSettings = {
                         context.startActivity(
