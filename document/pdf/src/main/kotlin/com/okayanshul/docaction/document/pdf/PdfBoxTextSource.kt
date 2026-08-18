@@ -8,6 +8,7 @@ import com.tom_roush.pdfbox.pdmodel.PDDocument
 import com.tom_roush.pdfbox.pdmodel.encryption.InvalidPasswordException
 import java.io.File
 import java.io.IOException
+import java.io.InputStream
 
 /**
  * ADR-001 tier 2: works on every supported device, and the only tier that supplies glyph
@@ -73,40 +74,56 @@ class PdfBoxTextSource private constructor(
             PDFBoxResourceLoader.init(context.applicationContext)
         }
 
-        override fun open(file: File): PdfTextSource = open(file, spillToDisk = true)
-
-        /**
-         * @param spillToDisk false when the caller has no writable storage.
-         *
-         * The isolated parsing process is the case: it has no data directory at all, so
-         * PdfBox's scratch file cannot be created and every document fails to open with a
-         * plain IOException that looks exactly like a corrupt file. Main-memory-only is also
-         * the better answer there on its own terms — a spill file is filesystem access that
-         * the sandbox exists to not have — and a document too big for the budget kills a
-         * throwaway process rather than the app.
-         */
-        fun open(file: File, spillToDisk: Boolean): PdfTextSource {
+        override fun open(file: File): PdfTextSource {
             if (!file.exists() || file.length() == 0L) throw PdfOpenException(PdfOpenFailure.Empty)
             if (file.length() > MAX_BYTES) throw PdfOpenException(PdfOpenFailure.TooLarge)
 
+            // Cap the parser's heap. A malformed or hostile document exhausts this budget and
+            // fails cleanly rather than taking the process with it. Random access straight
+            // off the file, spilling to a scratch file past the budget.
+            return load { PDDocument.load(file, MemoryUsageSetting.setupMixed(MAX_MAIN_MEMORY_BYTES)) }
+        }
+
+        /**
+         * Opens a document from an already-open descriptor, entirely in memory.
+         *
+         * This exists for the isolated parsing process, and the reason is worth writing down
+         * because it is not obvious and it cost an afternoon.
+         *
+         * The obvious way to hand a file to a process that cannot open files is to pass the
+         * descriptor and let it read `/proc/self/fd/N`. That path exists and `stat` works, so
+         * everything *looks* fine — but opening it is a fresh open of the underlying file,
+         * subject to the usual checks, and SELinux does not let an isolated process open an
+         * app's data files. PdfBox's file loader builds a `RandomAccessFile`, so it hit
+         * exactly that and every document came back `FileNotFoundException` → "Corrupt".
+         *
+         * That is the sandbox working, not failing. The descriptor itself is readable; only
+         * re-opening the path is not. So the bytes are streamed off the descriptor instead.
+         *
+         * The cost is that the document is held in memory rather than paged off disk, which
+         * is why [maxBytes] is enforced against the descriptor's own size — an isolated
+         * process cannot `stat` the path either. A document past the budget fails cleanly,
+         * and one that still exhausts the heap takes a throwaway process with it, which is
+         * the whole point of parsing here.
+         */
+        fun openStream(input: InputStream, sizeBytes: Long, maxBytes: Long = MAX_IN_MEMORY_BYTES): PdfTextSource {
+            if (sizeBytes <= 0L) throw PdfOpenException(PdfOpenFailure.Empty)
+            if (sizeBytes > maxBytes) throw PdfOpenException(PdfOpenFailure.TooLarge)
+
+            return load { PDDocument.load(input, MemoryUsageSetting.setupMainMemoryOnly(maxBytes)) }
+        }
+
+        /** The shared tail: translate the parser's vocabulary, and refuse what we must. */
+        private inline fun load(open: () -> PDDocument): PdfTextSource {
             val document = try {
-                // Cap the parser's heap. A malformed or hostile document exhausts this
-                // budget and fails cleanly rather than taking the process with it.
-                PDDocument.load(
-                    file,
-                    if (spillToDisk) {
-                        MemoryUsageSetting.setupMixed(MAX_MAIN_MEMORY_BYTES)
-                    } else {
-                        MemoryUsageSetting.setupMainMemoryOnly(MAX_MAIN_MEMORY_BYTES)
-                    },
-                )
+                open()
             } catch (e: InvalidPasswordException) {
-                throw PdfOpenException(PdfOpenFailure.Encrypted)
+                throw PdfOpenException(PdfOpenFailure.Encrypted, e)
             } catch (e: IOException) {
-                throw PdfOpenException(PdfOpenFailure.Corrupt)
+                throw PdfOpenException(PdfOpenFailure.Corrupt, e)
             } catch (e: RuntimeException) {
                 // PdfBox throws unchecked exceptions on some malformed structures.
-                throw PdfOpenException(PdfOpenFailure.Corrupt)
+                throw PdfOpenException(PdfOpenFailure.Corrupt, e)
             }
 
             // We never attempt to bypass protection — not empty-password probes, not
@@ -129,5 +146,15 @@ class PdfBoxTextSource private constructor(
         private const val MIN_RUNS = 4
         private const val MAX_BYTES = 100L * 1024 * 1024
         private const val MAX_MAIN_MEMORY_BYTES = 32L * 1024 * 1024
+
+        /**
+         * The ceiling when there is no disk to spill to.
+         *
+         * Lower than [MAX_BYTES] on purpose: a document read entirely into memory has to fit
+         * there. Comfortably above any real timetable, exam schedule or notice — the largest
+         * in the corpus is under 3 MB — and low enough that exceeding it is a clean refusal
+         * rather than a process the system kills for us.
+         */
+        private const val MAX_IN_MEMORY_BYTES = 48L * 1024 * 1024
     }
 }

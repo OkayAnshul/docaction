@@ -135,14 +135,24 @@ the compatibility floor.
 
 ### ADR-002 — Untrusted document parsing runs in an isolated process
 
-**Status:** accepted, **not implemented** · 2026-08-10, status corrected 2026-08-18
+**Status:** accepted, **implemented for PDF** · 2026-08-10, built 2026-08-18
 
-> ⚠️ **`:document:sandbox` contains no source.** The module exists with a build file and
-> nothing else; every parser — PdfBox, the XLSX reader, ML Kit — runs in the UI process
-> today. Several documents stated the opposite as fact, and this note exists because a
-> security claim that is only aspirational is worse than an absent one: it stops people
-> looking. The decision below still stands as the intended design; nothing about it has been
-> built. Until it is, a parser bug **is** an app compromise and a parser hang **is** an ANR.
+> **What is built.** `:document:sandbox` hosts the service below, and `PdfDocumentReader` is
+> wired to it: PdfBox now runs in an isolated process with its own UID, no permissions and no
+> filesystem. Asserted on device — `SandboxParsingTest` checks the merged manifest still
+> carries `isolatedProcess`, because losing that flag would break nothing visible and remove
+> the entire protection.
+>
+> **What is not.** The XLSX and CSV readers still run in the UI process. They are pure-JVM
+> parsers over ZIP and XML — a smaller attack surface than PdfBox, but not zero, and the
+> seam now exists to move them behind the same boundary.
+>
+> One design note worth keeping, because it is not obvious. Handing the sandbox a descriptor
+> and letting it read `/proc/self/fd/N` looks right and fails: opening that path is a fresh
+> open of the underlying file, and SELinux does not let an isolated process open an app's data
+> files. Every document came back `FileNotFoundException` → "Corrupt". The descriptor itself
+> is readable; only re-opening it is not, so the bytes are streamed off the descriptor. That
+> was the sandbox working, not failing.
 
 **Context.** Every input is attacker-controlled: PDFs arrive by WhatsApp, spreadsheets by email.
 ADR-001 commits us to a PDF parser that has not shipped a security fix since January 2023. Later,
@@ -391,8 +401,8 @@ The spec's §100 questions, answered honestly.
 | Can OCR be replaced? | Yes. ML Kit sits behind an `OcrEngine` port returning our own types, not ML Kit types. |
 | Can AI be removed? | It isn't there. `NoOpResolver` is the shipping implementation (ADR-008). |
 | Can Calendar be replaced by another action? | Yes. `ActionExecutor<T>` is generic; reminders attach at the same seam. |
-| Can processing be cancelled safely? | Partly. Cooperative cancellation via structured concurrency works; the process kill for uncooperative native code depends on ADR-002, which is not implemented. Partial state is never persisted as complete. |
-| Can huge documents be processed without OOM? | Partly. Page-at-a-time, bounded render dimensions and streaming spreadsheet reads all hold; the memory ceiling depends on the sandbox process, which is not implemented, so a decompression bomb OOMs the app rather than a child process. |
+| Can processing be cancelled safely? | Mostly. Cooperative cancellation via structured concurrency works, and a PDF parser stuck in native code can be killed with its process (ADR-002). The spreadsheet readers are still cooperative-only. Partial state is never persisted as complete. |
+| Can huge documents be processed without OOM? | Mostly. Page-at-a-time, bounded render dimensions and streaming spreadsheet reads all hold, and a PDF that exhausts its budget now OOMs the sandbox rather than the app. A spreadsheet bomb still lands in the UI process. |
 | Can every generated event be traced to its source? | Yes. `SourceReference` is a required constructor parameter on every `Confident` value that has one — an untraceable value is unrepresentable. |
 | Can every user correction be represented? | Yes. `SourceReference.UserProvided` is a distinct case, so corrections are never confused with extractions and are never overwritten by re-derivation. |
 | Can we guarantee AI cannot directly execute actions? | Yes. Executors accept only `ActionCandidate`, whose builder requires confirmed non-`Missing` fields; the AI path cannot produce `High` confidence and cannot bypass the builder. |

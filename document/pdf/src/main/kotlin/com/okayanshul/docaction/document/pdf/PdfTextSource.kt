@@ -30,7 +30,18 @@ sealed interface PdfOpenFailure {
     data object TooLarge : PdfOpenFailure
 }
 
-class PdfOpenException(val failure: PdfOpenFailure) : Exception(failure.toString())
+/**
+ * @param cause the parser exception this translates, kept for diagnosis and never shown.
+ *
+ * Discarding it entirely was costing more than it saved: every failure inside the isolated
+ * parsing process arrived as an untraceable "Corrupt", which is exactly the guessing game the
+ * pipeline's own catch-all comment warns about. Callers still surface [failure] and nothing
+ * else — a parser message routinely quotes document content.
+ */
+class PdfOpenException(
+    val failure: PdfOpenFailure,
+    cause: Throwable? = null,
+) : Exception(failure.toString(), cause)
 
 interface PdfTextSourceFactory {
     /** @throws PdfOpenException with a translated reason; never leaks a parser exception. */

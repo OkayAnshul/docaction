@@ -63,7 +63,7 @@ If it ever is:
 
 ```
 Document ──▶ parsing ──▶ extraction ──▶ review ──▶ Calendar Provider
-   │           (in-process today; see below)                      │
+   │        (PDF parses in the isolated process; see below)       │
    └── stays at its original URI                    ends up in the user's own calendar
 ```
 
@@ -135,8 +135,8 @@ crash report.
 Mitigations:
 - Domain failures are a closed enum ([06-data-model.md](06-data-model.md#outcome)); no free-text
   error crosses out of the domain.
-- Third-party exception messages are stripped where parser results are handled (intended to be the sandbox boundary; that process is not built) — type and stack trace are
-  kept, message is dropped.
+- Third-party exception messages are stripped at the sandbox boundary — type and stack frames
+  are kept, the message is dropped, and nothing structured crosses at all.
 - The document URI never enters a crash report.
 - Crash reporting is opt-in.
 
@@ -176,20 +176,22 @@ Assume it is hostile.
 releases since, including security fixes that this port has not picked up. XLSX adds a ZIP parser
 and an XML parser.
 
-This is a real, accepted risk. The mitigation below is architectural rather than hopeful — but
-it **has not been built**, and this section previously described it in the present tense.
+This is a real, accepted risk. The mitigation below is architectural rather than hopeful, and
+as of 2026-08-18 it is built for the parser that carries most of the risk.
 
-### Isolated process — designed, not implemented
+### Isolated process — built for PDF
 
-> ⚠️ **`:document:sandbox` contains no source.** Every parser runs in the UI process today, so
-> none of the properties in this section currently hold. They describe the intended design
-> ([ADR-002](05-architecture.md#adr-002--untrusted-document-parsing-runs-in-an-isolated-process)),
-> not the shipped app. A security control that exists only on paper is worse than none,
-> because it stops anyone looking for the real one.
+> **Holds today.** PdfBox runs in the isolated service declared below, so a crash in it kills a
+> throwaway process, a hang in native code is killable, and a decompression bomb exhausts that
+> process's heap rather than the one holding the user's review. Text runs come back as bytes
+> that `DocumentCodec` reads with bounded allocations — deliberately hand-written, because a
+> reflective deserialiser would let a compromised parser choose what gets constructed on this
+> side of the boundary.
 >
-> What *does* hold today: the input limits below, no network permission anywhere in the app,
-> and documents never leaving the device. Those are enforced and tested. Crash containment,
-> enforceable timeouts on native code, and the memory ceiling are not.
+> **Does not hold yet.** The XLSX and CSV readers are still in the UI process.
+>
+> Also enforced and tested: the input limits below, no network permission anywhere in the
+> merged manifest, and documents never leaving the device.
 
 ```xml
 <service android:name=".SandboxParsingService"

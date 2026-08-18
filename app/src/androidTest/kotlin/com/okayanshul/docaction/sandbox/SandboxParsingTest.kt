@@ -10,7 +10,6 @@ import com.okayanshul.docaction.document.pdf.PdfOpenFailure
 import com.okayanshul.docaction.document.sandbox.SandboxParsingService
 import com.okayanshul.docaction.document.sandbox.SandboxedPdfTextSource
 import org.junit.Before
-import org.junit.Ignore
 import org.junit.Test
 import org.junit.runner.RunWith
 import java.io.File
@@ -71,14 +70,6 @@ class SandboxParsingTest {
 
     // --- it works ---
 
-    @Ignore(
-        "PdfBox cannot open a document inside the isolated process yet. Not the scratch-file " +
-            "theory — main-memory-only did not change it — so the remaining suspect is " +
-            "/proc/self/fd/N random access, or PDFBoxResourceLoader failing to reach the " +
-            "APK assets with no data directory. The boundary, the codec and the isolation " +
-            "are verified; only the parse inside is not. Left failing-and-named rather than " +
-            "deleted, because a security boundary that half works must not look finished."
-    )
     @Test
     fun aRealPdfComesBackThroughTheBoundaryWithItsTextAndGeometry() {
         val source = SandboxedPdfTextSource(context).open(fixture("dtu-central-tt.pdf"))
@@ -99,14 +90,6 @@ class SandboxParsingTest {
         }
     }
 
-    @Ignore(
-        "PdfBox cannot open a document inside the isolated process yet. Not the scratch-file " +
-            "theory — main-memory-only did not change it — so the remaining suspect is " +
-            "/proc/self/fd/N random access, or PDFBoxResourceLoader failing to reach the " +
-            "APK assets with no data directory. The boundary, the codec and the isolation " +
-            "are verified; only the parse inside is not. Left failing-and-named rather than " +
-            "deleted, because a security boundary that half works must not look finished."
-    )
     @Test
     fun everyPageOfAMultiPageDocumentIsReachable() {
         val source = SandboxedPdfTextSource(context).open(fixture("dtu-central-tt.pdf"))
@@ -121,14 +104,6 @@ class SandboxParsingTest {
         }
     }
 
-    @Ignore(
-        "PdfBox cannot open a document inside the isolated process yet. Not the scratch-file " +
-            "theory — main-memory-only did not change it — so the remaining suspect is " +
-            "/proc/self/fd/N random access, or PDFBoxResourceLoader failing to reach the " +
-            "APK assets with no data directory. The boundary, the codec and the isolation " +
-            "are verified; only the parse inside is not. Left failing-and-named rather than " +
-            "deleted, because a security boundary that half works must not look finished."
-    )
     @Test
     fun theSameFactoryCanOpenSeveralDocumentsInTurn() {
         val factory = SandboxedPdfTextSource(context)
@@ -169,14 +144,6 @@ class SandboxParsingTest {
         assertThat((failure as PdfOpenException).failure).isEqualTo(PdfOpenFailure.Corrupt)
     }
 
-    @Ignore(
-        "PdfBox cannot open a document inside the isolated process yet. Not the scratch-file " +
-            "theory — main-memory-only did not change it — so the remaining suspect is " +
-            "/proc/self/fd/N random access, or PDFBoxResourceLoader failing to reach the " +
-            "APK assets with no data directory. The boundary, the codec and the isolation " +
-            "are verified; only the parse inside is not. Left failing-and-named rather than " +
-            "deleted, because a security boundary that half works must not look finished."
-    )
     @Test
     fun aTruncatedPdfIsReportedAsDamagedRatherThanTakingTheAppDown() {
         val whole = fixture("dtu-central-tt.pdf").readBytes()

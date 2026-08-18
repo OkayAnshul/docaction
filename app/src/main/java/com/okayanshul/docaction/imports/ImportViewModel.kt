@@ -20,6 +20,7 @@ import com.okayanshul.docaction.document.image.MlKitOcrEngine
 import com.okayanshul.docaction.document.pdf.PdfBoxTextSource
 import com.okayanshul.docaction.document.pdf.PdfDocumentReader
 import com.okayanshul.docaction.document.pdf.SignatureFormatDetector
+import com.okayanshul.docaction.document.sandbox.SandboxedPdfTextSource
 import com.okayanshul.docaction.document.csv.CsvScheduleSource
 import com.okayanshul.docaction.document.spreadsheet.XlsxScheduleSource
 import com.okayanshul.docaction.document.text.PlainTextDocumentReader
@@ -157,7 +158,15 @@ class ImportViewModel(application: Application) : AndroidViewModel(application) 
         return DocumentPipeline(
             detector = SignatureFormatDetector(resolve),
             readers = listOf(
-                PdfDocumentReader(fileFor = resolve, ocr = ocr),
+                PdfDocumentReader(
+                    // ADR-002, finally connected: PdfBox runs in an isolated process with no
+                    // permissions and no filesystem, so a parser bug kills a throwaway process
+                    // instead of compromising the app. Only the parse moves — the per-page
+                    // timeouts, the OCR fallback and the partial results all stay here.
+                    factory = SandboxedPdfTextSource(getApplication()),
+                    fileFor = resolve,
+                    ocr = ocr,
+                ),
                 ImageDocumentReader(ocr),
                 PlainTextDocumentReader(resolve),
             ),

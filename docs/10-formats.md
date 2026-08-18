@@ -3,9 +3,9 @@
 Every format handler implements `DocumentReader` and emits positioned `TextRun`s
 ([06-data-model.md](06-data-model.md#document)). Downstream stages know nothing about formats.
 
-Parsing is **intended** to run in the isolated sandbox process ([ADR-002](05-architecture.md#adr-002--untrusted-document-parsing-runs-in-an-isolated-process)) — it does not yet.
-`:document:sandbox` has no source in it, so every parser currently runs in the UI process. This
-line previously stated the opposite as fact.
+PDF parsing runs in the isolated sandbox process ([ADR-002](05-architecture.md#adr-002--untrusted-document-parsing-runs-in-an-isolated-process)).
+The XLSX and CSV readers do not yet — they are still in the UI process, which is a smaller
+attack surface than PdfBox but not zero.
 
 ---
 

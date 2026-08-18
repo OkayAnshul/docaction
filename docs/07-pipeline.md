@@ -86,7 +86,7 @@ Format-specific, behind `DocumentReader`. Produces `List<PageContent>` of positi
 **Invariants for every implementation:**
 
 - One page/sheet at a time. Never materialise the whole document.
-- Cooperatively cancellable at page boundaries. (Hard kill needs the sandbox process, which is not implemented — see ADR-002.)
+- Cooperatively cancellable at page boundaries; a PDF parser stuck in native code is killable with its process (ADR-002). The spreadsheet readers are still cooperative-only.
 - A per-page timeout, and a whole-document timeout.
 - Bounded allocation — render dimensions clamped regardless of what the document declares.
 - Runs in the isolated process ([ADR-002](05-architecture.md#adr-002--untrusted-document-parsing-runs-in-an-isolated-process)).

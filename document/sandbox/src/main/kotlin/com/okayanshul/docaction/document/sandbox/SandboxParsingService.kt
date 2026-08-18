@@ -11,7 +11,7 @@ import com.okayanshul.docaction.document.pdf.PdfTextSource
 import com.okayanshul.docaction.domain.DocumentCodec
 import com.okayanshul.docaction.domain.DocumentContent
 import com.okayanshul.docaction.domain.DocumentFormat
-import java.io.File
+import java.io.FileInputStream
 import java.io.FileOutputStream
 
 /** What [ISandboxParser.open] returns instead of a page count. Mirrors `PdfOpenFailure`. */
@@ -74,17 +74,24 @@ class SandboxParsingService : Service() {
                 // lets PdfBox keep random access — loading through a stream would buffer the
                 // whole document and lose the page-at-a-time memory discipline this exists
                 // to protect.
-                val opened = PdfBoxTextSource.open(
-                    file = File("/proc/self/fd/${fd.fd}"),
-                    // No data directory here at all, so PdfBox has nowhere to put a scratch
-                    // file — and asking for one makes every document fail to open with an
-                    // IOException indistinguishable from a corrupt file.
-                    spillToDisk = false,
-                )
+                // Streamed off the descriptor, never re-opened by path. An isolated
+                // process may read the fd it was handed; it may not open the file behind it,
+                // and /proc/self/fd/N is the latter wearing the former's clothes.
+                val opened = FileInputStream(fd.fileDescriptor).use { stream ->
+                    PdfBoxTextSource.openStream(stream, sizeBytes = fd.statSize)
+                }
                 source = opened
                 opened.info.pageCount
             } catch (e: PdfOpenException) {
-                android.util.Log.w(LOG_TAG, "open refused: ${e.failure}")
+                // Type and location, never the message: a parser exception routinely quotes
+                // document content, and this is the boundary that content must not cross.
+                // Kept rather than trimmed to a bare type — a process with no filesystem and
+                // no debugger attached is one you diagnose from six frames or not at all.
+                android.util.Log.w(
+                    LOG_TAG,
+                    "open refused: ${e.failure} <- ${e.cause?.let { c -> c::class.java.name }} " +
+                        "at ${e.cause?.stackTrace?.take(3)?.joinToString(" | ")}",
+                )
                 when (e.failure) {
                     PdfOpenFailure.Encrypted -> SandboxCodes.ENCRYPTED
                     PdfOpenFailure.Corrupt -> SandboxCodes.CORRUPT
