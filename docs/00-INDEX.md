@@ -33,7 +33,7 @@ specific numbered file from the spec, find it here.
 | [12-privacy-security.md](12-privacy-security.md) | Privacy, security, offline-first, threat model |
 | [13-performance.md](13-performance.md) | Performance, memory, battery, error handling |
 | [14-testing.md](14-testing.md) | Test strategy, matrix, regression corpus, device coverage |
-| [15-business.md](15-business.md) | Monetization, pricing, analytics, ASO, Play listing, roadmap, risks |
+| *15-business.md* | Monetization, pricing, analytics, ASO, Play listing, roadmap, risks. **Not published** — kept private. |
 
 ---
 
@@ -130,19 +130,19 @@ specific numbered file from the spec, find it here.
 
 | Requested | Location |
 |---|---|
-| `80-monetization.md` | [15-business.md § Monetization](15-business.md#monetization) |
-| `81-pricing.md` | [15-business.md § Pricing](15-business.md#pricing) |
-| `82-analytics.md` | [15-business.md § Analytics](15-business.md#analytics) |
-| `83-aso.md` | [15-business.md § ASO](15-business.md#aso) |
-| `84-play-store.md` | [15-business.md § Play Store listing](15-business.md#play-store-listing) |
+| `80-monetization.md` | *15-business.md § Monetization (not published)* |
+| `81-pricing.md` | *15-business.md § Pricing (not published)* |
+| `82-analytics.md` | *15-business.md § Analytics (not published)* |
+| `83-aso.md` | *15-business.md § ASO (not published)* |
+| `84-play-store.md` | *15-business.md § Play Store listing (not published)* |
 
 ### Delivery (90–93)
 
 | Requested | Location |
 |---|---|
-| `90-roadmap.md` | [15-business.md § Roadmap](15-business.md#roadmap) |
-| `91-release-plan.md` | [15-business.md § Release plan](15-business.md#release-plan) |
-| `92-risk-register.md` | [15-business.md § Risk register](15-business.md#risk-register) |
+| `90-roadmap.md` | *15-business.md § Roadmap (not published)* |
+| `91-release-plan.md` | *15-business.md § Release plan (not published)* |
+| `92-risk-register.md` | *15-business.md § Risk register (not published)* |
 | `93-architecture-decisions.md` | [05-architecture.md § Decision records](05-architecture.md#decision-records) |
 
 ---

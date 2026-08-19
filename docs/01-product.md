@@ -34,7 +34,7 @@ exam season, and when the timetable gets revised. That has consequences:
 - **Retention will look terrible** measured as DAU/MAU, and that is fine. This is a utility, like
   a tax app. Judge it on task completion rate and reinstall rate, not daily engagement.
 - **Subscriptions are a poor fit.** Nobody pays monthly for something they use three times a year.
-  This drives the pricing decision in [15-business.md](15-business.md).
+  This drives the pricing decision in *15-business.md*.
 - **Acquisition is seasonal.** August–September and January–February in the Indian academic
   calendar. Marketing effort outside those windows is largely wasted.
 
@@ -57,7 +57,7 @@ itineraries), but the *density* of the problem is highest where institutions ema
 
 This is a **niche utility with a large addressable population and low willingness to pay**. It is
 a good indie product and a bad venture-scale product. Plan accordingly: near-zero infrastructure
-cost, one-time purchase, no team, no burn. See [15-business.md § Cost architecture](15-business.md#cost-architecture).
+cost, one-time purchase, no team, no burn. See *15-business.md § Cost architecture*.
 
 ---
 
@@ -96,7 +96,7 @@ That gap is our position, and it is defensible for three reasons:
    cloud-first competitors cannot remove that hesitation.
 2. **Cloud AI has per-document cost.** Competitors must either meter usage or subscribe. We can
    charge once because on-device extraction costs us nothing per document. See
-   [15-business.md § Cost architecture](15-business.md#cost-architecture).
+   *15-business.md § Cost architecture*.
 3. **Native calendar write is materially better than `.ics` download** on mobile — one tap versus
    a download, a file manager, an import dialog, and a duplicate mess.
 
@@ -162,7 +162,7 @@ import tools (2026-08-10).
 | "Imported the wrong times / off by hours" (calendar sync tools) | Explicit timezone handling; never infer AM/PM ([08-extraction.md](08-extraction.md#time-engine)). |
 | "It says it scanned my document but the text is garbage" (OCR apps) | Low OCR confidence must produce an honest "this is hard to read" with a crop offer, not garbage output. |
 | "Why does a scanner app need my contacts / all files?" (scanner apps) | Minimal permissions, requested at the moment of use, explained in-context ([12-privacy-security.md](12-privacy-security.md)). |
-| "Free version is useless / paywalled after one scan" | The user must complete one full successful import before ever seeing a purchase prompt ([15-business.md](15-business.md#monetization)). |
+| "Free version is useless / paywalled after one scan" | The user must complete one full successful import before ever seeing a purchase prompt (*15-business.md*). |
 | Duplicate calendar events are a *recurring, widely-reported* failure across the entire calendar ecosystem | Duplicate detection is a first-class feature, not a nicety. |
 
 ---

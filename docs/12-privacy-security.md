@@ -265,7 +265,7 @@ document can never cause code to run.
 
 - Dependency-verification metadata in Gradle so a swapped artifact fails the build.
 - Vulnerability scanning in CI.
-- `PdfBox-Android` is tracked in the [risk register](15-business.md#risk-register) with an
+- `PdfBox-Android` is tracked in the *risk register* with an
   explicit re-evaluation trigger: if a CVE lands that affects our parse path, tier 1 becomes the
   default and tier 2 is disabled on devices below API 35, degrading to OCR.
 

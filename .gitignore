@@ -16,3 +16,6 @@ build/
 .externalNativeBuild
 .cxx
 local.properties
+
+# Business strategy, pricing and roadmap. Deliberately not published.
+docs/15-business.md
