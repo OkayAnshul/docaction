@@ -31,6 +31,12 @@ private fun schemeFor(ink: InkColours, dark: Boolean) = with(ink) {
         onPrimary = surface,
         secondary = accent,
         onSecondary = surface,
+        // The navigation bar's selected-item pill. Left to Material it becomes a wallpaper
+        // tint — a lavender lozenge in a palette whose whole premise is that colour means
+        // something. A quiet neutral instead, with the accent carried by the label and icon,
+        // so selection still reads by shape *and* colour rather than by hue alone.
+        secondaryContainer = if (dark) surfaceRaised else surfaceSunken,
+        onSecondaryContainer = accent,
         surface = surface,
         onSurface = this.ink,
         surfaceVariant = surfaceSunken,
